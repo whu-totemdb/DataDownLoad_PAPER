@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="42498">:facetid:toc:\"db/conf/sigmod/sigmod2023c.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">67.52</time>
+<completions total="1" computed="1" sent="1">
+<c sc="69" dc="69" oc="69" id="46507237">:facetid:toc:db/conf/sigmod/sigmod2023c.bht</c>
+</completions>
+<hits total="69" computed="69" sent="69" first="0">
+<hit score="1" id="902546">
+<info><authors><author pid="71/5974">Sudipto Das</author><author pid="p/IppokratisPandis">Ippokratis Pandis</author><author pid="c/KSelcukCandan">K. Selçuk Candan</author><author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author></authors><title>Companion of the 2023 International Conference on Management of Data, SIGMOD/PODS 2023, Seattle, WA, USA, June 18-23, 2023</title><venue>SIGMOD Conference Companion</venue><publisher>ACM</publisher><year>2023</year><type>Editorship</type><key>conf/sigmod/2023c</key><doi>10.1145/3555041</doi><ee>https://doi.org/10.1145/3555041</ee><url>https://dblp.org/rec/conf/sigmod/2023c</url></info>
+<url>URL#902546</url>
+</hit>
+<hit score="1" id="879932">
+<info><authors><author pid="68/6811">Yiwen Zhu</author><author pid="27/3375">Yuanyuan Tian</author><author pid="243/9227">Joyce Cahoon</author><author pid="159/6290">Subru Krishnan</author><author pid="201/5636">Ankita Agarwal</author><author pid="243/2494">Rana Alotaibi</author><author pid="26/8398">Jesús Camacho-Rodríguez</author><author pid="348/7815">Bibin Chundatt</author><author pid="59/11411">Andrew Chung</author><author pid="348/7886">Niharika Dutta</author><author pid="273/7169">Andrew Fogarty</author><author pid="81/10578">Anja Gruenheid</author><author pid="180/5761">Brandon Haynes</author><author pid="49/10034">Matteo Interlandi</author><author pid="295/3511">Minu Iyer</author><author pid="295/3659">Nick Jurgens</author><author pid="348/7770">Sumeet Khushalani</author><author pid="248/7832">Brian Kroth</author><author pid="58/1076">Manoj Kumar</author><author pid="150/7163">Jyoti Leeka</author><author pid="120/1311">Sergiy Matusevych</author><author pid="246/9804">Minni Mittal</author><author pid="38/4335-24">Andreas Müller 0024</author><author pid="158/4409">Kartheek Muthyala</author><author pid="348/7879">Harsha Nagulapalli</author><author pid="130/0322">Yoonjae Park</author><author pid="23/5134">Hiren Patel</author><author pid="287/9591">Anna Pavlenko</author><author pid="71/7422">Olga Poppe</author><author pid="348/7894">Santhosh Ravindran</author><author pid="55/8723">Karla Saur</author><author pid="08/2832">Rathijit Sen</author><author pid="222/9616">Steve Suh</author><author pid="86/2773">Arijit Tarafdar</author><author pid="266/5841">Kunal Waghray</author><author pid="80/968">Demin Wang</author><author pid="c/CarloCurino">Carlo Curino</author><author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan 0001</author></authors><title>Towards Building Autonomous Data Services on Azure.</title><venue>SIGMOD Conference Companion</venue><pages>217-224</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhuTCKAACCCDFGH23</key><doi>10.1145/3555041.3589674</doi><ee>https://doi.org/10.1145/3555041.3589674</ee><url>https://dblp.org/rec/conf/sigmod/ZhuTCKAACCCDFGH23</url></info>
+<url>URL#879932</url>
+</hit>
+<hit score="1" id="879931">
+<info><authors><author pid="149/1342">Zichen Zhu</author><author pid="158/4862">Subhadeep Sarkar</author><author pid="82/7402">Manos Athanassoulis</author></authors><title>Acheron: Persisting Tombstones in LSM Engines.</title><venue>SIGMOD Conference Companion</venue><pages>131-134</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhuSA23</key><doi>10.1145/3555041.3589719</doi><ee>https://doi.org/10.1145/3555041.3589719</ee><url>https://dblp.org/rec/conf/sigmod/ZhuSA23</url></info>
+<url>URL#879931</url>
+</hit>
+<hit score="1" id="879930">
+<info><authors><author pid="117/6165-3">Xiaochen Zhu 0003</author></authors><title>Link Local Differential Privacy in GNNs via Bayesian Estimation.</title><venue>SIGMOD Conference Companion</venue><pages>265-267</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Zhu23</key><doi>10.1145/3555041.3589398</doi><ee>https://doi.org/10.1145/3555041.3589398</ee><url>https://dblp.org/rec/conf/sigmod/Zhu23</url></info>
+<url>URL#879930</url>
+</hit>
+<hit score="1" id="879929">
+<info><authors><author pid="96/9053">Huidong Zhang</author><author pid="325/9560">Luyi Qu</author><author pid="234/8220">Qingshuai Wang</author><author pid="13/5366-2">Rong Zhang 0002</author><author pid="19/3952">Peng Cai</author><author pid="29/4131">Quanqing Xu</author><author pid="77/3583">Zhifeng Yang</author><author pid="328/5894">Chuanhui Yang</author></authors><title>Dike: A Benchmark Suite for Distributed Transactional Databases.</title><venue>SIGMOD Conference Companion</venue><pages>95-98</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhangQWZCXYY23</key><doi>10.1145/3555041.3589710</doi><ee>https://doi.org/10.1145/3555041.3589710</ee><url>https://dblp.org/rec/conf/sigmod/ZhangQWZCXYY23</url></info>
+<url>URL#879929</url>
+</hit>
+<hit score="1" id="879928">
+<info><authors><author pid="76/1584">Xin Zhang</author></authors><title>SynopsisDB: Distributed Synopsis-based Data Processing System.</title><venue>SIGMOD Conference Companion</venue><pages>289-291</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Zhang23</key><doi>10.1145/3555041.3589394</doi><ee>https://doi.org/10.1145/3555041.3589394</ee><url>https://dblp.org/rec/conf/sigmod/Zhang23</url></info>
+<url>URL#879928</url>
+</hit>
+<hit score="1" id="879927">
+<info><authors><author pid="185/4349">Brit Youngmann</author><author pid="82/231">Michael J. Cafarella</author><author pid="135/4661">Yuval Moskovitch</author><author pid="11/6446">Babak Salimi</author></authors><title>NEXUS: On Explaining Confounding Bias.</title><venue>SIGMOD Conference Companion</venue><pages>171-174</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YoungmannCMS23</key><doi>10.1145/3555041.3589728</doi><ee>https://doi.org/10.1145/3555041.3589728</ee><url>https://dblp.org/rec/conf/sigmod/YoungmannCMS23</url></info>
+<url>URL#879927</url>
+</hit>
+<hit score="1" id="879926">
+<info><authors><author pid="177/3158">Chenyu Yang</author><author pid="48/1585">Ruixue Fan</author><author pid="27/104-1">Nan Tang 0001</author><author pid="08/7259">Meihui Zhang 0001</author><author pid="212/9124">Xiaoman Zhao</author><author pid="78/4413">Ju Fan</author><author pid="47/3542-1">Xiaoyong Du 0001</author></authors><title>Pay &quot;Attention&quot; to Chart Images for What You Read on Text.</title><venue>SIGMOD Conference Companion</venue><pages>111-114</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YangFT0ZF023</key><doi>10.1145/3555041.3589714</doi><ee>https://doi.org/10.1145/3555041.3589714</ee><url>https://dblp.org/rec/conf/sigmod/YangFT0ZF023</url></info>
+<url>URL#879926</url>
+</hit>
+<hit score="1" id="879925">
+<info><authors><author pid="11/2505">Yunlong Xu</author><author pid="48/8534">Peizhen Yang</author><author pid="345/8550">Zhengbin Tao</author></authors><title>Dangoron: Network Construction on Large-scale Time Series Data across Sliding Windows.</title><venue>SIGMOD Conference Companion</venue><pages>269-271</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/XuYT23</key><doi>10.1145/3555041.3589399</doi><ee>https://doi.org/10.1145/3555041.3589399</ee><url>https://dblp.org/rec/conf/sigmod/XuYT23</url></info>
+<url>URL#879925</url>
+</hit>
+<hit score="1" id="879924">
+<info><authors><author pid="195/1999">Tobias Winker</author><author pid="g/SvenGroppe">Sven Groppe</author><author pid="300/3918">Valter Uotila</author><author pid="284/6028">Zhengtong Yan</author><author pid="l/JiahengLu">Jiaheng Lu</author><author pid="314/5888">Maja Franz</author><author pid="74/694">Wolfgang Mauerer</author></authors><title>Quantum Machine Learning: Foundation, New Techniques, and Opportunities for Database Research.</title><venue>SIGMOD Conference Companion</venue><pages>45-52</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WinkerGUYLFM23</key><doi>10.1145/3555041.3589404</doi><ee>https://doi.org/10.1145/3555041.3589404</ee><url>https://dblp.org/rec/conf/sigmod/WinkerGUYLFM23</url></info>
+<url>URL#879924</url>
+</hit>
+<hit score="1" id="879923">
+<info><authors><author pid="62/2712">Hu Wang</author><author pid="l/HuiLi5">Hui Li 0005</author><author pid="b/SSBhowmick">Sourav S. Bhowmick</author><author pid="348/7745">Baochao Xu</author></authors><title>ARENA: Alternative Relational Query Plan Exploration for Database Education.</title><venue>SIGMOD Conference Companion</venue><pages>107-110</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Wang0BX23</key><doi>10.1145/3555041.3589713</doi><ee>https://doi.org/10.1145/3555041.3589713</ee><url>https://dblp.org/rec/conf/sigmod/Wang0BX23</url></info>
+<url>URL#879923</url>
+</hit>
+<hit score="1" id="879922">
+<info><authors><author pid="64/1071-1">Jianguo Wang 0001</author><author pid="118/5486-2">Qizhen Zhang 0002</author></authors><title>Disaggregated Database Systems.</title><venue>SIGMOD Conference Companion</venue><pages>37-44</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Wang023</key><doi>10.1145/3555041.3589403</doi><ee>https://doi.org/10.1145/3555041.3589403</ee><url>https://dblp.org/rec/conf/sigmod/Wang023</url></info>
+<url>URL#879922</url>
+</hit>
+<hit score="1" id="879921">
+<info><authors><author pid="85/9079">Immanuel Trummer</author></authors><title>Demonstrating NaturalMiner: Searching Large Data Sets for Abstract Patterns Described in Natural Language.</title><venue>SIGMOD Conference Companion</venue><pages>139-142</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Trummer23</key><doi>10.1145/3555041.3589694</doi><ee>https://doi.org/10.1145/3555041.3589694</ee><url>https://dblp.org/rec/conf/sigmod/Trummer23</url></info>
+<url>URL#879921</url>
+</hit>
+<hit score="1" id="879920">
+<info><authors><author pid="s/JuliaStoyanovich">Julia Stoyanovich</author><author pid="202/2035">Meike Zehlike</author><author pid="80/4136-3">Ke Yang 0003</author></authors><title>Fairness in Ranking: From Values to Technical Choices and Back.</title><venue>SIGMOD Conference Companion</venue><pages>7-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/StoyanovichZY23</key><doi>10.1145/3555041.3589405</doi><ee>https://doi.org/10.1145/3555041.3589405</ee><url>https://dblp.org/rec/conf/sigmod/StoyanovichZY23</url></info>
+<url>URL#879920</url>
+</hit>
+<hit score="1" id="879919">
+<info><authors><author pid="255/9132">Mihail Stoian</author></authors><title>Fast Joint Shapley Values.</title><venue>SIGMOD Conference Companion</venue><pages>285-287</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Stoian23a</key><doi>10.1145/3555041.3589393</doi><ee>https://doi.org/10.1145/3555041.3589393</ee><url>https://dblp.org/rec/conf/sigmod/Stoian23a</url></info>
+<url>URL#879919</url>
+</hit>
+<hit score="1" id="879918">
+<info><authors><author pid="255/9132">Mihail Stoian</author></authors><title>Faster FFT-based Wildcard Pattern Matching.</title><venue>SIGMOD Conference Companion</venue><pages>277-279</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Stoian23</key><doi>10.1145/3555041.3589391</doi><ee>https://doi.org/10.1145/3555041.3589391</ee><url>https://dblp.org/rec/conf/sigmod/Stoian23</url></info>
+<url>URL#879918</url>
+</hit>
+<hit score="1" id="879917">
+<info><authors><author pid="322/1001">Hesam Shahrokhi</author><author pid="348/7797">Callum Groeger</author><author pid="37/11052">Yizhuo Yang</author><author pid="143/6186">Amir Shaikhha</author></authors><title>Efficient Query Processing in Python Using Compilation.</title><venue>SIGMOD Conference Companion</venue><pages>199-202</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ShahrokhiGYS23</key><doi>10.1145/3555041.3589735</doi><ee>https://doi.org/10.1145/3555041.3589735</ee><url>https://dblp.org/rec/conf/sigmod/ShahrokhiGYS23</url></info>
+<url>URL#879917</url>
+</hit>
+<hit score="1" id="879916">
+<info><authors><author pid="118/7229">Sebastian Schelter</author><author pid="242/5141">Stefan Grafberger</author><author pid="176/1966">Shubha Guha</author><author pid="185/0781">Bojan Karlas</author><author pid="97/919-1">Ce Zhang 0001</author></authors><title>Proactively Screening Machine Learning Pipelines with ARGUSEYES.</title><venue>SIGMOD Conference Companion</venue><pages>91-94</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SchelterGGK023</key><doi>10.1145/3555041.3589682</doi><ee>https://doi.org/10.1145/3555041.3589682</ee><url>https://dblp.org/rec/conf/sigmod/SchelterGGK023</url></info>
+<url>URL#879916</url>
+</hit>
+<hit score="1" id="879915">
+<info><authors><author pid="28/5706">Gaurav Saxena</author><author pid="12/5722">Mohammad Rahman</author><author pid="135/4688">Naresh Chainani</author><author pid="82/11411">Chunbin Lin</author><author pid="348/7729">George Caragea</author><author pid="229/7766">Fahim Chowdhury</author><author pid="175/1473">Ryan Marcus</author><author pid="26/6037">Tim Kraska</author><author pid="p/IppokratisPandis">Ippokratis Pandis</author><author pid="273/0358">Balakrishnan (Murali) Narayanaswamy</author></authors><title>Auto-WLM: Machine Learning Enhanced Workload Management in Amazon Redshift.</title><venue>SIGMOD Conference Companion</venue><pages>225-237</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SaxenaRCLCCMKPN23</key><doi>10.1145/3555041.3589677</doi><ee>https://doi.org/10.1145/3555041.3589677</ee><url>https://dblp.org/rec/conf/sigmod/SaxenaRCLCCMKPN23</url></info>
+<url>URL#879915</url>
+</hit>
+<hit score="1" id="879914">
+<info><authors><author pid="249/6544">Kashif Rabbani</author><author pid="139/1128">Matteo Lissandrini</author><author pid="h/KatjaHose">Katja Hose</author></authors><title>SHACTOR: Improving the Quality of Large-Scale Knowledge Graphs with Validating Shapes.</title><venue>SIGMOD Conference Companion</venue><pages>151-154</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RabbaniLH23</key><doi>10.1145/3555041.3589723</doi><ee>https://doi.org/10.1145/3555041.3589723</ee><url>https://dblp.org/rec/conf/sigmod/RabbaniLH23</url></info>
+<url>URL#879914</url>
+</hit>
+<hit score="1" id="879913">
+<info><authors><author pid="135/5141">Fotis Psallidas</author><author pid="348/7839">Megan Eileen Leszczynski</author><author pid="137/8618">Mohammad Hossein Namaki</author><author pid="08/7992">Avrilia Floratou</author><author pid="200/2342">Ashvin Agrawal</author><author pid="59/7992">Konstantinos Karanasos</author><author pid="159/6290">Subru Krishnan</author><author pid="124/8970">Pavle Subotic</author><author pid="89/6502">Markus Weimer</author><author pid="32/6122">Yinghui Wu</author><author pid="68/6811">Yiwen Zhu</author></authors><title>Demonstration of Geyser: Provenance Extraction and Applications over Data Science Scripts.</title><venue>SIGMOD Conference Companion</venue><pages>123-126</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PsallidasLNFAKK23</key><doi>10.1145/3555041.3589717</doi><ee>https://doi.org/10.1145/3555041.3589717</ee><url>https://dblp.org/rec/conf/sigmod/PsallidasLNFAKK23</url></info>
+<url>URL#879913</url>
+</hit>
+<hit score="1" id="879912">
+<info><authors><author pid="69/9726">Danica Porobic</author><author pid="57/10948-1">Tianzheng Wang 0001</author></authors><title>Workshop on Simplicity in Management of Data (SiMoD).</title><venue>SIGMOD Conference Companion</venue><pages>301-302</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PorobicW23</key><doi>10.1145/3555041.3590817</doi><ee>https://doi.org/10.1145/3555041.3590817</ee><url>https://dblp.org/rec/conf/sigmod/PorobicW23</url></info>
+<url>URL#879912</url>
+</hit>
+<hit score="1" id="879911">
+<info><authors><author pid="147/1231">Mashaal Musleh</author><author pid="94/5893">Mohamed F. Mokbel</author></authors><title>A Demonstration of KAMEL: A Scalable BERT-based System for Trajectory Imputation.</title><venue>SIGMOD Conference Companion</venue><pages>191-194</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MuslehM23</key><doi>10.1145/3555041.3589733</doi><ee>https://doi.org/10.1145/3555041.3589733</ee><url>https://dblp.org/rec/conf/sigmod/MuslehM23</url></info>
+<url>URL#879911</url>
+</hit>
+<hit score="1" id="879910">
+<info><authors><author pid="45/2495">Barzan Mozafari</author><author pid="348/7829">Radu Alexandru Burcuta</author><author pid="348/7900">Alan Cabrera</author><author pid="299/8498">Andrei Constantin</author><author pid="348/7963">Derek Francis</author><author pid="348/7945">David Grömling</author><author pid="24/8510">Alekh Jindal</author><author pid="348/7937">Maciej Konkolowicz</author><author pid="348/7912">Valentin Marian Spac</author><author pid="79/583">Yongjoo Park</author><author pid="348/7822">Russell Razo Carranzo</author><author pid="318/3893">Nicholas Richardson</author><author pid="33/4379-8">Abhishek Roy 0008</author><author pid="25/10800">Aayushi Srivastava</author><author pid="212/0588">Isha Tarte</author><author pid="348/7895">Brian Westphal</author><author pid="91/195-68">Chi Zhang 0068</author></authors><title>Making Data Clouds Smarter at Keebo: Automated Warehouse Optimization using Data Learning.</title><venue>SIGMOD Conference Companion</venue><pages>239-251</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MozafariBCCFGJK23</key><doi>10.1145/3555041.3589681</doi><ee>https://doi.org/10.1145/3555041.3589681</ee><url>https://dblp.org/rec/conf/sigmod/MozafariBCCFGJK23</url></info>
+<url>URL#879910</url>
+</hit>
+<hit score="1" id="879909">
+<info><authors><author pid="135/4661">Yuval Moskovitch</author><author pid="79/572">Jinyang Li</author><author pid="j/HVJagadish">H. V. Jagadish</author></authors><title>Dexer: Detecting and Explaining Biased Representation in Ranking.</title><venue>SIGMOD Conference Companion</venue><pages>159-162</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MoskovitchLJ23</key><doi>10.1145/3555041.3589725</doi><ee>https://doi.org/10.1145/3555041.3589725</ee><url>https://dblp.org/rec/conf/sigmod/MoskovitchLJ23</url></info>
+<url>URL#879909</url>
+</hit>
+<hit score="1" id="879908">
+<info><authors><author pid="147/1186">Dominik Moritz</author><author pid="200/8321">Behrooz Omidvar-Tehrani</author><author pid="77/4620">Sudeepa Roy</author></authors><title>Seventh Workshop on Human-In-the-Loop Data Analytics (HILDA).</title><venue>SIGMOD Conference Companion</venue><pages>311-312</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MoritzOR23</key><doi>10.1145/3555041.3590822</doi><ee>https://doi.org/10.1145/3555041.3590822</ee><url>https://dblp.org/rec/conf/sigmod/MoritzOR23</url></info>
+<url>URL#879908</url>
+</hit>
+<hit score="1" id="879907">
+<info><authors><author pid="203/9318">Haneen Mohammed</author><author pid="319/4348">Charlie Summers</author><author pid="322/1418">Sughosh V. Kaushik</author><author pid="41/3679">Eugene Wu 0002</author></authors><title>SmokedDuck Demonstration: SQLStepper.</title><venue>SIGMOD Conference Companion</venue><pages>183-186</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MohammedSK023</key><doi>10.1145/3555041.3589731</doi><ee>https://doi.org/10.1145/3555041.3589731</ee><url>https://dblp.org/rec/conf/sigmod/MohammedSK023</url></info>
+<url>URL#879907</url>
+</hit>
+<hit score="1" id="879906">
+<info><authors><author pid="344/6863">Hanze Meng</author><author pid="159/1401">Zhengjie Miao</author><author pid="163/3941">Amir Gilad</author><author pid="77/4620">Sudeepa Roy</author><author pid="y/JunYang1">Jun Yang 0001</author></authors><title>Characterizing and Verifying Queries Via CINSGEN.</title><venue>SIGMOD Conference Companion</venue><pages>143-146</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MengMGRY23</key><doi>10.1145/3555041.3589721</doi><ee>https://doi.org/10.1145/3555041.3589721</ee><url>https://dblp.org/rec/conf/sigmod/MengMGRY23</url></info>
+<url>URL#879906</url>
+</hit>
+<hit score="1" id="879905">
+<info><authors><author pid="89/6071">Norman May</author><author pid="t/NesimeTatbul">Nesime Tatbul</author></authors><title>International Workshop on Data Management on New Hardware (DaMoN).</title><venue>SIGMOD Conference Companion</venue><pages>299-300</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MayT23</key><doi>10.1145/3555041.3590816</doi><ee>https://doi.org/10.1145/3555041.3590816</ee><url>https://dblp.org/rec/conf/sigmod/MayT23</url></info>
+<url>URL#879905</url>
+</hit>
+<hit score="1" id="879904">
+<info><authors><author pid="273/7017">Kajetan Jeremi Maliszewski</author><author pid="348/7882">Tilman Dietzel</author><author pid="09/6353">Jorge-Arnulfo Quiané-Ruiz</author><author pid="m/VMarkl">Volker Markl</author></authors><title>TeeBench: Seamless Benchmarking in Trusted Execution Environments.</title><venue>SIGMOD Conference Companion</venue><pages>163-166</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MaliszewskiDQM23</key><doi>10.1145/3555041.3589726</doi><ee>https://doi.org/10.1145/3555041.3589726</ee><url>https://dblp.org/rec/conf/sigmod/MaliszewskiDQM23</url></info>
+<url>URL#879904</url>
+</hit>
+<hit score="1" id="879903">
+<info><authors><author pid="287/7197">Arlino Magalhães</author><author pid="b/AngeloBrayner">Angelo Brayner</author><author pid="92/1818">José Maria Monteiro</author></authors><title>Main Memory Database Recovery Strategies.</title><venue>SIGMOD Conference Companion</venue><pages>31-35</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MagalhaesBM23</key><doi>10.1145/3555041.3589402</doi><ee>https://doi.org/10.1145/3555041.3589402</ee><url>https://dblp.org/rec/conf/sigmod/MagalhaesBM23</url></info>
+<url>URL#879903</url>
+</hit>
+<hit score="1" id="879902">
+<info><authors><author pid="50/2415">Yurong Liu</author><author pid="11/2505">Yunlong Xu</author></authors><title>Sampling over Union of Joins.</title><venue>SIGMOD Conference Companion</venue><pages>273-275</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiuX23</key><doi>10.1145/3555041.3589400</doi><ee>https://doi.org/10.1145/3555041.3589400</ee><url>https://dblp.org/rec/conf/sigmod/LiuX23</url></info>
+<url>URL#879902</url>
+</hit>
+<hit score="1" id="879901">
+<info><authors><author pid="348/7820">Tavor Lipman</author><author pid="m/TovaMilo">Tova Milo</author><author pid="147/1212">Amit Somech</author></authors><title>ATENA-PRO: Generating Personalized Exploration Notebooks with Constrained Reinforcement Learning.</title><venue>SIGMOD Conference Companion</venue><pages>167-170</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LipmanMS23</key><doi>10.1145/3555041.3589727</doi><ee>https://doi.org/10.1145/3555041.3589727</ee><url>https://dblp.org/rec/conf/sigmod/LipmanMS23</url></info>
+<url>URL#879901</url>
+</hit>
+<hit score="1" id="879900">
+<info><authors><author pid="k/GeorgiaKoutrika">Georgia Koutrika</author><author pid="04/5326">Nikolaos Laoutaris</author><author pid="186/8831">Martino Trevisan</author></authors><title>Second Data Economy Workshop (DEC).</title><venue>SIGMOD Conference Companion</venue><pages>317-318</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KoutrikaLT23</key><doi>10.1145/3555041.3590825</doi><ee>https://doi.org/10.1145/3555041.3590825</ee><url>https://dblp.org/rec/conf/sigmod/KoutrikaLT23</url></info>
+<url>URL#879900</url>
+</hit>
+<hit score="1" id="879899">
+<info><authors><author pid="315/8934">Stefan Klessinger</author></authors><title>Capturing Data-inherent Dependencies in JSON Schema Extraction.</title><venue>SIGMOD Conference Companion</venue><pages>295-297</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Klessinger23</key><doi>10.1145/3555041.3589396</doi><ee>https://doi.org/10.1145/3555041.3589396</ee><url>https://dblp.org/rec/conf/sigmod/Klessinger23</url></info>
+<url>URL#879899</url>
+</hit>
+<hit score="1" id="879898">
+<info><authors><author pid="330/3045">Aamod Khatiwada</author><author pid="200/9072">Roee Shraga</author><author pid="m/RJMiller">Renée J. Miller</author></authors><title>DIALITE: Discover, Align and Integrate Open Data Tables.</title><venue>SIGMOD Conference Companion</venue><pages>187-190</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KhatiwadaSM23</key><doi>10.1145/3555041.3589732</doi><ee>https://doi.org/10.1145/3555041.3589732</ee><url>https://dblp.org/rec/conf/sigmod/KhatiwadaSM23</url></info>
+<url>URL#879898</url>
+</hit>
+<hit score="1" id="879897">
+<info><authors><author pid="177/9027">Sachin Basil John</author><author pid="223/4092-1">Peter Lindner 0001</author><author pid="348/7755">Zhekai Jiang</author><author pid="k/ChristophKoch">Christoph Koch 0001</author></authors><title>Aggregation and Exploration of High-Dimensional Data Using the Sudokube Data Cube Engine.</title><venue>SIGMOD Conference Companion</venue><pages>175-178</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JohnLJ023</key><doi>10.1145/3555041.3589729</doi><ee>https://doi.org/10.1145/3555041.3589729</ee><url>https://dblp.org/rec/conf/sigmod/JohnLJ023</url></info>
+<url>URL#879897</url>
+</hit>
+<hit score="1" id="879896">
+<info><authors><author pid="168/1627">Rogers Jeffrey Leo John</author><author pid="348/7969">Dylan Bacon</author><author pid="26/6778">Junda Chen</author><author pid="348/7802">Ushmal Ramesh</author><author pid="19/11348">Jiatong Li</author><author pid="204/3475">Deepan Das</author><author pid="348/9209">Robert V. Claus</author><author pid="348/7842">Amos Kendall</author><author pid="p/JMPatel">Jignesh M. Patel</author></authors><title>DataChat: An Intuitive and Collaborative Data Analytics Platform.</title><venue>SIGMOD Conference Companion</venue><pages>203-215</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JohnBCRLDCKP23</key><doi>10.1145/3555041.3589678</doi><ee>https://doi.org/10.1145/3555041.3589678</ee><url>https://dblp.org/rec/conf/sigmod/JohnBCRLDCKP23</url></info>
+<url>URL#879896</url>
+</hit>
+<hit score="1" id="879895">
+<info><authors><author pid="211/2846">Saehan Jo</author><author pid="85/9079">Immanuel Trummer</author></authors><title>Demonstration of ThalamusDB: Answering Complex SQL Queries with Natural Language Predicates on Multi-Modal Data.</title><venue>SIGMOD Conference Companion</venue><pages>179-182</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JoT23</key><doi>10.1145/3555041.3589730</doi><ee>https://doi.org/10.1145/3555041.3589730</ee><url>https://dblp.org/rec/conf/sigmod/JoT23</url></info>
+<url>URL#879895</url>
+</hit>
+<hit score="1" id="879894">
+<info><authors><author pid="68/7030">Wenqi Jiang</author><author pid="236/6636">Dario Korolija</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>Data Processing with FPGAs on Modern Architectures.</title><venue>SIGMOD Conference Companion</venue><pages>77-82</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JiangKA23</key><doi>10.1145/3555041.3589410</doi><ee>https://doi.org/10.1145/3555041.3589410</ee><url>https://dblp.org/rec/conf/sigmod/JiangKA23</url></info>
+<url>URL#879894</url>
+</hit>
+<hit score="1" id="879893">
+<info><authors><author pid="i/IhabFIlyas">Ihab F. Ilyas</author><author pid="347/8615">J. P. Lacerda</author><author pid="60/2319">Yunyao Li 0001</author><author pid="99/6349">Umar Farooq Minhas</author><author pid="24/9-3">Ali Mousavi 0003</author><author pid="p/JeffreyPound">Jeffrey Pound</author><author pid="51/11411">Theodoros Rekatsinas</author><author pid="170/4751">Chiraag Sumanth</author></authors><title>Growing and Serving Large Open-domain Knowledge Graphs.</title><venue>SIGMOD Conference Companion</venue><pages>253-259</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/IlyasL0MMPRS23</key><doi>10.1145/3555041.3589672</doi><ee>https://doi.org/10.1145/3555041.3589672</ee><url>https://dblp.org/rec/conf/sigmod/IlyasL0MMPRS23</url></info>
+<url>URL#879893</url>
+</hit>
+<hit score="1" id="879892">
+<info><authors><author pid="226/5745">Madelon Hulsebos</author><author pid="95/4545-1">Xiang Deng 0001</author><author pid="33/2952-1">Huan Sun 0001</author><author pid="p/PaoloPapotti">Paolo Papotti</author></authors><title>Models and Practice of Neural Table Representations.</title><venue>SIGMOD Conference Companion</venue><pages>83-89</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HulsebosDSP23</key><doi>10.1145/3555041.3589411</doi><ee>https://doi.org/10.1145/3555041.3589411</ee><url>https://dblp.org/rec/conf/sigmod/HulsebosDSP23</url></info>
+<url>URL#879892</url>
+</hit>
+<hit score="1" id="879891">
+<info><authors><author pid="29/3132">Olaf Hartig</author><author pid="36/4449">Yuichi Yoshida</author></authors><title>GRADES-NDA&apos;23: 6th Joint Workshop on Graph Data Management Experiences &amp; Systems (GRADES) and Network Data Analytics (NDA).</title><venue>SIGMOD Conference Companion</venue><pages>307-308</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HartigY23</key><doi>10.1145/3555041.3590820</doi><ee>https://doi.org/10.1145/3555041.3590820</ee><url>https://dblp.org/rec/conf/sigmod/HartigY23</url></info>
+<url>URL#879891</url>
+</hit>
+<hit score="1" id="879890">
+<info><authors><author pid="g/SvenGroppe">Sven Groppe</author><author pid="g/LeGruenwald">Le Gruenwald</author><author pid="35/3725">Ching-Hsien Hsu</author></authors><title>Third International Workshop on Big Data in Emergent Distributed Environments (BiDEDE).</title><venue>SIGMOD Conference Companion</venue><pages>309-310</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GroppeGH23</key><doi>10.1145/3555041.3590821</doi><ee>https://doi.org/10.1145/3555041.3590821</ee><url>https://dblp.org/rec/conf/sigmod/GroppeGH23</url></info>
+<url>URL#879890</url>
+</hit>
+<hit score="1" id="879889">
+<info><authors><author pid="348/7959">Marie Fischer</author><author pid="36/4959">Paul Roessler</author><author pid="328/8765">Paul Sieben</author><author pid="348/7808">Janina Adamcic</author><author pid="348/7867">Christoph Kirchherr</author><author pid="348/7931">Tobias Straeubig</author><author pid="286/6825">Youri Kaminsky</author><author pid="n/FelixNaumann">Felix Naumann</author></authors><title>BCNF* - From Normalized- to Star-Schemas and Back Again.</title><venue>SIGMOD Conference Companion</venue><pages>103-106</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FischerRSAKSKN23</key><doi>10.1145/3555041.3589712</doi><ee>https://doi.org/10.1145/3555041.3589712</ee><url>https://dblp.org/rec/conf/sigmod/FischerRSAKSKN23</url></info>
+<url>URL#879889</url>
+</hit>
+<hit score="1" id="879888">
+<info><authors><author pid="348/7774">Sergio Luiz Marques Filho</author></authors><title>Discovering Denial Constraints Using Boolean Patterns.</title><venue>SIGMOD Conference Companion</venue><pages>281-283</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Filho23</key><doi>10.1145/3555041.3589392</doi><ee>https://doi.org/10.1145/3555041.3589392</ee><url>https://dblp.org/rec/conf/sigmod/Filho23</url></info>
+<url>URL#879888</url>
+</hit>
+<hit score="1" id="879887">
+<info><authors><author pid="146/8297">Grace Fan</author><author pid="92/1375-7">Jin Wang 0007</author><author pid="52/4954-1">Yuliang Li 0001</author><author pid="m/RJMiller">Renée J. Miller</author></authors><title>Table Discovery in Data Lakes: State-of-the-art and Future Directions.</title><venue>SIGMOD Conference Companion</venue><pages>69-75</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Fan00M23</key><doi>10.1145/3555041.3589409</doi><ee>https://doi.org/10.1145/3555041.3589409</ee><url>https://dblp.org/rec/conf/sigmod/Fan00M23</url></info>
+<url>URL#879887</url>
+</hit>
+<hit score="1" id="879886">
+<info><authors><author pid="d/XinLunaDong">Xin Luna Dong</author><author pid="50/3402-26">Bo Li 0026</author><author pid="s/JuliaStoyanovich">Julia Stoyanovich</author><author pid="t/AnthonyKHTung">Anthony Kum Hoe Tung</author><author pid="w/GerhardWeikum">Gerhard Weikum</author><author pid="h/AlonYHalevy">Alon Y. Halevy</author><author pid="t/WangChiewTan">Wang-Chiew Tan</author></authors><title>Personal Data for Personal Use: Vision or Reality?</title><venue>SIGMOD Conference Companion</venue><pages>263-264</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DongLSTWHT23</key><doi>10.1145/3555041.3589378</doi><ee>https://doi.org/10.1145/3555041.3589378</ee><url>https://dblp.org/rec/conf/sigmod/DongLSTWHT23</url></info>
+<url>URL#879886</url>
+</hit>
+<hit score="1" id="879885">
+<info><authors><author pid="24/1541">Tien Tuan Anh Dinh</author><author pid="o/BengChinOoi">Beng Chin Ooi</author><author pid="258/1327">Xinying Yang</author></authors><title>First Workshop on Verifiable Database Systems.</title><venue>SIGMOD Conference Companion</venue><pages>315-316</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DinhOY23</key><doi>10.1145/3555041.3590824</doi><ee>https://doi.org/10.1145/3555041.3590824</ee><url>https://dblp.org/rec/conf/sigmod/DinhOY23</url></info>
+<url>URL#879885</url>
+</hit>
+<hit score="1" id="879884">
+<info><authors><author pid="337/9571">Binyang Dai</author><author pid="130/8513-1">Qichen Wang 0001</author><author pid="43/1219-1">Ke Yi 0001</author></authors><title>SparkSQL+: Next-generation Query Planning over Spark.</title><venue>SIGMOD Conference Companion</venue><pages>115-118</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Dai0023</key><doi>10.1145/3555041.3589715</doi><ee>https://doi.org/10.1145/3555041.3589715</ee><url>https://dblp.org/rec/conf/sigmod/Dai0023</url></info>
+<url>URL#879884</url>
+</hit>
+<hit score="1" id="879883">
+<info><authors><author pid="237/3380">Kanchan Chowdhury</author><author pid="95/9990">Mohamed Sarwat</author></authors><title>A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework.</title><venue>SIGMOD Conference Companion</venue><pages>195-198</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChowdhuryS23</key><doi>10.1145/3555041.3589734</doi><ee>https://doi.org/10.1145/3555041.3589734</ee><url>https://dblp.org/rec/conf/sigmod/ChowdhuryS23</url></info>
+<url>URL#879883</url>
+</hit>
+<hit score="1" id="879882">
+<info><authors><author pid="367/9233">Ka Ho Chow</author><author pid="83/1394">Umesh Deshpande</author><author pid="31/689">Veera Deenadhayalan</author><author pid="80/391">Sangeetha Seshadri</author><author pid="l/LingLiu">Ling Liu 0001</author></authors><title>SCAD: Scalability Advisor for Interactive Microservices on Hybrid Clouds.</title><venue>SIGMOD Conference Companion</venue><pages>127-130</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChowDDS023</key><doi>10.1145/3555041.3589718</doi><ee>https://doi.org/10.1145/3555041.3589718</ee><url>https://dblp.org/rec/conf/sigmod/ChowDDS023</url></info>
+<url>URL#879882</url>
+</hit>
+<hit score="1" id="879881">
+<info><authors><author pid="292/9532">Bhavya Chopra</author><author pid="29/11192">Anna Fariha</author><author pid="g/SumitGulwani">Sumit Gulwani</author><author pid="144/5345">Austin Z. Henley</author><author pid="01/11515">Daniel Perelman</author><author pid="12/6960">Mohammad Raza</author><author pid="117/6532">Sherry Shi</author><author pid="242/3347">Danny Simmons</author><author pid="t/AshishTiwari">Ashish Tiwari 0001</author></authors><title>CoWrangler: Recommender System for Data-Wrangling Scripts.</title><venue>SIGMOD Conference Companion</venue><pages>147-150</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChopraFGHPRSS023</key><doi>10.1145/3555041.3589722</doi><ee>https://doi.org/10.1145/3555041.3589722</ee><url>https://dblp.org/rec/conf/sigmod/ChopraFGHPRSS023</url></info>
+<url>URL#879881</url>
+</hit>
+<hit score="1" id="879880">
+<info><authors><author pid="166/7652">Tsz Nam Chan</author><author pid="69/6732">Rui Zang</author><author pid="300/3964">Pak Lon Ip</author><author pid="38/4996">Leong Hou U</author><author pid="x/JianliangXu">Jianliang Xu</author></authors><title>PyNKDV: An Efficient Network Kernel Density Visualization Library for Geospatial Analytic Systems.</title><venue>SIGMOD Conference Companion</venue><pages>99-102</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChanZIUX23</key><doi>10.1145/3555041.3589711</doi><ee>https://doi.org/10.1145/3555041.3589711</ee><url>https://dblp.org/rec/conf/sigmod/ChanZIUX23</url></info>
+<url>URL#879880</url>
+</hit>
+<hit score="1" id="879879">
+<info><authors><author pid="166/7652">Tsz Nam Chan</author><author pid="38/4996">Leong Hou U</author><author pid="07/1560">Byron Choi</author><author pid="x/JianliangXu">Jianliang Xu</author><author pid="89/2619">Reynold Cheng</author></authors><title>Large-scale Geospatial Analytics: Problems, Challenges, and Opportunities.</title><venue>SIGMOD Conference Companion</venue><pages>21-29</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChanUCXC23</key><doi>10.1145/3555041.3589401</doi><ee>https://doi.org/10.1145/3555041.3589401</ee><url>https://dblp.org/rec/conf/sigmod/ChanUCXC23</url></info>
+<url>URL#879879</url>
+</hit>
+<hit score="1" id="879878">
+<info><authors><author pid="c/DDChamberlin">Don Chamberlin</author></authors><title>49 Years of Queries.</title><venue>SIGMOD Conference Companion</venue><pages>1</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Chamberlin23</key><doi>10.1145/3555041.3589336</doi><ee>https://doi.org/10.1145/3555041.3589336</ee><url>https://dblp.org/rec/conf/sigmod/Chamberlin23</url></info>
+<url>URL#879878</url>
+</hit>
+<hit score="1" id="879877">
+<info><authors><author pid="181/5689">Chengliang Chai</author><author pid="27/104-1">Nan Tang 0001</author><author pid="78/4413">Ju Fan</author><author pid="185/9921">Yuyu Luo</author></authors><title>Demystifying Artificial Intelligence for Data Preparation.</title><venue>SIGMOD Conference Companion</venue><pages>13-20</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Chai0FL23</key><doi>10.1145/3555041.3589406</doi><ee>https://doi.org/10.1145/3555041.3589406</ee><url>https://dblp.org/rec/conf/sigmod/Chai0FL23</url></info>
+<url>URL#879877</url>
+</hit>
+<hit score="1" id="879876">
+<info><authors><author pid="28/6851">Rajesh Bordawekar</author><author pid="s/OShmueli">Oded Shmueli</author><author pid="88/9060">Yael Amsterdamer</author><author pid="05/10127">Donatella Firmani</author><author pid="167/6469">Andreas Kipf</author></authors><title>Sixth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management (aiDM).</title><venue>SIGMOD Conference Companion</venue><pages>303-304</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BordawekarSAFK23</key><doi>10.1145/3555041.3590818</doi><ee>https://doi.org/10.1145/3555041.3590818</ee><url>https://dblp.org/rec/conf/sigmod/BordawekarSAFK23</url></info>
+<url>URL#879876</url>
+</hit>
+<hit score="1" id="879875">
+<info><authors><author pid="300/9428">Dario Benvenuti</author></authors><title>Towards a Framework for Data Pipeline Discovery.</title><venue>SIGMOD Conference Companion</venue><pages>293-294</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Benvenuti23</key><doi>10.1145/3555041.3589395</doi><ee>https://doi.org/10.1145/3555041.3589395</ee><url>https://dblp.org/rec/conf/sigmod/Benvenuti23</url></info>
+<url>URL#879875</url>
+</hit>
+<hit score="1" id="879874">
+<info><authors><author pid="348/7906">Jannis Becktepe</author><author pid="238/4380">Mahdi Esmailoghli</author><author pid="153/5773">Maximilian Koch</author><author pid="38/8707">Ziawasch Abedjan</author></authors><title>Demonstrating MATE and COCOA for Data Discovery.</title><venue>SIGMOD Conference Companion</venue><pages>119-122</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BecktepeEKA23</key><doi>10.1145/3555041.3589716</doi><ee>https://doi.org/10.1145/3555041.3589716</ee><url>https://dblp.org/rec/conf/sigmod/BecktepeEKA23</url></info>
+<url>URL#879874</url>
+</hit>
+<hit score="1" id="879873">
+<info><authors><author pid="a/GustavoAlonso">Gustavo Alonso</author><author pid="a/AnastassiaAilamaki">Natassa Ailamaki</author><author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author><author pid="m/SamuelMadden">Sam Madden 0001</author><author pid="330/8256">Swami Sivasubramanian</author><author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan 0001</author></authors><title>Future of Database System Architectures.</title><venue>SIGMOD Conference Companion</venue><pages>261-262</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AlonsoAKMSR23</key><doi>10.1145/3555041.3589360</doi><ee>https://doi.org/10.1145/3555041.3589360</ee><url>https://dblp.org/rec/conf/sigmod/AlonsoAKMSR23</url></info>
+<url>URL#879873</url>
+</hit>
+<hit score="1" id="879872">
+<info><authors><author pid="69/2089">Efthimia Aivaloglou</author><author pid="f/GeorgeHLFletcher">George Fletcher 0001</author><author pid="299/8571">Daphne Miedema</author></authors><title>DataEd&apos;23 - 2nd International Workshop on Data Systems Education: Bridging Education Practice with Education Research.</title><venue>SIGMOD Conference Companion</venue><pages>313-314</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Aivaloglou0M23</key><doi>10.1145/3555041.3590823</doi><ee>https://doi.org/10.1145/3555041.3590823</ee><url>https://dblp.org/rec/conf/sigmod/Aivaloglou0M23</url></info>
+<url>URL#879872</url>
+</hit>
+<hit score="1" id="879871">
+<info><authors><author pid="49/2855-7">Shubham Agarwal 0007</author><author pid="231/6360">Gromit Yeuk-Yin Chan</author><author pid="280/3570">Shaddy Garg</author><author pid="32/1593-1">Tong Yu 0001</author><author pid="64/3670">Subrata Mitra</author></authors><title>Fast Natural Language Based Data Exploration with Samples.</title><venue>SIGMOD Conference Companion</venue><pages>155-158</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AgarwalCG0M23</key><doi>10.1145/3555041.3589724</doi><ee>https://doi.org/10.1145/3555041.3589724</ee><url>https://dblp.org/rec/conf/sigmod/AgarwalCG0M23</url></info>
+<url>URL#879871</url>
+</hit>
+<hit score="1" id="879870">
+<info><authors><author pid="94/3019-45">Chao Zhang 0045</author><author pid="b/ABonifati">Angela Bonifati</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author></authors><title>An Overview of Reachability Indexes on Graphs.</title><venue>SIGMOD Conference Companion</venue><pages>61-68</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/0045BO23</key><doi>10.1145/3555041.3589408</doi><ee>https://doi.org/10.1145/3555041.3589408</ee><url>https://dblp.org/rec/conf/sigmod/0045BO23</url></info>
+<url>URL#879870</url>
+</hit>
+<hit score="1" id="879869">
+<info><authors><author pid="69/393-19">Jue Wang 0019</author><author pid="47/6529-5">Ke Chen 0005</author><author pid="21/5967">Lidan Shou</author><author pid="63/4341">Dawei Jiang</author><author pid="67/6383-1">Gang Chen 0001</author></authors><title>SMILE: A Cost-Effective System for Serving Massive Pretrained Language Models in The Cloud.</title><venue>SIGMOD Conference Companion</venue><pages>135-138</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/00190SJC23</key><doi>10.1145/3555041.3589720</doi><ee>https://doi.org/10.1145/3555041.3589720</ee><url>https://dblp.org/rec/conf/sigmod/00190SJC23</url></info>
+<url>URL#879869</url>
+</hit>
+<hit score="1" id="879868">
+<info><authors><author pid="75/887">Matthias Boehm 0001</author><author pid="49/10034">Matteo Interlandi</author><author pid="j/ChrisJermaine">Chris Jermaine</author></authors><title>Optimizing Tensor Computations: From Applications to Compilation and Runtime Techniques.</title><venue>SIGMOD Conference Companion</venue><pages>53-59</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/0001IJ23</key><doi>10.1145/3555041.3589407</doi><ee>https://doi.org/10.1145/3555041.3589407</ee><url>https://dblp.org/rec/conf/sigmod/0001IJ23</url></info>
+<url>URL#879868</url>
+</hit>
+<hit score="1" id="879867">
+<info><authors><author pid="75/887">Matthias Boehm 0001</author><author pid="226/5745">Madelon Hulsebos</author><author pid="215/5341">Shreya Shankar</author><author pid="188/6236">Paroma Varma</author></authors><title>Seventh Workshop on Data Management for End-to-End Machine Learning (DEEM).</title><venue>SIGMOD Conference Companion</venue><pages>305-306</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/0001HSV23</key><doi>10.1145/3555041.3590819</doi><ee>https://doi.org/10.1145/3555041.3590819</ee><url>https://dblp.org/rec/conf/sigmod/0001HSV23</url></info>
+<url>URL#879867</url>
+</hit>
+<hit score="1" id="879866">
+<info><authors><author pid="s/SWSadiq">Shazia Sadiq 0001</author></authors><title>DEI Perspectives in Information Technology Education.</title><venue>SIGMOD Conference Companion</venue><pages>5</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/000123a</key><doi>10.1145/3555041.3591053</doi><ee>https://doi.org/10.1145/3555041.3591053</ee><url>https://dblp.org/rec/conf/sigmod/000123a</url></info>
+<url>URL#879866</url>
+</hit>
+<hit score="1" id="879865">
+<info><authors><author pid="84/3308">Vanessa Murdock 0001</author></authors><title>Mixed Methods Machine Learning.</title><venue>SIGMOD Conference Companion</venue><pages>3-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/000123</key><doi>10.1145/3555041.3589337</doi><ee>https://doi.org/10.1145/3555041.3589337</ee><url>https://dblp.org/rec/conf/sigmod/000123</url></info>
+<url>URL#879865</url>
+</hit>
+</hits>
+</result>

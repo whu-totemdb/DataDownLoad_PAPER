@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="41768">:facetid:toc:\"db/conf/sigmod/sigmod2012.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">84.10</time>
+<completions total="1" computed="1" sent="1">
+<c sc="113" dc="113" oc="113" id="46507223">:facetid:toc:db/conf/sigmod/sigmod2012.bht</c>
+</completions>
+<hits total="113" computed="113" sent="113" first="0">
+<hit score="1" id="4979668">
+<info><authors><author pid="c/KSelcukCandan">K. Selçuk Candan</author><author pid="88/6466-1">Yi Chen 0001</author><author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author><author pid="g/LuisGravano">Luis Gravano</author><author pid="90/1367">Ariel Fuxman</author></authors><title>Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2012, Scottsdale, AZ, USA, May 20-24, 2012</title><venue>SIGMOD Conference</venue><publisher>ACM</publisher><year>2012</year><type>Editorship</type><key>conf/sigmod/2012</key><ee>http://dl.acm.org/citation.cfm?id=2213836</ee><url>https://dblp.org/rec/conf/sigmod/2012</url></info>
+<url>URL#4979668</url>
+</hit>
+<hit score="1" id="4956251">
+<info><authors><author pid="40/4880">Marcin Zukowski</author><author pid="b/PeterABoncz">Peter A. Boncz</author></authors><title>From x100 to vectorwise: opportunities, challenges and things most researchers do not think about.</title><venue>SIGMOD Conference</venue><pages>861-862</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZukowskiB12</key><doi>10.1145/2213836.2213967</doi><ee>https://doi.org/10.1145/2213836.2213967</ee><url>https://dblp.org/rec/conf/sigmod/ZukowskiB12</url></info>
+<url>URL#4956251</url>
+</hit>
+<hit score="1" id="4956250">
+<info><authors><author pid="57/7967">Gaoping Zhu</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="32/4014-1">Ke Zhu 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>TreeSpan: efficiently computing similarity all-matching.</title><venue>SIGMOD Conference</venue><pages>529-540</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhuLZZY12</key><doi>10.1145/2213836.2213896</doi><ee>https://doi.org/10.1145/2213836.2213896</ee><url>https://dblp.org/rec/conf/sigmod/ZhuLZZY12</url></info>
+<url>URL#4956250</url>
+</hit>
+<hit score="1" id="4956249">
+<info><authors><author pid="84/2644">Jingren Zhou</author><author pid="b/NicolasBruno">Nicolas Bruno</author><author pid="99/2649-16">Wei Lin 0016</author></authors><title>Advanced partitioning techniques for massively distributed computation.</title><venue>SIGMOD Conference</venue><pages>13-24</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhouBL12</key><doi>10.1145/2213836.2213839</doi><ee>https://doi.org/10.1145/2213836.2213839</ee><url>https://dblp.org/rec/conf/sigmod/ZhouBL12</url></info>
+<url>URL#4956249</url>
+</hit>
+<hit score="1" id="4956248">
+<info><authors><author pid="76/4874-1">Mingyang Zhang 0001</author><author pid="z/NanZhang4">Nan Zhang 0004</author><author pid="07/1181">Gautam Das 0001</author></authors><title>Aggregate suppression for enterprise search engines.</title><venue>SIGMOD Conference</venue><pages>469-480</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Zhang0D12</key><doi>10.1145/2213836.2213890</doi><ee>https://doi.org/10.1145/2213836.2213890</ee><url>https://dblp.org/rec/conf/sigmod/Zhang0D12</url></info>
+<url>URL#4956248</url>
+</hit>
+<hit score="1" id="4956245">
+<info><authors><author pid="23/9582">Kamal Zellag</author><author pid="k/BettinaKemme">Bettina Kemme</author></authors><title>ConsAD: a real-time consistency anomalies detector.</title><venue>SIGMOD Conference</venue><pages>641-644</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZellagK12</key><doi>10.1145/2213836.2213920</doi><ee>https://doi.org/10.1145/2213836.2213920</ee><url>https://dblp.org/rec/conf/sigmod/ZellagK12</url></info>
+<url>URL#4956245</url>
+</hit>
+<hit score="1" id="4956244">
+<info><authors><author pid="61/5253-1">Albert Yu 0001</author><author pid="a/PankajKAgarwal">Pankaj K. Agarwal</author><author pid="y/JunYang1">Jun Yang 0001</author></authors><title>Processing a large number of continuous preference top-k queries.</title><venue>SIGMOD Conference</venue><pages>397-408</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YuAY12</key><doi>10.1145/2213836.2213882</doi><ee>https://doi.org/10.1145/2213836.2213882</ee><url>https://dblp.org/rec/conf/sigmod/YuAY12</url></info>
+<url>URL#4956244</url>
+</hit>
+<hit score="1" id="4956242">
+<info><authors><author pid="56/2998-1">Yin Yang 0001</author><author pid="93/4085">Zhenjie Zhang</author><author pid="m/GeromeMiklau">Gerome Miklau</author><author pid="w/MarianneWinslett">Marianne Winslett</author><author pid="33/1903">Xiaokui Xiao</author></authors><title>Differential privacy in data publication and analysis.</title><venue>SIGMOD Conference</venue><pages>601-606</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YangZMWX12</key><doi>10.1145/2213836.2213910</doi><ee>https://doi.org/10.1145/2213836.2213910</ee><url>https://dblp.org/rec/conf/sigmod/YangZMWX12</url></info>
+<url>URL#4956242</url>
+</hit>
+<hit score="1" id="4956241">
+<info><authors><author pid="11/4785">Shengqi Yang</author><author pid="y/XifengYan">Xifeng Yan</author><author pid="14/8203">Bo Zong</author><author pid="67/2933">Arijit Khan 0001</author></authors><title>Towards effective partition management for large graphs.</title><venue>SIGMOD Conference</venue><pages>517-528</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YangYZK12</key><doi>10.1145/2213836.2213895</doi><ee>https://doi.org/10.1145/2213836.2213895</ee><url>https://dblp.org/rec/conf/sigmod/YangYZK12</url></info>
+<url>URL#4956241</url>
+</hit>
+<hit score="1" id="4956240">
+<info><authors><author pid="48/725">Mohamed Yakout</author><author pid="g/KrisGanjam">Kris Ganjam</author><author pid="c/KaushikChakrabarti">Kaushik Chakrabarti</author><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author></authors><title>InfoGather: entity augmentation and attribute discovery by holistic matching with web tables.</title><venue>SIGMOD Conference</venue><pages>97-108</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YakoutGCC12</key><doi>10.1145/2213836.2213848</doi><ee>https://doi.org/10.1145/2213836.2213848</ee><url>https://dblp.org/rec/conf/sigmod/YakoutGCC12</url></info>
+<url>URL#4956240</url>
+</hit>
+<hit score="1" id="4956239">
+<info><authors><author pid="50/11411">Zijun Xue</author><author pid="98/5434">Junjie Yao</author><author pid="55/5031">Bin Cui 0001</author></authors><title>Temporal provenance discovery in micro-blog message streams (abstract only).</title><venue>SIGMOD Conference</venue><pages>864</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/XueYC12</key><doi>10.1145/2213836.2213973</doi><ee>https://doi.org/10.1145/2213836.2213973</ee><url>https://dblp.org/rec/conf/sigmod/XueYC12</url></info>
+<url>URL#4956239</url>
+</hit>
+<hit score="1" id="4956238">
+<info><authors><author pid="72/51-3">Zhiqiang Xu 0003</author><author pid="07/3111">Yiping Ke</author><author pid="67/6649-6">Yi Wang 0006</author><author pid="85/5637-1">Hong Cheng 0001</author><author pid="06/4171">James Cheng</author></authors><title>A model-based approach to attributed graph clustering.</title><venue>SIGMOD Conference</venue><pages>505-516</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/XuKWCC12</key><doi>10.1145/2213836.2213894</doi><ee>https://doi.org/10.1145/2213836.2213894</ee><url>https://dblp.org/rec/conf/sigmod/XuKWCC12</url></info>
+<url>URL#4956238</url>
+</hit>
+<hit score="1" id="4956235">
+<info><authors><author pid="29/85">Wentao Wu 0001</author><author pid="19/6359">Hongsong Li</author><author pid="w/HaixunWang">Haixun Wang</author><author pid="z/KennyQiliZhu">Kenny Qili Zhu</author></authors><title>Probase: a probabilistic taxonomy for text understanding.</title><venue>SIGMOD Conference</venue><pages>481-492</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WuLWZ12</key><doi>10.1145/2213836.2213891</doi><ee>https://doi.org/10.1145/2213836.2213891</ee><url>https://dblp.org/rec/conf/sigmod/WuLWZ12</url></info>
+<url>URL#4956235</url>
+</hit>
+<hit score="1" id="4956233">
+<info><authors><author pid="39/7183-1">Jiannan Wang 0001</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="43/6576">Jianhua Feng</author></authors><title>Can we beat the prefix filtering?: an adaptive framework for similarity join and search.</title><venue>SIGMOD Conference</venue><pages>85-96</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WangLF12</key><doi>10.1145/2213836.2213847</doi><ee>https://doi.org/10.1145/2213836.2213847</ee><url>https://dblp.org/rec/conf/sigmod/WangLF12</url></info>
+<url>URL#4956233</url>
+</hit>
+<hit score="1" id="4956232">
+<info><authors><author pid="57/4842">Venkateshwaran Venkataramani</author><author pid="74/11411">Zach Amsden</author><author pid="53/3628">Nathan Bronson</author><author pid="125/1298">George Cabrera III</author><author pid="94/7258">Prasad Chakka</author><author pid="42/11411">Peter Dimov</author><author pid="97/1908">Hui Ding</author><author pid="81/11411">Jack Ferris</author><author pid="28/11411">Anthony Giardullo</author><author pid="37/11344">Jeremy Hoon</author><author pid="77/4229">Sachin Kulkarni</author><author pid="60/11411">Nathan Lawrence</author><author pid="62/3504">Mark Marchukov</author><author pid="91/11411">Dmitri Petrov</author><author pid="73/11411">Lovro Puzar</author></authors><title>TAO: how facebook serves the social graph.</title><venue>SIGMOD Conference</venue><pages>791-792</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/VenkataramaniABCCDDFGHKLMPP12</key><doi>10.1145/2213836.2213957</doi><ee>https://doi.org/10.1145/2213836.2213957</ee><url>https://dblp.org/rec/conf/sigmod/VenkataramaniABCCDDFGHKLMPP12</url></info>
+<url>URL#4956232</url>
+</hit>
+<hit score="1" id="4956231">
+<info><authors><author pid="81/6125">Shivakumar Vaithyanathan</author></authors><title>The value of social media data in enterprise applications.</title><venue>SIGMOD Conference</venue><pages>755-756</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Vaithyanathan12</key><doi>10.1145/2213836.2213949</doi><ee>https://doi.org/10.1145/2213836.2213949</ee><url>https://dblp.org/rec/conf/sigmod/Vaithyanathan12</url></info>
+<url>URL#4956231</url>
+</hit>
+<hit score="1" id="4956230">
+<info><authors><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Symbiosis in scale out networking and data management.</title><venue>SIGMOD Conference</venue><pages>579-580</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Vahdat12</key><doi>10.1145/2213836.2213903</doi><ee>https://doi.org/10.1145/2213836.2213903</ee><url>https://dblp.org/rec/conf/sigmod/Vahdat12</url></info>
+<url>URL#4956230</url>
+</hit>
+<hit score="1" id="4956226">
+<info><authors><author pid="21/8510">Alexander Thomson</author><author pid="72/11411">Thaddeus Diamond</author><author pid="54/1737">Shu-Chun Weng</author><author pid="04/9715">Kun Ren</author><author pid="64/11411">Philip Shao</author><author pid="a/DJAbadi">Daniel J. Abadi</author></authors><title>Calvin: fast distributed transactions for partitioned database systems.</title><venue>SIGMOD Conference</venue><pages>1-12</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ThomsonDWRSA12</key><doi>10.1145/2213836.2213838</doi><ee>https://doi.org/10.1145/2213836.2213838</ee><url>https://dblp.org/rec/conf/sigmod/ThomsonDWRSA12</url></info>
+<url>URL#4956226</url>
+</hit>
+<hit score="1" id="4956225">
+<info><authors><author pid="76/7127">Jeppe Rishede Thomsen</author><author pid="23/282">Man Lung Yiu</author><author pid="j/ChristianSJensen">Christian S. Jensen</author></authors><title>Effective caching of shortest paths for location-based services.</title><venue>SIGMOD Conference</venue><pages>313-324</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ThomsenYJ12</key><doi>10.1145/2213836.2213872</doi><ee>https://doi.org/10.1145/2213836.2213872</ee><url>https://dblp.org/rec/conf/sigmod/ThomsenYJ12</url></info>
+<url>URL#4956225</url>
+</hit>
+<hit score="1" id="4956224">
+<info><authors><author pid="t/JensTeubner">Jens Teubner</author><author pid="69/8510">Louis Woods</author><author pid="54/11411">Chongling Nie</author></authors><title>Skeleton automata for FPGAs: reconfiguring without reconstructing.</title><venue>SIGMOD Conference</venue><pages>229-240</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/TeubnerWN12</key><doi>10.1145/2213836.2213863</doi><ee>https://doi.org/10.1145/2213836.2213863</ee><url>https://dblp.org/rec/conf/sigmod/TeubnerWN12</url></info>
+<url>URL#4956224</url>
+</hit>
+<hit score="1" id="4956223">
+<info><authors><author pid="84/284">Jun&apos;ichi Tatemura</author><author pid="35/2314">Oliver Po</author><author pid="37/236">Wang-Pin Hsiung</author><author pid="59/2465">Hakan Hacigümüs</author></authors><title>Partiqle: an elastic SQL engine over key-value stores.</title><venue>SIGMOD Conference</venue><pages>629-632</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/TatemuraPHH12</key><doi>10.1145/2213836.2213917</doi><ee>https://doi.org/10.1145/2213836.2213917</ee><url>https://dblp.org/rec/conf/sigmod/TatemuraPHH12</url></info>
+<url>URL#4956223</url>
+</hit>
+<hit score="1" id="4956221">
+<info><authors><author pid="22/4622">Xueyuan Su</author><author pid="46/4288">Garret Swart</author></authors><title>Oracle in-database hadoop: when mapreduce meets RDBMS.</title><venue>SIGMOD Conference</venue><pages>779-790</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SuS12</key><doi>10.1145/2213836.2213955</doi><ee>https://doi.org/10.1145/2213836.2213955</ee><url>https://dblp.org/rec/conf/sigmod/SuS12</url></info>
+<url>URL#4956221</url>
+</hit>
+<hit score="1" id="4956219">
+<info><authors><author pid="15/11411">Tyler Sliwkanich</author><author pid="30/11411">Douglas Schneider</author><author pid="07/11411">Aaron Yong</author><author pid="75/11411">Mitchell Home</author><author pid="b/DBarbosa">Denilson Barbosa 0001</author></authors><title>Towards scalable summarization and visualization of large text corpora (abstract only).</title><venue>SIGMOD Conference</venue><pages>863</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SliwkanichSYHB12</key><doi>10.1145/2213836.2213970</doi><ee>https://doi.org/10.1145/2213836.2213970</ee><url>https://dblp.org/rec/conf/sigmod/SliwkanichSYHB12</url></info>
+<url>URL#4956219</url>
+</hit>
+<hit score="1" id="4956217">
+<info><authors><author pid="65/4806">Swaminathan Sivasubramanian</author></authors><title>Amazon dynamoDB: a seamlessly scalable non-relational database service.</title><venue>SIGMOD Conference</venue><pages>729-730</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sivasubramanian12</key><doi>10.1145/2213836.2213945</doi><ee>https://doi.org/10.1145/2213836.2213945</ee><url>https://dblp.org/rec/conf/sigmod/Sivasubramanian12</url></info>
+<url>URL#4956217</url>
+</hit>
+<hit score="1" id="4956216">
+<info><authors><author pid="78/459-2">Manish Singh 0002</author><author pid="28/568">Arnab Nandi 0001</author><author pid="j/HVJagadish">H. V. Jagadish</author></authors><title>Skimmer: rapid scrolling of relational query results.</title><venue>SIGMOD Conference</venue><pages>181-192</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SinghNJ12</key><doi>10.1145/2213836.2213858</doi><ee>https://doi.org/10.1145/2213836.2213858</ee><url>https://dblp.org/rec/conf/sigmod/SinghNJ12</url></info>
+<url>URL#4956216</url>
+</hit>
+<hit score="1" id="4956215">
+<info><authors><author pid="s/ASimitsis">Alkis Simitsis</author><author pid="w/KevinWilkinson">Kevin Wilkinson</author><author pid="04/4211">Malú Castellanos</author><author pid="76/2198">Umeshwar Dayal</author></authors><title>Optimizing analytic data flows for multiple execution engines.</title><venue>SIGMOD Conference</venue><pages>829-840</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SimitsisWCD12</key><doi>10.1145/2213836.2213963</doi><ee>https://doi.org/10.1145/2213836.2213963</ee><url>https://dblp.org/rec/conf/sigmod/SimitsisWCD12</url></info>
+<url>URL#4956215</url>
+</hit>
+<hit score="1" id="4956214">
+<info><authors><author pid="s/YasinNSilva">Yasin N. Silva</author><author pid="13/11411">Jason M. Reed</author></authors><title>Exploiting MapReduce-based similarity joins.</title><venue>SIGMOD Conference</venue><pages>693-696</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SilvaR12</key><doi>10.1145/2213836.2213935</doi><ee>https://doi.org/10.1145/2213836.2213935</ee><url>https://dblp.org/rec/conf/sigmod/SilvaR12</url></info>
+<url>URL#4956214</url>
+</hit>
+<hit score="1" id="4956213">
+<info><authors><author pid="87/1055">Vishal Sikka</author><author pid="36/7116">Franz Färber</author><author pid="l/WLehner">Wolfgang Lehner</author><author pid="c/SangKyunCha">Sang Kyun Cha</author><author pid="80/11411">Thomas Peh</author><author pid="34/1731">Christof Bornhövd</author></authors><title>Efficient transaction processing in SAP HANA database: the end of a column store myth.</title><venue>SIGMOD Conference</venue><pages>731-742</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SikkaFLCPB12</key><doi>10.1145/2213836.2213946</doi><ee>https://doi.org/10.1145/2213836.2213946</ee><url>https://dblp.org/rec/conf/sigmod/SikkaFLCPB12</url></info>
+<url>URL#4956213</url>
+</hit>
+<hit score="1" id="4956212">
+<info><authors><author pid="44/7094">Darius Sidlauskas</author><author pid="48/2122">Simonas Saltenis</author><author pid="j/ChristianSJensen">Christian S. Jensen</author></authors><title>Parallel main-memory indexing for moving-object query and update workloads.</title><venue>SIGMOD Conference</venue><pages>37-48</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SidlauskasSJ12</key><doi>10.1145/2213836.2213842</doi><ee>https://doi.org/10.1145/2213836.2213842</ee><url>https://dblp.org/rec/conf/sigmod/SidlauskasSJ12</url></info>
+<url>URL#4956212</url>
+</hit>
+<hit score="1" id="4956211">
+<info><authors><author pid="31/11411">Jeff Shute</author><author pid="92/11411">Mircea Oancea</author><author pid="70/2907">Stephan Ellner</author><author pid="81/3648">Ben Handy</author><author pid="49/5160">Eric Rollins</author><author pid="15/780">Bart Samwel</author><author pid="40/6597">Radek Vingralek</author><author pid="84/11411">Chad Whipkey</author><author pid="24/1518">Xin Chen</author><author pid="11/11411">Beat Jegerlehner</author><author pid="03/7237">Kyle Littlefield</author><author pid="79/11411">Phoenix Tong</author></authors><title>F1: the fault-tolerant distributed RDBMS supporting google&apos;s ad business.</title><venue>SIGMOD Conference</venue><pages>777-778</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ShuteOEHRSVWCJLT12</key><doi>10.1145/2213836.2213954</doi><ee>https://doi.org/10.1145/2213836.2213954</ee><url>https://dblp.org/rec/conf/sigmod/ShuteOEHRSVWCJLT12</url></info>
+<url>URL#4956211</url>
+</hit>
+<hit score="1" id="4956210">
+<info><authors><author pid="53/2446">Bin Shao</author><author pid="w/HaixunWang">Haixun Wang</author><author pid="96/999">Yanghua Xiao</author></authors><title>Managing and mining large graphs: systems and implementations.</title><venue>SIGMOD Conference</venue><pages>589-592</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ShaoWX12</key><doi>10.1145/2213836.2213907</doi><ee>https://doi.org/10.1145/2213836.2213907</ee><url>https://dblp.org/rec/conf/sigmod/ShaoWX12</url></info>
+<url>URL#4956210</url>
+</hit>
+<hit score="1" id="4956209">
+<info><authors><author pid="47/3052">Srinath Shankar</author><author pid="94/81">Rimma V. Nehme</author><author pid="95/4983">Josep Aguilar-Saborit</author><author pid="59/11411">Andrew Chung</author><author pid="79/2762">Mostafa Elhemali</author><author pid="00/232">Alan Halverson</author><author pid="70/1174">Eric Robinson</author><author pid="39/11411">Mahadevan Sankara Subramanian</author><author pid="d/DJDeWitt">David J. DeWitt</author><author pid="84/3247">César A. Galindo-Legaria</author></authors><title>Query optimization in microsoft SQL server PDW.</title><venue>SIGMOD Conference</venue><pages>767-776</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ShankarNACEHRSDG12</key><doi>10.1145/2213836.2213953</doi><ee>https://doi.org/10.1145/2213836.2213953</ee><url>https://dblp.org/rec/conf/sigmod/ShankarNACEHRSDG12</url></info>
+<url>URL#4956209</url>
+</hit>
+<hit score="1" id="4956208">
+<info><authors><author pid="54/129">Russell Sears</author><author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan 0001</author></authors><title>bLSM: a general purpose log structured merge tree.</title><venue>SIGMOD Conference</venue><pages>217-228</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SearsR12</key><doi>10.1145/2213836.2213862</doi><ee>https://doi.org/10.1145/2213836.2213862</ee><url>https://dblp.org/rec/conf/sigmod/SearsR12</url></info>
+<url>URL#4956208</url>
+</hit>
+<hit score="1" id="4956207">
+<info><authors><author pid="95/9990">Mohamed Sarwat</author><author pid="b/JieBao3">Jie Bao 0003</author><author pid="66/9726">Ahmed Eldawy</author><author pid="02/3658">Justin J. Levandoski</author><author pid="05/8073-1">Amr Magdy 0001</author><author pid="94/5893">Mohamed F. Mokbel</author></authors><title>Sindbad: a location-based social networking system.</title><venue>SIGMOD Conference</venue><pages>649-652</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SarwatBELMM12</key><doi>10.1145/2213836.2213923</doi><ee>https://doi.org/10.1145/2213836.2213923</ee><url>https://dblp.org/rec/conf/sigmod/SarwatBELMM12</url></info>
+<url>URL#4956207</url>
+</hit>
+<hit score="1" id="4956205">
+<info><authors><author pid="59/589">Anish Das Sarma</author><author pid="73/5604">Hongrae Lee</author><author pid="56/5324">Hector Gonzalez</author><author pid="76/5642">Jayant Madhavan</author><author pid="h/AlonYHalevy">Alon Y. Halevy</author></authors><title>Efficient spatial sampling of large geographical tables.</title><venue>SIGMOD Conference</venue><pages>193-204</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SarmaLGMH12</key><doi>10.1145/2213836.2213859</doi><ee>https://doi.org/10.1145/2213836.2213859</ee><url>https://dblp.org/rec/conf/sigmod/SarmaLGMH12</url></info>
+<url>URL#4956205</url>
+</hit>
+<hit score="1" id="4956204">
+<info><authors><author pid="59/589">Anish Das Sarma</author><author pid="90/3414">Lujun Fang</author><author pid="g/NitinGupta3">Nitin Gupta 0003</author><author pid="h/AlonYHalevy">Alon Y. Halevy</author><author pid="73/5604">Hongrae Lee</author><author pid="84/3254-3">Fei Wu 0003</author><author pid="47/7258">Reynold Xin</author><author pid="58/3771">Cong Yu 0001</author></authors><title>Finding related tables.</title><venue>SIGMOD Conference</venue><pages>817-828</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SarmaFGHLWXY12</key><doi>10.1145/2213836.2213962</doi><ee>https://doi.org/10.1145/2213836.2213962</ee><url>https://dblp.org/rec/conf/sigmod/SarmaFGHLWXY12</url></info>
+<url>URL#4956204</url>
+</hit>
+<hit score="1" id="4956202">
+<info><authors><author pid="90/11411">Frank Rosner</author><author pid="37/2076">Alexander Hinneburg</author><author pid="67/9422">Martin Gleditzsch</author><author pid="16/3050">Matthias Priebe</author><author pid="07/4780">Andreas Both 0001</author></authors><title>Fast sampling word correlations of high dimensional text data (abstract only).</title><venue>SIGMOD Conference</venue><pages>866</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RosnerHGPB12</key><doi>10.1145/2213836.2213976</doi><ee>https://doi.org/10.1145/2213836.2213976</ee><url>https://dblp.org/rec/conf/sigmod/RosnerHGPB12</url></info>
+<url>URL#4956202</url>
+</hit>
+<hit score="1" id="4956201">
+<info><authors><author pid="51/11411">Theodoros Rekatsinas</author><author pid="d/AmolDeshpande">Amol Deshpande</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>Local structure and determinism in probabilistic databases.</title><venue>SIGMOD Conference</venue><pages>373-384</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RekatsinasDG12</key><doi>10.1145/2213836.2213879</doi><ee>https://doi.org/10.1145/2213836.2213879</ee><url>https://dblp.org/rec/conf/sigmod/RekatsinasDG12</url></info>
+<url>URL#4956201</url>
+</hit>
+<hit score="1" id="4956199">
+<info><authors><author pid="25/6847">Li Qian</author><author pid="82/231">Michael J. Cafarella</author><author pid="j/HVJagadish">H. V. Jagadish</author></authors><title>Sample-driven schema mapping.</title><venue>SIGMOD Conference</venue><pages>73-84</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/QianCJ12</key><doi>10.1145/2213836.2213846</doi><ee>https://doi.org/10.1145/2213836.2213846</ee><url>https://dblp.org/rec/conf/sigmod/QianCJ12</url></info>
+<url>URL#4956199</url>
+</hit>
+<hit score="1" id="4956197">
+<info><authors><author pid="22/11411">Shangfu Peng</author><author pid="56/2998-1">Yin Yang 0001</author><author pid="93/4085">Zhenjie Zhang</author><author pid="w/MarianneWinslett">Marianne Winslett</author><author pid="43/5685-1">Yong Yu 0001</author></authors><title>DP-tree: indexing multi-dimensional data under differential privacy (abstract only).</title><venue>SIGMOD Conference</venue><pages>864</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PengYZWY12</key><doi>10.1145/2213836.2213972</doi><ee>https://doi.org/10.1145/2213836.2213972</ee><url>https://dblp.org/rec/conf/sigmod/PengYZWY12</url></info>
+<url>URL#4956197</url>
+</hit>
+<hit score="1" id="4956196">
+<info><authors><author pid="16/11411">Chris Van Pelt</author><author pid="24/11411">Alex Sorokin</author></authors><title>Designing a scalable crowdsourcing platform.</title><venue>SIGMOD Conference</venue><pages>765-766</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PeltS12</key><doi>10.1145/2213836.2213951</doi><ee>https://doi.org/10.1145/2213836.2213951</ee><url>https://dblp.org/rec/conf/sigmod/PeltS12</url></info>
+<url>URL#4956196</url>
+</hit>
+<hit score="1" id="4956195">
+<info><authors><author pid="58/4127">Andrew Pavlo</author><author pid="c/CarloCurino">Carlo Curino</author><author pid="z/SBZdonik">Stanley B. Zdonik</author></authors><title>Skew-aware automatic database partitioning in shared-nothing, parallel OLTP systems.</title><venue>SIGMOD Conference</venue><pages>61-72</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PavloCZ12</key><doi>10.1145/2213836.2213844</doi><ee>https://doi.org/10.1145/2213836.2213844</ee><url>https://dblp.org/rec/conf/sigmod/PavloCZ12</url></info>
+<url>URL#4956195</url>
+</hit>
+<hit score="1" id="4956194">
+<info><authors><author pid="93/11411">Yannis Pavlidis</author><author pid="76/11411">Madhusudan Mathihalli</author><author pid="46/9014">Indrani Chakravarty</author><author pid="90/5351">Arvind Batra</author><author pid="62/11411">Ron Benson</author><author pid="88/11411">Ravi Raj</author><author pid="12/11411">Robert Yau</author><author pid="21/11411">Mike McKiernan</author><author pid="71/3835">Venky Harinarayan</author><author pid="r/ARajaraman">Anand Rajaraman</author></authors><title>Anatomy of a gift recommendation engine powered by social media.</title><venue>SIGMOD Conference</venue><pages>757-764</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PavlidisMCBBRYMHR12</key><doi>10.1145/2213836.2213950</doi><ee>https://doi.org/10.1145/2213836.2213950</ee><url>https://dblp.org/rec/conf/sigmod/PavlidisMCBBRYMHR12</url></info>
+<url>URL#4956194</url>
+</hit>
+<hit score="1" id="4956191">
+<info><authors><author pid="40/7459">Aditya G. Parameswaran</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author><author pid="41/4465">Hyunjung Park 0001</author><author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author><author pid="58/10355">Aditya Ramesh</author><author pid="w/JenniferWidom">Jennifer Widom</author></authors><title>CrowdScreen: algorithms for filtering data with humans.</title><venue>SIGMOD Conference</venue><pages>361-372</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ParameswaranGPPRW12</key><doi>10.1145/2213836.2213878</doi><ee>https://doi.org/10.1145/2213836.2213878</ee><url>https://dblp.org/rec/conf/sigmod/ParameswaranGPPRW12</url></info>
+<url>URL#4956191</url>
+</hit>
+<hit score="1" id="4956190">
+<info><authors><author pid="o/CarlosOrdonez">Carlos Ordonez 0001</author><author pid="56/1116">Javier García-García 0001</author><author pid="54/6561-2">Zhibo Chen 0002</author></authors><title>Dynamic optimization of generalized SQL queries with horizontal aggregations.</title><venue>SIGMOD Conference</venue><pages>637-640</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/OrdonezGC12</key><doi>10.1145/2213836.2213919</doi><ee>https://doi.org/10.1145/2213836.2213919</ee><url>https://dblp.org/rec/conf/sigmod/OrdonezGC12</url></info>
+<url>URL#4956190</url>
+</hit>
+<hit score="1" id="4956189">
+<info><authors><author pid="87/11411">Gi-Hwan Oh</author><author pid="51/1888">Jae-Myung Kim</author><author pid="33/6605">Woon-Hak Kang</author><author pid="l/SangWonLee">Sang-Won Lee 0001</author></authors><title>Reducing cache misses in hash join probing phase by pre-sorting strategy (abstract only).</title><venue>SIGMOD Conference</venue><pages>864</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/OhKKL12</key><doi>10.1145/2213836.2213971</doi><ee>https://doi.org/10.1145/2213836.2213971</ee><url>https://dblp.org/rec/conf/sigmod/OhKKL12</url></info>
+<url>URL#4956189</url>
+</hit>
+<hit score="1" id="4956188">
+<info><authors><author pid="44/4438">Panayiotis Neophytou</author><author pid="08/3175">Roxana Gheorghiu</author><author pid="71/11411">Rebecca Hachey</author><author pid="19/11411">Timothy Luciani</author><author pid="38/11411">Di Bao</author><author pid="l/ALabrinidis">Alexandros Labrinidis</author><author pid="05/2224">G. Elisabeta Marai</author><author pid="c/PKChrysanthis">Panos K. Chrysanthis</author></authors><title>AstroShelf: understanding the universe through scalable navigation of a galaxy of annotations.</title><venue>SIGMOD Conference</venue><pages>713-716</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NeophytouGHLBLMC12</key><doi>10.1145/2213836.2213940</doi><ee>https://doi.org/10.1145/2213836.2213940</ee><url>https://dblp.org/rec/conf/sigmod/NeophytouGHLBLMC12</url></info>
+<url>URL#4956188</url>
+</hit>
+<hit score="1" id="4956187">
+<info><authors><author pid="61/2421">Danupon Nanongkai</author><author pid="84/4407">Ashwin Lall</author><author pid="46/4888">Atish Das Sarma</author><author pid="04/3674">Kazuhisa Makino</author></authors><title>Interactive regret minimization.</title><venue>SIGMOD Conference</venue><pages>109-120</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NanongkaiLSM12</key><doi>10.1145/2213836.2213850</doi><ee>https://doi.org/10.1145/2213836.2213850</ee><url>https://dblp.org/rec/conf/sigmod/NanongkaiLSM12</url></info>
+<url>URL#4956187</url>
+</hit>
+<hit score="1" id="4956185">
+<info><authors><author pid="45/2495">Barzan Mozafari</author><author pid="80/1651-2">Kai Zeng 0002</author><author pid="z/CZaniolo">Carlo Zaniolo</author></authors><title>High-performance complex event processing over XML streams.</title><venue>SIGMOD Conference</venue><pages>253-264</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MozafariZZ12</key><doi>10.1145/2213836.2213866</doi><ee>https://doi.org/10.1145/2213836.2213866</ee><url>https://dblp.org/rec/conf/sigmod/MozafariZZ12</url></info>
+<url>URL#4956185</url>
+</hit>
+<hit score="1" id="4956184">
+<info><authors><author pid="70/5069">Kristi Morton</author><author pid="51/3194">Ross Bunker</author><author pid="03/2919">Jock D. Mackinlay</author><author pid="55/11411">Robert Morton</author><author pid="39/2378">Chris Stolte</author></authors><title>Dynamic workload driven data integration in tableau.</title><venue>SIGMOD Conference</venue><pages>807-816</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MortonBMMS12</key><doi>10.1145/2213836.2213961</doi><ee>https://doi.org/10.1145/2213836.2213961</ee><url>https://dblp.org/rec/conf/sigmod/MortonBMMS12</url></info>
+<url>URL#4956184</url>
+</hit>
+<hit score="1" id="4956183">
+<info><authors><author pid="87/5335">Misael Mongiovì</author><author pid="38/8070">Petko Bogdanov</author><author pid="47/11411">Razvan Ranca</author><author pid="s/AmbujKSingh">Ambuj K. Singh</author><author pid="48/9024">Evangelos E. Papalexakis</author><author pid="f/CFaloutsos">Christos Faloutsos</author></authors><title>SigSpot: mining significant anomalous regions from time-evolving networks (abstract only).</title><venue>SIGMOD Conference</venue><pages>865</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MongioviBRSPF12</key><doi>10.1145/2213836.2213974</doi><ee>https://doi.org/10.1145/2213836.2213974</ee><url>https://dblp.org/rec/conf/sigmod/MongioviBRSPF12</url></info>
+<url>URL#4956183</url>
+</hit>
+<hit score="1" id="4956182">
+<info><authors><author pid="68/11411">Jayanta Mondal</author><author pid="d/AmolDeshpande">Amol Deshpande</author></authors><title>Managing large dynamic graphs efficiently.</title><venue>SIGMOD Conference</venue><pages>145-156</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MondalD12</key><doi>10.1145/2213836.2213854</doi><ee>https://doi.org/10.1145/2213836.2213854</ee><url>https://dblp.org/rec/conf/sigmod/MondalD12</url></info>
+<url>URL#4956182</url>
+</hit>
+<hit score="1" id="4956181">
+<info><authors><author pid="31/1036">Prashanth Mohan</author><author pid="31/8315">Abhradeep Thakurta</author><author pid="80/4580">Elaine Shi</author><author pid="s/DXSong">Dawn Song</author><author pid="c/DavidECuller">David E. Culler</author></authors><title>GUPT: privacy preserving data analysis made easy.</title><venue>SIGMOD Conference</venue><pages>349-360</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MohanTSSC12</key><doi>10.1145/2213836.2213876</doi><ee>https://doi.org/10.1145/2213836.2213876</ee><url>https://dblp.org/rec/conf/sigmod/MohanTSSC12</url></info>
+<url>URL#4956181</url>
+</hit>
+<hit score="1" id="4956179">
+<info><authors><author pid="04/1835">Alexandra Meliou</author><author pid="36/11411">Yisong Song</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Tiresias: a demonstration of how-to queries.</title><venue>SIGMOD Conference</venue><pages>709-712</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MeliouSS12</key><doi>10.1145/2213836.2213939</doi><ee>https://doi.org/10.1145/2213836.2213939</ee><url>https://dblp.org/rec/conf/sigmod/MeliouSS12</url></info>
+<url>URL#4956179</url>
+</hit>
+<hit score="1" id="4956178">
+<info><authors><author pid="04/1835">Alexandra Meliou</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Tiresias: the database oracle for how-to queries.</title><venue>SIGMOD Conference</venue><pages>337-348</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MeliouS12</key><doi>10.1145/2213836.2213875</doi><ee>https://doi.org/10.1145/2213836.2213875</ee><url>https://dblp.org/rec/conf/sigmod/MeliouS12</url></info>
+<url>URL#4956178</url>
+</hit>
+<hit score="1" id="4956177">
+<info><authors><author pid="61/6957">Arthur Meacham</author><author pid="s/DennisShasha">Dennis E. Shasha</author></authors><title>JustMyFriends: full SQL, full transactional amenities, and access privacy.</title><venue>SIGMOD Conference</venue><pages>633-636</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MeachamS12</key><doi>10.1145/2213836.2213918</doi><ee>https://doi.org/10.1145/2213836.2213918</ee><url>https://dblp.org/rec/conf/sigmod/MeachamS12</url></info>
+<url>URL#4956177</url>
+</hit>
+<hit score="1" id="4956174">
+<info><authors><author pid="91/9376">Silviu Maniu</author><author pid="05/6939">Bogdan Cautis</author></authors><title>Taagle: efficient, personalized search in collaborative tagging networks.</title><venue>SIGMOD Conference</venue><pages>661-664</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ManiuC12</key><doi>10.1145/2213836.2213926</doi><ee>https://doi.org/10.1145/2213836.2213926</ee><url>https://dblp.org/rec/conf/sigmod/ManiuC12</url></info>
+<url>URL#4956174</url>
+</hit>
+<hit score="1" id="4956173">
+<info><authors><author pid="l/JiahengLu">Jiaheng Lu</author><author pid="12/225">Pierre Senellart</author><author pid="82/11411">Chunbin Lin</author><author pid="47/3542-1">Xiaoyong Du 0001</author><author pid="55/1254-1">Shan Wang 0001</author><author pid="26/11411">Xinxing Chen</author></authors><title>Optimal top-k generation of attribute combinations based on ranked lists.</title><venue>SIGMOD Conference</venue><pages>409-420</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LuSLDWC12</key><doi>10.1145/2213836.2213883</doi><ee>https://doi.org/10.1145/2213836.2213883</ee><url>https://dblp.org/rec/conf/sigmod/LuSLDWC12</url></info>
+<url>URL#4956173</url>
+</hit>
+<hit score="1" id="4956169">
+<info><authors><author pid="00/7739">Jimmy Lin</author><author pid="12/3993">Alek Kolcz</author></authors><title>Large-scale machine learning at twitter.</title><venue>SIGMOD Conference</venue><pages>793-804</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LinK12</key><doi>10.1145/2213836.2213958</doi><ee>https://doi.org/10.1145/2213836.2213958</ee><url>https://dblp.org/rec/conf/sigmod/LinK12</url></info>
+<url>URL#4956169</url>
+</hit>
+<hit score="1" id="4956168">
+<info><authors><author pid="10/1143">Zheng Li</author><author pid="25/2228">Tingjian Ge</author></authors><title>Online windowed subsequence matching over probabilistic sequences.</title><venue>SIGMOD Conference</venue><pages>277-288</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiG12</key><doi>10.1145/2213836.2213868</doi><ee>https://doi.org/10.1145/2213836.2213868</ee><url>https://dblp.org/rec/conf/sigmod/LiG12</url></info>
+<url>URL#4956168</url>
+</hit>
+<hit score="1" id="4956164">
+<info><authors><author pid="97/2070">YongChul Kwon</author><author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author><author pid="h/BillHowe">Bill Howe</author><author pid="r/JerryRolia">Jerome A. Rolia</author></authors><title>SkewTune: mitigating skew in mapreduce applications.</title><venue>SIGMOD Conference</venue><pages>25-36</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KwonBHR12</key><doi>10.1145/2213836.2213840</doi><ee>https://doi.org/10.1145/2213836.2213840</ee><url>https://dblp.org/rec/conf/sigmod/KwonBHR12</url></info>
+<url>URL#4956164</url>
+</hit>
+<hit score="1" id="4956163">
+<info><authors><author pid="83/741">Ioannis Konstantinou</author><author pid="30/10440">Evangelos Angelou</author><author pid="48/2152">Dimitrios Tsoumakos</author><author pid="03/10440">Christina Boumpouka</author><author pid="24/4627">Nectarios Koziris</author><author pid="73/2079">Spyros Sioutas</author></authors><title>TIRAMOLA: elastic nosql provisioning through a cloud management platform.</title><venue>SIGMOD Conference</venue><pages>725-728</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KonstantinouATBKS12</key><doi>10.1145/2213836.2213943</doi><ee>https://doi.org/10.1145/2213836.2213943</ee><url>https://dblp.org/rec/conf/sigmod/KonstantinouATBKS12</url></info>
+<url>URL#4956163</url>
+</hit>
+<hit score="1" id="4956162">
+<info><authors><author pid="83/11411">Andreas Kokkalis</author><author pid="43/11411">Panagiotis Vagenas</author><author pid="44/11411">Alexandros Zervakis</author><author pid="s/ASimitsis">Alkis Simitsis</author><author pid="k/GeorgiaKoutrika">Georgia Koutrika</author><author pid="i/YEIoannidis">Yannis E. Ioannidis</author></authors><title>Logos: a system for translating queries into narratives.</title><venue>SIGMOD Conference</venue><pages>673-676</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KokkalisVZSKI12</key><doi>10.1145/2213836.2213929</doi><ee>https://doi.org/10.1145/2213836.2213929</ee><url>https://dblp.org/rec/conf/sigmod/KokkalisVZSKI12</url></info>
+<url>URL#4956162</url>
+</hit>
+<hit score="1" id="4956161">
+<info><authors><author pid="56/1846">Changkyu Kim</author><author pid="13/9348">Jongsoo Park</author><author pid="29/1091">Nadathur Satish</author><author pid="73/5604">Hongrae Lee</author><author pid="47/4438">Pradeep Dubey</author><author pid="32/6443">Jatin Chhugani</author></authors><title>CloudRAMSort: fast and efficient large-scale distributed RAM sort on shared-nothing cluster.</title><venue>SIGMOD Conference</venue><pages>841-850</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KimPSLDC12</key><doi>10.1145/2213836.2213965</doi><ee>https://doi.org/10.1145/2213836.2213965</ee><url>https://dblp.org/rec/conf/sigmod/KimPSLDC12</url></info>
+<url>URL#4956161</url>
+</hit>
+<hit score="1" id="4956160">
+<info><authors><author pid="91/9883">Alicia Key</author><author pid="h/BillHowe">Bill Howe</author><author pid="24/9168-1">Daniel Perry 0001</author><author pid="66/5226">Cecilia R. Aragon</author></authors><title>VizDeck: self-organizing dashboards for visual analytics.</title><venue>SIGMOD Conference</venue><pages>681-684</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KeyHPA12</key><doi>10.1145/2213836.2213931</doi><ee>https://doi.org/10.1145/2213836.2213931</ee><url>https://dblp.org/rec/conf/sigmod/KeyHPA12</url></info>
+<url>URL#4956160</url>
+</hit>
+<hit score="1" id="4956158">
+<info><authors><author pid="64/7497">Asterios Katsifodimos</author><author pid="m/IoanaManolescu">Ioana Manolescu</author><author pid="v/VVassalos">Vasilis Vassalos</author></authors><title>Materialized view selection for XQuery workloads.</title><venue>SIGMOD Conference</venue><pages>565-576</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KatsifodimosMV12</key><doi>10.1145/2213836.2213900</doi><ee>https://doi.org/10.1145/2213836.2213900</ee><url>https://dblp.org/rec/conf/sigmod/KatsifodimosMV12</url></info>
+<url>URL#4956158</url>
+</hit>
+<hit score="1" id="4956157">
+<info><authors><author pid="k/CarlChristianKanne">Carl-Christian Kanne</author><author pid="58/4208">Vuk Ercegovac</author></authors><title>Declarative error management for robust data-intensive applications.</title><venue>SIGMOD Conference</venue><pages>205-216</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KanneE12</key><doi>10.1145/2213836.2213860</doi><ee>https://doi.org/10.1145/2213836.2213860</ee><url>https://dblp.org/rec/conf/sigmod/KanneE12</url></info>
+<url>URL#4956157</url>
+</hit>
+<hit score="1" id="4956155">
+<info><authors><author pid="72/4662">Ruoming Jin</author><author pid="02/6343">Ning Ruan</author><author pid="50/2192">Yang Xiang</author><author pid="86/7123">Victor E. Lee</author></authors><title>A highway-centric labeling approach for answering distance queries on large sparse graphs.</title><venue>SIGMOD Conference</venue><pages>445-456</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JinRXL12</key><doi>10.1145/2213836.2213887</doi><ee>https://doi.org/10.1145/2213836.2213887</ee><url>https://dblp.org/rec/conf/sigmod/JinRXL12</url></info>
+<url>URL#4956155</url>
+</hit>
+<hit score="1" id="4956154">
+<info><authors><author pid="72/4662">Ruoming Jin</author><author pid="02/6343">Ning Ruan</author><author pid="48/1041">Saikat Dey</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>SCARAB: scaling reachability computation on large graphs.</title><venue>SIGMOD Conference</venue><pages>169-180</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JinRDY12</key><doi>10.1145/2213836.2213856</doi><ee>https://doi.org/10.1145/2213836.2213856</ee><url>https://dblp.org/rec/conf/sigmod/JinRDY12</url></info>
+<url>URL#4956154</url>
+</hit>
+<hit score="1" id="4956153">
+<info><authors><author pid="17/4858">Ivo Jimenez</author><author pid="07/10568">Huascar Sanchez</author><author pid="99/7117">Quoc Trung Tran</author><author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author></authors><title>Kaizen: a semi-automatic index advisor.</title><venue>SIGMOD Conference</venue><pages>685-688</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JimenezSTP12</key><doi>10.1145/2213836.2213932</doi><ee>https://doi.org/10.1145/2213836.2213932</ee><url>https://dblp.org/rec/conf/sigmod/JimenezSTP12</url></info>
+<url>URL#4956153</url>
+</hit>
+<hit score="1" id="4956151">
+<info><authors><author pid="23/11411">Enrico Iori</author><author pid="s/ASimitsis">Alkis Simitsis</author><author pid="p/ThemisPalpanas">Themis Palpanas</author><author pid="w/KevinWilkinson">Kevin Wilkinson</author><author pid="38/6308">Stavros Harizopoulos</author></authors><title>CloudAlloc: a monitoring and reservation system for compute clusters.</title><venue>SIGMOD Conference</venue><pages>721-724</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/IoriSPWH12</key><doi>10.1145/2213836.2213942</doi><ee>https://doi.org/10.1145/2213836.2213942</ee><url>https://dblp.org/rec/conf/sigmod/IoriSPWH12</url></info>
+<url>URL#4956151</url>
+</hit>
+<hit score="1" id="4956150">
+<info><authors><author pid="90/5236-1">Haibo Hu 0001</author><author pid="x/JianliangXu">Jianliang Xu</author><author pid="11/1394-20">Qian Chen 0020</author><author pid="95/11411-5">Ziwei Yang 0005</author></authors><title>Authenticating location-based services without compromising location privacy.</title><venue>SIGMOD Conference</venue><pages>301-312</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HuXCY12</key><doi>10.1145/2213836.2213871</doi><ee>https://doi.org/10.1145/2213836.2213871</ee><url>https://dblp.org/rec/conf/sigmod/HuXCY12</url></info>
+<url>URL#4956150</url>
+</hit>
+<hit score="1" id="4956148">
+<info><authors><author pid="05/10671">Jelle Hellings</author><author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author><author pid="h/HermanJHaverkort">Herman J. Haverkort</author></authors><title>Efficient external-memory bisimulation on DAGs.</title><venue>SIGMOD Conference</venue><pages>553-564</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HellingsFH12</key><doi>10.1145/2213836.2213899</doi><ee>https://doi.org/10.1145/2213836.2213899</ee><url>https://dblp.org/rec/conf/sigmod/HellingsFH12</url></info>
+<url>URL#4956148</url>
+</hit>
+<hit score="1" id="4956147">
+<info><authors><author pid="h/AndreasHarth">Andreas Harth</author><author pid="h/KatjaHose">Katja Hose</author><author pid="s/RalfSchenkel">Ralf Schenkel</author></authors><title>Database techniques for linked data management.</title><venue>SIGMOD Conference</venue><pages>597-600</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HarthHS12</key><doi>10.1145/2213836.2213909</doi><ee>https://doi.org/10.1145/2213836.2213909</ee><url>https://dblp.org/rec/conf/sigmod/HarthHS12</url></info>
+<url>URL#4956147</url>
+</hit>
+<hit score="1" id="4956146">
+<info><authors><author pid="95/10484">Cody Hansen</author><author pid="l/FeifeiLi">Feifei Li 0001</author></authors><title>ColumbuScout: towards building local search engines over large databases.</title><venue>SIGMOD Conference</venue><pages>617-620</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HansenL12</key><doi>10.1145/2213836.2213914</doi><ee>https://doi.org/10.1145/2213836.2213914</ee><url>https://dblp.org/rec/conf/sigmod/HansenL12</url></info>
+<url>URL#4956146</url>
+</hit>
+<hit score="1" id="4956145">
+<info><authors><author pid="h/PatHanrahan">Pat Hanrahan</author></authors><title>Analytic database technologies for a new kind of user: the data enthusiast.</title><venue>SIGMOD Conference</venue><pages>577-578</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Hanrahan12</key><doi>10.1145/2213836.2213902</doi><ee>https://doi.org/10.1145/2213836.2213902</ee><url>https://dblp.org/rec/conf/sigmod/Hanrahan12</url></info>
+<url>URL#4956145</url>
+</hit>
+<hit score="1" id="4956143">
+<info><authors><author pid="29/9509">Stephen Guo</author><author pid="40/7459">Aditya G. Parameswaran</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author></authors><title>So who won?: dynamic max discovery with the crowd.</title><venue>SIGMOD Conference</venue><pages>385-396</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GuoPG12</key><doi>10.1145/2213836.2213880</doi><ee>https://doi.org/10.1145/2213836.2213880</ee><url>https://dblp.org/rec/conf/sigmod/GuoPG12</url></info>
+<url>URL#4956143</url>
+</hit>
+<hit score="1" id="4956140">
+<info><authors><author pid="g/MichaelaGotz">Michaela Götz</author><author pid="85/6293">Suman Nath</author><author pid="g/JohannesGehrke">Johannes Gehrke</author></authors><title>MaskIt: privately releasing user context streams for personalized mobile applications.</title><venue>SIGMOD Conference</venue><pages>289-300</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GotzNG12</key><doi>10.1145/2213836.2213870</doi><ee>https://doi.org/10.1145/2213836.2213870</ee><url>https://dblp.org/rec/conf/sigmod/GotzNG12</url></info>
+<url>URL#4956140</url>
+</hit>
+<hit score="1" id="4956139">
+<info><authors><author pid="58/11411">Behzad Golshan</author><author pid="27/7124">Theodoros Lappas</author><author pid="t/EvimariaTerzi">Evimaria Terzi</author></authors><title>SOFIA SEARCH: a tool for automating related-work search.</title><venue>SIGMOD Conference</venue><pages>621-624</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GolshanLT12</key><doi>10.1145/2213836.2213915</doi><ee>https://doi.org/10.1145/2213836.2213915</ee><url>https://dblp.org/rec/conf/sigmod/GolshanLT12</url></info>
+<url>URL#4956139</url>
+</hit>
+<hit score="1" id="4956138">
+<info><authors><author pid="17/1242">Nikos Giatrakos</author><author pid="d/ADeligiannakis">Antonios Deligiannakis</author><author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author><author pid="07/1209">Izchak Sharfman</author><author pid="s/AssafSchuster">Assaf Schuster</author></authors><title>Prediction-based geometric monitoring over distributed data streams.</title><venue>SIGMOD Conference</venue><pages>265-276</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GiatrakosDGSS12</key><doi>10.1145/2213836.2213867</doi><ee>https://doi.org/10.1145/2213836.2213867</ee><url>https://dblp.org/rec/conf/sigmod/GiatrakosDGSS12</url></info>
+<url>URL#4956138</url>
+</hit>
+<hit score="1" id="4956137">
+<info><authors><author pid="16/5409">Ahmad Ghazal</author><author pid="68/2596">Dawit Yimam Seid</author><author pid="54/6788">Alain Crolotte</author><author pid="11/820">Mohammed Al-Kateb</author></authors><title>Adaptive optimizations of recursive queries in teradata.</title><venue>SIGMOD Conference</venue><pages>851-860</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GhazalSCA12</key><doi>10.1145/2213836.2213966</doi><ee>https://doi.org/10.1145/2213836.2213966</ee><url>https://dblp.org/rec/conf/sigmod/GhazalSCA12</url></info>
+<url>URL#4956137</url>
+</hit>
+<hit score="1" id="4956135">
+<info><authors><author pid="06/11411">Junhao Gan</author><author pid="46/6083">Jianlin Feng</author><author pid="32/3289">Qiong Fang</author><author pid="n/WilfredNg">Wilfred Ng</author></authors><title>Locality-sensitive hashing scheme based on dynamic collision counting.</title><venue>SIGMOD Conference</venue><pages>541-552</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GanFFN12</key><doi>10.1145/2213836.2213898</doi><ee>https://doi.org/10.1145/2213836.2213898</ee><url>https://dblp.org/rec/conf/sigmod/GanFFN12</url></info>
+<url>URL#4956135</url>
+</hit>
+<hit score="1" id="4956134">
+<info><authors><author pid="f/JulianaFreire">Juliana Freire</author><author pid="b/PBonnet">Philippe Bonnet</author><author pid="s/DennisShasha">Dennis E. Shasha</author></authors><title>Computational reproducibility: state-of-the-art, challenges, and database research opportunities.</title><venue>SIGMOD Conference</venue><pages>593-596</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FreireBS12</key><doi>10.1145/2213836.2213908</doi><ee>https://doi.org/10.1145/2213836.2213908</ee><url>https://dblp.org/rec/conf/sigmod/FreireBS12</url></info>
+<url>URL#4956134</url>
+</hit>
+<hit score="1" id="4956133">
+<info><authors><author pid="f/PieroFraternali">Piero Fraternali</author><author pid="14/6896">Davide Martinenghi</author><author pid="10/166">Marco Tagliasacchi</author></authors><title>Top-k bounded diversification.</title><venue>SIGMOD Conference</venue><pages>421-432</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FraternaliMT12</key><doi>10.1145/2213836.2213884</doi><ee>https://doi.org/10.1145/2213836.2213884</ee><url>https://dblp.org/rec/conf/sigmod/FraternaliMT12</url></info>
+<url>URL#4956133</url>
+</hit>
+<hit score="1" id="4956131">
+<info><authors><author pid="25/11142">Xixuan Feng</author><author pid="30/4308-1">Arun Kumar 0001</author><author pid="r/BenRecht">Benjamin Recht</author><author pid="r/ChristopherRe">Christopher Ré</author></authors><title>Towards a unified architecture for in-RDBMS analytics.</title><venue>SIGMOD Conference</venue><pages>325-336</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FengKRR12</key><doi>10.1145/2213836.2213874</doi><ee>https://doi.org/10.1145/2213836.2213874</ee><url>https://dblp.org/rec/conf/sigmod/FengKRR12</url></info>
+<url>URL#4956131</url>
+</hit>
+<hit score="1" id="4956130">
+<info><authors><author pid="94/2372">Wenfei Fan</author><author pid="18/6870-1">Jianzhong Li 0001</author><author pid="10/5630-64">Xin Wang 0064</author><author pid="32/6122">Yinghui Wu</author></authors><title>Query preserving graph compression.</title><venue>SIGMOD Conference</venue><pages>157-168</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FanLWW12</key><doi>10.1145/2213836.2213855</doi><ee>https://doi.org/10.1145/2213836.2213855</ee><url>https://dblp.org/rec/conf/sigmod/FanLWW12</url></info>
+<url>URL#4956130</url>
+</hit>
+<hit score="1" id="4956129">
+<info><authors><author pid="f/CFaloutsos">Christos Faloutsos</author><author pid="13/7122">U Kang</author></authors><title>Managing and mining large graphs: patterns and algorithms.</title><venue>SIGMOD Conference</venue><pages>585-588</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FaloutsosK12</key><doi>10.1145/2213836.2213906</doi><ee>https://doi.org/10.1145/2213836.2213906</ee><url>https://dblp.org/rec/conf/sigmod/FaloutsosK12</url></info>
+<url>URL#4956129</url>
+</hit>
+<hit score="1" id="4956127">
+<info><authors><author pid="05/11411">Cliff Engle</author><author pid="65/11411">Antonio Lupher</author><author pid="47/7258">Reynold Xin</author><author pid="36/2133">Matei Zaharia</author><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="34/5593">Scott Shenker</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Shark: fast data analysis using coarse-grained distributed memory.</title><venue>SIGMOD Conference</venue><pages>689-692</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/EngleLXZFSS12</key><doi>10.1145/2213836.2213934</doi><ee>https://doi.org/10.1145/2213836.2213934</ee><url>https://dblp.org/rec/conf/sigmod/EngleLXZFSS12</url></info>
+<url>URL#4956127</url>
+</hit>
+<hit score="1" id="4956125">
+<info><authors><author pid="27/3502">Iman Elghandour</author><author pid="01/3996">Ashraf Aboulnaga</author></authors><title>ReStore: reusing results of MapReduce jobs in pig.</title><venue>SIGMOD Conference</venue><pages>701-704</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ElghandourA12</key><doi>10.1145/2213836.2213937</doi><ee>https://doi.org/10.1145/2213836.2213937</ee><url>https://dblp.org/rec/conf/sigmod/ElghandourA12</url></info>
+<url>URL#4956125</url>
+</hit>
+<hit score="1" id="4956124">
+<info><authors><author pid="80/951">Amr El-Helw</author><author pid="52/11411">Mina H. Farid</author><author pid="i/IhabFIlyas">Ihab F. Ilyas</author></authors><title>Just-in-time information extraction using extraction views.</title><venue>SIGMOD Conference</venue><pages>613-616</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/El-HelwFI12</key><doi>10.1145/2213836.2213913</doi><ee>https://doi.org/10.1145/2213836.2213913</ee><url>https://dblp.org/rec/conf/sigmod/El-HelwFI12</url></info>
+<url>URL#4956124</url>
+</hit>
+<hit score="1" id="4956123">
+<info><authors><author pid="46/3522">Bolin Ding</author><author pid="w/HaixunWang">Haixun Wang</author><author pid="72/4662">Ruoming Jin</author><author pid="h/JiaweiHan">Jiawei Han 0001</author><author pid="84/6394-6">Zhongyuan Wang 0006</author></authors><title>Optimizing index for taxonomy keyword search.</title><venue>SIGMOD Conference</venue><pages>493-504</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DingWJHW12</key><doi>10.1145/2213836.2213892</doi><ee>https://doi.org/10.1145/2213836.2213892</ee><url>https://dblp.org/rec/conf/sigmod/DingWJHW12</url></info>
+<url>URL#4956123</url>
+</hit>
+<hit score="1" id="4956121">
+<info><authors><author pid="96/11411">Anton Dignös</author><author pid="b/MichaelHBohlen">Michael H. Böhlen</author><author pid="59/6952">Johann Gamper</author></authors><title>Temporal alignment.</title><venue>SIGMOD Conference</venue><pages>433-444</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DignosBG12</key><doi>10.1145/2213836.2213886</doi><ee>https://doi.org/10.1145/2213836.2213886</ee><url>https://dblp.org/rec/conf/sigmod/DignosBG12</url></info>
+<url>URL#4956121</url>
+</hit>
+<hit score="1" id="4956120">
+<info><authors><author pid="98/6876">Daniel Deutch</author><author pid="m/TovaMilo">Tova Milo</author></authors><title>Mob data sourcing.</title><venue>SIGMOD Conference</venue><pages>581-584</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DeutchM12</key><doi>10.1145/2213836.2213905</doi><ee>https://doi.org/10.1145/2213836.2213905</ee><url>https://dblp.org/rec/conf/sigmod/DeutchM12</url></info>
+<url>URL#4956120</url>
+</hit>
+<hit score="1" id="4956119">
+<info><authors><author pid="c/MPConsens">Mariano P. Consens</author><author pid="31/2472">Kleoni Ioannidou</author><author pid="60/10441">Jeff LeFevre</author><author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author></authors><title>Divergent physical design tuning for replicated databases.</title><venue>SIGMOD Conference</venue><pages>49-60</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ConsensILP12</key><doi>10.1145/2213836.2213843</doi><ee>https://doi.org/10.1145/2213836.2213843</ee><url>https://dblp.org/rec/conf/sigmod/ConsensILP12</url></info>
+<url>URL#4956119</url>
+</hit>
+<hit score="1" id="4956117">
+<info><authors><author pid="96/3060-7">Yu Cheng 0007</author><author pid="46/11411">Chengjie Qin</author><author pid="73/343">Florin Rusu</author></authors><title>GLADE: big data analytics made easy.</title><venue>SIGMOD Conference</venue><pages>697-700</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChengQR12</key><doi>10.1145/2213836.2213936</doi><ee>https://doi.org/10.1145/2213836.2213936</ee><url>https://dblp.org/rec/conf/sigmod/ChengQR12</url></info>
+<url>URL#4956117</url>
+</hit>
+<hit score="1" id="4956116">
+<info><authors><author pid="06/4171">James Cheng</author><author pid="07/3111">Yiping Ke</author><author pid="29/9582">Shumo Chu</author><author pid="32/11411">Carter Cheng</author></authors><title>Efficient processing of distance queries in large graphs: a vertex cover approach.</title><venue>SIGMOD Conference</venue><pages>457-468</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChengKCC12</key><doi>10.1145/2213836.2213888</doi><ee>https://doi.org/10.1145/2213836.2213888</ee><url>https://dblp.org/rec/conf/sigmod/ChengKCC12</url></info>
+<url>URL#4956116</url>
+</hit>
+<hit score="1" id="4956115">
+<info><authors><author pid="20/1036-1">Jianjun Chen 0001</author><author pid="20/11411">Chris Douglas</author><author pid="34/3714">Michi Mutsuzaki</author><author pid="10/11411">Patrick Quaid</author><author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan 0001</author><author pid="07/1315">Sriram Rao</author><author pid="54/129">Russell Sears</author></authors><title>Walnut: a unified cloud object store.</title><venue>SIGMOD Conference</venue><pages>743-754</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChenDMQRRS12</key><doi>10.1145/2213836.2213947</doi><ee>https://doi.org/10.1145/2213836.2213947</ee><url>https://dblp.org/rec/conf/sigmod/ChenDMQRRS12</url></info>
+<url>URL#4956115</url>
+</hit>
+<hit score="1" id="4956114">
+<info><authors><author pid="01/2861">Badrish Chandramouli</author><author pid="58/6528">Joris Claessens</author><author pid="85/6293">Suman Nath</author><author pid="26/7259">Ivo Santos</author><author pid="72/1077">Wenchao Zhou</author></authors><title>RACE: real-time applications over cloud-edge.</title><venue>SIGMOD Conference</venue><pages>625-628</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChandramouliCNSZ12</key><doi>10.1145/2213836.2213916</doi><ee>https://doi.org/10.1145/2213836.2213916</ee><url>https://dblp.org/rec/conf/sigmod/ChandramouliCNSZ12</url></info>
+<url>URL#4956114</url>
+</hit>
+<hit score="1" id="4956113">
+<info><authors><author pid="b/NicolasBruno">Nicolas Bruno</author><author pid="77/4196-2">Sameer Agarwal 0002</author><author pid="k/SrikanthKandula">Srikanth Kandula</author><author pid="77/2542">Bing Shi</author><author pid="39/5024">Ming-Chuan Wu</author><author pid="84/2644">Jingren Zhou</author></authors><title>Recurring job optimization in scope.</title><venue>SIGMOD Conference</venue><pages>805-806</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BrunoAKSWZ12</key><doi>10.1145/2213836.2213959</doi><ee>https://doi.org/10.1145/2213836.2213959</ee><url>https://dblp.org/rec/conf/sigmod/BrunoAKSWZ12</url></info>
+<url>URL#4956113</url>
+</hit>
+<hit score="1" id="4956111">
+<info><authors><author pid="09/11411">Robert Bolton</author><author pid="01/11025">David Ing</author><author pid="48/11411">Christopher Rebert</author><author pid="94/11411">Kristina Lam Thai</author></authors><title>Declarative web application development: encapsulating dynamic JavaScript widgets (abstract only).</title><venue>SIGMOD Conference</venue><pages>863</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BoltonIRT12</key><doi>10.1145/2213836.2213969</doi><ee>https://doi.org/10.1145/2213836.2213969</ee><url>https://dblp.org/rec/conf/sigmod/BoltonIRT12</url></info>
+<url>URL#4956111</url>
+</hit>
+<hit score="1" id="4956110">
+<info><authors><author pid="b/PBohannon">Philip Bohannon</author><author pid="03/6610">Nilesh N. Dalvi</author><author pid="71/8819">Yuval Filmus</author><author pid="45/11259">Nori Jacoby</author><author pid="35/6732">S. Sathiya Keerthi</author><author pid="49/1023">Alok Kirpal</author></authors><title>Automatic web-scale information extraction.</title><venue>SIGMOD Conference</venue><pages>609-612</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BohannonDFJKK12</key><doi>10.1145/2213836.2213912</doi><ee>https://doi.org/10.1145/2213836.2213912</ee><url>https://dblp.org/rec/conf/sigmod/BohannonDFJKK12</url></info>
+<url>URL#4956110</url>
+</hit>
+<hit score="1" id="4956109">
+<info><authors><author pid="94/2570">Anja Bog</author><author pid="64/1395">Kai Sachs</author><author pid="58/3831">Hasso Plattner</author></authors><title>Interactive performance monitoring of a composite OLTP and OLAP workload.</title><venue>SIGMOD Conference</venue><pages>645-648</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BogSP12</key><doi>10.1145/2213836.2213921</doi><ee>https://doi.org/10.1145/2213836.2213921</ee><url>https://dblp.org/rec/conf/sigmod/BogSP12</url></info>
+<url>URL#4956109</url>
+</hit>
+<hit score="1" id="4956107">
+<info><authors><author pid="57/11411">Steven Keith Begley</author><author pid="44/4618">Zhen He</author><author pid="c/YPPhoebeChen">Yi-Ping Phoebe Chen</author></authors><title>MCJoin: a memory-constrained join for column-store main-memory databases.</title><venue>SIGMOD Conference</venue><pages>121-132</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BegleyHC12</key><doi>10.1145/2213836.2213851</doi><ee>https://doi.org/10.1145/2213836.2213851</ee><url>https://dblp.org/rec/conf/sigmod/BegleyHC12</url></info>
+<url>URL#4956107</url>
+</hit>
+<hit score="1" id="4956106">
+<info><authors><author pid="84/9790">Eduardo M. Barbosa</author><author pid="m/MirellaMouraMoro">Mirella M. Moro</author><author pid="21/8385">Giseli Rabello Lopes</author><author pid="o/JosePalazzoMoreiradeOliveira">José Palazzo Moreira de Oliveira</author></authors><title>VRRC: web based tool for visualization and recommendation on co-authorship network (abstract only).</title><venue>SIGMOD Conference</venue><pages>865</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BarbosaMLO12</key><doi>10.1145/2213836.2213975</doi><ee>https://doi.org/10.1145/2213836.2213975</ee><url>https://dblp.org/rec/conf/sigmod/BarbosaMLO12</url></info>
+<url>URL#4956106</url>
+</hit>
+<hit score="1" id="4956105">
+<info><authors><author pid="44/4147">Andrey Balmin</author><author pid="35/908">Tim Kaldewey</author><author pid="20/1055">Sandeep Tata</author></authors><title>Clydesdale: structured data processing on hadoop.</title><venue>SIGMOD Conference</venue><pages>705-708</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BalminKT12</key><doi>10.1145/2213836.2213938</doi><ee>https://doi.org/10.1145/2213836.2213938</ee><url>https://dblp.org/rec/conf/sigmod/BalminKT12</url></info>
+<url>URL#4956105</url>
+</hit>
+<hit score="1" id="4956103">
+<info><authors><author pid="08/7993">Anastasios Arvanitis</author><author pid="k/GeorgiaKoutrika">Georgia Koutrika</author></authors><title>PrefDB: bringing preferences closer to the DBMS.</title><venue>SIGMOD Conference</venue><pages>665-668</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ArvanitisK12</key><doi>10.1145/2213836.2213927</doi><ee>https://doi.org/10.1145/2213836.2213927</ee><url>https://dblp.org/rec/conf/sigmod/ArvanitisK12</url></info>
+<url>URL#4956103</url>
+</hit>
+<hit score="1" id="4956100">
+<info><authors><author pid="66/6659-3">Philip Anderson 0003</author><author pid="51/508">Andreas Thor</author><author pid="35/11411">Joseph Benik</author><author pid="r/LouiqaRaschid">Louiqa Raschid</author><author pid="92/654">Maria-Esther Vidal</author></authors><title>PAnG: finding patterns in annotation graphs.</title><venue>SIGMOD Conference</venue><pages>677-680</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AndersonTBRV12</key><doi>10.1145/2213836.2213930</doi><ee>https://doi.org/10.1145/2213836.2213930</ee><url>https://dblp.org/rec/conf/sigmod/AndersonTBRV12</url></info>
+<url>URL#4956100</url>
+</hit>
+<hit score="1" id="4956099">
+<info><authors><author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author><author pid="08/11411">Samreen Anjum</author><author pid="33/11411">Amira Ghenai</author><author pid="91/11304">Aysha Siddique</author><author pid="07/225">Sofiane Abbar</author><author pid="m/SamuelMadden">Sam Madden 0001</author><author pid="m/AdamMarcus2">Adam Marcus 0002</author><author pid="34/11411">Mohammed El-Haddad</author></authors><title>MAQSA: a system for social analytics on news.</title><venue>SIGMOD Conference</venue><pages>653-656</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Amer-YahiaAGSAMME12</key><doi>10.1145/2213836.2213924</doi><ee>https://doi.org/10.1145/2213836.2213924</ee><url>https://dblp.org/rec/conf/sigmod/Amer-YahiaAGSAMME12</url></info>
+<url>URL#4956099</url>
+</hit>
+<hit score="1" id="4956096">
+<info><authors><author pid="05/6762">Bogdan Alexe</author><author pid="56/451">Mauricio A. Hernández</author><author pid="h/KirstenHildrum">Kirsten Hildrum</author><author pid="51/6067">Rajasekar Krishnamurthy</author><author pid="k/GeorgiaKoutrika">Georgia Koutrika</author><author pid="19/3517">Meenakshi Nagarajan</author><author pid="94/4396">Haggai Roitman</author><author pid="s/MShmueliS">Michal Shmueli-Scheuer</author><author pid="s/IoanaStanoi">Ioana Roxana Stanoi</author><author pid="49/2856">Chitra Venkatramani</author><author pid="40/1228">Rohit Wagle</author></authors><title>Surfacing time-critical insights from social media.</title><venue>SIGMOD Conference</venue><pages>657-660</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AlexeHHKKNRSSVW12</key><doi>10.1145/2213836.2213925</doi><ee>https://doi.org/10.1145/2213836.2213925</ee><url>https://dblp.org/rec/conf/sigmod/AlexeHHKKNRSSVW12</url></info>
+<url>URL#4956096</url>
+</hit>
+<hit score="1" id="4956094">
+<info><authors><author pid="00/7933">Ioannis Alagiannis</author><author pid="36/10568">Renata Borovica</author><author pid="61/2926">Miguel Branco</author><author pid="i/StratosIdreos">Stratos Idreos</author><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>NoDB: efficient query execution on raw data files.</title><venue>SIGMOD Conference</venue><pages>241-252</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AlagiannisBBIA12</key><doi>10.1145/2213836.2213864</doi><ee>https://doi.org/10.1145/2213836.2213864</ee><url>https://dblp.org/rec/conf/sigmod/AlagiannisBBIA12</url></info>
+<url>URL#4956094</url>
+</hit>
+<hit score="1" id="4956093">
+<info><authors><author pid="02/6979">Leman Akoglu</author><author pid="10/2670">Duen Horng Chau</author><author pid="13/7122">U Kang</author><author pid="91/9987">Danai Koutra</author><author pid="f/CFaloutsos">Christos Faloutsos</author></authors><title>OPAvion: mining and visualization in large graphs.</title><venue>SIGMOD Conference</venue><pages>717-720</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AkogluCKKF12</key><doi>10.1145/2213836.2213941</doi><ee>https://doi.org/10.1145/2213836.2213941</ee><url>https://dblp.org/rec/conf/sigmod/AkogluCKKF12</url></info>
+<url>URL#4956093</url>
+</hit>
+<hit score="1" id="4956091">
+<info><authors><author pid="a/SergeAbiteboul">Serge Abiteboul</author><author pid="88/9060">Yael Amsterdamer</author><author pid="m/TovaMilo">Tova Milo</author><author pid="12/225">Pierre Senellart</author></authors><title>Auto-completion learning for XML.</title><venue>SIGMOD Conference</venue><pages>669-672</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AbiteboulAMS12</key><doi>10.1145/2213836.2213928</doi><ee>https://doi.org/10.1145/2213836.2213928</ee><url>https://dblp.org/rec/conf/sigmod/AbiteboulAMS12</url></info>
+<url>URL#4956091</url>
+</hit>
+<hit score="1" id="4956090">
+<info><authors><author pid="51/792-2">Karthik Ramachandra 0002</author><author pid="s/SSudarshan1">S. Sudarshan 0001</author></authors><title>Holistic optimization by prefetching query results.</title><venue>SIGMOD Conference</venue><pages>133-144</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/0002S12</key><doi>10.1145/2213836.2213852</doi><ee>https://doi.org/10.1145/2213836.2213852</ee><url>https://dblp.org/rec/conf/sigmod/0002S12</url></info>
+<url>URL#4956090</url>
+</hit>
+</hits>
+</result>

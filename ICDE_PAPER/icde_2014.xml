@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="44583">:facetid:toc:\"db/conf/icde/icde2014.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">71.89</time>
+<completions total="1" computed="1" sent="1">
+<c sc="136" dc="136" oc="136" id="46481682">:facetid:toc:db/conf/icde/icde2014.bht</c>
+</completions>
+<hits total="136" computed="136" sent="136" first="0">
+<hit score="1" id="4337758">
+<info><authors><author pid="34/1397-1">Petar Jovanovic 0001</author><author pid="s/ASimitsis">Alkis Simitsis</author><author pid="w/KevinWilkinson">Kevin Wilkinson</author></authors><title>Engine independence for logical analytic flows.</title><venue>ICDE</venue><pages>1060-1071</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0001SW14</key><doi>10.1109/ICDE.2014.6816723</doi><ee>https://doi.org/10.1109/ICDE.2014.6816723</ee><url>https://dblp.org/rec/conf/icde/0001SW14</url></info>
+<url>URL#4337758</url>
+</hit>
+<hit score="1" id="4337759">
+<info><authors><author pid="07/225">Sofiane Abbar</author><author pid="121/4151-1">Habibur Rahman 0001</author><author pid="57/10514">Saravanan Thirumuruganathan</author><author pid="c/CarlosCastillo1">Carlos Castillo 0001</author><author pid="07/1181">Gautam Das 0001</author></authors><title>Ranking item features by mining online user-item interactions.</title><venue>ICDE</venue><pages>460-471</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AbbarRTCD14</key><doi>10.1109/ICDE.2014.6816673</doi><ee>https://doi.org/10.1109/ICDE.2014.6816673</ee><url>https://dblp.org/rec/conf/icde/AbbarRTCD14</url></info>
+<url>URL#4337759</url>
+</hit>
+<hit score="1" id="4337760">
+<info><authors><author pid="38/8707">Ziawasch Abedjan</author><author pid="69/8707">Toni Grütze</author><author pid="28/1714">Anja Jentzsch</author><author pid="n/FelixNaumann">Felix Naumann</author></authors><title>Profiling and mining RDF data with ProLOD++.</title><venue>ICDE</venue><pages>1198-1201</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AbedjanGJN14</key><doi>10.1109/ICDE.2014.6816740</doi><ee>https://doi.org/10.1109/ICDE.2014.6816740</ee><url>https://dblp.org/rec/conf/icde/AbedjanGJN14</url></info>
+<url>URL#4337760</url>
+</hit>
+<hit score="1" id="4337761">
+<info><authors><author pid="38/8707">Ziawasch Abedjan</author><author pid="09/6353">Jorge-Arnulfo Quiané-Ruiz</author><author pid="n/FelixNaumann">Felix Naumann</author></authors><title>Detecting unique column combinations on dynamic data.</title><venue>ICDE</venue><pages>1036-1047</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AbedjanQN14</key><doi>10.1109/ICDE.2014.6816721</doi><ee>https://doi.org/10.1109/ICDE.2014.6816721</ee><url>https://dblp.org/rec/conf/icde/AbedjanQN14</url></info>
+<url>URL#4337761</url>
+</hit>
+<hit score="1" id="4337762">
+<info><authors><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>Running with scissors: Fast queries on just-in-time databases.</title><venue>ICDE</venue><pages>1</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Ailamaki14</key><doi>10.1109/ICDE.2014.6816633</doi><ee>https://doi.org/10.1109/ICDE.2014.6816633</ee><url>https://dblp.org/rec/conf/icde/Ailamaki14</url></info>
+<url>URL#4337762</url>
+</hit>
+<hit score="1" id="4337763">
+<info><authors><author pid="69/726">Jitendra Ajmera</author><author pid="96/2418">Sachindra Joshi</author><author pid="41/442">Ashish Verma</author><author pid="145/6080">Amol Mittal</author></authors><title>Automatic generation of question answer pairs from noisy case logs.</title><venue>ICDE</venue><pages>436-447</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AjmeraJVM14</key><doi>10.1109/ICDE.2014.6816671</doi><ee>https://doi.org/10.1109/ICDE.2014.6816671</ee><url>https://dblp.org/rec/conf/icde/AjmeraJVM14</url></info>
+<url>URL#4337763</url>
+</hit>
+<hit score="1" id="4337764">
+<info><authors><author pid="a/OmarAlonso">Omar Alonso</author><author pid="145/2574">Kartikay Khandelwal</author></authors><title>Kondenzer: Exploration and visualization of archived social media.</title><venue>ICDE</venue><pages>1202-1205</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AlonsoK14</key><doi>10.1109/ICDE.2014.6816741</doi><ee>https://doi.org/10.1109/ICDE.2014.6816741</ee><url>https://dblp.org/rec/conf/icde/AlonsoK14</url></info>
+<url>URL#4337764</url>
+</hit>
+<hit score="1" id="4337765">
+<info><authors><author pid="25/4106">Peter Alvaro</author><author pid="05/729">Neil Conway</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="m/DavidMaier">David Maier 0001</author></authors><title>Blazes: Coordination analysis for distributed programs.</title><venue>ICDE</venue><pages>52-63</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AlvaroCHM14</key><doi>10.1109/ICDE.2014.6816639</doi><ee>https://doi.org/10.1109/ICDE.2014.6816639</ee><url>https://dblp.org/rec/conf/icde/AlvaroCHM14</url></info>
+<url>URL#4337765</url>
+</hit>
+<hit score="1" id="4337766">
+<info><authors><author pid="79/7457">David C. Anastasiu</author><author pid="k/GeorgeKarypis">George Karypis</author></authors><title>L2AP: Fast cosine similarity search with prefix L-2 norm bounds.</title><venue>ICDE</venue><pages>784-795</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AnastasiuK14</key><doi>10.1109/ICDE.2014.6816700</doi><ee>https://doi.org/10.1109/ICDE.2014.6816700</ee><url>https://dblp.org/rec/conf/icde/AnastasiuK14</url></info>
+<url>URL#4337766</url>
+</hit>
+<hit score="1" id="4337767">
+<info><authors><author pid="20/3360">Ilaria Bordino</author><author pid="96/8779">Nicolas Kourtellis</author><author pid="96/7449">Nikolay Laptev</author><author pid="118/4050">Youssef Billawala</author></authors><title>Stock trade volume prediction with Yahoo Finance user browsing behavior.</title><venue>ICDE</venue><pages>1168-1173</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BordinoKLB14</key><doi>10.1109/ICDE.2014.6816733</doi><ee>https://doi.org/10.1109/ICDE.2014.6816733</ee><url>https://dblp.org/rec/conf/icde/BordinoKLB14</url></info>
+<url>URL#4337767</url>
+</hit>
+<hit score="1" id="4337768">
+<info><authors><author pid="145/5330">Mikkel Boysen</author><author pid="145/5333">Christian de Haas</author><author pid="l/HuaLu">Hua Lu 0001</author><author pid="64/1308">Xike Xie</author><author pid="145/6284">Aiste Pilvinyte</author></authors><title>Constructing indoor navigation systems from digital building information.</title><venue>ICDE</venue><pages>1194-1197</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BoysenHLXP14</key><doi>10.1109/ICDE.2014.6816739</doi><ee>https://doi.org/10.1109/ICDE.2014.6816739</ee><url>https://dblp.org/rec/conf/icde/BoysenHLXP14</url></info>
+<url>URL#4337768</url>
+</hit>
+<hit score="1" id="4337769">
+<info><authors><author pid="68/6563-4">Yu Cao 0004</author><author pid="01/9437">Xiaoyan Guo</author><author pid="73/5686">Baoyao Zhou</author><author pid="25/6580">Stephen Todd</author></authors><title>HOPE: Iterative and interactive database partitioning for OLTP workloads.</title><venue>ICDE</venue><pages>1274-1277</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CaoGZT14</key><doi>10.1109/ICDE.2014.6816759</doi><ee>https://doi.org/10.1109/ICDE.2014.6816759</ee><url>https://dblp.org/rec/conf/icde/CaoGZT14</url></info>
+<url>URL#4337769</url>
+</hit>
+<hit score="1" id="4337770">
+<info><authors><author pid="17/6060-4">Lei Cao 0004</author><author pid="29/5427-3">Di Yang 0003</author><author pid="75/1008-4">Qingyang Wang 0004</author><author pid="63/5275">Yanwei Yu</author><author pid="130/7844">Jiayuan Wang</author><author pid="r/EARundensteiner">Elke A. Rundensteiner</author></authors><title>Scalable distance-based outlier detection over high-volume data streams.</title><venue>ICDE</venue><pages>76-87</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CaoYWYWR14</key><doi>10.1109/ICDE.2014.6816641</doi><ee>https://doi.org/10.1109/ICDE.2014.6816641</ee><url>https://dblp.org/rec/conf/icde/CaoYWYWR14</url></info>
+<url>URL#4337770</url>
+</hit>
+<hit score="1" id="4337771">
+<info><authors><author pid="43/3578">Loïc Cerf</author><author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author></authors><title>Complete discovery of high-quality patterns in large numerical tensors.</title><venue>ICDE</venue><pages>448-459</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CerfM14</key><doi>10.1109/ICDE.2014.6816672</doi><ee>https://doi.org/10.1109/ICDE.2014.6816672</ee><url>https://dblp.org/rec/conf/icde/CerfM14</url></info>
+<url>URL#4337771</url>
+</hit>
+<hit score="1" id="4337772">
+<info><authors><author pid="84/8712">Inci Cetindil</author><author pid="54/6334">Jamshid Esmaelnezhad</author><author pid="16/2599-1">Taewoo Kim 0001</author><author pid="l/ChenLi1">Chen Li 0001</author></authors><title>Efficient instant-fuzzy search with proximity ranking.</title><venue>ICDE</venue><pages>328-339</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CetindilEKL14</key><doi>10.1109/ICDE.2014.6816662</doi><ee>https://doi.org/10.1109/ICDE.2014.6816662</ee><url>https://dblp.org/rec/conf/icde/CetindilEKL14</url></info>
+<url>URL#4337772</url>
+</hit>
+<hit score="1" id="4337773">
+<info><authors><author pid="117/4356">Youngchul Cha</author><author pid="76/4977">Junghoo Cho</author><author pid="64/4192">Jian Yuan</author><author pid="y/TakWYan">Tak W. Yan</author></authors><title>Exploration of the effect of Category Match Score in search advertising.</title><venue>ICDE</venue><pages>1156-1161</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChaCYY14</key><doi>10.1109/ICDE.2014.6816731</doi><ee>https://doi.org/10.1109/ICDE.2014.6816731</ee><url>https://dblp.org/rec/conf/icde/ChaCYY14</url></info>
+<url>URL#4337773</url>
+</hit>
+<hit score="1" id="4337774">
+<info><authors><author pid="89/2619">Reynold Cheng</author><author pid="79/7126">Tobias Emrich</author><author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author><author pid="34/6253">Nikos Mamoulis</author><author pid="r/MatthiasRenz">Matthias Renz</author><author pid="66/974">Goce Trajcevski</author><author pid="18/2478">Andreas Züfle</author></authors><title>Managing uncertainty in spatial and spatio-temporal data.</title><venue>ICDE</venue><pages>1302-1305</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChengEKMRTZ14</key><doi>10.1109/ICDE.2014.6816766</doi><ee>https://doi.org/10.1109/ICDE.2014.6816766</ee><url>https://dblp.org/rec/conf/icde/ChengEKMRTZ14</url></info>
+<url>URL#4337774</url>
+</hit>
+<hit score="1" id="4337775">
+<info><authors><author pid="145/6171">Christina Christodoulakis</author><author pid="f/CFaloutsos">Christos Faloutsos</author><author pid="m/RJMiller">Renée J. Miller</author></authors><title>VoidWiz: Resolving incompleteness using network effects.</title><venue>ICDE</venue><pages>1230-1233</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChristodoulakisFM14</key><doi>10.1109/ICDE.2014.6816748</doi><ee>https://doi.org/10.1109/ICDE.2014.6816748</ee><url>https://dblp.org/rec/conf/icde/ChristodoulakisFM14</url></info>
+<url>URL#4337775</url>
+</hit>
+<hit score="1" id="4337776">
+<info><authors><author pid="131/4767">Xu Chu</author><author pid="i/IhabFIlyas">Ihab F. Ilyas</author><author pid="p/PaoloPapotti">Paolo Papotti</author><author pid="66/7724">Yin Ye</author></authors><title>RuleMiner: Data quality rules discovery.</title><venue>ICDE</venue><pages>1222-1225</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChuIPY14</key><doi>10.1109/ICDE.2014.6816746</doi><ee>https://doi.org/10.1109/ICDE.2014.6816746</ee><url>https://dblp.org/rec/conf/icde/ChuIPY14</url></info>
+<url>URL#4337776</url>
+</hit>
+<hit score="1" id="4337777">
+<info><authors><author pid="c/SaraCohen">Sara Cohen</author><author pid="145/6340">Nerya Or</author></authors><title>A general algorithm for subtree similarity-search.</title><venue>ICDE</venue><pages>928-939</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CohenO14</key><doi>10.1109/ICDE.2014.6816712</doi><ee>https://doi.org/10.1109/ICDE.2014.6816712</ee><url>https://dblp.org/rec/conf/icde/CohenO14</url></info>
+<url>URL#4337777</url>
+</hit>
+<hit score="1" id="4337779">
+<info><authors><author pid="01/5590">Xuan-Hong Dang</author><author pid="a/IraAssent">Ira Assent</author><author pid="n/RTNg">Raymond T. Ng</author><author pid="27/4179">Arthur Zimek</author><author pid="61/5820">Erich Schubert</author></authors><title>Discriminative features for identifying and interpreting outliers.</title><venue>ICDE</venue><pages>88-99</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DangANZS14</key><doi>10.1109/ICDE.2014.6816642</doi><ee>https://doi.org/10.1109/ICDE.2014.6816642</ee><url>https://dblp.org/rec/conf/icde/DangANZS14</url></info>
+<url>URL#4337779</url>
+</hit>
+<hit score="1" id="4337780">
+<info><authors><author pid="71/8700-1">Dong Deng 0001</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="07/6713-2">Shuang Hao 0002</author><author pid="39/7183-1">Jiannan Wang 0001</author><author pid="43/6576">Jianhua Feng</author></authors><title>MassJoin: A mapreduce-based method for scalable string similarity joins.</title><venue>ICDE</venue><pages>340-351</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DengLHWF14</key><doi>10.1109/ICDE.2014.6816663</doi><ee>https://doi.org/10.1109/ICDE.2014.6816663</ee><url>https://dblp.org/rec/conf/icde/DengLHWF14</url></info>
+<url>URL#4337780</url>
+</hit>
+<hit score="1" id="4337784">
+<info><authors><author pid="66/9726">Ahmed Eldawy</author><author pid="94/5893">Mohamed F. Mokbel</author></authors><title>Pigeon: A spatial MapReduce language.</title><venue>ICDE</venue><pages>1242-1245</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/EldawyM14</key><doi>10.1109/ICDE.2014.6816751</doi><ee>https://doi.org/10.1109/ICDE.2014.6816751</ee><url>https://dblp.org/rec/conf/icde/EldawyM14</url></info>
+<url>URL#4337784</url>
+</hit>
+<hit score="1" id="4337785">
+<info><authors><author pid="120/6767">Yousef Elmehdwi</author><author pid="57/9838">Bharath K. Samanthula</author><author pid="21/3839">Wei Jiang</author></authors><title>Secure k-nearest neighbor query over encrypted data in outsourced environments.</title><venue>ICDE</venue><pages>664-675</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ElmehdwiSJ14</key><doi>10.1109/ICDE.2014.6816690</doi><ee>https://doi.org/10.1109/ICDE.2014.6816690</ee><url>https://dblp.org/rec/conf/icde/ElmehdwiSJ14</url></info>
+<url>URL#4337785</url>
+</hit>
+<hit score="1" id="4337787">
+<info><authors><author pid="81/8780">Patrick Ernst</author><author pid="145/6054">Cynthia Meng</author><author pid="127/1469">Amy Siu</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>KnowLife: A knowledge graph for health and life sciences.</title><venue>ICDE</venue><pages>1254-1257</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ErnstMSW14</key><doi>10.1109/ICDE.2014.6816754</doi><ee>https://doi.org/10.1109/ICDE.2014.6816754</ee><url>https://dblp.org/rec/conf/icde/ErnstMSW14</url></info>
+<url>URL#4337787</url>
+</hit>
+<hit score="1" id="4337788">
+<info><authors><author pid="78/4413">Ju Fan</author><author pid="93/7784">Meiyu Lu</author><author pid="o/BengChinOoi">Beng Chin Ooi</author><author pid="t/WangChiewTan">Wang-Chiew Tan</author><author pid="08/7259">Meihui Zhang 0001</author></authors><title>A hybrid machine-crowdsourcing system for matching web tables.</title><venue>ICDE</venue><pages>976-987</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FanLOTZ14</key><doi>10.1109/ICDE.2014.6816716</doi><ee>https://doi.org/10.1109/ICDE.2014.6816716</ee><url>https://dblp.org/rec/conf/icde/FanLOTZ14</url></info>
+<url>URL#4337788</url>
+</hit>
+<hit score="1" id="4337789">
+<info><authors><author pid="94/2372">Wenfei Fan</author><author pid="10/5630-64">Xin Wang 0064</author><author pid="32/6122">Yinghui Wu</author></authors><title>Answering graph pattern queries using views.</title><venue>ICDE</venue><pages>184-195</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FanWW14</key><doi>10.1109/ICDE.2014.6816650</doi><ee>https://doi.org/10.1109/ICDE.2014.6816650</ee><url>https://dblp.org/rec/conf/icde/FanWW14</url></info>
+<url>URL#4337789</url>
+</hit>
+<hit score="1" id="4337790">
+<info><authors><author pid="75/7398">Nicholas L. Farnan</author><author pid="62/1373">Adam J. Lee</author><author pid="c/PKChrysanthis">Panos K. Chrysanthis</author><author pid="y/TingYu-1">Ting Yu 0001</author></authors><title>PAQO: Preference-aware query optimization for decentralized database systems.</title><venue>ICDE</venue><pages>424-435</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FarnanLCY14</key><doi>10.1109/ICDE.2014.6816670</doi><ee>https://doi.org/10.1109/ICDE.2014.6816670</ee><url>https://dblp.org/rec/conf/icde/FarnanLCY14</url></info>
+<url>URL#4337790</url>
+</hit>
+<hit score="1" id="4337791">
+<info><authors><author pid="17/1152">Wei Feng</author><author pid="24/2006">Jianyong Wang 0001</author></authors><title>We can learn your #hashtags: Connecting tweets to explicit topics.</title><venue>ICDE</venue><pages>856-867</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FengW14</key><doi>10.1109/ICDE.2014.6816706</doi><ee>https://doi.org/10.1109/ICDE.2014.6816706</ee><url>https://dblp.org/rec/conf/icde/FengW14</url></info>
+<url>URL#4337791</url>
+</hit>
+<hit score="1" id="4337792">
+<info><authors><author pid="88/11188">Daniel Gómez Ferro</author><author pid="27/2404">Flavio Junqueira</author><author pid="37/10440">Ivan Kelly</author><author pid="52/7399">Benjamin C. Reed</author><author pid="26/6645">Maysam Yabandeh</author></authors><title>Omid: Lock-free transactional support for distributed data stores.</title><venue>ICDE</venue><pages>676-687</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FerroJKRY14</key><doi>10.1109/ICDE.2014.6816691</doi><ee>https://doi.org/10.1109/ICDE.2014.6816691</ee><url>https://dblp.org/rec/conf/icde/FerroJKRY14</url></info>
+<url>URL#4337792</url>
+</hit>
+<hit score="1" id="4337795">
+<info><authors><author pid="36/8234">Sergej Fries</author><author pid="57/7963">Brigitte Boden</author><author pid="145/6304">Grzegorz Stepien</author><author pid="s/ThomasSeidl1">Thomas Seidl 0001</author></authors><title>PHiDJ: Parallel similarity self-join for high-dimensional vector data with MapReduce.</title><venue>ICDE</venue><pages>796-807</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FriesBSS14</key><doi>10.1109/ICDE.2014.6816701</doi><ee>https://doi.org/10.1109/ICDE.2014.6816701</ee><url>https://dblp.org/rec/conf/icde/FriesBSS14</url></info>
+<url>URL#4337795</url>
+</hit>
+<hit score="1" id="4337796">
+<info><authors><author pid="82/4977-3">Jun Gao 0003</author><author pid="89/9726">Jiashuai Zhou</author><author pid="03/10205">Chang Zhou</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>GLog: A high level graph analysis system using MapReduce.</title><venue>ICDE</venue><pages>544-555</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GaoZZY14</key><doi>10.1109/ICDE.2014.6816680</doi><ee>https://doi.org/10.1109/ICDE.2014.6816680</ee><url>https://dblp.org/rec/conf/icde/GaoZZY14</url></info>
+<url>URL#4337796</url>
+</hit>
+<hit score="1" id="4337797">
+<info><authors><author pid="82/4977-3">Jun Gao 0003</author><author pid="03/10205">Chang Zhou</author><author pid="89/9726">Jiashuai Zhou</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>Continuous pattern detection over billion-edge graph using distributed framework.</title><venue>ICDE</venue><pages>556-567</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GaoZZY14a</key><doi>10.1109/ICDE.2014.6816681</doi><ee>https://doi.org/10.1109/ICDE.2014.6816681</ee><url>https://dblp.org/rec/conf/icde/GaoZZY14a</url></info>
+<url>URL#4337797</url>
+</hit>
+<hit score="1" id="4337798">
+<info><authors><author pid="g/FlorisGeerts">Floris Geerts</author><author pid="m/GMecca">Giansalvatore Mecca</author><author pid="p/PaoloPapotti">Paolo Papotti</author><author pid="32/5873">Donatello Santoro</author></authors><title>Mapping and cleaning.</title><venue>ICDE</venue><pages>232-243</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GeertsMPS14</key><doi>10.1109/ICDE.2014.6816654</doi><ee>https://doi.org/10.1109/ICDE.2014.6816654</ee><url>https://dblp.org/rec/conf/icde/GeertsMPS14</url></info>
+<url>URL#4337798</url>
+</hit>
+<hit score="1" id="4337801">
+<info><authors><author pid="42/3296">Lukasz Golab</author><author pid="j/TheodoreJohnson">Theodore Johnson</author></authors><title>Data stream warehousing.</title><venue>ICDE</venue><pages>1290-1293</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GolabJ14</key><doi>10.1109/ICDE.2014.6816763</doi><ee>https://doi.org/10.1109/ICDE.2014.6816763</ee><url>https://dblp.org/rec/conf/icde/GolabJ14</url></info>
+<url>URL#4337801</url>
+</hit>
+<hit score="1" id="4337803">
+<info><authors><author pid="10/5842">Michael N. Gubanov</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author><author pid="129/6759">Daniel Bruckner</author></authors><title>Text and structured data fusion in data tamer at scale.</title><venue>ICDE</venue><pages>1258-1261</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GubanovSB14</key><doi>10.1109/ICDE.2014.6816755</doi><ee>https://doi.org/10.1109/ICDE.2014.6816755</ee><url>https://dblp.org/rec/conf/icde/GubanovSB14</url></info>
+<url>URL#4337803</url>
+</hit>
+<hit score="1" id="4337805">
+<info><authors><author pid="g/ManishGupta1">Manish Gupta 0001</author><author pid="67/4834-4">Jing Gao 0004</author><author pid="y/XifengYan">Xifeng Yan</author><author pid="c/HasanCam">Hasan Cam</author><author pid="h/JiaweiHan">Jiawei Han 0001</author></authors><title>Top-K interesting subgraph discovery in information networks.</title><venue>ICDE</venue><pages>820-831</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GuptaGYCH14</key><doi>10.1109/ICDE.2014.6816703</doi><ee>https://doi.org/10.1109/ICDE.2014.6816703</ee><url>https://dblp.org/rec/conf/icde/GuptaGYCH14</url></info>
+<url>URL#4337805</url>
+</hit>
+<hit score="1" id="4337807">
+<info><authors><author pid="70/2530">Rajeev Gupta</author><author pid="r/KrithiRamamritham">Krithi Ramamritham</author></authors><title>Distributed execution of continuous queries.</title><venue>ICDE</venue><pages>1306-1309</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GuptaR14</key><doi>10.1109/ICDE.2014.6816767</doi><ee>https://doi.org/10.1109/ICDE.2014.6816767</ee><url>https://dblp.org/rec/conf/icde/GuptaR14</url></info>
+<url>URL#4337807</url>
+</hit>
+<hit score="1" id="4337808">
+<info><authors><author pid="136/1156">Gheorghi Guzun</author><author pid="40/4280">Guadalupe Canahuate</author><author pid="64/411">David Chiu 0001</author><author pid="26/2984">Jason Sawin</author></authors><title>A tunable compression framework for bitmap indices.</title><venue>ICDE</venue><pages>484-495</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GuzunCCS14</key><doi>10.1109/ICDE.2014.6816675</doi><ee>https://doi.org/10.1109/ICDE.2014.6816675</ee><url>https://dblp.org/rec/conf/icde/GuzunCCS14</url></info>
+<url>URL#4337808</url>
+</hit>
+<hit score="1" id="4337810">
+<info><authors><author pid="137/7815">Shizuya Hakuta</author><author pid="m/SebastianManeth">Sebastian Maneth</author><author pid="32/3049-1">Keisuke Nakano 0001</author><author pid="58/4276">Hideya Iwasaki</author></authors><title>XQuery streaming by Forest Transducers.</title><venue>ICDE</venue><pages>952-963</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HakutaMNI14</key><doi>10.1109/ICDE.2014.6816714</doi><ee>https://doi.org/10.1109/ICDE.2014.6816714</ee><url>https://dblp.org/rec/conf/icde/HakutaMNI14</url></info>
+<url>URL#4337810</url>
+</hit>
+<hit score="1" id="4337811">
+<info><authors><author pid="17/5450">Hyuck Han</author><author pid="173/3539">Seongjae Park</author><author pid="45/1270">Hyungsoo Jung 0001</author><author pid="f/AlanDavidFekete">Alan D. Fekete</author><author pid="r/UweRohm">Uwe Röhm</author><author pid="58/4211">Heon Y. Yeom</author></authors><title>Scalable serializable snapshot isolation for multicore systems.</title><venue>ICDE</venue><pages>700-711</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HanPJFRY14</key><doi>10.1109/ICDE.2014.6816693</doi><ee>https://doi.org/10.1109/ICDE.2014.6816693</ee><url>https://dblp.org/rec/conf/icde/HanPJFRY14</url></info>
+<url>URL#4337811</url>
+</hit>
+<hit score="1" id="4337812">
+<info><authors><author pid="29/3132">Olaf Hartig</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author></authors><title>Linked Data query processing.</title><venue>ICDE</venue><pages>1286-1289</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HartigO14</key><doi>10.1109/ICDE.2014.6816762</doi><ee>https://doi.org/10.1109/ICDE.2014.6816762</ee><url>https://dblp.org/rec/conf/icde/HartigO14</url></info>
+<url>URL#4337812</url>
+</hit>
+<hit score="1" id="4337817">
+<info><authors><author pid="90/5236-1">Haibo Hu 0001</author><author pid="x/JianliangXu">Jianliang Xu</author><author pid="145/6144">Xizhong Xu</author><author pid="145/6061">Kexin Pei</author><author pid="07/1560">Byron Choi</author><author pid="52/6744">Shuigeng Zhou</author></authors><title>Private search on key-value stores with hierarchical indexes.</title><venue>ICDE</venue><pages>628-639</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuXXPCZ14</key><doi>10.1109/ICDE.2014.6816687</doi><ee>https://doi.org/10.1109/ICDE.2014.6816687</ee><url>https://dblp.org/rec/conf/icde/HuXXPCZ14</url></info>
+<url>URL#4337817</url>
+</hit>
+<hit score="1" id="4337818">
+<info><authors><author pid="04/5616-1">Hao Huang 0001</author><author pid="80/2651">Yunjun Gao</author><author pid="34/7145">Kevin Chiew</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="44/2784">Qinming He</author></authors><title>Towards effective and efficient mining of arbitrary shaped clusters.</title><venue>ICDE</venue><pages>28-39</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuangGCCH14</key><doi>10.1109/ICDE.2014.6816637</doi><ee>https://doi.org/10.1109/ICDE.2014.6816637</ee><url>https://dblp.org/rec/conf/icde/HuangGCCH14</url></info>
+<url>URL#4337818</url>
+</hit>
+<hit score="1" id="4337819">
+<info><authors><author pid="14/775">Jiewen Huang</author><author pid="145/6365">Kartik Venkatraman</author><author pid="a/DJAbadi">Daniel J. Abadi</author></authors><title>Query optimization of distributed pattern matching.</title><venue>ICDE</venue><pages>64-75</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuangVA14</key><doi>10.1109/ICDE.2014.6816640</doi><ee>https://doi.org/10.1109/ICDE.2014.6816640</ee><url>https://dblp.org/rec/conf/icde/HuangVA14</url></info>
+<url>URL#4337819</url>
+</hit>
+<hit score="1" id="4337820">
+<info><authors><author pid="49/2488-3">Jin Huang 0003</author><author pid="03/505">Rui Zhang 0003</author><author pid="b/RajkumarBuyya">Rajkumar Buyya</author><author pid="49/6002-11">Jian Chen 0011</author></authors><title>MELODY-JOIN: Efficient Earth Mover&apos;s Distance similarity joins using MapReduce.</title><venue>ICDE</venue><pages>808-819</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuangZBC14</key><doi>10.1109/ICDE.2014.6816702</doi><ee>https://doi.org/10.1109/ICDE.2014.6816702</ee><url>https://dblp.org/rec/conf/icde/HuangZBC14</url></info>
+<url>URL#4337820</url>
+</hit>
+<hit score="1" id="4337822">
+<info><authors><author pid="88/302">Nguyen Quoc Viet Hung</author><author pid="176/9222">Thanh Tam Nguyen</author><author pid="82/31-1">Zoltán Miklós 0001</author><author pid="a/KarlAberer">Karl Aberer</author><author pid="g/AvigdorGal">Avigdor Gal</author><author pid="61/267">Matthias Weidlich 0001</author></authors><title>Pay-as-you-go reconciliation in schema matching networks.</title><venue>ICDE</venue><pages>220-231</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HungTMAGW14</key><doi>10.1109/ICDE.2014.6816653</doi><ee>https://doi.org/10.1109/ICDE.2014.6816653</ee><url>https://dblp.org/rec/conf/icde/HungTMAGW14</url></info>
+<url>URL#4337822</url>
+</hit>
+<hit score="1" id="4337823">
+<info><authors><author pid="26/5626">Rohit Jain</author><author pid="p/SunilPrabhakar">Sunil Prabhakar</author></authors><title>Guaranteed authenticity and integrity of data from untrusted servers.</title><venue>ICDE</venue><pages>1282-1285</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JainP14</key><doi>10.1109/ICDE.2014.6816761</doi><ee>https://doi.org/10.1109/ICDE.2014.6816761</ee><url>https://dblp.org/rec/conf/icde/JainP14</url></info>
+<url>URL#4337823</url>
+</hit>
+<hit score="1" id="4337825">
+<info><authors><author pid="137/7959">Nandish Jayaram</author><author pid="92/9574">Mahesh Gupta</author><author pid="67/2933">Arijit Khan 0001</author><author pid="14/3692">Chengkai Li 0001</author><author pid="y/XifengYan">Xifeng Yan</author><author pid="e/RamezElmasri">Ramez Elmasri</author></authors><title>GQBE: Querying knowledge graphs by example entity tuples.</title><venue>ICDE</venue><pages>1250-1253</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JayaramGKLYE14</key><doi>10.1109/ICDE.2014.6816753</doi><ee>https://doi.org/10.1109/ICDE.2014.6816753</ee><url>https://dblp.org/rec/conf/icde/JayaramGKLYE14</url></info>
+<url>URL#4337825</url>
+</hit>
+<hit score="1" id="4337826">
+<info><authors><author pid="50/6288">Di Jiang</author><author pid="51/4238">Kenneth Wai-Ting Leung</author><author pid="10/10544">Jan Vosecky</author><author pid="n/WilfredNg">Wilfred Ng</author></authors><title>Personalized Query Suggestion With Diversity Awareness.</title><venue>ICDE</venue><pages>400-411</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JiangLVN14</key><doi>10.1109/ICDE.2014.6816668</doi><ee>https://doi.org/10.1109/ICDE.2014.6816668</ee><url>https://dblp.org/rec/conf/icde/JiangLVN14</url></info>
+<url>URL#4337826</url>
+</hit>
+<hit score="1" id="4337828">
+<info><authors><author pid="27/9170">Niranjan Kamat</author><author pid="145/6226">Prasanth Jayachandran</author><author pid="145/6227">Karthik Tunga</author><author pid="28/568">Arnab Nandi 0001</author></authors><title>Distributed and interactive cube exploration.</title><venue>ICDE</venue><pages>472-483</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KamatJTN14</key><doi>10.1109/ICDE.2014.6816674</doi><ee>https://doi.org/10.1109/ICDE.2014.6816674</ee><url>https://dblp.org/rec/conf/icde/KamatJTN14</url></info>
+<url>URL#4337828</url>
+</hit>
+<hit score="1" id="4337829">
+<info><authors><author pid="59/4967">Wei Kang</author><author pid="t/AnthonyKHTung">Anthony K. H. Tung</author><author pid="c/WeiChen1">Wei Chen 0001</author><author pid="88/2359">Xinyu Li</author><author pid="145/6348">Qiyue Song</author><author pid="94/3019-14">Chao Zhang 0014</author><author pid="181/2734-9">Feng Zhao 0009</author><author pid="145/6324">Xiajuan Zhou</author></authors><title>Trendspedia: An Internet observatory for analyzing and visualizing the evolving web.</title><venue>ICDE</venue><pages>1206-1209</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KangTCLSZZZ14</key><doi>10.1109/ICDE.2014.6816742</doi><ee>https://doi.org/10.1109/ICDE.2014.6816742</ee><url>https://dblp.org/rec/conf/icde/KangTCLSZZZ14</url></info>
+<url>URL#4337829</url>
+</hit>
+<hit score="1" id="4337830">
+<info><authors><author pid="59/4967">Wei Kang</author><author pid="t/AnthonyKHTung">Anthony K. H. Tung</author><author pid="181/2734-9">Feng Zhao 0009</author><author pid="88/2359">Xinyu Li</author></authors><title>Interactive hierarchical tag clouds for summarizing spatiotemporal social contents.</title><venue>ICDE</venue><pages>868-879</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KangTZL14</key><doi>10.1109/ICDE.2014.6816707</doi><ee>https://doi.org/10.1109/ICDE.2014.6816707</ee><url>https://dblp.org/rec/conf/icde/KangTZL14</url></info>
+<url>URL#4337830</url>
+</hit>
+<hit score="1" id="4337831">
+<info><authors><author pid="44/8719">Pimin Konstantin Kefaloukos</author><author pid="70/4277">Marcos Antonio Vaz Salles</author><author pid="97/5868">Martin Zachariasen</author></authors><title>Declarative cartography: In-database map generalization of geospatial datasets.</title><venue>ICDE</venue><pages>1024-1035</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KefaloukosSZ14</key><doi>10.1109/ICDE.2014.6816720</doi><ee>https://doi.org/10.1109/ICDE.2014.6816720</ee><url>https://dblp.org/rec/conf/icde/KefaloukosSZ14</url></info>
+<url>URL#4337831</url>
+</hit>
+<hit score="1" id="4337832">
+<info><authors><author pid="k/AlfonsKemper">Alfons Kemper</author><author pid="n/ThomasNeumann">Thomas Neumann 0001</author></authors><title>Main-memory database systems.</title><venue>ICDE</venue><pages>1310</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Kemper014</key><doi>10.1109/ICDE.2014.6816768</doi><ee>https://doi.org/10.1109/ICDE.2014.6816768</ee><url>https://dblp.org/rec/conf/icde/Kemper014</url></info>
+<url>URL#4337832</url>
+</hit>
+<hit score="1" id="4337833">
+<info><authors><author pid="90/4017">Mourad Khayati</author><author pid="b/MichaelHBohlen">Michael H. Böhlen</author><author pid="59/6952">Johann Gamper</author></authors><title>Memory-efficient centroid decomposition for long time series.</title><venue>ICDE</venue><pages>100-111</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KhayatiBG14</key><doi>10.1109/ICDE.2014.6816643</doi><ee>https://doi.org/10.1109/ICDE.2014.6816643</ee><url>https://dblp.org/rec/conf/icde/KhayatiBG14</url></info>
+<url>URL#4337833</url>
+</hit>
+<hit score="1" id="4337834">
+<info><authors><author pid="10/9081">Samamon Khemmarat</author><author pid="69/3480-1">Lixin Gao 0001</author></authors><title>Fast top-k path-based relevance query on massive graphs.</title><venue>ICDE</venue><pages>316-327</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KhemmaratG14</key><doi>10.1109/ICDE.2014.6816661</doi><ee>https://doi.org/10.1109/ICDE.2014.6816661</ee><url>https://dblp.org/rec/conf/icde/KhemmaratG14</url></info>
+<url>URL#4337834</url>
+</hit>
+<hit score="1" id="4337835">
+<info><authors><author pid="18/4304">Herald Kllapi</author><author pid="18/2436">Boulos Harb</author><author pid="58/3771">Cong Yu 0001</author></authors><title>Near neighbor join.</title><venue>ICDE</venue><pages>1120-1131</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KllapiHY14</key><doi>10.1109/ICDE.2014.6816728</doi><ee>https://doi.org/10.1109/ICDE.2014.6816728</ee><url>https://dblp.org/rec/conf/icde/KllapiHY14</url></info>
+<url>URL#4337835</url>
+</hit>
+<hit score="1" id="4337837">
+<info><authors><author pid="52/767">Sarath Kumar Kondreddi</author><author pid="t/PeterTriantafillou">Peter Triantafillou</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>Combining information extraction and human computing for crowdsourced knowledge acquisition.</title><venue>ICDE</venue><pages>988-999</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KumarTW14</key><doi>10.1109/ICDE.2014.6816717</doi><ee>https://doi.org/10.1109/ICDE.2014.6816717</ee><url>https://dblp.org/rec/conf/icde/KumarTW14</url></info>
+<url>URL#4337837</url>
+</hit>
+<hit score="1" id="4337840">
+<info><authors><author pid="116/5284">Pei Lee</author><author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author><author pid="m/EvangelosEMilios">Evangelos E. Milios</author></authors><title>Incremental cluster evolution tracking from highly dynamic network data.</title><venue>ICDE</venue><pages>3-14</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LeeLM14</key><doi>10.1109/ICDE.2014.6816635</doi><ee>https://doi.org/10.1109/ICDE.2014.6816635</ee><url>https://dblp.org/rec/conf/icde/LeeLM14</url></info>
+<url>URL#4337840</url>
+</hit>
+<hit score="1" id="4337842">
+<info><authors><author pid="02/8578">Siyu Lei</author><author pid="120/4364">Xuan S. Yang</author><author pid="131/4815">Luyi Mo</author><author pid="91/9376">Silviu Maniu</author><author pid="89/2619">Reynold Cheng</author></authors><title>iTag: Incentive-based tagging.</title><venue>ICDE</venue><pages>1186-1189</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LeiYMMC14</key><doi>10.1109/ICDE.2014.6816737</doi><ee>https://doi.org/10.1109/ICDE.2014.6816737</ee><url>https://dblp.org/rec/conf/icde/LeiYMMC14</url></info>
+<url>URL#4337842</url>
+</hit>
+<hit score="1" id="4337843">
+<info><authors><author pid="10/11150">Viktor Leis</author><author pid="k/AlfonsKemper">Alfons Kemper</author><author pid="n/ThomasNeumann">Thomas Neumann 0001</author></authors><title>Exploiting hardware transactional memory in main-memory databases.</title><venue>ICDE</venue><pages>580-591</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LeisK014</key><doi>10.1109/ICDE.2014.6816683</doi><ee>https://doi.org/10.1109/ICDE.2014.6816683</ee><url>https://dblp.org/rec/conf/icde/LeisK014</url></info>
+<url>URL#4337843</url>
+</hit>
+<hit score="1" id="4337844">
+<info><authors><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="28/441">Jun Hu</author><author pid="43/6576">Jianhua Feng</author><author pid="t/KianLeeTan">Kian-Lee Tan</author></authors><title>Effective location identification from microblogs.</title><venue>ICDE</venue><pages>880-891</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiHFT14</key><doi>10.1109/ICDE.2014.6816708</doi><ee>https://doi.org/10.1109/ICDE.2014.6816708</ee><url>https://dblp.org/rec/conf/icde/LiHFT14</url></info>
+<url>URL#4337844</url>
+</hit>
+<hit score="1" id="4337845">
+<info><authors><author pid="l/JianxinLi">Jianxin Li 0001</author><author pid="l/ChengfeiLiu">Chengfei Liu</author><author pid="04/3572-3">Md. Saiful Islam 0003</author></authors><title>Keyword-based correlated network computation over large social media.</title><venue>ICDE</venue><pages>268-279</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiL014</key><doi>10.1109/ICDE.2014.6816657</doi><ee>https://doi.org/10.1109/ICDE.2014.6816657</ee><url>https://dblp.org/rec/conf/icde/LiL014</url></info>
+<url>URL#4337845</url>
+</hit>
+<hit score="1" id="4337846">
+<info><authors><author pid="92/2954">Feng Li</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author><author pid="67/6383-1">Gang Chen 0001</author><author pid="o/BengChinOoi">Beng Chin Ooi</author></authors><title>R-Store: A scalable distributed system for supporting real-time analytics.</title><venue>ICDE</venue><pages>40-51</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiOCO14</key><doi>10.1109/ICDE.2014.6816638</doi><ee>https://doi.org/10.1109/ICDE.2014.6816638</ee><url>https://dblp.org/rec/conf/icde/LiOCO14</url></info>
+<url>URL#4337846</url>
+</hit>
+<hit score="1" id="4337847">
+<info><authors><author pid="66/580">Yanhua Li</author><author pid="31/2767">Moritz Steiner</author><author pid="b/JieBao3">Jie Bao 0003</author><author pid="68/6610">Limin Wang</author><author pid="42/5105-1">Ting Zhu 0001</author></authors><title>Region sampling and estimation of geosocial data with dynamic range calibration.</title><venue>ICDE</venue><pages>1096-1107</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiSBWZ14</key><doi>10.1109/ICDE.2014.6816726</doi><ee>https://doi.org/10.1109/ICDE.2014.6816726</ee><url>https://dblp.org/rec/conf/icde/LiSBWZ14</url></info>
+<url>URL#4337847</url>
+</hit>
+<hit score="1" id="4337848">
+<info><authors><author pid="37/548">Rong-Hua Li</author><author pid="y/JXuYu">Jeffrey Xu Yu</author><author pid="98/5766-1">Xin Huang 0001</author><author pid="85/5637-1">Hong Cheng 0001</author></authors><title>Random-walk domination in large graphs.</title><venue>ICDE</venue><pages>736-747</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiYHC14</key><doi>10.1109/ICDE.2014.6816696</doi><ee>https://doi.org/10.1109/ICDE.2014.6816696</ee><url>https://dblp.org/rec/conf/icde/LiYHC14</url></info>
+<url>URL#4337848</url>
+</hit>
+<hit score="1" id="4337849">
+<info><authors><author pid="37/548">Rong-Hua Li</author><author pid="y/JXuYu">Jeffrey Xu Yu</author><author pid="51/5793">Rui Mao 0001</author><author pid="30/11206">Tan Jin</author></authors><title>Efficient and accurate query evaluation on uncertain graphs via recursive stratified sampling.</title><venue>ICDE</venue><pages>892-903</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiYMJ14</key><doi>10.1109/ICDE.2014.6816709</doi><ee>https://doi.org/10.1109/ICDE.2014.6816709</ee><url>https://dblp.org/rec/conf/icde/LiYMJ14</url></info>
+<url>URL#4337849</url>
+</hit>
+<hit score="1" id="4337850">
+<info><authors><author pid="88/6520">Erietta Liarou</author><author pid="i/StratosIdreos">Stratos Idreos</author></authors><title>dbTouch in action database kernels for touch-based data exploration.</title><venue>ICDE</venue><pages>1262-1265</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiarouI14</key><doi>10.1109/ICDE.2014.6816756</doi><ee>https://doi.org/10.1109/ICDE.2014.6816756</ee><url>https://dblp.org/rec/conf/icde/LiarouI14</url></info>
+<url>URL#4337850</url>
+</hit>
+<hit score="1" id="4337852">
+<info><authors><author pid="34/10641">Sungsu Lim</author><author pid="47/8008">Seungwoo Ryu</author><author pid="137/3631">Sejeong Kwon</author><author pid="48/3867">Kyomin Jung</author><author pid="28/3904">Jae-Gil Lee 0001</author></authors><title>LinkSCAN*: Overlapping community detection using the link-space transformation.</title><venue>ICDE</venue><pages>292-303</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LimRKJL14</key><doi>10.1109/ICDE.2014.6816659</doi><ee>https://doi.org/10.1109/ICDE.2014.6816659</ee><url>https://dblp.org/rec/conf/icde/LimRKJL14</url></info>
+<url>URL#4337852</url>
+</hit>
+<hit score="1" id="4337854">
+<info><authors><author pid="121/4164">Wenqing Lin</author><author pid="33/1903">Xiaokui Xiao</author><author pid="80/6521">Gabriel Ghinita</author></authors><title>Large-scale frequent subgraph mining in MapReduce.</title><venue>ICDE</venue><pages>844-855</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LinXG14</key><doi>10.1109/ICDE.2014.6816705</doi><ee>https://doi.org/10.1109/ICDE.2014.6816705</ee><url>https://dblp.org/rec/conf/icde/LinXG14</url></info>
+<url>URL#4337854</url>
+</hit>
+<hit score="1" id="4337855">
+<info><authors><author pid="89/4312">Peter Lindstrom 0001</author><author pid="05/2397">Deepak Rajan</author></authors><title>Optimal hierarchical layouts for cache-oblivious search trees.</title><venue>ICDE</venue><pages>616-627</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LindstromR14</key><doi>10.1109/ICDE.2014.6816686</doi><ee>https://doi.org/10.1109/ICDE.2014.6816686</ee><url>https://dblp.org/rec/conf/icde/LindstromR14</url></info>
+<url>URL#4337855</url>
+</hit>
+<hit score="1" id="4337856">
+<info><authors><author pid="35/837">Bin Liu</author><author pid="37/236">Wang-Pin Hsiung</author><author pid="84/284">Jun&apos;ichi Tatemura</author><author pid="59/2465">Hakan Hacigümüs</author></authors><title>SAGE: A logical and physical design tool for entity-group based new SQL systems.</title><venue>ICDE</venue><pages>1266-1269</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuHTH14</key><doi>10.1109/ICDE.2014.6816757</doi><ee>https://doi.org/10.1109/ICDE.2014.6816757</ee><url>https://dblp.org/rec/conf/icde/LiuHTH14</url></info>
+<url>URL#4337856</url>
+</hit>
+<hit score="1" id="4337857">
+<info><authors><author pid="23/6821">Zhen Hua Liu</author><author pid="20/6679">Ying Lu</author><author pid="48/4141">Hui Joe Chang</author></authors><title>Efficient support of XQuery Full Text in SQL/XML enabled RDBMS.</title><venue>ICDE</venue><pages>1132-1143</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuLC14</key><doi>10.1109/ICDE.2014.6816729</doi><ee>https://doi.org/10.1109/ICDE.2014.6816729</ee><url>https://dblp.org/rec/conf/icde/LiuLC14</url></info>
+<url>URL#4337857</url>
+</hit>
+<hit score="1" id="4337858">
+<info><authors><author pid="35/837">Bin Liu</author><author pid="84/284">Jun&apos;ichi Tatemura</author><author pid="35/2314">Oliver Po</author><author pid="37/236">Wang-Pin Hsiung</author><author pid="59/2465">Hakan Hacigümüs</author></authors><title>Automatic entity-grouping for OLTP workloads.</title><venue>ICDE</venue><pages>712-723</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuTPHH14</key><doi>10.1109/ICDE.2014.6816694</doi><ee>https://doi.org/10.1109/ICDE.2014.6816694</ee><url>https://dblp.org/rec/conf/icde/LiuTPHH14</url></info>
+<url>URL#4337858</url>
+</hit>
+<hit score="1" id="4337859">
+<info><authors><author pid="32/1085">Ruilin Liu</author><author pid="87/4461">Guan Wang</author><author pid="52/4725">Wendy Hui Wang</author><author pid="k/FlipKorn">Flip Korn</author></authors><title>iCoDA: Interactive and exploratory data completeness analysis.</title><venue>ICDE</venue><pages>1226-1229</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuWWK14</key><doi>10.1109/ICDE.2014.6816747</doi><ee>https://doi.org/10.1109/ICDE.2014.6816747</ee><url>https://dblp.org/rec/conf/icde/LiuWWK14</url></info>
+<url>URL#4337859</url>
+</hit>
+<hit score="1" id="4337860">
+<info><authors><author pid="22/3203">Jiamin Lu</author><author pid="g/RHGuting">Ralf Hartmut Güting</author></authors><title>Parallel SECONDO: A practical system for large-scale processing of moving objects.</title><venue>ICDE</venue><pages>1190-1193</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LuG14</key><doi>10.1109/ICDE.2014.6816738</doi><ee>https://doi.org/10.1109/ICDE.2014.6816738</ee><url>https://dblp.org/rec/conf/icde/LuG14</url></info>
+<url>URL#4337860</url>
+</hit>
+<hit score="1" id="4337861">
+<info><authors><author pid="39/939">Wentian Lu</author><author pid="m/GeromeMiklau">Gerome Miklau</author><author pid="03/9855">Vani Gupta</author></authors><title>Generating private synthetic databases for untrusted system evaluation.</title><venue>ICDE</venue><pages>652-663</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LuMG14</key><doi>10.1109/ICDE.2014.6816689</doi><ee>https://doi.org/10.1109/ICDE.2014.6816689</ee><url>https://dblp.org/rec/conf/icde/LuMG14</url></info>
+<url>URL#4337861</url>
+</hit>
+<hit score="1" id="4337862">
+<info><authors><author pid="05/8073-1">Amr Magdy 0001</author><author pid="39/8165">Ahmed M. Aly</author><author pid="94/5893">Mohamed F. Mokbel</author><author pid="18/1967">Sameh Elnikety</author><author pid="50/174">Yuxiong He</author><author pid="85/6293">Suman Nath</author></authors><title>Mars: Real-time spatio-temporal queries on microblogs.</title><venue>ICDE</venue><pages>1238-1241</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MagdyAMEHN14</key><doi>10.1109/ICDE.2014.6816750</doi><ee>https://doi.org/10.1109/ICDE.2014.6816750</ee><url>https://dblp.org/rec/conf/icde/MagdyAMEHN14</url></info>
+<url>URL#4337862</url>
+</hit>
+<hit score="1" id="4337863">
+<info><authors><author pid="05/8073-1">Amr Magdy 0001</author><author pid="94/5893">Mohamed F. Mokbel</author><author pid="18/1967">Sameh Elnikety</author><author pid="85/6293">Suman Nath</author><author pid="50/174">Yuxiong He</author></authors><title>Mercury: A memory-constrained spatio-temporal real-time search on microblogs.</title><venue>ICDE</venue><pages>172-183</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MagdyMENH14</key><doi>10.1109/ICDE.2014.6816649</doi><ee>https://doi.org/10.1109/ICDE.2014.6816649</ee><url>https://dblp.org/rec/conf/icde/MagdyMENH14</url></info>
+<url>URL#4337863</url>
+</hit>
+<hit score="1" id="4337865">
+<info><authors><author pid="75/9492">Nirmesh Malviya</author><author pid="131/4488">Ariel Weisberg</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Rethinking main memory OLTP recovery.</title><venue>ICDE</venue><pages>604-615</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MalviyaWMS14</key><doi>10.1109/ICDE.2014.6816685</doi><ee>https://doi.org/10.1109/ICDE.2014.6816685</ee><url>https://dblp.org/rec/conf/icde/MalviyaWMS14</url></info>
+<url>URL#4337865</url>
+</hit>
+<hit score="1" id="4337866">
+<info><authors><author pid="m/GMecca">Giansalvatore Mecca</author><author pid="p/PaoloPapotti">Paolo Papotti</author><author pid="32/5873">Donatello Santoro</author></authors><title>IQ-METER - An evaluation tool for data-transformation systems.</title><venue>ICDE</venue><pages>1218-1221</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MeccaPS14</key><doi>10.1109/ICDE.2014.6816745</doi><ee>https://doi.org/10.1109/ICDE.2014.6816745</ee><url>https://dblp.org/rec/conf/icde/MeccaPS14</url></info>
+<url>URL#4337866</url>
+</hit>
+<hit score="1" id="4337867">
+<info><authors><author pid="145/6329">Prashanth Menon</author><author pid="10/760">Tilmann Rabl</author><author pid="56/7016">Mohammad Sadoghi</author><author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author></authors><title>CaSSanDra: An SSD boosted key-value store.</title><venue>ICDE</venue><pages>1162-1167</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MenonRSJ14</key><doi>10.1109/ICDE.2014.6816732</doi><ee>https://doi.org/10.1109/ICDE.2014.6816732</ee><url>https://dblp.org/rec/conf/icde/MenonRSJ14</url></info>
+<url>URL#4337867</url>
+</hit>
+<hit score="1" id="4337868">
+<info><authors><author pid="46/4009">Antonio Miele</author><author pid="85/6716">Elisa Quintarelli</author><author pid="63/10316">Emanuele Rabosio</author><author pid="t/LetiziaTanca">Letizia Tanca</author></authors><title>ADaPT: Automatic Data Personalization based on contextual preferences.</title><venue>ICDE</venue><pages>1234-1237</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MieleQRT14</key><doi>10.1109/ICDE.2014.6816749</doi><ee>https://doi.org/10.1109/ICDE.2014.6816749</ee><url>https://dblp.org/rec/conf/icde/MieleQRT14</url></info>
+<url>URL#4337868</url>
+</hit>
+<hit score="1" id="4337870">
+<info><authors><author pid="94/5893">Mohamed F. Mokbel</author><author pid="132/4905">Louai Alarabi</author><author pid="b/JieBao3">Jie Bao 0003</author><author pid="66/9726">Ahmed Eldawy</author><author pid="05/8073-1">Amr Magdy 0001</author><author pid="95/9990">Mohamed Sarwat</author><author pid="132/4913">Ethan Waytas</author><author pid="132/4909">Steven Yackel</author></authors><title>A demonstration of MNTG - A web-based road network traffic generator.</title><venue>ICDE</venue><pages>1246-1249</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MokbelA0EMSWY14</key><doi>10.1109/ICDE.2014.6816752</doi><ee>https://doi.org/10.1109/ICDE.2014.6816752</ee><url>https://dblp.org/rec/conf/icde/MokbelA0EMSWY14</url></info>
+<url>URL#4337870</url>
+</hit>
+<hit score="1" id="4337872">
+<info><authors><author pid="45/9583">Walaa Eldin Moustafa</author><author pid="17/3881">Angelika Kimmig</author><author pid="d/AmolDeshpande">Amol Deshpande</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>Subgraph pattern matching over uncertain graphs with identity linkage uncertainty.</title><venue>ICDE</venue><pages>904-915</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MoustafaKDG14</key><doi>10.1109/ICDE.2014.6816710</doi><ee>https://doi.org/10.1109/ICDE.2014.6816710</ee><url>https://dblp.org/rec/conf/icde/MoustafaKDG14</url></info>
+<url>URL#4337872</url>
+</hit>
+<hit score="1" id="4337874">
+<info><authors><author pid="131/4736">Paul W. Olsen</author><author pid="08/7784">Alan G. Labouseur</author><author pid="97/5585">Jeong-Hyon Hwang</author></authors><title>Efficient top-k closeness centrality search.</title><venue>ICDE</venue><pages>196-207</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/OlsenLH14</key><doi>10.1109/ICDE.2014.6816651</doi><ee>https://doi.org/10.1109/ICDE.2014.6816651</ee><url>https://dblp.org/rec/conf/icde/OlsenLH14</url></info>
+<url>URL#4337874</url>
+</hit>
+<hit score="1" id="4337876">
+<info><authors><author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author><author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author></authors><title>Continuous fragmented skylines over distributed streams.</title><venue>ICDE</venue><pages>124-135</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PapapetrouG14</key><doi>10.1109/ICDE.2014.6816645</doi><ee>https://doi.org/10.1109/ICDE.2014.6816645</ee><url>https://dblp.org/rec/conf/icde/PapapetrouG14</url></info>
+<url>URL#4337876</url>
+</hit>
+<hit score="1" id="4337879">
+<info><authors><author pid="145/6236">Zhibo Peng</author><author pid="c/MitchCherniack">Mitch Cherniack</author><author pid="37/3024">Olga Papaemmanouil</author></authors><title>Devel-op: An optimizer development environment.</title><venue>ICDE</venue><pages>1278-1281</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PengCP14</key><doi>10.1109/ICDE.2014.6816760</doi><ee>https://doi.org/10.1109/ICDE.2014.6816760</ee><url>https://dblp.org/rec/conf/icde/PengCP14</url></info>
+<url>URL#4337879</url>
+</hit>
+<hit score="1" id="4337880">
+<info><authors><author pid="49/683-2">Peng Peng 0002</author><author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author></authors><title>Geometry approach for k-regret query.</title><venue>ICDE</venue><pages>772-783</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PengW14</key><doi>10.1109/ICDE.2014.6816699</doi><ee>https://doi.org/10.1109/ICDE.2014.6816699</ee><url>https://dblp.org/rec/conf/icde/PengW14</url></info>
+<url>URL#4337880</url>
+</hit>
+<hit score="1" id="4337882">
+<info><authors><author pid="52/584">Luis Leopoldo Perez</author><author pid="j/ChrisJermaine">Christopher M. Jermaine</author></authors><title>History-aware query optimization with materialized intermediate views.</title><venue>ICDE</venue><pages>520-531</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PerezJ14</key><doi>10.1109/ICDE.2014.6816678</doi><ee>https://doi.org/10.1109/ICDE.2014.6816678</ee><url>https://dblp.org/rec/conf/icde/PerezJ14</url></info>
+<url>URL#4337882</url>
+</hit>
+<hit score="1" id="4337884">
+<info><authors><author pid="08/3969">Holger Pirk</author><author pid="m/StefanManegold">Stefan Manegold</author><author pid="k/MartinLKersten">Martin L. Kersten</author></authors><title>Waste not... Efficient co-processing of relational data.</title><venue>ICDE</venue><pages>508-519</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PirkMK14</key><doi>10.1109/ICDE.2014.6816677</doi><ee>https://doi.org/10.1109/ICDE.2014.6816677</ee><url>https://dblp.org/rec/conf/icde/PirkMK14</url></info>
+<url>URL#4337884</url>
+</hit>
+<hit score="1" id="4337885">
+<info><authors><author pid="69/9726">Danica Porobic</author><author pid="88/6520">Erietta Liarou</author><author pid="86/9726">Pinar Tözün</author><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>ATraPos: Adaptive transaction processing on hardware Islands.</title><venue>ICDE</venue><pages>688-699</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PorobicLTA14</key><doi>10.1109/ICDE.2014.6816692</doi><ee>https://doi.org/10.1109/ICDE.2014.6816692</ee><url>https://dblp.org/rec/conf/icde/PorobicLTA14</url></info>
+<url>URL#4337885</url>
+</hit>
+<hit score="1" id="4337887">
+<info><authors><author pid="145/6046">Bahar Qarabaqi</author><author pid="r/MirekRiedewald">Mirek Riedewald</author></authors><title>User-driven refinement of imprecise queries.</title><venue>ICDE</venue><pages>916-927</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/QarabaqiR14</key><doi>10.1109/ICDE.2014.6816711</doi><ee>https://doi.org/10.1109/ICDE.2014.6816711</ee><url>https://dblp.org/rec/conf/icde/QarabaqiR14</url></info>
+<url>URL#4337887</url>
+</hit>
+<hit score="1" id="4337888">
+<info><authors><author pid="87/7992">Ian Rae</author><author pid="00/232">Alan Halverson</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author></authors><title>In-RDBMS inverted indexes revisited.</title><venue>ICDE</venue><pages>352-363</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/RaeHN14</key><doi>10.1109/ICDE.2014.6816664</doi><ee>https://doi.org/10.1109/ICDE.2014.6816664</ee><url>https://dblp.org/rec/conf/icde/RaeHN14</url></info>
+<url>URL#4337888</url>
+</hit>
+<hit score="1" id="4337891">
+<info><authors><author pid="126/2050">Wolf Rödiger</author><author pid="74/11109">Tobias Mühlbauer</author><author pid="64/6456">Philipp Unterbrunner</author><author pid="r/AngelikaReiser">Angelika Reiser</author><author pid="k/AlfonsKemper">Alfons Kemper</author><author pid="n/ThomasNeumann">Thomas Neumann 0001</author></authors><title>Locality-sensitive operators for parallel main-memory database clusters.</title><venue>ICDE</venue><pages>592-603</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/RodigerMURK014</key><doi>10.1109/ICDE.2014.6816684</doi><ee>https://doi.org/10.1109/ICDE.2014.6816684</ee><url>https://dblp.org/rec/conf/icde/RodigerMURK014</url></info>
+<url>URL#4337891</url>
+</hit>
+<hit score="1" id="4337893">
+<info><authors><author pid="97/3301">Senjuti Basu Roy</author><author pid="57/10514">Saravanan Thirumuruganathan</author><author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author><author pid="07/1181">Gautam Das 0001</author><author pid="58/3771">Cong Yu 0001</author></authors><title>Exploiting group recommendation functions for flexible preferences.</title><venue>ICDE</venue><pages>412-423</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/RoyTADY14</key><doi>10.1109/ICDE.2014.6816669</doi><ee>https://doi.org/10.1109/ICDE.2014.6816669</ee><url>https://dblp.org/rec/conf/icde/RoyTADY14</url></info>
+<url>URL#4337893</url>
+</hit>
+<hit score="1" id="4337894">
+<info><authors><author pid="56/7016">Mohammad Sadoghi</author><author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author></authors><title>Adaptive parallel compressed event matching.</title><venue>ICDE</venue><pages>364-375</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SadoghiJ14</key><doi>10.1109/ICDE.2014.6816665</doi><ee>https://doi.org/10.1109/ICDE.2014.6816665</ee><url>https://dblp.org/rec/conf/icde/SadoghiJ14</url></info>
+<url>URL#4337894</url>
+</hit>
+<hit score="1" id="4337897">
+<info><authors><author pid="66/3027">Barna Saha</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Data quality: The other face of Big Data.</title><venue>ICDE</venue><pages>1294-1297</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SahaS14</key><doi>10.1109/ICDE.2014.6816764</doi><ee>https://doi.org/10.1109/ICDE.2014.6816764</ee><url>https://dblp.org/rec/conf/icde/SahaS14</url></info>
+<url>URL#4337897</url>
+</hit>
+<hit score="1" id="4337898">
+<info><authors><author pid="59/589">Anish Das Sarma</author><author pid="40/7459">Aditya G. Parameswaran</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author><author pid="h/AlonYHalevy">Alon Y. Halevy</author></authors><title>Crowd-powered find algorithms.</title><venue>ICDE</venue><pages>964-975</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SarmaPGH14</key><doi>10.1109/ICDE.2014.6816715</doi><ee>https://doi.org/10.1109/ICDE.2014.6816715</ee><url>https://dblp.org/rec/conf/icde/SarmaPGH14</url></info>
+<url>URL#4337898</url>
+</hit>
+<hit score="1" id="4337901">
+<info><authors><author pid="s/AmitPSheth">Amit P. Sheth</author></authors><title>Transforming Big Data into Smart Data: Deriving value via harnessing Volume, Variety, and Velocity using semantic techniques and technologies.</title><venue>ICDE</venue><pages>2</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Sheth14</key><doi>10.1109/ICDE.2014.6816634</doi><ee>https://doi.org/10.1109/ICDE.2014.6816634</ee><url>https://dblp.org/rec/conf/icde/Sheth14</url></info>
+<url>URL#4337901</url>
+</hit>
+<hit score="1" id="4337902">
+<info><authors><author pid="145/6162">Varun Simhadri</author><author pid="51/792-2">Karthik Ramachandra 0002</author><author pid="145/6159">Arun Chaitanya</author><author pid="36/2633">Ravindra Guravannavar</author><author pid="s/SSudarshan1">S. Sudarshan 0001</author></authors><title>Decorrelation of user defined function invocations in queries.</title><venue>ICDE</venue><pages>532-543</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Simhadri0CG014</key><doi>10.1109/ICDE.2014.6816679</doi><ee>https://doi.org/10.1109/ICDE.2014.6816679</ee><url>https://dblp.org/rec/conf/icde/Simhadri0CG014</url></info>
+<url>URL#4337902</url>
+</hit>
+<hit score="1" id="4337903">
+<info><authors><author pid="119/6313">Anders Skovsgaard</author><author pid="44/7094">Darius Sidlauskas</author><author pid="j/ChristianSJensen">Christian S. Jensen</author></authors><title>Scalable top-k spatio-temporal term querying.</title><venue>ICDE</venue><pages>148-159</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SkovsgaardSJ14</key><doi>10.1109/ICDE.2014.6816647</doi><ee>https://doi.org/10.1109/ICDE.2014.6816647</ee><url>https://dblp.org/rec/conf/icde/SkovsgaardSJ14</url></info>
+<url>URL#4337903</url>
+</hit>
+<hit score="1" id="4337904">
+<info><authors><author pid="122/8368">Vasil Slavov</author><author pid="143/4197">Anas Katib</author><author pid="69/9203">Praveen R. Rao</author></authors><title>A tool for Internet-scale cardinality estimation of XPath queries over distributed semistructured data.</title><venue>ICDE</venue><pages>1270-1273</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SlavovKR14</key><doi>10.1109/ICDE.2014.6816758</doi><ee>https://doi.org/10.1109/ICDE.2014.6816758</ee><url>https://dblp.org/rec/conf/icde/SlavovKR14</url></info>
+<url>URL#4337904</url>
+</hit>
+<hit score="1" id="4337907">
+<info><authors><author pid="23/3419">Han Su</author><author pid="73/3928-1">Kai Zheng 0001</author><author pid="131/4148">Jiamin Huang</author><author pid="39/2670">Hoyoung Jeung</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author></authors><title>CrowdPlanner: A crowd-based route recommendation system.</title><venue>ICDE</venue><pages>1144-1155</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SuZHJ0Z14</key><doi>10.1109/ICDE.2014.6816730</doi><ee>https://doi.org/10.1109/ICDE.2014.6816730</ee><url>https://dblp.org/rec/conf/icde/SuZHJ0Z14</url></info>
+<url>URL#4337907</url>
+</hit>
+<hit score="1" id="4337908">
+<info><authors><author pid="23/3419">Han Su</author><author pid="73/3928-1">Kai Zheng 0001</author><author pid="131/4148">Jiamin Huang</author><author pid="134/1099">Tianyu Liu</author><author pid="131/4030">Haozhou Wang</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author></authors><title>A crowd-based route recommendation system-CrowdPlanner.</title><venue>ICDE</venue><pages>1178-1181</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SuZHLWZ14</key><doi>10.1109/ICDE.2014.6816735</doi><ee>https://doi.org/10.1109/ICDE.2014.6816735</ee><url>https://dblp.org/rec/conf/icde/SuZHLWZ14</url></info>
+<url>URL#4337908</url>
+</hit>
+<hit score="1" id="4337909">
+<info><authors><author pid="23/11176">Afroza Sultana</author><author pid="66/9718">Naeemul Hassan</author><author pid="14/3692">Chengkai Li 0001</author><author pid="y/JunYang1">Jun Yang 0001</author><author pid="58/3771">Cong Yu 0001</author></authors><title>Incremental discovery of prominent situational facts.</title><venue>ICDE</venue><pages>112-123</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SultanaHL0Y14</key><doi>10.1109/ICDE.2014.6816644</doi><ee>https://doi.org/10.1109/ICDE.2014.6816644</ee><url>https://dblp.org/rec/conf/icde/SultanaHL0Y14</url></info>
+<url>URL#4337909</url>
+</hit>
+<hit score="1" id="4337910">
+<info><authors><author pid="98/10492">Yutian Sun</author><author pid="s/JWSu">Jianwen Su</author><author pid="80/6229">Budan Wu</author><author pid="y/JianYang1">Jian Yang 0001</author></authors><title>Modeling data for business processes.</title><venue>ICDE</venue><pages>1048-1059</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SunSWY14</key><doi>10.1109/ICDE.2014.6816722</doi><ee>https://doi.org/10.1109/ICDE.2014.6816722</ee><url>https://dblp.org/rec/conf/icde/SunSWY14</url></info>
+<url>URL#4337910</url>
+</hit>
+<hit score="1" id="4337911">
+<info><authors><author pid="09/1770">Yuzhe Richard Tang</author><author pid="l/LingLiu">Ling Liu 0001</author><author pid="12/2633-6">Ting Wang 0006</author><author pid="13/6380-1">Xin Hu 0001</author><author pid="86/4992">Reiner Sailer</author><author pid="45/4887">Peter R. Pietzuch</author></authors><title>Outsourcing multi-version key-value stores with verifiable data freshness.</title><venue>ICDE</venue><pages>1214-1217</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TangLWHSP14</key><doi>10.1109/ICDE.2014.6816744</doi><ee>https://doi.org/10.1109/ICDE.2014.6816744</ee><url>https://dblp.org/rec/conf/icde/TangLWHSP14</url></info>
+<url>URL#4337911</url>
+</hit>
+<hit score="1" id="4337912">
+<info><authors><author pid="33/10568">Farhan Tauheed</author><author pid="h/ThomasHeinis">Thomas Heinis</author><author pid="39/546">Felix Schürmann</author><author pid="51/644">Henry Markram</author><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>OCTOPUS: Efficient query execution on dynamic mesh datasets.</title><venue>ICDE</venue><pages>1000-1011</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TauheedHSMA14</key><doi>10.1109/ICDE.2014.6816718</doi><ee>https://doi.org/10.1109/ICDE.2014.6816718</ee><url>https://dblp.org/rec/conf/icde/TauheedHSMA14</url></info>
+<url>URL#4337912</url>
+</hit>
+<hit score="1" id="4337915">
+<info><authors><author pid="83/2548">Yongxin Tong</author><author pid="117/4950">Caleb Chen Cao</author><author pid="94/4084-13">Chen Jason Zhang</author><author pid="98/4958">Yatao Li</author><author pid="c/LeiChen0002">Lei Chen 0002</author></authors><title>CrowdCleaner: Data cleaning for multi-version data on the web via crowdsourcing.</title><venue>ICDE</venue><pages>1182-1185</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TongCZLC14</key><doi>10.1109/ICDE.2014.6816736</doi><ee>https://doi.org/10.1109/ICDE.2014.6816736</ee><url>https://dblp.org/rec/conf/icde/TongCZLC14</url></info>
+<url>URL#4337915</url>
+</hit>
+<hit score="1" id="4337916">
+<info><authors><author pid="80/4976-1">Nga Tran 0001</author><author pid="117/6048">Andrew Lamb</author><author pid="05/481">Lakshmikant Shrinivas</author><author pid="18/5094">Sreenath Bodagala</author><author pid="133/1688">Jaimin Dave</author></authors><title>The Vertica Query Optimizer: The case for specialized query optimizers.</title><venue>ICDE</venue><pages>1108-1119</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TranLSBD14</key><doi>10.1109/ICDE.2014.6816727</doi><ee>https://doi.org/10.1109/ICDE.2014.6816727</ee><url>https://dblp.org/rec/conf/icde/TranLSBD14</url></info>
+<url>URL#4337916</url>
+</hit>
+<hit score="1" id="4337917">
+<info><authors><author pid="63/2265">Ramakrishna Varadarajan</author><author pid="74/4388">Vivek Bharathan</author><author pid="77/3857">Ariel Cary</author><author pid="133/1688">Jaimin Dave</author><author pid="18/5094">Sreenath Bodagala</author></authors><title>DBDesigner: A customizable physical design tool for Vertica Analytic Database.</title><venue>ICDE</venue><pages>1084-1095</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/VaradarajanBCDB14</key><doi>10.1109/ICDE.2014.6816725</doi><ee>https://doi.org/10.1109/ICDE.2014.6816725</ee><url>https://dblp.org/rec/conf/icde/VaradarajanBCDB14</url></info>
+<url>URL#4337917</url>
+</hit>
+<hit score="1" id="4337920">
+<info><authors><author pid="v/SViglas">Stratis D. Viglas</author></authors><title>Just-in-time compilation for SQL query processing.</title><venue>ICDE</venue><pages>1298-1301</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Viglas14</key><doi>10.1109/ICDE.2014.6816765</doi><ee>https://doi.org/10.1109/ICDE.2014.6816765</ee><url>https://dblp.org/rec/conf/icde/Viglas14</url></info>
+<url>URL#4337920</url>
+</hit>
+<hit score="1" id="4337921">
+<info><authors><author pid="22/1815">Maksims Volkovs</author><author pid="66/2556">Fei Chiang</author><author pid="06/9379">Jaroslaw Szlichta</author><author pid="m/RJMiller">Renée J. Miller</author></authors><title>Continuous data cleaning.</title><venue>ICDE</venue><pages>244-255</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/VolkovsCSM14</key><doi>10.1109/ICDE.2014.6816655</doi><ee>https://doi.org/10.1109/ICDE.2014.6816655</ee><url>https://dblp.org/rec/conf/icde/VolkovsCSM14</url></info>
+<url>URL#4337921</url>
+</hit>
+<hit score="1" id="4337923">
+<info><authors><author pid="117/4879-1">Xiaolan Wang 0001</author><author pid="c/KSelcukCandan">K. Selçuk Candan</author><author pid="s/MariaLuisaSapino">Maria Luisa Sapino</author></authors><title>Leveraging metadata for identifying local, robust multi-variate temporal (RMT) features.</title><venue>ICDE</venue><pages>388-399</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangCS14</key><doi>10.1109/ICDE.2014.6816667</doi><ee>https://doi.org/10.1109/ICDE.2014.6816667</ee><url>https://dblp.org/rec/conf/icde/WangCS14</url></info>
+<url>URL#4337923</url>
+</hit>
+<hit score="1" id="4337924">
+<info><authors><author pid="07/9078">Zhengkui Wang</author><author pid="43/4386">Qi Fan</author><author pid="145/6291">Huiju Wang</author><author pid="t/KianLeeTan">Kian-Lee Tan</author><author pid="a/DivyakantAgrawal">Divyakant Agrawal</author><author pid="a/AmrElAbbadi">Amr El Abbadi</author></authors><title>Pagrol: Parallel graph olap over large-scale attributed graphs.</title><venue>ICDE</venue><pages>496-507</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangFWTAA14</key><doi>10.1109/ICDE.2014.6816676</doi><ee>https://doi.org/10.1109/ICDE.2014.6816676</ee><url>https://dblp.org/rec/conf/icde/WangFWTAA14</url></info>
+<url>URL#4337924</url>
+</hit>
+<hit score="1" id="4337925">
+<info><authors><author pid="84/7882">Pinghui Wang</author><author pid="45/2682">Wenbo He</author><author pid="l/XueLiu">Xue Liu 0001</author></authors><title>An efficient sampling method for characterizing points of interests on maps.</title><venue>ICDE</venue><pages>1012-1023</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangHL14</key><doi>10.1109/ICDE.2014.6816719</doi><ee>https://doi.org/10.1109/ICDE.2014.6816719</ee><url>https://dblp.org/rec/conf/icde/WangHL14</url></info>
+<url>URL#4337925</url>
+</hit>
+<hit score="1" id="4337927">
+<info><authors><author pid="95/4442-85">Peng Wang 0085</author><author pid="r/ChinyaVRavishankar">Chinya V. Ravishankar</author></authors><title>On masking topical intent in keyword search.</title><venue>ICDE</venue><pages>256-267</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangR14</key><doi>10.1109/ICDE.2014.6816656</doi><ee>https://doi.org/10.1109/ICDE.2014.6816656</ee><url>https://dblp.org/rec/conf/icde/WangR14</url></info>
+<url>URL#4337927</url>
+</hit>
+<hit score="1" id="4337928">
+<info><authors><author pid="84/6394-6">Zhongyuan Wang 0006</author><author pid="w/HaixunWang">Haixun Wang</author><author pid="132/7766">Zhirui Hu</author></authors><title>Head, modifier, and constraint detection in short texts.</title><venue>ICDE</venue><pages>280-291</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangWH14</key><doi>10.1109/ICDE.2014.6816658</doi><ee>https://doi.org/10.1109/ICDE.2014.6816658</ee><url>https://dblp.org/rec/conf/icde/WangWH14</url></info>
+<url>URL#4337928</url>
+</hit>
+<hit score="1" id="4337929">
+<info><authors><author pid="49/3800">Lu Wang</author><author pid="96/999">Yanghua Xiao</author><author pid="53/2446">Bin Shao</author><author pid="w/HaixunWang">Haixun Wang</author></authors><title>How to partition a billion-node graph.</title><venue>ICDE</venue><pages>568-579</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangXSW14</key><doi>10.1109/ICDE.2014.6816682</doi><ee>https://doi.org/10.1109/ICDE.2014.6816682</ee><url>https://dblp.org/rec/conf/icde/WangXSW14</url></info>
+<url>URL#4337929</url>
+</hit>
+<hit score="1" id="4337931">
+<info><authors><author pid="144/8743">Leihao Xia</author><author pid="117/4950">Caleb Chen Cao</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="93/3669-3">Zhao Chen 0003</author></authors><title>C-DMr: Crowd-powered Decision Maker for real world Knapsack Problems.</title><venue>ICDE</venue><pages>1174-1177</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XiaCCC14</key><doi>10.1109/ICDE.2014.6816734</doi><ee>https://doi.org/10.1109/ICDE.2014.6816734</ee><url>https://dblp.org/rec/conf/icde/XiaCCC14</url></info>
+<url>URL#4337931</url>
+</hit>
+<hit score="1" id="4337932">
+<info><authors><author pid="56/10813">Yusheng Xie</author><author pid="37/10782">Diana Palsetia</author><author pid="66/974">Goce Trajcevski</author><author pid="55/5176-1">Ankit Agrawal 0001</author><author pid="c/AlokNChoudhary">Alok N. Choudhary</author></authors><title>SILVERBACK: Scalable association mining for temporal data in columnar probabilistic databases.</title><venue>ICDE</venue><pages>1072-1083</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XiePTAC14</key><doi>10.1109/ICDE.2014.6816724</doi><ee>https://doi.org/10.1109/ICDE.2014.6816724</ee><url>https://dblp.org/rec/conf/icde/XiePTAC14</url></info>
+<url>URL#4337932</url>
+</hit>
+<hit score="1" id="4337934">
+<info><authors><author pid="54/1474-1">Chen Xu 0001</author><author pid="23/6882">Fan Xia</author><author pid="s/MohamedASharaf">Mohamed A. Sharaf</author><author pid="81/3494">Minqi Zhou</author><author pid="z/AoyingZhou">Aoying Zhou</author></authors><title>AQUAS: A quality-aware scheduler for NoSQL data stores.</title><venue>ICDE</venue><pages>1210-1213</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XuXSZZ14</key><doi>10.1109/ICDE.2014.6816743</doi><ee>https://doi.org/10.1109/ICDE.2014.6816743</ee><url>https://dblp.org/rec/conf/icde/XuXSZZ14</url></info>
+<url>URL#4337934</url>
+</hit>
+<hit score="1" id="4337935">
+<info><authors><author pid="13/4177">Guanhua Yan</author></authors><title>Finding common ground among experts&apos; opinions on data clustering: With applications in malware analysis.</title><venue>ICDE</venue><pages>15-27</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Yan14</key><doi>10.1109/ICDE.2014.6816636</doi><ee>https://doi.org/10.1109/ICDE.2014.6816636</ee><url>https://dblp.org/rec/conf/icde/Yan14</url></info>
+<url>URL#4337935</url>
+</hit>
+<hit score="1" id="4337936">
+<info><authors><author pid="90/8577">Shiyu Yang</author><author pid="55/5690">Muhammad Aamir Cheema</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="13/6769-1">Ying Zhang 0001</author></authors><title>SLICE: Reviving regions-based pruning for reverse k nearest neighbors queries.</title><venue>ICDE</venue><pages>760-771</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangCLZ14</key><doi>10.1109/ICDE.2014.6816698</doi><ee>https://doi.org/10.1109/ICDE.2014.6816698</ee><url>https://dblp.org/rec/conf/icde/YangCLZ14</url></info>
+<url>URL#4337936</url>
+</hit>
+<hit score="1" id="4337937">
+<info><authors><author pid="77/377-2">Bin Yang 0002</author><author pid="49/7979">Chenjuan Guo</author><author pid="j/ChristianSJensen">Christian S. Jensen</author><author pid="29/10735">Manohar Kaul</author><author pid="29/8750">Shuo Shang</author></authors><title>Stochastic skyline route planning under time-varying uncertainty.</title><venue>ICDE</venue><pages>136-147</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangGJKS14</key><doi>10.1109/ICDE.2014.6816646</doi><ee>https://doi.org/10.1109/ICDE.2014.6816646</ee><url>https://dblp.org/rec/conf/icde/YangGJKS14</url></info>
+<url>URL#4337937</url>
+</hit>
+<hit score="1" id="4337939">
+<info><authors><author pid="94/4423">Xun Yi</author><author pid="49/10309">Russell Paulet</author><author pid="b/ElisaBertino">Elisa Bertino</author><author pid="v/VijayVaradharajan">Vijay Varadharajan</author></authors><title>Practical k nearest neighbor queries with location privacy.</title><venue>ICDE</venue><pages>640-651</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YiPBV14</key><doi>10.1109/ICDE.2014.6816688</doi><ee>https://doi.org/10.1109/ICDE.2014.6816688</ee><url>https://dblp.org/rec/conf/icde/YiPBV14</url></info>
+<url>URL#4337939</url>
+</hit>
+<hit score="1" id="4337940">
+<info><authors><author pid="61/5253-1">Albert Yu 0001</author><author pid="a/PankajKAgarwal">Pankaj K. Agarwal</author><author pid="y/JunYang1">Jun Yang 0001</author></authors><title>Top-k preferences in high dimensions.</title><venue>ICDE</venue><pages>748-759</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YuAY14</key><doi>10.1109/ICDE.2014.6816697</doi><ee>https://doi.org/10.1109/ICDE.2014.6816697</ee><url>https://dblp.org/rec/conf/icde/YuAY14</url></info>
+<url>URL#4337940</url>
+</hit>
+<hit score="1" id="4337941">
+<info><authors><author pid="45/8097">Weiren Yu</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author></authors><title>Fast incremental SimRank on link-evolving graphs.</title><venue>ICDE</venue><pages>304-315</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YuLZ14</key><doi>10.1109/ICDE.2014.6816660</doi><ee>https://doi.org/10.1109/ICDE.2014.6816660</ee><url>https://dblp.org/rec/conf/icde/YuLZ14</url></info>
+<url>URL#4337941</url>
+</hit>
+<hit score="1" id="4337942">
+<info><authors><author pid="01/6205">Yong Zeng</author><author pid="20/3716">Zhifeng Bao</author><author pid="l/TokWangLing">Tok Wang Ling</author><author pid="j/HVJagadish">H. V. Jagadish</author><author pid="l/GuoliangLi">Guoliang Li 0001</author></authors><title>Breaking out of the MisMatch trap.</title><venue>ICDE</venue><pages>940-951</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZengBLJL14</key><doi>10.1109/ICDE.2014.6816713</doi><ee>https://doi.org/10.1109/ICDE.2014.6816713</ee><url>https://dblp.org/rec/conf/icde/ZengBLJL14</url></info>
+<url>URL#4337942</url>
+</hit>
+<hit score="1" id="4337943">
+<info><authors><author pid="124/6700">Wangda Zhang</author><author pid="89/2619">Reynold Cheng</author><author pid="k/BenKao">Ben Kao</author></authors><title>Evaluating multi-way joins over discounted hitting time.</title><venue>ICDE</venue><pages>724-735</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangCK14</key><doi>10.1109/ICDE.2014.6816695</doi><ee>https://doi.org/10.1109/ICDE.2014.6816695</ee><url>https://dblp.org/rec/conf/icde/ZhangCK14</url></info>
+<url>URL#4337943</url>
+</hit>
+<hit score="1" id="4337944">
+<info><authors><author pid="68/1980">Zhiwei Zhang</author><author pid="51/5585">Lu Qin 0001</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>Contract &amp; Expand: I/O Efficient SCCs Computing.</title><venue>ICDE</venue><pages>208-219</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangQY14</key><doi>10.1109/ICDE.2014.6816652</doi><ee>https://doi.org/10.1109/ICDE.2014.6816652</ee><url>https://dblp.org/rec/conf/icde/ZhangQY14</url></info>
+<url>URL#4337944</url>
+</hit>
+<hit score="1" id="4337946">
+<info><authors><author pid="117/6165-1">Xiaochen Zhu 0001</author><author pid="20/3883">Shaoxu Song</author><author pid="06/3456-1">Jianmin Wang 0001</author><author pid="y/PhilipSYu">Philip S. Yu</author><author pid="s/JiaGuangSun-1">Jiaguang Sun 0001</author></authors><title>Matching heterogeneous events with patterns.</title><venue>ICDE</venue><pages>376-387</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhuSWYS14</key><doi>10.1109/ICDE.2014.6816666</doi><ee>https://doi.org/10.1109/ICDE.2014.6816666</ee><url>https://dblp.org/rec/conf/icde/ZhuSWYS14</url></info>
+<url>URL#4337946</url>
+</hit>
+<hit score="1" id="4337947">
+<info><authors><author pid="14/8203">Bo Zong</author><author pid="88/5233">Ramya Raghavendra</author><author pid="16/6744">Mudhakar Srivatsa</author><author pid="y/XifengYan">Xifeng Yan</author><author pid="s/AmbujKSingh">Ambuj K. Singh</author><author pid="36/2220">Kang-Won Lee</author></authors><title>Cloud service placement via subgraph matching.</title><venue>ICDE</venue><pages>832-843</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZongRSYSL14</key><doi>10.1109/ICDE.2014.6816704</doi><ee>https://doi.org/10.1109/ICDE.2014.6816704</ee><url>https://dblp.org/rec/conf/icde/ZongRSYSL14</url></info>
+<url>URL#4337947</url>
+</hit>
+<hit score="1" id="4425702">
+<info><authors><author pid="c/IFCruz">Isabel F. Cruz</author><author pid="389/7043-1">Elena Ferrari 0001</author><author pid="t/YufeiTao">Yufei Tao 0001</author><author pid="b/ElisaBertino">Elisa Bertino</author><author pid="66/974">Goce Trajcevski</author></authors><title>IEEE 30th International Conference on Data Engineering, Chicago, ICDE 2014, IL, USA, March 31 - April 4, 2014</title><venue>ICDE</venue><publisher>IEEE Computer Society</publisher><year>2014</year><type>Editorship</type><key>conf/icde/2014</key><ee>https://ieeexplore.ieee.org/xpl/conhome/6811095/proceeding</ee><url>https://dblp.org/rec/conf/icde/2014</url></info>
+<url>URL#4425702</url>
+</hit>
+</hits>
+</result>

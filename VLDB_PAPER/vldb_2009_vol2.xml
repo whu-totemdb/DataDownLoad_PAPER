@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="46733">:facetid:toc:\"db/journals/pvldb/pvldb2.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">70.65</time>
+<completions total="1" computed="1" sent="1">
+<c sc="167" dc="167" oc="167" id="46563559">:facetid:toc:db/journals/pvldb/pvldb2.bht</c>
+</completions>
+<hits total="167" computed="167" sent="167" first="0">
+<hit score="1" id="5539253">
+<info><authors><author pid="a/DJAbadi">Daniel J. Abadi</author><author pid="b/PeterABoncz">Peter A. Boncz</author><author pid="38/6308">Stavros Harizopoulos</author></authors><title>Column oriented Database Systems.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1664-1665</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AbadiBH09</key><doi>10.14778/1687553.1687625</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-tutorial6.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AbadiBH09</url></info>
+<url>URL#5539253</url>
+</hit>
+<hit score="1" id="5539254">
+<info><authors><author pid="a/DJAbadi">Daniel J. Abadi</author><author pid="82/231">Michael J. Cafarella</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="k/DonaldKossmann">Donald Kossmann</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="b/PhilipABernstein">Philip A. Bernstein</author></authors><title>How Best to Build Web-Scale Data Managers? A Panel Discussion.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1647</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AbadiCHKMB09</key><doi>10.14778/1687553.1687616</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-panel2.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AbadiCHKMB09</url></info>
+<url>URL#5539254</url>
+</hit>
+<hit score="1" id="5539255">
+<info><authors><author pid="57/7259">Azza Abouzeid</author><author pid="87/7258">Kamil Bajda-Pawlikowski</author><author pid="a/DJAbadi">Daniel J. Abadi</author><author pid="39/998">Alexander Rasin</author><author pid="s/AbrahamSilberschatz">Avi Silberschatz</author></authors><title>HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>922-933</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AbouzeidBARS09</key><doi>10.14778/1687627.1687731</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-861.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AbouzeidBARS09</url></info>
+<url>URL#5539255</url>
+</hit>
+<hit score="1" id="5539256">
+<info><authors><author pid="a/CharuCAggarwal">Charu C. Aggarwal</author><author pid="62/6285">Yan Xie</author><author pid="y/PhilipSYu">Philip S. Yu</author></authors><title>GConnect: A Connectivity Index for Massive Disk-resident Graphs.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>862-873</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AggarwalXY09</key><doi>10.14778/1687627.1687725</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-349.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AggarwalXY09</url></info>
+<url>URL#5539256</url>
+</hit>
+<hit score="1" id="5539257">
+<info><authors><author pid="65/7259">Devesh Agrawal</author><author pid="g/DeepakGanesan">Deepak Ganesan</author><author pid="s/RameshKSitaraman">Ramesh K. Sitaraman</author><author pid="d/YanleiDiao">Yanlei Diao</author><author pid="95/7258">Shashi Singh</author></authors><title>Lazy-Adaptive Tree: An Optimized Index Structure for Flash Devices.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>361-372</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AgrawalGSDS09</key><doi>10.14778/1687627.1687669</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-341.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AgrawalGSDS09</url></info>
+<url>URL#5539257</url>
+</hit>
+<hit score="1" id="5539258">
+<info><authors><author pid="99/770">Yanif Ahmad</author><author pid="k/ChristophKoch">Christoph Koch 0001</author></authors><title>DBToaster: A SQL Compiler for High-Performance Delta Processing in Main-Memory Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1566-1569</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AhmadK09</key><doi>10.14778/1687553.1687592</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1042.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AhmadK09</url></info>
+<url>URL#5539258</url>
+</hit>
+<hit score="1" id="5539259">
+<info><authors><author pid="a/MHAli">Mohamed H. Ali</author><author pid="74/7259">Ciprian Gerea</author><author pid="55/7258">Balan Sethu Raman</author><author pid="74/4606">Beysim Sezgin</author><author pid="68/7258">Tiho Tarnavski</author><author pid="51/7259">Tomer Verona</author><author pid="37/1304">Ping Wang</author><author pid="30/6748">Peter Zabback</author><author pid="45/7259">Anton Kirilov</author><author pid="28/4012">Asvin Ananthanarayan</author><author pid="15/5997">Ming Lu</author><author pid="63/7258">Alex Raizman</author><author pid="05/4051">Ramkumar Krishnan</author><author pid="43/6617">Roman Schindlauer</author><author pid="90/1374">Torsten Grabs</author><author pid="72/7259">Sharon Bjeletich</author><author pid="01/2861">Badrish Chandramouli</author><author pid="g/JonathanGoldstein">Jonathan Goldstein</author><author pid="70/7259">Sudin Bhat</author><author pid="22/1805">Ying Li</author><author pid="09/7259">Vincenzo Di Nicola</author><author pid="67/1201">Xianfang Wang</author><author pid="m/DavidMaier">David Maier 0001</author><author pid="26/7259">Ivo Santos</author><author pid="63/433">Olivier Nano</author><author pid="67/7258">Stephan Grell</author></authors><title>Microsoft CEP Server and Online Behavioral Targeting.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1558-1561</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AliGRSTVWZKALRKSGBCGBLNWMSNG09</key><doi>10.14778/1687553.1687590</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1019.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AliGRSTVWZKALRKSGBCGBLNWMSNG09</url></info>
+<url>URL#5539259</url>
+</hit>
+<hit score="1" id="5539260">
+<info><authors><author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author><author pid="97/3301">Senjuti Basu Roy</author><author pid="96/1628">Ashish Chawla</author><author pid="07/1181">Gautam Das 0001</author><author pid="58/3771">Cong Yu 0001</author></authors><title>Group Recommendation: Semantics and Efficiency.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>754-765</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/Amer-YahiaRCDY09</key><doi>10.14778/1687627.1687713</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-858.pdf</ee><url>https://dblp.org/rec/journals/pvldb/Amer-YahiaRCDY09</url></info>
+<url>URL#5539260</url>
+</hit>
+<hit score="1" id="5539261">
+<info><authors><author pid="a/ArvindArasu">Arvind Arasu</author><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="09/2901">Raghav Kaushik</author></authors><title>Learning String Transformations From Examples.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>514-525</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ArasuCK09</key><doi>10.14778/1687627.1687686</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-226.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ArasuCK09</url></info>
+<url>URL#5539261</url>
+</hit>
+<hit score="1" id="5539262">
+<info><authors><author pid="76/6735">Marcelo Arenas</author><author pid="12/6407-1">Jorge Pérez 0001</author><author pid="36/27">Juan L. Reutter</author><author pid="72/4028">Cristian Riveros</author></authors><title>Inverting Schema Mappings: Bridging the Gap between Theory and Practice.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1018-1029</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ArenasPRR09</key><doi>10.14778/1687627.1687742</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-775.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ArenasPRR09</url></info>
+<url>URL#5539262</url>
+</hit>
+<hit score="1" id="5539263">
+<info><authors><author pid="a/IraAssent">Ira Assent</author><author pid="24/3402">Marc Wichterich</author><author pid="93/5744">Ralph Krieger</author><author pid="51/6746">Hardy Kremer</author><author pid="s/ThomasSeidl1">Thomas Seidl 0001</author></authors><title>Anticipatory DTW for Efficient Similarity Search in Time Series Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>826-837</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/AssentWKKS09</key><doi>10.14778/1687627.1687721</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-793.pdf</ee><url>https://dblp.org/rec/journals/pvldb/AssentWKKS09</url></info>
+<url>URL#5539263</url>
+</hit>
+<hit score="1" id="5539264">
+<info><authors><author pid="84/3381">Roger Bamford</author><author pid="43/3643">Vinayak R. Borkar</author><author pid="82/1740">Matthias Brantner</author><author pid="f/PeterMFischer1">Peter M. Fischer 0001</author><author pid="70/3007">Daniela Florescu</author><author pid="59/172">David A. Graf</author><author pid="k/DonaldKossmann">Donald Kossmann</author><author pid="26/6037">Tim Kraska</author><author pid="07/4770">Dan Muresan</author><author pid="77/7258">Sorin Nasoi</author><author pid="15/7259">Markos Zacharioudaki</author></authors><title>XQuery Reloaded.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1342-1353</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BamfordBBFFGKKMNZ09</key><doi>10.14778/1687553.1687560</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1078.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BamfordBBFFGKKMNZ09</url></info>
+<url>URL#5539264</url>
+</hit>
+<hit score="1" id="5539265">
+<info><authors><author pid="09/1115">Zhuowei Bao</author><author pid="b/SarahCohenBoulakia">Sarah Cohen Boulakia</author><author pid="d/SBDavidson">Susan B. Davidson</author><author pid="57/7258">Pierrick Girard</author></authors><title>PDiffView: Viewing the Difference in Provenance of Workflow Results.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1638-1641</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BaoBDG09</key><doi>10.14778/1687553.1687612</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-850.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BaoBDG09</url></info>
+<url>URL#5539265</url>
+</hit>
+<hit score="1" id="5539266">
+<info><authors><author pid="b/RobertBaumgartner">Robert Baumgartner</author><author pid="g/GeorgGottlob">Georg Gottlob</author><author pid="91/4750">Marcus Herzog</author></authors><title>Scalable Web Data Extraction for Online Market Intelligence.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1512-1523</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BaumgartnerGH09</key><doi>10.14778/1687553.1687580</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1075.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BaumgartnerGH09</url></info>
+<url>URL#5539266</url>
+</hit>
+<hit score="1" id="5539267">
+<info><authors><author pid="19/4504">Srikanth Bellamkonda</author><author pid="52/5728">Rafi Ahmed</author><author pid="63/3671">Andrew Witkowski</author><author pid="74/7258">Angela Amor</author><author pid="04/4426">Mohamed Zaït</author><author pid="37/7259">Chun Chieh Lin</author></authors><title>Enhanced Subquery Optimizations in Oracle.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1366-1377</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BellamkondaAWAZL09</key><doi>10.14778/1687553.1687563</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-423.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BellamkondaAWAZL09</url></info>
+<url>URL#5539267</url>
+</hit>
+<hit score="1" id="5539268">
+<info><authors><author pid="b/MichaelBenedikt">Michael Benedikt</author><author pid="96/3253">James Cheney</author></authors><title>Schema-Based Independence Analysis for XML Updates.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>61-72</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BenediktC09</key><doi>10.14778/1687627.1687635</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-684.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BenediktC09</url></info>
+<url>URL#5539268</url>
+</hit>
+<hit score="1" id="5539269">
+<info><authors><author pid="98/6141">George Beskales</author><author pid="07/1330">Mohamed A. Soliman</author><author pid="i/IhabFIlyas">Ihab F. Ilyas</author><author pid="15/6319">Shai Ben-David</author></authors><title>Modeling and Querying Possible Repairs in Duplicate Detection.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>598-609</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BeskalesSIB09</key><doi>10.14778/1687627.1687695</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-370.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BeskalesSIB09</url></info>
+<url>URL#5539269</url>
+</hit>
+<hit score="1" id="5539270">
+<info><authors><author pid="19/2910">Bishwaranjan Bhattacharjee</author><author pid="55/2304">Lipyeow Lim</author><author pid="31/4691">Timothy Malkemus</author><author pid="m/GeorgeAMihaila">George A. Mihaila</author><author pid="r/KARoss">Kenneth A. Ross</author><author pid="08/517">Sherman Lau</author><author pid="13/7259">Cathy McCarthur</author><author pid="29/7259">Zoltan Toth</author><author pid="02/5500">Reza Sherkat</author></authors><title>Efficient Index Compression in DB2 LUW.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1462-1473</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BhattacharjeeLMMRLMTS09</key><doi>10.14778/1687553.1687573</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-798.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BhattacharjeeLMMRLMTS09</url></info>
+<url>URL#5539270</url>
+</hit>
+<hit score="1" id="5539271">
+<info><authors><author pid="40/4935">Manish Bhide</author><author pid="90/1415">Manoj K. Agarwal</author><author pid="20/5501">Amir Bar-Or</author><author pid="p/SPadmanabhan">Sriram Padmanabhan</author><author pid="17/7259">Srinivas Mittapalli</author><author pid="65/7258">Girish Venkatachaliah</author></authors><title>XPEDIA: XML ProcEssing for Data IntegrAtion.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1330-1341</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BhideABPMV09</key><doi>10.14778/1687553.1687559</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-623.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BhideABPMV09</url></info>
+<url>URL#5539271</url>
+</hit>
+<hit score="1" id="5539272">
+<info><authors><author pid="b/PeterABoncz">Peter A. Boncz</author><author pid="m/StefanManegold">Stefan Manegold</author><author pid="k/MartinLKersten">Martin L. Kersten</author></authors><title>Database Architecture Evolution: Mammals Flourished long before Dinosaurs became Extinct.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1648-1653</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BonczMK09</key><doi>10.14778/1687553.1687618</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-10years.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BonczMK09</url></info>
+<url>URL#5539272</url>
+</hit>
+<hit score="1" id="5539273">
+<info><authors><author pid="48/3359">Nedyalko Borisov</author><author pid="b/ShivnathBabu">Shivnath Babu</author><author pid="61/3490">Sandeep Uttamchandani</author><author pid="21/5885">Ramani Routray</author><author pid="s/AameekSingh">Aameek Singh</author></authors><title>DIADS: A Problem Diagnosis Tool for Databases and Storage Area Networks.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1546-1549</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BorisovBURS09</key><doi>10.14778/1687553.1687587</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-907.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BorisovBURS09</url></info>
+<url>URL#5539273</url>
+</hit>
+<hit score="1" id="5539274">
+<info><authors><author pid="65/1685">Falk Brauer</author><author pid="35/4351">Wojciech M. Barczynski</author><author pid="65/4658">Gregor Hackenbroich</author><author pid="05/2500">Marcus Schramm</author><author pid="37/3036">Adrian Mocan</author><author pid="03/7259">Felix Förster</author></authors><title>RankIE: Document Retrieval on Ranked Entity Graphs.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1578-1581</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/BrauerBHSMF09</key><doi>10.14778/1687553.1687596</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-673.pdf</ee><url>https://dblp.org/rec/journals/pvldb/BrauerBHSMF09</url></info>
+<url>URL#5539274</url>
+</hit>
+<hit score="1" id="5539275">
+<info><authors><author pid="82/231">Michael J. Cafarella</author><author pid="h/AlonYHalevy">Alon Y. Halevy</author><author pid="k/NodiraKhoussainova">Nodira Khoussainova</author></authors><title>Data Integration for the Relational Web.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1090-1101</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CafarellaHK09</key><doi>10.14778/1687627.1687750</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-576.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CafarellaHK09</url></info>
+<url>URL#5539275</url>
+</hit>
+<hit score="1" id="5539276">
+<info><authors><author pid="c/GeorgeCandea">George Candea</author><author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author><author pid="40/6597">Radek Vingralek</author></authors><title>A Scalable, Predictable Join Operator for Highly Concurrent Data Warehouses.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>277-288</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CandeaPV09</key><doi>10.14778/1687627.1687659</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-553.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CandeaPV09</url></info>
+<url>URL#5539276</url>
+</hit>
+<hit score="1" id="5539277">
+<info><authors><author pid="71/6902">Mustafa Canim</author><author pid="19/2910">Bishwaranjan Bhattacharjee</author><author pid="m/GeorgeAMihaila">George A. Mihaila</author><author pid="l/ChristianALang">Christian A. Lang</author><author pid="r/KARoss">Kenneth A. Ross</author></authors><title>An Object Placement Advisor for DB2 Using Solid State Storage.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1318-1329</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CanimBMLR09</key><doi>10.14778/1687553.1687557</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-853.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CanimBMLR09</url></info>
+<url>URL#5539277</url>
+</hit>
+<hit score="1" id="5539278">
+<info><authors><author pid="91/5696">Balder ten Cate</author><author pid="c/LauraChiticariu">Laura Chiticariu</author><author pid="k/PGKolaitis">Phokion G. Kolaitis</author><author pid="t/WangChiewTan">Wang Chiew Tan</author></authors><title>Laconic Schema Mappings: Computing the Core with SQL Queries.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1006-1017</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CateCKT09</key><doi>10.14778/1687627.1687741</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-595.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CateCKT09</url></info>
+<url>URL#5539278</url>
+</hit>
+<hit score="1" id="5539279">
+<info><authors><author pid="05/6939">Bogdan Cautis</author><author pid="d/AlinDeutsch">Alin Deutsch</author><author pid="o/NicolaOnose">Nicola Onose</author><author pid="v/VVassalos">Vasilis Vassalos</author></authors><title>Efficient Rewriting of XPath Queries Using Query Set Specifications.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>301-312</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CautisDOV09</key><doi>10.14778/1687627.1687662</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-638.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CautisDOV09</url></info>
+<url>URL#5539279</url>
+</hit>
+<hit score="1" id="5539280">
+<info><authors><author pid="01/2861">Badrish Chandramouli</author><author pid="g/JonathanGoldstein">Jonathan Goldstein</author><author pid="m/DavidMaier">David Maier 0001</author></authors><title>On-the-fly Progress Detection in Iterative Stream Queries.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>241-252</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ChandramouliGM09</key><doi>10.14778/1687627.1687655</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-224.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ChandramouliGM09</url></info>
+<url>URL#5539280</url>
+</hit>
+<hit score="1" id="5539281">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="07/1181">Gautam Das 0001</author></authors><title>Keyword querying and Ranking in Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1658-1659</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ChaudhuriD09</key><doi>10.14778/1687553.1687622</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-tutorial3.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ChaudhuriD09</url></info>
+<url>URL#5539281</url>
+</hit>
+<hit score="1" id="5539282">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="g/VenkateshGanti">Venkatesh Ganti</author><author pid="76/3976">Dong Xin</author></authors><title>Mining Document Collections to Facilitate Accurate Approximate Entity Matching.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>395-406</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ChaudhuriGX09</key><doi>10.14778/1687627.1687673</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-315.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ChaudhuriGX09</url></info>
+<url>URL#5539282</url>
+</hit>
+<hit score="1" id="5539283">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="n/VivekRNarasayya">Vivek R. Narasayya</author><author pid="02/4973">Ravishankar Ramamurthy</author></authors><title>Exact Cardinality Query Optimization for Optimizer Testing.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>994-1005</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ChaudhuriNR09</key><doi>10.14778/1687627.1687739</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-294.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ChaudhuriNR09</url></info>
+<url>URL#5539283</url>
+</hit>
+<hit score="1" id="5539284">
+<info><authors><author pid="55/5690">Muhammad Aamir Cheema</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="13/6769-1">Ying Zhang 0001</author><author pid="w/WeiWang11">Wei Wang 0011</author><author pid="98/5684-1">Wenjie Zhang 0001</author></authors><title>Lazy Updates: An Efficient Technique to Continuously Monitoring Reverse kNN.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1138-1149</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CheemaLZWZ09</key><doi>10.14778/1687627.1687755</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-720.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CheemaLZWZ09</url></info>
+<url>URL#5539284</url>
+</hit>
+<hit score="1" id="5539285">
+<info><authors><author pid="17/1237-6">Ling Chen 0006</author><author pid="b/SSBhowmick">Sourav S. Bhowmick</author><author pid="n/WolfgangNejdl">Wolfgang Nejdl</author></authors><title>NEAR-Miner: Mining Evolution Associations of Web Site Directories for Efficient Maintenance of Web Archives.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1150-1161</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ChenBN09</key><doi>10.14778/1687627.1687757</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-329.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ChenBN09</url></info>
+<url>URL#5539285</url>
+</hit>
+<hit score="1" id="5539286">
+<info><authors><author pid="65/4423-5">Chen Chen 0005</author><author pid="45/5769">Cindy Xide Lin</author><author pid="38/2612">Matt Fredrikson</author><author pid="64/4993">Mihai Christodorescu</author><author pid="y/XifengYan">Xifeng Yan</author><author pid="h/JiaweiHan">Jiawei Han 0001</author></authors><title>Mining Graph Patterns Efficiently via Randomized Summaries.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>742-753</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ChenLFCYH09</key><doi>10.14778/1687627.1687711</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-80.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ChenLFCYH09</url></info>
+<url>URL#5539286</url>
+</hit>
+<hit score="1" id="5539287">
+<info><authors><author pid="94/5089">Huajun Chen</author><author pid="48/7036">Bin Lu</author><author pid="70/2170">Yuan Ni</author><author pid="73/5346">Guo Tong Xie</author><author pid="54/739">Chunying Zhou</author><author pid="42/7258">Jinhua Mi</author><author pid="54/6252-1">Zhaohui Wu 0001</author></authors><title>Mashup by Surfing a Web of Data APIs.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1602-1605</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ChenLNXZMW09</key><doi>10.14778/1687553.1687602</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1033.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ChenLNXZMW09</url></info>
+<url>URL#5539287</url>
+</hit>
+<hit score="1" id="5539288">
+<info><authors><author pid="23/7259">Jeffrey Cohen</author><author pid="76/7259">Brian Dolan</author><author pid="02/7259">Mark Dunlap</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="18/7259">Caleb Welton</author></authors><title>MAD Skills: New Analysis Practices for Big Data.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1481-1492</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CohenDDHW09</key><doi>10.14778/1687553.1687576</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-219.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CohenDDHW09</url></info>
+<url>URL#5539288</url>
+</hit>
+<hit score="1" id="5539289">
+<info><authors><author pid="40/1039">Edith Cohen</author><author pid="d/NickGDuffield">Nick G. Duffield</author><author pid="48/3950">Haim Kaplan</author><author pid="l/CarstenLund">Carsten Lund</author><author pid="t/MikkelThorup">Mikkel Thorup</author></authors><title>Composable, Scalable, and Accurate Weight Summarization of Unaggregated Data Sets.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>431-442</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CohenDKLT09</key><doi>10.14778/1687627.1687677</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-85.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CohenDKLT09</url></info>
+<url>URL#5539289</url>
+</hit>
+<hit score="1" id="5539290">
+<info><authors><author pid="40/1039">Edith Cohen</author><author pid="48/3950">Haim Kaplan</author><author pid="71/3761">Subhabrata Sen</author></authors><title>Coordinated Weighted Sampling for Estimating Aggregates Over Multiple Weight Assignments.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>646-657</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CohenKS09</key><doi>10.14778/1687627.1687701</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-93.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CohenKS09</url></info>
+<url>URL#5539290</url>
+</hit>
+<hit score="1" id="5539291">
+<info><authors><author pid="70/5296">Romain Colle</author><author pid="43/578">Leonidas Galanis</author><author pid="59/4472">Yujun Wang</author><author pid="68/5515">Supiti Buranawatanachoke</author><author pid="34/927">Stratos Papadomanolakis</author></authors><title>Oracle Database Replay.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1542-1545</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ColleGWBP09</key><doi>10.14778/1687553.1687586</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-588.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ColleGWBP09</url></info>
+<url>URL#5539291</url>
+</hit>
+<hit score="1" id="5539292">
+<info><authors><author pid="33/3180">Gao Cong</author><author pid="j/ChristianSJensen">Christian S. Jensen</author><author pid="81/6181">Dingming Wu 0001</author></authors><title>Efficient Retrieval of the Top-k Most Relevant Spatial Web Objects.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>337-348</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CongJW09</key><doi>10.14778/1687627.1687666</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-677.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CongJW09</url></info>
+<url>URL#5539292</url>
+</hit>
+<hit score="1" id="5539293">
+<info><authors><author pid="c/GrahamCormode">Graham Cormode</author><author pid="d/ADeligiannakis">Antonios Deligiannakis</author><author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author><author pid="51/1169">Andrew McGregor 0001</author></authors><title>Probabilistic Histograms for Probabilistic Data.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>526-537</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CormodeDGM09</key><doi>10.14778/1687627.1687687</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-394.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CormodeDGM09</url></info>
+<url>URL#5539293</url>
+</hit>
+<hit score="1" id="5539294">
+<info><authors><author pid="c/GrahamCormode">Graham Cormode</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author><author pid="30/3887">Smriti Bhagat</author><author pid="89/7016">Balachander Krishnamurthy</author></authors><title>Class-based graph anonymization for social network data.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>766-777</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CormodeSBK09</key><doi>10.14778/1687627.1687714</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb26.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CormodeSBK09</url></info>
+<url>URL#5539294</url>
+</hit>
+<hit score="1" id="5539295">
+<info><authors><author pid="c/IFCruz">Isabel F. Cruz</author><author pid="51/7258">Flavio Palandri Antonelli</author><author pid="59/7258">Cosmin Stroe</author></authors><title>AgreementMaker: Efficient Matching for Large Real-World Schemas and Ontologies.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1586-1589</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/CruzAS09</key><doi>10.14778/1687553.1687598</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1003.pdf</ee><url>https://dblp.org/rec/journals/pvldb/CruzAS09</url></info>
+<url>URL#5539295</url>
+</hit>
+<hit score="1" id="5539296">
+<info><authors><author pid="71/5578">Philippe Cudré-Mauroux</author><author pid="98/5721-1">Hideaki Kimura 0001</author><author pid="58/4783">Kian-Tat Lim</author><author pid="43/2286">Jennie Rogers</author><author pid="22/7259">Roman Simakov</author><author pid="18/5134">Emad Soroush</author><author pid="23/6881">Pavel E. Velikhov</author><author pid="83/6826">Daniel L. Wang</author><author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author><author pid="60/1926">Jacek Becla</author><author pid="d/DJDeWitt">David J. DeWitt</author><author pid="11/7259">Bobbi Heath</author><author pid="m/DavidMaier">David Maier 0001</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="p/JMPatel">Jignesh M. Patel</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author><author pid="z/SBZdonik">Stanley B. Zdonik</author></authors><title>A Demonstration of SciDB: A Science-Oriented DBMS.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1534-1537</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/Cudre-MaurouxKLRSSVWBBDHMMPSZ09</key><doi>10.14778/1687553.1687584</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-76.pdf</ee><url>https://dblp.org/rec/journals/pvldb/Cudre-MaurouxKLRSSVWBBDHMMPSZ09</url></info>
+<url>URL#5539296</url>
+</hit>
+<hit score="1" id="5539297">
+<info><authors><author pid="54/3461">Chenyun Dai</author><author pid="80/6521">Gabriel Ghinita</author><author pid="b/ElisaBertino">Elisa Bertino</author><author pid="06/3923">Ji-Won Byun</author><author pid="l/NinghuiLi">Ninghui Li</author></authors><title>TIAMAT: a Tool for Interactive Analysis of Microdata Anonymization Techniques.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1618-1621</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DaiGBBL09</key><doi>10.14778/1687553.1687607</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-114.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DaiGBBL09</url></info>
+<url>URL#5539297</url>
+</hit>
+<hit score="1" id="5539298">
+<info><authors><author pid="71/5974">Sudipto Das</author><author pid="80/4547">Shyam Antony</author><author pid="a/DivyakantAgrawal">Divyakant Agrawal</author><author pid="a/AmrElAbbadi">Amr El Abbadi</author></authors><title>Thread Cooperation in Multicore Architectures for Frequency Counting over Multiple Data Streams.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>217-228</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DasAAA09</key><doi>10.14778/1687627.1687653</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-401.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DasAAA09</url></info>
+<url>URL#5539298</url>
+</hit>
+<hit score="1" id="5539299">
+<info><authors><author pid="90/3121">Dimitar Denev</author><author pid="m/ArturasMazeika">Arturas Mazeika</author><author pid="s/MarcSpaniol">Marc Spaniol</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>SHARC: Framework for Quality-Conscious Web Archiving.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>586-597</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DenevMSW09</key><doi>10.14778/1687627.1687694</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-350.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DenevMSW09</url></info>
+<url>URL#5539299</url>
+</hit>
+<hit score="1" id="5539300">
+<info><authors><author pid="98/6876">Daniel Deutch</author><author pid="m/TovaMilo">Tova Milo</author><author pid="66/7259">Tom Yam</author></authors><title>Goal-Oriented Web-site Navigation for On-line Shoppers.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1642-1645</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DeutchMY09</key><doi>10.14778/1687553.1687613</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-988.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DeutchMY09</url></info>
+<url>URL#5539300</url>
+</hit>
+<hit score="1" id="5539301">
+<info><authors><author pid="41/1872">Nicolas Dieu</author><author pid="40/7259">Adrian Dragusanu</author><author pid="72/6766">Françoise Fabret</author><author pid="l/FLlirbat">François Llirbat</author><author pid="s/EricSimon">Eric Simon</author></authors><title>1, 000 Tables Inside the From.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1450-1461</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DieuDFLS09</key><doi>10.14778/1687553.1687572</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1077.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DieuDFLS09</url></info>
+<url>URL#5539301</url>
+</hit>
+<hit score="1" id="5539302">
+<info><authors><author pid="68/3272">Alin Dobra</author><author pid="j/ChrisJermaine">Chris Jermaine</author><author pid="73/343">Florin Rusu</author><author pid="42/5065">Fei Xu</author></authors><title>Turbo-Charging Estimate Convergence in DBO.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>419-430</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DobraJRX09</key><doi>10.14778/1687627.1687675</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-234.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DobraJRX09</url></info>
+<url>URL#5539302</url>
+</hit>
+<hit score="1" id="5539303">
+<info><authors><author pid="d/XinLunaDong">Xin Luna Dong</author><author pid="b/LaureBertiEquille">Laure Berti-Équille</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Integrating Conflicting Data: The Role of Source Dependence.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>550-561</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DongBS09</key><doi>10.14778/1687627.1687690</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb47.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DongBS09</url></info>
+<url>URL#5539303</url>
+</hit>
+<hit score="1" id="5539304">
+<info><authors><author pid="d/XinLunaDong">Xin Luna Dong</author><author pid="b/LaureBertiEquille">Laure Berti-Équille</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Truth Discovery and Copying Detection in a Dynamic World.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>562-573</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DongBS09a</key><doi>10.14778/1687627.1687691</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-335.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DongBS09a</url></info>
+<url>URL#5539304</url>
+</hit>
+<hit score="1" id="5539305">
+<info><authors><author pid="d/XinLunaDong">Xin Luna Dong</author><author pid="n/FelixNaumann">Felix Naumann</author></authors><title>Data fusion - Resolving Data Conflicts for Integration.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1654-1655</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DongN09</key><doi>10.14778/1687553.1687620</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-tutorial1.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DongN09</url></info>
+<url>URL#5539305</url>
+</hit>
+<hit score="1" id="5539306">
+<info><authors><author pid="66/6919">Eduard Constantin Dragut</author><author pid="74/3719">Fang Fang</author><author pid="s/APrasadSistla">A. Prasad Sistla</author><author pid="y/ClementTYu">Clement T. Yu</author><author pid="m/WeiyiMeng">Weiyi Meng</author></authors><title>Stop Word and Related Problems in Web Interface Integration.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>349-360</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DragutFSYM09</key><doi>10.14778/1687627.1687667</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-384.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DragutFSYM09</url></info>
+<url>URL#5539306</url>
+</hit>
+<hit score="1" id="5539307">
+<info><authors><author pid="91/3250">Songyun Duan</author><author pid="04/3632">Vamsidhar Thummala</author><author pid="b/ShivnathBabu">Shivnath Babu</author></authors><title>Tuning Database Configuration Parameters with iTuned.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1246-1257</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/DuanTB09</key><doi>10.14778/1687627.1687767</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-193.pdf</ee><url>https://dblp.org/rec/journals/pvldb/DuanTB09</url></info>
+<url>URL#5539307</url>
+</hit>
+<hit score="1" id="5539308">
+<info><authors><author pid="80/951">Amr El-Helw</author><author pid="i/IhabFIlyas">Ihab F. Ilyas</author><author pid="32/3773">Calisto Zuzarte</author></authors><title>StatAdvisor: Recommending Statistical Views.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1306-1317</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/El-HelwIZ09</key><doi>10.14778/1687553.1687556</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-525.pdf</ee><url>https://dblp.org/rec/journals/pvldb/El-HelwIZ09</url></info>
+<url>URL#5539308</url>
+</hit>
+<hit score="1" id="5539309">
+<info><authors><author pid="12/2856">Hazem Elmeleegy</author><author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author><author pid="58/170">Emmanuel Cecchet</author><author pid="a/WGAref">Walid G. Aref</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>Online Piece-wise Linear Approximation of Numerical Streams with Precision Guarantees.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>145-156</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ElmeleegyECAZ09</key><doi>10.14778/1687627.1687645</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-573.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ElmeleegyECAZ09</url></info>
+<url>URL#5539309</url>
+</hit>
+<hit score="1" id="5539310">
+<info><authors><author pid="12/2856">Hazem Elmeleegy</author><author pid="76/5642">Jayant Madhavan</author><author pid="h/AlonYHalevy">Alon Y. Halevy</author></authors><title>Harvesting Relational Tables from Lists on the Web.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1078-1089</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ElmeleegyMH09</key><doi>10.14778/1687627.1687749</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-325.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ElmeleegyMH09</url></info>
+<url>URL#5539310</url>
+</hit>
+<hit score="1" id="5539311">
+<info><authors><author pid="94/2372">Wenfei Fan</author><author pid="02/5610">Xibei Jia</author><author pid="18/6870-1">Jianzhong Li 0001</author><author pid="35/6569">Shuai Ma 0001</author></authors><title>Reasoning about Record Matching Rules.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>407-418</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/FanJLM09</key><doi>10.14778/1687627.1687674</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-654.pdf</ee><url>https://dblp.org/rec/journals/pvldb/FanJLM09</url></info>
+<url>URL#5539311</url>
+</hit>
+<hit score="1" id="5539312">
+<info><authors><author pid="f/AlanDavidFekete">Alan D. Fekete</author><author pid="33/6131">Shirley Goldrei</author><author pid="72/7258">Jorge Perez Asenjo</author></authors><title>Quantifying Isolation Anomalies.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>467-478</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/FeketeGA09</key><doi>10.14778/1687627.1687681</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-185.pdf</ee><url>https://dblp.org/rec/journals/pvldb/FeketeGA09</url></info>
+<url>URL#5539312</url>
+</hit>
+<hit score="1" id="5539313">
+<info><authors><author pid="01/4734">Eric Friedman</author><author pid="97/3220">Peter M. Pawlowski</author><author pid="98/1786">John Cieslewicz</author></authors><title>SQL/MapReduce: A practical approach to self-describing, polymorphic, and parallelizable user-defined functions.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1402-1413</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/FriedmanPC09</key><doi>10.14778/1687553.1687567</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-464.pdf</ee><url>https://dblp.org/rec/journals/pvldb/FriedmanPC09</url></info>
+<url>URL#5539313</url>
+</hit>
+<hit score="1" id="5539314">
+<info><authors><author pid="71/7259">Alan Gates</author><author pid="31/7259">Olga Natkovich</author><author pid="31/7114">Shubham Chopra</author><author pid="25/7259">Pradeep Kamath</author><author pid="41/7258">Shravan Narayanam</author><author pid="o/ChristopherOlston">Christopher Olston</author><author pid="52/7399">Benjamin C. Reed</author><author pid="66/7258">Santhosh Srinivasan</author><author pid="46/2539">Utkarsh Srivastava</author></authors><title>Building a HighLevel Dataflow System on top of MapReduce: The Pig Experience.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1414-1425</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GatesNCKNORSS09</key><doi>10.14778/1687553.1687568</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1074.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GatesNCKNORSS09</url></info>
+<url>URL#5539314</url>
+</hit>
+<hit score="1" id="5539315">
+<info><authors><author pid="36/5673">Wolfgang Gatterbauer</author><author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author><author pid="k/NodiraKhoussainova">Nodira Khoussainova</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Believe It or Not: Adding Belief Annotations to Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1-12</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GatterbauerBKS09</key><doi>10.14778/1687627.1687629</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-115.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GatterbauerBKS09</url></info>
+<url>URL#5539315</url>
+</hit>
+<hit score="1" id="5539316">
+<info><authors><author pid="42/3296">Lukasz Golab</author><author pid="44/5186">Howard J. Karloff</author><author pid="k/FlipKorn">Flip Korn</author><author pid="61/3014">Avishek Saha</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Sequential Dependencies.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>574-585</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GolabKKSS09</key><doi>10.14778/1687627.1687693</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-149.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GolabKKSS09</url></info>
+<url>URL#5539316</url>
+</hit>
+<hit score="1" id="5539317">
+<info><authors><author pid="g/GeorgGottlob">Georg Gottlob</author><author pid="26/5252">Reinhard Pichler</author><author pid="56/1006">Vadim Savenkov</author></authors><title>Normalization and Optimization of Schema Mappings.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1102-1113</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GottlobPS09</key><doi>10.14778/1687627.1687751</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-923.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GottlobPS09</url></info>
+<url>URL#5539317</url>
+</hit>
+<hit score="1" id="5539318">
+<info><authors><author pid="g/OhadGreenshpan">Ohad Greenshpan</author><author pid="m/TovaMilo">Tova Milo</author><author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author></authors><title>Autocompletion for Mashups.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>538-549</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GreenshpanMP09</key><doi>10.14778/1687627.1687689</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-95.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GreenshpanMP09</url></info>
+<url>URL#5539318</url>
+</hit>
+<hit score="1" id="5539319">
+<info><authors><author pid="10/5842">Michael N. Gubanov</author><author pid="p/LucianPopa">Lucian Popa 0001</author><author pid="h/ChingTienHo">C. T. Howard Ho</author><author pid="p/HamidPirahesh">Hamid Pirahesh</author><author pid="58/7259">Jeng-Yih Chang</author><author pid="82/7258">Shr-Chang Chen</author></authors><title>IBM UFO Repository.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1598-1601</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GubanovPHPCC09</key><doi>10.14778/1687553.1687601</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1016.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GubanovPHPCC09</url></info>
+<url>URL#5539319</url>
+</hit>
+<hit score="1" id="5539320">
+<info><authors><author pid="21/6876">Hongfei Guo</author><author pid="65/5790">Dan Jones</author><author pid="17/1291">Jennifer L. Beckmann</author><author pid="s/PraveenSeshadri">Praveen Seshadri</author></authors><title>Declarative Database Management in SQLServer.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1294-1305</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GuoJBS09</key><doi>10.14778/1687553.1687555</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-435.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GuoJBS09</url></info>
+<url>URL#5539320</url>
+</hit>
+<hit score="1" id="5539321">
+<info><authors><author pid="24/3213">Rahul Gupta</author><author pid="s/SunitaSarawagi">Sunita Sarawagi</author></authors><title>Answering Table Augmentation Queries from Unstructured Lists on the Web.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>289-300</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/GuptaS09</key><doi>10.14778/1687627.1687661</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-652.pdf</ee><url>https://dblp.org/rec/journals/pvldb/GuptaS09</url></info>
+<url>URL#5539321</url>
+</hit>
+<hit score="1" id="5539322">
+<info><authors><author pid="86/6294">Marios Hadjieleftheriou</author><author pid="l/ChenLi1">Chen Li 0001</author></authors><title>Efficient Approximate Search on String Collections.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1660-1661</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/HadjieleftheriouL09</key><doi>10.14778/1687553.1687623</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-tutorial4.pdf</ee><url>https://dblp.org/rec/journals/pvldb/HadjieleftheriouL09</url></info>
+<url>URL#5539322</url>
+</hit>
+<hit score="1" id="5539323">
+<info><authors><author pid="87/5931">Mohammad Al Hasan</author><author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author></authors><title>Output Space Sampling for Graph Patterns.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>730-741</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/HasanZ09</key><doi>10.14778/1687627.1687710</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-713.pdf</ee><url>https://dblp.org/rec/journals/pvldb/HasanZ09</url></info>
+<url>URL#5539323</url>
+</hit>
+<hit score="1" id="5539324">
+<info><authors><author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author><author pid="66/2556">Fei Chiang</author><author pid="m/RJMiller">Renée J. Miller</author><author pid="09/1032">Hyun Chul Lee</author></authors><title>Framework for Evaluating Clustering Algorithms in Duplicate Detection.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1282-1293</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/HassanzadehCML09</key><doi>10.14778/1687627.1687771</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1025.pdf</ee><url>https://dblp.org/rec/journals/pvldb/HassanzadehCML09</url></info>
+<url>URL#5539324</url>
+</hit>
+<hit score="1" id="5539325">
+<info><authors><author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author><author pid="47/7258">Reynold Xin</author><author pid="m/RJMiller">Renée J. Miller</author><author pid="41/5464">Anastasios Kementsietsidis</author><author pid="55/2304">Lipyeow Lim</author><author pid="w/MinWang">Min Wang 0001</author></authors><title>Linkage Query Writer.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1590-1593</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/HassanzadehXMKLW09</key><doi>10.14778/1687553.1687599</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1006.pdf</ee><url>https://dblp.org/rec/journals/pvldb/HassanzadehXMKLW09</url></info>
+<url>URL#5539325</url>
+</hit>
+<hit score="1" id="5539326">
+<info><authors><author pid="14/7259">Yeye He</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author></authors><title>Anonymization of Set-Valued Data via Top-Down, Local Generalization.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>934-945</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/HeN09</key><doi>10.14778/1687627.1687733</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-552.pdf</ee><url>https://dblp.org/rec/journals/pvldb/HeN09</url></info>
+<url>URL#5539326</url>
+</hit>
+<hit score="1" id="5539327">
+<info><authors><author pid="27/4508">Jeffrey Heer</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author></authors><title>Data visualization &amp; social data analysis.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1656-1657</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/HeerH09</key><doi>10.14778/1687553.1687621</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-tutorial2.pdf</ee><url>https://dblp.org/rec/journals/pvldb/HeerH09</url></info>
+<url>URL#5539327</url>
+</hit>
+<hit score="1" id="5539328">
+<info><authors><author pid="w/MelanieWeis">Melanie Herschel</author><author pid="56/451">Mauricio A. Hernández</author><author pid="t/WangChiewTan">Wang Chiew Tan</author></authors><title>Artemis: A System for Analyzing Missing Answers.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1550-1553</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/HerschelHT09</key><doi>10.14778/1687553.1687588</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1004.pdf</ee><url>https://dblp.org/rec/journals/pvldb/HerschelHT09</url></info>
+<url>URL#5539328</url>
+</hit>
+<hit score="1" id="5539329">
+<info><authors><author pid="98/3414-1">Ryan Johnson 0001</author><author pid="p/IppokratisPandis">Ippokratis Pandis</author><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>Improving OLTP Scalability using Speculative Lock Inheritance.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>479-489</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/JohnsonPA09</key><doi>10.14778/1687627.1687682</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-157.pdf</ee><url>https://dblp.org/rec/journals/pvldb/JohnsonPA09</url></info>
+<url>URL#5539329</url>
+</hit>
+<hit score="1" id="5539330">
+<info><authors><author pid="32/5626">Thomas Kabisch</author><author pid="66/6919">Eduard Constantin Dragut</author><author pid="y/ClementTYu">Clement T. Yu</author><author pid="l/UlfLeser">Ulf Leser</author></authors><title>A Hierarchical Approach to Model Web Query Interfaces for Web Source Integration.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>325-336</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KabischDYL09</key><doi>10.14778/1687627.1687665</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-360.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KabischDYL09</url></info>
+<url>URL#5539330</url>
+</hit>
+<hit score="1" id="5539331">
+<info><authors><author pid="08/5342">Panagiotis Karras</author></authors><title>Optimality and Scalability in Lattice Histogram Construction.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>670-681</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/Karras09</key><doi>10.14778/1687627.1687703</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-201.pdf</ee><url>https://dblp.org/rec/journals/pvldb/Karras09</url></info>
+<url>URL#5539331</url>
+</hit>
+<hit score="1" id="5539332">
+<info><authors><author pid="09/2901">Raghav Kaushik</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Consistent Histograms In The Presence of Distinct Value Counts.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>850-861</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KaushikS09</key><doi>10.14778/1687627.1687723</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-561.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KaushikS09</url></info>
+<url>URL#5539332</url>
+</hit>
+<hit score="1" id="5539333">
+<info><authors><author pid="k/MinSooKim2">Min-Soo Kim 0002</author><author pid="h/JiaweiHan">Jiawei Han 0001</author></authors><title>A Particle-and-Density Based Evolutionary Clustering Method for Dynamic Networks.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>622-633</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KimH09</key><doi>10.14778/1687627.1687698</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-404.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KimH09</url></info>
+<url>URL#5539333</url>
+</hit>
+<hit score="1" id="5539334">
+<info><authors><author pid="56/1846">Changkyu Kim</author><author pid="91/3406">Eric Sedlar</author><author pid="32/6443">Jatin Chhugani</author><author pid="35/908">Tim Kaldewey</author><author pid="98/4734">Anthony D. Nguyen</author><author pid="60/6405">Andrea Di Blas</author><author pid="53/182">Victor W. Lee</author><author pid="29/1091">Nadathur Satish</author><author pid="47/4438">Pradeep Dubey</author></authors><title>Sort vs. Hash Revisited: Fast Join Implementation on Modern Multi-Core CPUs.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1378-1389</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KimSCKNBLSD09</key><doi>10.14778/1687553.1687564</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-257.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KimSCKNBLSD09</url></info>
+<url>URL#5539334</url>
+</hit>
+<hit score="1" id="5539335">
+<info><authors><author pid="98/5721-1">Hideaki Kimura 0001</author><author pid="60/6309">George Huo</author><author pid="39/998">Alexander Rasin</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="z/SBZdonik">Stanley B. Zdonik</author></authors><title>Correlation Maps: A Compressed Access Method for Exploiting Soft Functional Dependencies.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1222-1233</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KimuraHRMZ09</key><doi>10.14778/1687627.1687765</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-199.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KimuraHRMZ09</url></info>
+<url>URL#5539335</url>
+</hit>
+<hit score="1" id="5539336">
+<info><authors><author pid="90/4426">Georgia Koloniari</author><author pid="p/EPitoura">Evaggelia Pitoura</author></authors><title>A Recall-Based Cluster Formation Game in Peer-to-Peer Systems.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>455-466</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KoloniariP09</key><doi>10.14778/1687627.1687679</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-276.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KoloniariP09</url></info>
+<url>URL#5539336</url>
+</hit>
+<hit score="1" id="5539337">
+<info><authors><author pid="37/292">Hanna Köpcke</author><author pid="51/508">Andreas Thor</author><author pid="r/ERahm">Erhard Rahm</author></authors><title>Comparative evaluation of entity resolution approaches with FEVER.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1574-1577</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KopckeTR09</key><doi>10.14778/1687553.1687595</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-998.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KopckeTR09</url></info>
+<url>URL#5539337</url>
+</hit>
+<hit score="1" id="5539338">
+<info><authors><author pid="k/LucjaKot">Lucja Kot</author><author pid="k/ChristophKoch">Christoph Koch 0001</author></authors><title>Cooperative Update Exchange in the Youtopia System.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>193-204</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KotK09</key><doi>10.14778/1687627.1687650</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-218.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KotK09</url></info>
+<url>URL#5539338</url>
+</hit>
+<hit score="1" id="5539339">
+<info><authors><author pid="k/NickKoudas">Nick Koudas</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author><author pid="y/TingYu-1">Ting Yu 0001</author><author pid="68/1429-14">Qing Zhang 0014</author></authors><title>Distribution-based Microdata Anonymization.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>958-969</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KoudasSYZ09</key><doi>10.14778/1687627.1687735</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-817.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KoudasSYZ09</url></info>
+<url>URL#5539339</url>
+</hit>
+<hit score="1" id="5539340">
+<info><authors><author pid="26/6037">Tim Kraska</author><author pid="50/7258-1">Martin Hentschel 0001</author><author pid="a/GustavoAlonso">Gustavo Alonso</author><author pid="k/DonaldKossmann">Donald Kossmann</author></authors><title>Consistency Rationing in the Cloud: Pay only when it matters.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>253-264</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KraskaHAK09</key><doi>10.14778/1687627.1687657</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-759.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KraskaHAK09</url></info>
+<url>URL#5539340</url>
+</hit>
+<hit score="1" id="5539341">
+<info><authors><author pid="k/StefanKrompass">Stefan Krompass</author><author pid="02/451">Harumi A. Kuno</author><author pid="w/JanetLWiener">Janet L. Wiener</author><author pid="w/KevinWilkinson">Kevin Wilkinson</author><author pid="76/2198">Umeshwar Dayal</author><author pid="k/AlfonsKemper">Alfons Kemper</author></authors><title>A Testbed for Managing Dynamic Mixed Workloads.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1562-1565</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/KrompassKWWDK09</key><doi>10.14778/1687553.1687591</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1022.pdf</ee><url>https://dblp.org/rec/journals/pvldb/KrompassKWWDK09</url></info>
+<url>URL#5539341</url>
+</hit>
+<hit score="1" id="5539342">
+<info><authors><author pid="l/ZLacroix">Zoé Lacroix</author><author pid="70/5419">Christophe Legendre</author><author pid="42/4411">Spyro Mousses</author></authors><title>Storing Scientific Workflows in a Database.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1474-1480</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LacroixLM09</key><doi>10.14778/1687553.1687575</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1014.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LacroixLM09</url></info>
+<url>URL#5539342</url>
+</hit>
+<hit score="1" id="5539343">
+<info><authors><author pid="41/6729">Rubao Lee</author><author pid="36/679">Xiaoning Ding</author><author pid="21/3047-5">Feng Chen 0005</author><author pid="36/1529">Qingda Lu</author><author pid="37/4356-1">Xiaodong Zhang 0001</author></authors><title>MCC-DB: Minimizing Cache Conflicts in Multi-core Processors for Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>373-384</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LeeDCLZ09</key><doi>10.14778/1687627.1687670</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-248.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LeeDCLZ09</url></info>
+<url>URL#5539343</url>
+</hit>
+<hit score="1" id="5539344">
+<info><authors><author pid="73/5604">Hongrae Lee</author><author pid="n/RTNg">Raymond T. Ng</author><author pid="s/KyuseokShim">Kyuseok Shim</author></authors><title>Power-Law Based Estimation of Set Similarity Join Size.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>658-669</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LeeNS09</key><doi>10.14778/1687627.1687702</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-132.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LeeNS09</url></info>
+<url>URL#5539344</url>
+</hit>
+<hit score="1" id="5539345">
+<info><authors><author pid="57/5597">Thomas Legler</author><author pid="l/WLehner">Wolfgang Lehner</author><author pid="33/1805">Jan Schaffner</author><author pid="41/3476-3">Jens Krüger 0003</author></authors><title>Robust Distributed Top-N Frequent Pattern Mining Using the SAP BW Accelerator.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1438-1449</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LeglerLSK09</key><doi>10.14778/1687553.1687571</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-970.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LeglerLSK09</url></info>
+<url>URL#5539345</url>
+</hit>
+<hit score="1" id="5539346">
+<info><authors><author pid="89/6432">Julie Letchner</author><author pid="r/ChristopherRe">Christopher Ré</author><author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author><author pid="p/MPhilipose">Matthai Philipose</author></authors><title>Lahar Demonstration: Warehousing Markovian Streams.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1610-1613</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LetchnerRBP09</key><doi>10.14778/1687553.1687605</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-62.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LetchnerRBP09</url></info>
+<url>URL#5539346</url>
+</hit>
+<hit score="1" id="5539347">
+<info><authors><author pid="00/1">Michael Ley</author></authors><title>DBLP - Some Lessons Learned.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1493-1500</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/Ley09</key><doi>10.14778/1687553.1687577</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-98.pdf</ee><url>https://dblp.org/rec/journals/pvldb/Ley09</url></info>
+<url>URL#5539347</url>
+</hit>
+<hit score="1" id="5539348">
+<info><authors><author pid="33/5448-15">Jian Li 0015</author><author pid="66/3027">Barna Saha</author><author pid="d/AmolDeshpande">Amol Deshpande</author></authors><title>A Unified Approach to Ranking in Probabilistic Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>502-513</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LiSD09</key><doi>10.14778/1687627.1687685</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-769.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LiSD09</url></info>
+<url>URL#5539348</url>
+</hit>
+<hit score="1" id="5539349">
+<info><authors><author pid="11/2478">Kuien Liu</author><author pid="97/1199">Ke Deng</author><author pid="88/4975">Zhiming Ding</author><author pid="90/4570-1">Mingshu Li 0001</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author></authors><title>MOIR/MT: Monitoring Large-Scale Road Network Traffic in Real-Time.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1538-1541</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LiuDDLZ09</key><doi>10.14778/1687553.1687585</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-125.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LiuDDLZ09</url></info>
+<url>URL#5539349</url>
+</hit>
+<hit score="1" id="5539350">
+<info><authors><author pid="35/837-2">Bin Liu 0002</author><author pid="j/HVJagadish">H. V. Jagadish</author></authors><title>Using Trees to Depict a Forest.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>133-144</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LiuJ09</key><doi>10.14778/1687627.1687643</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-821.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LiuJ09</url></info>
+<url>URL#5539350</url>
+</hit>
+<hit score="1" id="5539351">
+<info><authors><author pid="97/2274-2">Yu Liu 0002</author><author pid="18/6870-1">Jianzhong Li 0001</author><author pid="32/1438-1">Hong Gao 0001</author><author pid="73/7258-1">Xiaolin Fang 0001</author></authors><title>Enabling epsilon-Approximate Querying in Sensor Networks.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>169-180</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LiuLGF09</key><doi>10.14778/1687627.1687647</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-757.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LiuLGF09</url></info>
+<url>URL#5539351</url>
+</hit>
+<hit score="1" id="5539352">
+<info><authors><author pid="85/5485-1">Ziyang Liu 0001</author><author pid="88/619">Peng Sun</author><author pid="88/6466-1">Yi Chen 0001</author></authors><title>Structured Search Result Differentiation.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>313-324</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LiuSC09</key><doi>10.14778/1687627.1687663</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-500.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LiuSC09</url></info>
+<url>URL#5539352</url>
+</hit>
+<hit score="1" id="5539353">
+<info><authors><author pid="l/DavidBLomet">David B. Lomet</author><author pid="94/5893">Mohamed F. Mokbel</author></authors><title>Locking Key Ranges with Unbundled Transaction Services.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>265-276</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/LometM09</key><doi>10.14778/1687627.1687658</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-208.pdf</ee><url>https://dblp.org/rec/journals/pvldb/LometM09</url></info>
+<url>URL#5539353</url>
+</hit>
+<hit score="1" id="5539354">
+<info><authors><author pid="m/AMachanavajjhala">Ashwin Machanavajjhala</author><author pid="g/JohannesGehrke">Johannes Gehrke</author><author pid="g/MichaelaGotz">Michaela Götz</author></authors><title>Data Publishing against Realistic Adversaries.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>790-801</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MachanavajjhalaGG09</key><doi>10.14778/1687627.1687717</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-857.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MachanavajjhalaGG09</url></info>
+<url>URL#5539354</url>
+</hit>
+<hit score="1" id="5539355">
+<info><authors><author pid="m/GMecca">Giansalvatore Mecca</author><author pid="p/PaoloPapotti">Paolo Papotti</author><author pid="69/6626">Salvatore Raunich</author><author pid="07/7259">Marcello Buoncristiano</author></authors><title>Concise and Expressive Mappings with +Spicy.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1582-1585</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MeccaPRB09</key><doi>10.14778/1687553.1687597</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1000.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MeccaPRB09</url></info>
+<url>URL#5539355</url>
+</hit>
+<hit score="1" id="5539356">
+<info><authors><author pid="m/MichaelMeier2">Michael Meier 0002</author><author pid="156/1960-2">Michael Schmidt 0002</author><author pid="l/GeorgLausen">Georg Lausen</author></authors><title>On Chase Termination Beyond Stratification.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>970-981</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MeierSL09</key><doi>10.14778/1687627.1687737</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-295.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MeierSL09</url></info>
+<url>URL#5539356</url>
+</hit>
+<hit score="1" id="5539357">
+<info><authors><author pid="81/2828">Denis Mindolin</author><author pid="c/JChomicki">Jan Chomicki</author></authors><title>Discovering Relative Importance of Skyline Attributes.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>610-621</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MindolinC09</key><doi>10.14778/1687627.1687697</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-399.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MindolinC09</url></info>
+<url>URL#5539357</url>
+</hit>
+<hit score="1" id="5539358">
+<info><authors><author pid="88/4875">Takeshi Mishima</author><author pid="94/5594">Hiroshi Nakamura</author></authors><title>Pangea: An Eager Database Replication Middleware guaranteeing Snapshot Isolation without Modification of Database Servers.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1066-1077</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MishimaN09</key><doi>10.14778/1687627.1687747</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-694.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MishimaN09</url></info>
+<url>URL#5539358</url>
+</hit>
+<hit score="1" id="5539359">
+<info><authors><author pid="m/GuidoMoerkotte">Guido Moerkotte</author><author pid="n/ThomasNeumann">Thomas Neumann 0001</author><author pid="48/2024">Gabriele Steidl</author></authors><title>Preventing Bad Plans by Bounding the Impact of Cardinality Estimation Errors.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>982-993</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MoerkotteNS09</key><doi>10.14778/1687627.1687738</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-657.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MoerkotteNS09</url></info>
+<url>URL#5539359</url>
+</hit>
+<hit score="1" id="5539360">
+<info><authors><author pid="45/2495">Barzan Mozafari</author><author pid="z/CZaniolo">Carlo Zaniolo</author></authors><title>Publishing Naive Bayesian Classifiers: Privacy without Accuracy Loss.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1173-1185</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MozafariZ09</key><doi>10.14778/1687627.1687759</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb12.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MozafariZ09</url></info>
+<url>URL#5539360</url>
+</hit>
+<hit score="1" id="5539361">
+<info><authors><author pid="m/ReneMuller">René Müller 0001</author><author pid="t/JensTeubner">Jens Teubner</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>Data Processing on FPGAs.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>910-921</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MuellerTA09</key><doi>10.14778/1687627.1687730</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-603.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MuellerTA09</url></info>
+<url>URL#5539361</url>
+</hit>
+<hit score="1" id="5539362">
+<info><authors><author pid="14/6671">Niloy Mukherjee</author><author pid="09/6846">Amit Ganesh</author><author pid="30/7259">V. Djegaradjane</author><author pid="69/1752">Sujatha Muthulingam</author><author pid="10/4661-51">Wei Zhang 0051</author><author pid="05/4449">Scott Lynn</author><author pid="82/3394">Krishna Kunchithapadam</author><author pid="47/6505">Bharath Aleti</author><author pid="12/1705">Kam Shergill</author><author pid="17/764">Shaoyu Wang</author></authors><title>Oracle SecureFiles: Prepared for the Digital Deluge.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1501-1511</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MukherjeeGDMZLKASW09</key><doi>10.14778/1687553.1687579</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-378.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MukherjeeGDMZLKASW09</url></info>
+<url>URL#5539362</url>
+</hit>
+<hit score="1" id="5539363">
+<info><authors><author pid="55/6899">Emmanuel Müller</author><author pid="43/3011">Stephan Günnemann</author><author pid="a/IraAssent">Ira Assent</author><author pid="s/ThomasSeidl1">Thomas Seidl 0001</author></authors><title>Evaluating Clustering in Subspace Projections of High Dimensional Data.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1270-1281</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MullerGAS09</key><doi>10.14778/1687627.1687770</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-600.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MullerGAS09</url></info>
+<url>URL#5539363</url>
+</hit>
+<hit score="1" id="5539364">
+<info><authors><author pid="m/ReneMuller">René Müller 0001</author><author pid="t/JensTeubner">Jens Teubner</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>Streams on Wires - A Query Compiler for FPGAs.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>229-240</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/MullerTA09</key><doi>10.14778/1687627.1687654</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-622.pdf</ee><url>https://dblp.org/rec/journals/pvldb/MullerTA09</url></info>
+<url>URL#5539364</url>
+</hit>
+<hit score="1" id="5539365">
+<info><authors><author pid="28/568">Arnab Nandi 0001</author><author pid="b/PhilipABernstein">Philip A. Bernstein</author></authors><title>HAMSTER: Using Search Clicklogs for Schema and Taxonomy Matching.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>181-192</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/NandiB09</key><doi>10.14778/1687627.1687649</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-124.pdf</ee><url>https://dblp.org/rec/journals/pvldb/NandiB09</url></info>
+<url>URL#5539365</url>
+</hit>
+<hit score="1" id="5539366">
+<info><authors><author pid="94/81">Rimma V. Nehme</author><author pid="r/EARundensteiner">Elke A. Rundensteiner</author><author pid="b/ElisaBertino">Elisa Bertino</author></authors><title>Tagging Stream Data for Rich Real-Time Services.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>73-84</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/NehmeRB09</key><doi>10.14778/1687627.1687637</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-24.pdf</ee><url>https://dblp.org/rec/journals/pvldb/NehmeRB09</url></info>
+<url>URL#5539366</url>
+</hit>
+<hit score="1" id="5539367">
+<info><authors><author pid="94/81">Rimma V. Nehme</author><author pid="79/7258">Karen Works</author><author pid="r/EARundensteiner">Elke A. Rundensteiner</author><author pid="b/ElisaBertino">Elisa Bertino</author></authors><title>Query Mesh: Multi-Route Query Processing Technology.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1530-1533</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/NehmeWRB09</key><doi>10.14778/1687553.1687583</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-29.pdf</ee><url>https://dblp.org/rec/journals/pvldb/NehmeWRB09</url></info>
+<url>URL#5539367</url>
+</hit>
+<hit score="1" id="5539368">
+<info><authors><author pid="p/BiswanathPanda">Biswanath Panda</author><author pid="44/7258">Joshua Herbach</author><author pid="76/5024">Sugato Basu</author><author pid="b/RobertoJBayardo">Roberto J. Bayardo</author></authors><title>PLANET: Massively Parallel Learning of Tree Ensembles with MapReduce.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1426-1437</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/PandaHBB09</key><doi>10.14778/1687553.1687569</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-537.pdf</ee><url>https://dblp.org/rec/journals/pvldb/PandaHBB09</url></info>
+<url>URL#5539368</url>
+</hit>
+<hit score="1" id="5539369">
+<info><authors><author pid="p/HweeHwaPang">HweeHwa Pang</author><author pid="51/1086">Jilian Zhang</author><author pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author></authors><title>Scalable Verification for Outsourced Dynamic Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>802-813</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/PangZM09</key><doi>10.14778/1687627.1687718</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-625.pdf</ee><url>https://dblp.org/rec/journals/pvldb/PangZM09</url></info>
+<url>URL#5539369</url>
+</hit>
+<hit score="1" id="5539370">
+<info><authors><author pid="59/3814">Panagiotis Papapetrou</author><author pid="10/212">Vassilis Athitsos</author><author pid="k/GeorgeKollios">George Kollios</author><author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author></authors><title>Reference-Based Alignment in Large Sequence Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>205-216</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/PapapetrouAKG09</key><doi>10.14778/1687627.1687651</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-320.pdf</ee><url>https://dblp.org/rec/journals/pvldb/PapapetrouAKG09</url></info>
+<url>URL#5539370</url>
+</hit>
+<hit score="1" id="5539371">
+<info><authors><author pid="49/3721">Fernando Pereira</author><author pid="r/ARajaraman">Anand Rajaraman</author><author pid="s/SunitaSarawagi">Sunita Sarawagi</author><author pid="04/7259">William Tunstall-Pedoe</author><author pid="w/GerhardWeikum">Gerhard Weikum</author><author pid="h/AlonYHalevy">Alon Y. Halevy</author></authors><title>Answering Web Questions Using Structured Data - Dream or Reality?</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1646</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/PereiraRSTWH09</key><doi>10.14778/1687553.1687615</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-panel1.pdf</ee><url>https://dblp.org/rec/journals/pvldb/PereiraRSTWH09</url></info>
+<url>URL#5539371</url>
+</hit>
+<hit score="1" id="5539372">
+<info><authors><author pid="26/5252">Reinhard Pichler</author><author pid="56/1006">Vadim Savenkov</author></authors><title>DEMo: Data Exchange Modeling Tool.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1606-1609</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/PichlerS09</key><doi>10.14778/1687553.1687603</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1043.pdf</ee><url>https://dblp.org/rec/journals/pvldb/PichlerS09</url></info>
+<url>URL#5539372</url>
+</hit>
+<hit score="1" id="5539373">
+<info><authors><author pid="05/2471">Nicoleta Preda</author><author pid="13/1396">Fabian M. Suchanek</author><author pid="69/3216">Gjergji Kasneci</author><author pid="n/ThomasNeumann">Thomas Neumann 0001</author><author pid="r/MayaRamanath">Maya Ramanath</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>ANGIE: Active Knowledge for Interactive Exploration.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1570-1573</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/PredaSKNRW09</key><doi>10.14778/1687553.1687594</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-411.pdf</ee><url>https://dblp.org/rec/journals/pvldb/PredaSKNRW09</url></info>
+<url>URL#5539373</url>
+</hit>
+<hit score="1" id="5539374">
+<info><authors><author pid="r/ARajaraman">Anand Rajaraman</author></authors><title>Kosmix: High-Performance Topic Exploration using the Deep Web.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1524-1529</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/Rajaraman09</key><doi>10.14778/1687553.1687581</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1076.pdf</ee><url>https://dblp.org/rec/journals/pvldb/Rajaraman09</url></info>
+<url>URL#5539374</url>
+</hit>
+<hit score="1" id="5539375">
+<info><authors><author pid="99/7258">Galen Reeves</author><author pid="03/2134-1">Jie Liu 0001</author><author pid="85/6293">Suman Nath</author><author pid="z/FengZhao">Feng Zhao 0001</author></authors><title>Managing Massive Time Series Streams with MultiScale Compressed Trickles.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>97-108</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ReevesLNZ09</key><doi>10.14778/1687627.1687639</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-434.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ReevesLNZ09</url></info>
+<url>URL#5539375</url>
+</hit>
+<hit score="1" id="5539376">
+<info><authors><author pid="70/4277">Marcos Antonio Vaz Salles</author><author pid="35/7259">Tuan Cao</author><author pid="s/BenSowell">Benjamin Sowell</author><author pid="03/5860">Alan J. Demers</author><author pid="g/JohannesGehrke">Johannes Gehrke</author><author pid="k/ChristophKoch">Christoph Koch 0001</author><author pid="w/WalkerMWhite">Walker M. White</author></authors><title>An Evaluation of Checkpoint Recovery for Massively Multiplayer Online Games.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1258-1269</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SallesCSDGKW09</key><doi>10.14778/1687627.1687769</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-387.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SallesCSDGKW09</url></info>
+<url>URL#5539376</url>
+</hit>
+<hit score="1" id="5539377">
+<info><authors><author pid="57/2958">Jagan Sankaranarayanan</author><author pid="s/HananSamet">Hanan Samet</author><author pid="77/5719">Houman Alborzi</author></authors><title>Path Oracles for Spatial Networks.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1210-1221</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SankaranarayananSA09</key><doi>10.14778/1687627.1687763</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-486.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SankaranarayananSA09</url></info>
+<url>URL#5539377</url>
+</hit>
+<hit score="1" id="5539378">
+<info><authors><author pid="75/7258">Emre Sarigöl</author><author pid="53/3712">Oriana Riva</author><author pid="15/601">Patrick Stuedi</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>Enabling social networking in ad hoc networks of mobile phones.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1634-1637</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SarigolRSA09</key><doi>10.14778/1687553.1687611</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-987.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SarigolRSA09</url></info>
+<url>URL#5539378</url>
+</hit>
+<hit score="1" id="5539379">
+<info><authors><author pid="80/2540">Nikos Sarkas</author><author pid="b/NileshBansal">Nilesh Bansal</author><author pid="07/1181">Gautam Das 0001</author><author pid="k/NickKoudas">Nick Koudas</author></authors><title>Measure-driven Keyword-Query Expansion.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>121-132</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SarkasBDK09</key><doi>10.14778/1687627.1687642</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-777.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SarkasBDK09</url></info>
+<url>URL#5539379</url>
+</hit>
+<hit score="1" id="5539380">
+<info><authors><author pid="80/2540">Nikos Sarkas</author><author pid="07/1181">Gautam Das 0001</author><author pid="k/NickKoudas">Nick Koudas</author></authors><title>Improved Search for Socially Annotated Data.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>778-789</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SarkasDK09</key><doi>10.14778/1687627.1687715</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb36.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SarkasDK09</url></info>
+<url>URL#5539380</url>
+</hit>
+<hit score="1" id="5539381">
+<info><authors><author pid="46/4888">Atish Das Sarma</author><author pid="84/4407">Ashwin Lall</author><author pid="61/2421">Danupon Nanongkai</author><author pid="81/6545">Jun (Jim) Xu</author></authors><title>Randomized Multi-pass Streaming Skyline Algorithms.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>85-96</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SarmaLNX09</key><doi>10.14778/1687627.1687638</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-385.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SarmaLNX09</url></info>
+<url>URL#5539381</url>
+</hit>
+<hit score="1" id="5539382">
+<info><authors><author pid="59/716">Arjun Satish</author><author pid="j/RameshJain">Ramesh C. Jain</author><author pid="g/AmarnathGupta">Amarnath Gupta</author></authors><title>Tolkien: An Event Based Storytelling System.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1630-1633</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SatishJG09</key><doi>10.14778/1687553.1687610</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-947.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SatishJG09</url></info>
+<url>URL#5539382</url>
+</hit>
+<hit score="1" id="5539383">
+<info><authors><author pid="91/5430">Karl Schnaitter</author><author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>Index Interactions in Physical Design Tuning: Modeling, Analysis, and Applications.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1234-1245</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SchnaitterPG09</key><doi>10.14778/1687627.1687766</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-582.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SchnaitterPG09</url></info>
+<url>URL#5539383</url>
+</hit>
+<hit score="1" id="5539384">
+<info><authors><author pid="54/129">Russell Sears</author><author pid="b/EricABrewer">Eric A. Brewer</author></authors><title>Segment-based recovery: Write ahead logging revisited.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>490-501</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SearsB09</key><doi>10.14778/1687627.1687683</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-583.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SearsB09</url></info>
+<url>URL#5539384</url>
+</hit>
+<hit score="1" id="5539385">
+<info><authors><author pid="s/DiveshSrivastava">Divesh Srivastava</author><author pid="12/4662">Suresh Venkatasubramanian</author></authors><title>Information Theory For Data Management.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1662-1663</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SrivastavaV09</key><doi>10.14778/1687553.1687624</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-tutorial5.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SrivastavaV09</url></info>
+<url>URL#5539385</url>
+</hit>
+<hit score="1" id="5539386">
+<info><authors><author pid="43/261">Mirco Stern</author><author pid="11/226">Erik Buchmann</author><author pid="b/KBohm">Klemens Böhm</author></authors><title>A Wavelet Transform for Efficient Consolidation of Sensor Relations with Quality Guarantees.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>157-168</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SternBB09</key><doi>10.14778/1687627.1687646</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-612.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SternBB09</url></info>
+<url>URL#5539386</url>
+</hit>
+<hit score="1" id="5539387">
+<info><authors><author pid="88/619">Peng Sun</author><author pid="85/5485-1">Ziyang Liu 0001</author><author pid="73/7259">Sivaramakrishnan Natarajan</author><author pid="d/SBDavidson">Susan B. Davidson</author><author pid="88/6466-1">Yi Chen 0001</author></authors><title>WOLVES: Achieving Correct Provenance Analysis by Detecting and Resolving Unsound Workflow Views.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1614-1617</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/SunLNDC09</key><doi>10.14778/1687553.1687606</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-66.pdf</ee><url>https://dblp.org/rec/journals/pvldb/SunLNDC09</url></info>
+<url>URL#5539387</url>
+</hit>
+<hit score="1" id="5539388">
+<info><authors><author pid="35/3834">Shirish Tatikonda</author><author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author></authors><title>Mining Tree-Structured Data on Multicore Systems.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>694-705</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/TatikondaP09</key><doi>10.14778/1687627.1687706</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb19.pdf</ee><url>https://dblp.org/rec/journals/pvldb/TatikondaP09</url></info>
+<url>URL#5539388</url>
+</hit>
+<hit score="1" id="5539389">
+<info><authors><author pid="53/1820">James F. Terwilliger</author><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="m/SergeyMelnik">Sergey Melnik 0001</author></authors><title>Full-Fidelity Flexible Object-Oriented XML Access.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1030-1041</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/TerwilligerBM09</key><doi>10.14778/1687627.1687743</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-216.pdf</ee><url>https://dblp.org/rec/journals/pvldb/TerwilligerBM09</url></info>
+<url>URL#5539389</url>
+</hit>
+<hit score="1" id="5539390">
+<info><authors><author pid="86/7258">Ashish Thusoo</author><author pid="36/1579">Joydeep Sen Sarma</author><author pid="42/2600">Namit Jain</author><author pid="72/6333">Zheng Shao</author><author pid="94/7258">Prasad Chakka</author><author pid="43/7258">Suresh Anthony</author><author pid="09/3214-18">Hao Liu 0018</author><author pid="159/1483">Pete Wyckoff</author><author pid="22/369">Raghotham Murthy</author></authors><title>Hive - A Warehousing Solution Over a Map-Reduce Framework.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1626-1629</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ThusooSJSCALWM09</key><doi>10.14778/1687553.1687609</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-938.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ThusooSJSCALWM09</url></info>
+<url>URL#5539390</url>
+</hit>
+<hit score="1" id="5539391">
+<info><authors><author pid="77/228">Dimitris Tsirogiannis</author><author pid="g/SudiptoGuha">Sudipto Guha</author><author pid="k/NickKoudas">Nick Koudas</author></authors><title>Improving the Performance of List Intersection.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>838-849</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/TsirogiannisGK09</key><doi>10.14778/1687627.1687722</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb37.pdf</ee><url>https://dblp.org/rec/journals/pvldb/TsirogiannisGK09</url></info>
+<url>URL#5539391</url>
+</hit>
+<hit score="1" id="5539392">
+<info><authors><author pid="61/7259">Kostas Tzoumas</author><author pid="23/282">Man Lung Yiu</author><author pid="j/ChristianSJensen">Christian S. Jensen</author></authors><title>Workload-Aware Indexing of Continuously Moving Objects.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1186-1197</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/TzoumasYJ09</key><doi>10.14778/1687627.1687761</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-225.pdf</ee><url>https://dblp.org/rec/journals/pvldb/TzoumasYJ09</url></info>
+<url>URL#5539392</url>
+</hit>
+<hit score="1" id="5539393">
+<info><authors><author pid="38/4996">Leong Hou U</author><author pid="34/6253">Nikos Mamoulis</author><author pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author></authors><title>A Fair Assignment Algorithm for Multiple Preference Queries.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1054-1065</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/UMM09</key><doi>10.14778/1687627.1687746</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb11.pdf</ee><url>https://dblp.org/rec/journals/pvldb/UMM09</url></info>
+<url>URL#5539393</url>
+</hit>
+<hit score="1" id="5539394">
+<info><authors><author pid="64/6456">Philipp Unterbrunner</author><author pid="16/7259">Georgios Giannikis</author><author pid="a/GustavoAlonso">Gustavo Alonso</author><author pid="49/7259">Dietmar Fauser</author><author pid="k/DonaldKossmann">Donald Kossmann</author></authors><title>Predictable Performance for Unpredictable Workloads.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>706-717</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/UnterbrunnerGAFK09</key><doi>10.14778/1687627.1687707</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-323.pdf</ee><url>https://dblp.org/rec/journals/pvldb/UnterbrunnerGAFK09</url></info>
+<url>URL#5539394</url>
+</hit>
+<hit score="1" id="5539395">
+<info><authors><author pid="31/1161">Ymir Vigfusson</author><author pid="s/AdamSilberstein">Adam Silberstein</author><author pid="12/875">Brian F. Cooper</author><author pid="f/RFonseca">Rodrigo Fonseca</author></authors><title>Adaptively Parallelizing Distributed Range Queries.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>682-693</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/VigfussonSCF09</key><doi>10.14778/1687627.1687705</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-213.pdf</ee><url>https://dblp.org/rec/journals/pvldb/VigfussonSCF09</url></info>
+<url>URL#5539395</url>
+</hit>
+<hit score="1" id="5539396">
+<info><authors><author pid="25/3876">Qian Wan</author><author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author><author pid="i/IhabFIlyas">Ihab F. Ilyas</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author><author pid="85/5580">Yu Peng</author></authors><title>Creating Competitive Products.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>898-909</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WanWIOP09</key><doi>10.14778/1687627.1687729</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-447.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WanWIOP09</url></info>
+<url>URL#5539396</url>
+</hit>
+<hit score="1" id="5539397">
+<info><authors><author pid="12/2633-6">Ting Wang 0006</author><author pid="l/LingLiu">Ling Liu 0001</author></authors><title>Privacy-Aware Mobile Services over Road Networks.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1042-1053</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WangL09</key><doi>10.14778/1687627.1687745</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-75.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WangL09</url></info>
+<url>URL#5539397</url>
+</hit>
+<hit score="1" id="5539398">
+<info><authors><author pid="55/6951">Xiaoyuan Wang</author><author pid="49/2892">Xingzhi Sun</author><author pid="01/1867">Feng Cao</author><author pid="95/2106-2">Li Ma 0002</author><author pid="59/7259">Nick Kanellos</author><author pid="29/177">Kang Zhang</author><author pid="91/3754">Yue Pan</author><author pid="43/5685-1">Yong Yu 0001</author></authors><title>SMDM: Enhancing Enterprise-Wide Master Data Management Using Semantic Web Technologies.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1594-1597</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WangSCMKZPY09</key><doi>10.14778/1687553.1687600</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1011.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WangSCMKZPY09</url></info>
+<url>URL#5539398</url>
+</hit>
+<hit score="1" id="5539399">
+<info><authors><author pid="w/StevenEuijongWhang">Steven Whang 0001</author><author pid="47/7259">Chad Brower</author><author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author><author pid="31/6854">Sergei Vassilvitskii</author><author pid="02/3492">Erik Vee</author><author pid="y/RamanaYerneni">Ramana Yerneni</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author></authors><title>Indexing Boolean Expressions.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>37-48</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WhangBSVVYG09</key><doi>10.14778/1687627.1687633</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-83.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WhangBSVVYG09</url></info>
+<url>URL#5539399</url>
+</hit>
+<hit score="1" id="5539400">
+<info><authors><author pid="76/5682">Thomas Willhalm</author><author pid="14/1873">Nicolae Popovici</author><author pid="90/7258">Yazan Boshmaf</author><author pid="58/3831">Hasso Plattner</author><author pid="52/6897">Alexander Zeier</author><author pid="33/1805">Jan Schaffner</author></authors><title>SIMD-Scan: Ultra Fast in-Memory Table Scan using on-Chip Vector Processing Units.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>385-394</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WillhalmPBPZS09</key><doi>10.14778/1687627.1687671</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-327.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WillhalmPBPZS09</url></info>
+<url>URL#5539400</url>
+</hit>
+<hit score="1" id="5539401">
+<info><authors><author pid="30/737">Wai Kit Wong</author><author pid="c/DWLCheung">David Wai-Lok Cheung</author><author pid="h/EdwardHung">Edward Hung</author><author pid="k/BenKao">Ben Kao</author><author pid="34/6253">Nikos Mamoulis</author></authors><title>An Audit Environment for Outsourcing of Frequent Itemset Mining.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1162-1172</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WongCHKM09</key><doi>10.14778/1687627.1687758</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-pvldb4.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WongCHKM09</url></info>
+<url>URL#5539401</url>
+</hit>
+<hit score="1" id="5539402">
+<info><authors><author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author><author pid="y/PhilipSYu">Philip S. Yu</author><author pid="f/AdaWaiCheeFu">Ada Wai-Chee Fu</author><author pid="41/6914">Lian Liu</author></authors><title>Efficient Method for Maximizing Bichromatic Reverse Nearest Neighbor.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1126-1137</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WongOYFL09</key><doi>10.14778/1687627.1687754</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-239.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WongOYFL09</url></info>
+<url>URL#5539402</url>
+</hit>
+<hit score="1" id="5539403">
+<info><authors><author pid="41/3679">Eugene Wu 0002</author><author pid="71/5578">Philippe Cudré-Mauroux</author><author pid="m/SamuelMadden">Samuel Madden 0001</author></authors><title>Demonstration of the TrajStore System.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1554-1557</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WuCM09</key><doi>10.14778/1687553.1687589</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-1012.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WuCM09</url></info>
+<url>URL#5539403</url>
+</hit>
+<hit score="1" id="5539404">
+<info><authors><author pid="30/1186">Sai Wu</author><author pid="36/4825">Shouxu Jiang</author><author pid="o/BengChinOoi">Beng Chin Ooi</author><author pid="t/KianLeeTan">Kian-Lee Tan</author></authors><title>Distributed Online Aggregation.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>443-454</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WuJOT09</key><doi>10.14778/1687627.1687678</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-127.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WuJOT09</url></info>
+<url>URL#5539404</url>
+</hit>
+<hit score="1" id="5539405">
+<info><authors><author pid="81/1346">Tianyi Wu</author><author pid="76/3976">Dong Xin</author><author pid="30/5059">Qiaozhu Mei</author><author pid="h/JiaweiHan">Jiawei Han 0001</author></authors><title>Promotion Analysis in Multi-Dimensional Space.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>109-120</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/WuXMH09</key><doi>10.14778/1687627.1687641</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-512.pdf</ee><url>https://dblp.org/rec/journals/pvldb/WuXMH09</url></info>
+<url>URL#5539405</url>
+</hit>
+<hit score="1" id="5539406">
+<info><authors><author pid="33/1903">Xiaokui Xiao</author><author pid="t/YufeiTao">Yufei Tao 0001</author><author pid="12/4395-1">Minghua Chen 0001</author></authors><title>Optimal Random Perturbation at Multiple Privacy Levels.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>814-825</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/XiaoTC09</key><doi>10.14778/1687627.1687719</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-732.pdf</ee><url>https://dblp.org/rec/journals/pvldb/XiaoTC09</url></info>
+<url>URL#5539406</url>
+</hit>
+<hit score="1" id="5539407">
+<info><authors><author pid="22/6224">Songhua Xing</author><author pid="s/CyrusShahabi">Cyrus Shahabi</author><author pid="98/5602">Bei Pan</author></authors><title>Continuous Monitoring of Nearest Neighbors on Land Surface.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1114-1125</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/XingSP09</key><doi>10.14778/1687627.1687753</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-45.pdf</ee><url>https://dblp.org/rec/journals/pvldb/XingSP09</url></info>
+<url>URL#5539407</url>
+</hit>
+<hit score="1" id="5539408">
+<info><authors><author pid="27/0">Yu Xu</author><author pid="14/5161">Pekka Kostamaa</author></authors><title>Efficient Outer Join Data Skew Handling in Parallel DBMS.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1390-1396</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/XuK09</key><doi>10.14778/1687553.1687565</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-452.pdf</ee><url>https://dblp.org/rec/journals/pvldb/XuK09</url></info>
+<url>URL#5539408</url>
+</hit>
+<hit score="1" id="5539409">
+<info><authors><author pid="35/5553">Xiaoyan Yang</author><author pid="05/906">Cecilia M. Procopiuc</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Summarizing Relational Databases.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>634-645</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/YangPS09</key><doi>10.14778/1687627.1687699</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-784.pdf</ee><url>https://dblp.org/rec/journals/pvldb/YangPS09</url></info>
+<url>URL#5539409</url>
+</hit>
+<hit score="1" id="5539410">
+<info><authors><author pid="29/5427-3">Di Yang 0003</author><author pid="r/EARundensteiner">Elke A. Rundensteiner</author><author pid="45/5235">Matthew O. Ward</author></authors><title>A Shared Execution Strategy for Multiple Pattern Mining Requests over Streaming Data.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>874-885</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/YangRW09</key><doi>10.14778/1687627.1687726</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-856.pdf</ee><url>https://dblp.org/rec/journals/pvldb/YangRW09</url></info>
+<url>URL#5539410</url>
+</hit>
+<hit score="1" id="5539411">
+<info><authors><author pid="02/7123">Yintao Yu</author><author pid="45/5769">Cindy Xide Lin</author><author pid="37/3868">Yizhou Sun</author><author pid="65/4423-5">Chen Chen 0005</author><author pid="h/JiaweiHan">Jiawei Han 0001</author><author pid="54/7258">Binbin Liao</author><author pid="81/1346">Tianyi Wu</author><author pid="z/ChengXiangZhai">ChengXiang Zhai</author><author pid="60/5637-1">Duo Zhang 0001</author><author pid="94/4810-1">Bo Zhao 0001</author></authors><title>iNextCube: Information Network-Enhanced Text Cube.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1622-1625</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/YuLSCHLWZZZ09</key><doi>10.14778/1687553.1687608</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-353.pdf</ee><url>https://dblp.org/rec/journals/pvldb/YuLSCHLWZZZ09</url></info>
+<url>URL#5539411</url>
+</hit>
+<hit score="1" id="5539412">
+<info><authors><author pid="45/3333">Zhiping Zeng</author><author pid="t/AnthonyKHTung">Anthony K. H. Tung</author><author pid="24/2006">Jianyong Wang 0001</author><author pid="43/6576">Jianhua Feng</author><author pid="z/LizhuZhou">Lizhu Zhou</author></authors><title>Comparing Stars: On Approximating Graph Edit Distance.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>25-36</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZengTWFZ09</key><doi>10.14778/1687627.1687631</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-568.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZengTWFZ09</url></info>
+<url>URL#5539412</url>
+</hit>
+<hit score="1" id="5539413">
+<info><authors><author pid="z/NingZhang0002">Ning Zhang 0002</author><author pid="34/4437">Nipun Agarwal</author><author pid="99/4012">Sivasankaran Chandrasekar</author><author pid="98/7258">Sam Idicula</author><author pid="56/7258">Vijay Medi</author><author pid="13/4595">Sabina Petride</author><author pid="43/7259">Balasubramanyam Sthanikam</author></authors><title>Binary XML Storage and Query Processing in Oracle 11g.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>2</number><pages>1354-1365</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZhangACIMPS09</key><doi>10.14778/1687553.1687561</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-148.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZhangACIMPS09</url></info>
+<url>URL#5539413</url>
+</hit>
+<hit score="1" id="5539414">
+<info><authors><author pid="08/7259">Meihui Zhang 0001</author><author pid="25/2123">Su Chen</author><author pid="j/ChristianSJensen">Christian S. Jensen</author><author pid="o/BengChinOoi">Beng Chin Ooi</author><author pid="93/4085">Zhenjie Zhang</author></authors><title>Effectively Indexing Uncertain Moving Objects for Predictive Queries.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>1198-1209</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZhangCJOZ09</key><doi>10.14778/1687627.1687762</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-261.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZhangCJOZ09</url></info>
+<url>URL#5539414</url>
+</hit>
+<hit score="1" id="5539415">
+<info><authors><author pid="93/4085">Zhenjie Zhang</author><author pid="o/BengChinOoi">Beng Chin Ooi</author><author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author><author pid="t/AnthonyKHTung">Anthony K. H. Tung</author></authors><title>Similarity Search on Bregman Divergence: Towards Non-Metric Indexing.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>13-24</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZhangOPT09</key><doi>10.14778/1687627.1687630</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-468.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZhangOPT09</url></info>
+<url>URL#5539415</url>
+</hit>
+<hit score="1" id="5539416">
+<info><authors><author pid="07/4580-1">Yang Zhou 0001</author><author pid="85/5637-1">Hong Cheng 0001</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>Graph Clustering Based on Structural/Attribute Similarities.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>718-729</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZhouCY09</key><doi>10.14778/1687627.1687709</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-175.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZhouCY09</url></info>
+<url>URL#5539416</url>
+</hit>
+<hit score="1" id="5539417">
+<info><authors><author pid="z/YongluanZhou">Yongluan Zhou</author><author pid="35/95">Ali Salehi</author><author pid="a/KarlAberer">Karl Aberer</author></authors><title>Scalable Delivery of Stream Query Results.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>49-60</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZhouSA09</key><doi>10.14778/1687627.1687634</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-742.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZhouSA09</url></info>
+<url>URL#5539417</url>
+</hit>
+<hit score="1" id="5539418">
+<info><authors><author pid="81/3390-1">Lei Zou 0001</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author></authors><title>DistanceJoin: Pattern Match Query In a Large Graph Database.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>886-897</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZouCO09</key><doi>10.14778/1687627.1687727</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-876.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZouCO09</url></info>
+<url>URL#5539418</url>
+</hit>
+<hit score="1" id="5539419">
+<info><authors><author pid="81/3390-1">Lei Zou 0001</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author></authors><title>K-Automorphism: A General Framework For Privacy Preserving Network Publication.</title><venue>Proc. VLDB Endow.</venue><volume>2</volume><number>1</number><pages>946-957</pages><year>2009</year><type>Journal Articles</type><access>open</access><key>journals/pvldb/ZouCO09a</key><doi>10.14778/1687627.1687734</doi><ee>http://www.vldb.org/pvldb/vol2/vldb09-556.pdf</ee><url>https://dblp.org/rec/journals/pvldb/ZouCO09a</url></info>
+<url>URL#5539419</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="42221">:facetid:toc:\"db/conf/sigmod/sigmod2017.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">69.86</time>
+<completions total="1" computed="1" sent="1">
+<c sc="150" dc="150" oc="150" id="46507231">:facetid:toc:db/conf/sigmod/sigmod2017.bht</c>
+</completions>
+<hits total="150" computed="150" sent="150" first="0">
+<hit score="1" id="3497580">
+<info><authors><author pid="55/6560">Semih Salihoglu</author><author pid="72/1077">Wenchao Zhou</author><author pid="01/3589">Rada Chirkova</author><author pid="y/JunYang1">Jun Yang 0001</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Proceedings of the 2017 ACM International Conference on Management of Data, SIGMOD Conference 2017, Chicago, IL, USA, May 14-19, 2017</title><venue>SIGMOD Conference</venue><publisher>ACM</publisher><year>2017</year><type>Editorship</type><key>conf/sigmod/2017</key><ee>http://dl.acm.org/citation.cfm?id=3035918</ee><url>https://dblp.org/rec/conf/sigmod/2017</url></info>
+<url>URL#3497580</url>
+</hit>
+<hit score="1" id="3474327">
+<info><authors><author pid="45/3793">Junfeng Zhou</author><author pid="06/3625">Shijie Zhou</author><author pid="y/JXuYu">Jeffrey Xu Yu</author><author pid="96/133-4">Hao Wei 0004</author><author pid="96/4424">Ziyang Chen</author><author pid="26/7724">Xian Tang</author></authors><title>DAG Reduction: Fast Answering Reachability Queries.</title><venue>SIGMOD Conference</venue><pages>375-390</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhouZYWCT17</key><doi>10.1145/3035918.3035927</doi><ee>https://doi.org/10.1145/3035918.3035927</ee><url>https://dblp.org/rec/conf/sigmod/ZhouZYWCT17</url></info>
+<url>URL#3474327</url>
+</hit>
+<hit score="1" id="3474326">
+<info><authors><author pid="178/4816">Zheguang Zhao</author><author pid="153/7539">Emanuel Zgraggen</author><author pid="37/7414">Lorenzo De Stefani</author><author pid="45/1559">Carsten Binnig</author><author pid="u/EliUpfal">Eli Upfal</author><author pid="26/6037">Tim Kraska</author></authors><title>Safe Visual Data Exploration.</title><venue>SIGMOD Conference</venue><pages>1671-1674</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhaoZSBUK17</key><doi>10.1145/3035918.3058749</doi><ee>https://doi.org/10.1145/3035918.3058749</ee><url>https://dblp.org/rec/conf/sigmod/ZhaoZSBUK17</url></info>
+<url>URL#3474326</url>
+</hit>
+<hit score="1" id="3474325">
+<info><authors><author pid="169/1501">Kangfei Zhao</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>All-in-One: Graph Processing in RDBMSs Revisited.</title><venue>SIGMOD Conference</venue><pages>1165-1180</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhaoY17</key><doi>10.1145/3035918.3035943</doi><ee>https://doi.org/10.1145/3035918.3035943</ee><url>https://dblp.org/rec/conf/sigmod/ZhaoY17</url></info>
+<url>URL#3474325</url>
+</hit>
+<hit score="1" id="3474324">
+<info><authors><author pid="178/4816">Zheguang Zhao</author><author pid="37/7414">Lorenzo De Stefani</author><author pid="153/7539">Emanuel Zgraggen</author><author pid="45/1559">Carsten Binnig</author><author pid="u/EliUpfal">Eli Upfal</author><author pid="26/6037">Tim Kraska</author></authors><title>Controlling False Discoveries During Interactive Data Exploration.</title><venue>SIGMOD Conference</venue><pages>527-540</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhaoSZBUK17</key><doi>10.1145/3035918.3064019</doi><ee>https://doi.org/10.1145/3035918.3064019</ee><url>https://dblp.org/rec/conf/sigmod/ZhaoSZBUK17</url></info>
+<url>URL#3474324</url>
+</hit>
+<hit score="1" id="3474323">
+<info><authors><author pid="135/6597-1">Weijie Zhao 0001</author><author pid="73/343">Florin Rusu</author><author pid="11/6024-2">Bin Dong 0002</author><author pid="30/4395">Kesheng Wu</author><author pid="141/8901">Peter Nugent</author></authors><title>Incremental View Maintenance over Array Data.</title><venue>SIGMOD Conference</venue><pages>139-154</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhaoRDWN17</key><doi>10.1145/3035918.3064041</doi><ee>https://doi.org/10.1145/3035918.3064041</ee><url>https://dblp.org/rec/conf/sigmod/ZhaoRDWN17</url></info>
+<url>URL#3474323</url>
+</hit>
+<hit score="1" id="3474319">
+<info><authors><author pid="29/3081-91">Fan Yang 0091</author><author pid="06/4962">Yuzhen Huang</author><author pid="194/7654">Yunjian Zhao</author><author pid="76/7842">Jinfeng Li</author><author pid="199/6310">Guanxian Jiang</author><author pid="06/4171">James Cheng</author></authors><title>The Best of Both Worlds: Big Data Programming with Both Productivity and Performance.</title><venue>SIGMOD Conference</venue><pages>1619-1622</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YangHZLJC17</key><doi>10.1145/3035918.3058735</doi><ee>https://doi.org/10.1145/3035918.3058735</ee><url>https://dblp.org/rec/conf/sigmod/YangHZLJC17</url></info>
+<url>URL#3474319</url>
+</hit>
+<hit score="1" id="3474318">
+<info><authors><author pid="68/2865">Lianghong Xu</author><author pid="58/4127">Andrew Pavlo</author><author pid="88/4889">Sudipta Sengupta</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author></authors><title>Online Deduplication for Databases.</title><venue>SIGMOD Conference</venue><pages>1355-1368</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/XuPSG17</key><doi>10.1145/3035918.3035938</doi><ee>https://doi.org/10.1145/3035918.3035938</ee><url>https://dblp.org/rec/conf/sigmod/XuPSG17</url></info>
+<url>URL#3474318</url>
+</hit>
+<hit score="1" id="3474317">
+<info><authors><author pid="190/7633">Liqi Xu</author><author pid="131/4166">Silu Huang</author><author pid="150/1313">SiLi Hui</author><author pid="75/9436">Aaron J. Elmore</author><author pid="40/7459">Aditya G. Parameswaran</author></authors><title>OrpheusDB: A Lightweight Approach to Relational Dataset Versioning.</title><venue>SIGMOD Conference</venue><pages>1655-1658</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/XuHHEP17</key><doi>10.1145/3035918.3058744</doi><ee>https://doi.org/10.1145/3035918.3058744</ee><url>https://dblp.org/rec/conf/sigmod/XuHHEP17</url></info>
+<url>URL#3474317</url>
+</hit>
+<hit score="1" id="3474316">
+<info><authors><author pid="166/8362">Konstantinos Xirogiannopoulos</author><author pid="d/AmolDeshpande">Amol Deshpande</author></authors><title>Extracting and Analyzing Hidden Graphs from Relational Databases.</title><venue>SIGMOD Conference</venue><pages>897-912</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Xirogiannopoulos17</key><doi>10.1145/3035918.3035949</doi><ee>https://doi.org/10.1145/3035918.3035949</ee><url>https://dblp.org/rec/conf/sigmod/Xirogiannopoulos17</url></info>
+<url>URL#3474316</url>
+</hit>
+<hit score="1" id="3474315">
+<info><authors><author pid="07/11533">Yingjun Wu</author><author pid="179/2634">Wentian Guo</author><author pid="c/CheeYongChan">Chee-Yong Chan</author><author pid="t/KianLeeTan">Kian-Lee Tan</author></authors><title>Fast Failure Recovery for Main-Memory DBMSs on Multicores.</title><venue>SIGMOD Conference</venue><pages>267-281</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WuGCT17</key><doi>10.1145/3035918.3064011</doi><ee>https://doi.org/10.1145/3035918.3064011</ee><url>https://dblp.org/rec/conf/sigmod/WuGCT17</url></info>
+<url>URL#3474315</url>
+</hit>
+<hit score="1" id="3474312">
+<info><authors><author pid="199/6298">Victor Junqiu Wei</author><author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author><author pid="58/10813-1">Cheng Long 0001</author><author pid="m/DavidMMount">David M. Mount</author></authors><title>Distance Oracle on Terrain Surface.</title><venue>SIGMOD Conference</venue><pages>1211-1226</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WeiWLM17</key><doi>10.1145/3035918.3064038</doi><ee>https://doi.org/10.1145/3035918.3064038</ee><url>https://dblp.org/rec/conf/sigmod/WeiWLM17</url></info>
+<url>URL#3474312</url>
+</hit>
+<hit score="1" id="3474311">
+<info><authors><author pid="149/9304">Abdul Wasay</author><author pid="199/6364">Xinding Wei</author><author pid="129/6927">Niv Dayan</author><author pid="i/StratosIdreos">Stratos Idreos</author></authors><title>Data Canopy: Accelerating Exploratory Statistical Analysis.</title><venue>SIGMOD Conference</venue><pages>557-572</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WasayWDI17</key><doi>10.1145/3035918.3064051</doi><ee>https://doi.org/10.1145/3035918.3064051</ee><url>https://dblp.org/rec/conf/sigmod/WasayWDI17</url></info>
+<url>URL#3474311</url>
+</hit>
+<hit score="1" id="3474310">
+<info><authors><author pid="143/7244">Todd Warszawski</author><author pid="47/8816">Peter Bailis</author></authors><title>ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications.</title><venue>SIGMOD Conference</venue><pages>5-20</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WarszawskiB17</key><doi>10.1145/3035918.3064037</doi><ee>https://doi.org/10.1145/3035918.3064037</ee><url>https://dblp.org/rec/conf/sigmod/WarszawskiB17</url></info>
+<url>URL#3474310</url>
+</hit>
+<hit score="1" id="3474308">
+<info><authors><author pid="117/4879-1">Xiaolan Wang 0001</author><author pid="04/1835">Alexandra Meliou</author><author pid="41/3679">Eugene Wu 0002</author></authors><title>QFix: Diagnosing Errors through Query Histories.</title><venue>SIGMOD Conference</venue><pages>1369-1384</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WangM017</key><doi>10.1145/3035918.3035925</doi><ee>https://doi.org/10.1145/3035918.3035925</ee><url>https://dblp.org/rec/conf/sigmod/WangM017</url></info>
+<url>URL#3474308</url>
+</hit>
+<hit score="1" id="3474307">
+<info><authors><author pid="64/1071-1">Jianguo Wang 0001</author><author pid="82/11411">Chunbin Lin</author><author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author><author pid="97/3886">Steven Swanson</author></authors><title>An Experimental Study of Bitmap Compression vs. Inverted List Compression.</title><venue>SIGMOD Conference</venue><pages>993-1008</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WangLPS17</key><doi>10.1145/3035918.3064007</doi><ee>https://doi.org/10.1145/3035918.3064007</ee><url>https://dblp.org/rec/conf/sigmod/WangLPS17</url></info>
+<url>URL#3474307</url>
+</hit>
+<hit score="1" id="3474306">
+<info><authors><author pid="33/4822">Yue Wang</author><author pid="14/7259">Yeye He</author></authors><title>Synthesizing Mapping Relationships Using Table Corpus.</title><venue>SIGMOD Conference</venue><pages>1117-1132</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WangH17</key><doi>10.1145/3035918.3064010</doi><ee>https://doi.org/10.1145/3035918.3064010</ee><url>https://dblp.org/rec/conf/sigmod/WangH17</url></info>
+<url>URL#3474306</url>
+</hit>
+<hit score="1" id="3474305">
+<info><authors><author pid="94/9817">Chenglong Wang</author><author pid="16/4915">Alvin Cheung</author><author pid="20/1858">Rastislav Bodík</author></authors><title>Interactive Query Synthesis from Input-Output Examples.</title><venue>SIGMOD Conference</venue><pages>1631-1634</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WangCB17</key><doi>10.1145/3035918.3058738</doi><ee>https://doi.org/10.1145/3035918.3058738</ee><url>https://dblp.org/rec/conf/sigmod/WangCB17</url></info>
+<url>URL#3474305</url>
+</hit>
+<hit score="1" id="3474304">
+<info><authors><author pid="66/7776">Zhiyi Wang</author><author pid="c/ShiminChen">Shimin Chen</author></authors><title>Exploiting Common Patterns for Tree-Structured Data.</title><venue>SIGMOD Conference</venue><pages>883-896</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WangC17</key><doi>10.1145/3035918.3035956</doi><ee>https://doi.org/10.1145/3035918.3035956</ee><url>https://dblp.org/rec/conf/sigmod/WangC17</url></info>
+<url>URL#3474304</url>
+</hit>
+<hit score="1" id="3474302">
+<info><authors><author pid="98/8877">Brett Walenz</author><author pid="77/4620">Sudeepa Roy</author><author pid="y/JunYang1">Jun Yang 0001</author></authors><title>Optimizing Iceberg Queries with Complex Joins.</title><venue>SIGMOD Conference</venue><pages>1243-1258</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WalenzR017</key><doi>10.1145/3035918.3064053</doi><ee>https://doi.org/10.1145/3035918.3064053</ee><url>https://dblp.org/rec/conf/sigmod/WalenzR017</url></info>
+<url>URL#3474302</url>
+</hit>
+<hit score="1" id="3474301">
+<info><authors><author pid="53/10459">Vasilis Verroios</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author><author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author></authors><title>Waldo: An Adaptive Human Interface for Crowd Entity Resolution.</title><venue>SIGMOD Conference</venue><pages>1133-1148</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/VerroiosGP17</key><doi>10.1145/3035918.3035931</doi><ee>https://doi.org/10.1145/3035918.3035931</ee><url>https://dblp.org/rec/conf/sigmod/VerroiosGP17</url></info>
+<url>URL#3474301</url>
+</hit>
+<hit score="1" id="3474300">
+<info><authors><author pid="199/6340">Alexandre Verbitski</author><author pid="89/912">Anurag Gupta</author><author pid="79/5022">Debanjan Saha</author><author pid="199/6347">Murali Brahmadesam</author><author pid="315/0814-3">Kamal Gupta 0003</author><author pid="55/3545">Raman Mittal</author><author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author><author pid="24/8277">Sandor Maurice</author><author pid="199/6360">Tengiz Kharatishvili</author><author pid="30/2772">Xiaofeng Bao</author></authors><title>Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases.</title><venue>SIGMOD Conference</venue><pages>1041-1052</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/VerbitskiGSBGMK17</key><doi>10.1145/3035918.3056101</doi><ee>https://doi.org/10.1145/3035918.3056101</ee><url>https://dblp.org/rec/conf/sigmod/VerbitskiGSBGMK17</url></info>
+<url>URL#3474300</url>
+</hit>
+<hit score="1" id="3474298">
+<info><authors><author pid="199/6300">Lucien D. J. Valstar</author><author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author><author pid="36/4449">Yuichi Yoshida</author></authors><title>Landmark Indexing for Evaluation of Label-Constrained Reachability Queries.</title><venue>SIGMOD Conference</venue><pages>345-358</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ValstarFY17</key><doi>10.1145/3035918.3035955</doi><ee>https://doi.org/10.1145/3035918.3035955</ee><url>https://dblp.org/rec/conf/sigmod/ValstarFY17</url></info>
+<url>URL#3474298</url>
+</hit>
+<hit score="1" id="3474297">
+<info><authors><author pid="85/9079">Immanuel Trummer</author><author pid="k/ChristophKoch">Christoph Koch 0001</author></authors><title>Solving the Join Ordering Problem via Mixed Integer Linear Programming.</title><venue>SIGMOD Conference</venue><pages>1025-1040</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Trummer017</key><doi>10.1145/3035918.3064039</doi><ee>https://doi.org/10.1145/3035918.3064039</ee><url>https://dblp.org/rec/conf/sigmod/Trummer017</url></info>
+<url>URL#3474297</url>
+</hit>
+<hit score="1" id="3474295">
+<info><authors><author pid="57/10514">Saravanan Thirumuruganathan</author><author pid="b/LaureBertiEquille">Laure Berti-Équille</author><author pid="o/MouradOuzzani">Mourad Ouzzani</author><author pid="09/6353">Jorge-Arnulfo Quiané-Ruiz</author><author pid="27/104-1">Nan Tang 0001</author></authors><title>UGuide: User-Guided Discovery of FD-Detectable Errors.</title><venue>SIGMOD Conference</venue><pages>1385-1397</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Thirumuruganathan17</key><doi>10.1145/3035918.3064024</doi><ee>https://doi.org/10.1145/3035918.3064024</ee><url>https://dblp.org/rec/conf/sigmod/Thirumuruganathan17</url></info>
+<url>URL#3474295</url>
+</hit>
+<hit score="1" id="3474294">
+<info><authors><author pid="43/2474-16">Bo Tang 0016</author><author pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author><author pid="23/282">Man Lung Yiu</author></authors><title>Determining the Impact Regions of Competing Options in Preference Space.</title><venue>SIGMOD Conference</venue><pages>805-820</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/TangMY17</key><doi>10.1145/3035918.3064044</doi><ee>https://doi.org/10.1145/3035918.3064044</ee><url>https://dblp.org/rec/conf/sigmod/TangMY17</url></info>
+<url>URL#3474294</url>
+</hit>
+<hit score="1" id="3474293">
+<info><authors><author pid="43/2474-16">Bo Tang 0016</author><author pid="23/3395">Shi Han</author><author pid="23/282">Man Lung Yiu</author><author pid="55/5564-1">Rui Ding 0001</author><author pid="87/461-1">Dongmei Zhang 0001</author></authors><title>Extracting Top-K Insights from Multi-dimensional Data.</title><venue>SIGMOD Conference</venue><pages>1509-1524</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/TangHYDZ17</key><doi>10.1145/3035918.3035922</doi><ee>https://doi.org/10.1145/3035918.3035922</ee><url>https://dblp.org/rec/conf/sigmod/TangHYDZ17</url></info>
+<url>URL#3474293</url>
+</hit>
+<hit score="1" id="3474290">
+<info><authors><author pid="18/10537">Chunzhi Su</author><author pid="161/0113">Natacha Crooks</author><author pid="50/7680-1">Cong Ding 0001</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="04/5576">Chao Xie</author></authors><title>Bringing Modular Concurrency Control to the Next Level.</title><venue>SIGMOD Conference</venue><pages>283-297</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SuCDAX17</key><doi>10.1145/3035918.3064031</doi><ee>https://doi.org/10.1145/3035918.3064031</ee><url>https://dblp.org/rec/conf/sigmod/SuCDAX17</url></info>
+<url>URL#3474290</url>
+</hit>
+<hit score="1" id="3474289">
+<info><authors><author pid="190/7168">Elias Stehle</author><author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author></authors><title>A Memory Bandwidth-Efficient Hybrid Radix Sort on GPUs.</title><venue>SIGMOD Conference</venue><pages>417-432</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/StehleJ17</key><doi>10.1145/3035918.3064043</doi><ee>https://doi.org/10.1145/3035918.3064043</ee><url>https://dblp.org/rec/conf/sigmod/StehleJ17</url></info>
+<url>URL#3474289</url>
+</hit>
+<hit score="1" id="3474286">
+<info><authors><author pid="86/4211-1">Shuang Song 0001</author><author pid="35/625">Yizhen Wang</author><author pid="56/6435">Kamalika Chaudhuri</author></authors><title>Pufferfish Privacy Mechanisms for Correlated Data.</title><venue>SIGMOD Conference</venue><pages>1291-1306</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SongWC17</key><doi>10.1145/3035918.3064025</doi><ee>https://doi.org/10.1145/3035918.3064025</ee><url>https://dblp.org/rec/conf/sigmod/SongWC17</url></info>
+<url>URL#3474286</url>
+</hit>
+<hit score="1" id="3474284">
+<info><authors><author pid="165/4498">David Sidler</author><author pid="50/10703">Zsolt István</author><author pid="20/8117">Muhsen Owaida</author><author pid="186/8781">Kaan Kara</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>doppioDB: A Hardware Accelerated Database.</title><venue>SIGMOD Conference</venue><pages>1659-1662</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SidlerIOKA17</key><doi>10.1145/3035918.3058746</doi><ee>https://doi.org/10.1145/3035918.3058746</ee><url>https://dblp.org/rec/conf/sigmod/SidlerIOKA17</url></info>
+<url>URL#3474284</url>
+</hit>
+<hit score="1" id="3474283">
+<info><authors><author pid="165/4498">David Sidler</author><author pid="50/10703">Zsolt István</author><author pid="20/8117">Muhsen Owaida</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>Accelerating Pattern Matching Queries in Hybrid CPU-FPGA Architectures.</title><venue>SIGMOD Conference</venue><pages>403-415</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SidlerIOA17</key><doi>10.1145/3035918.3035954</doi><ee>https://doi.org/10.1145/3035918.3035954</ee><url>https://dblp.org/rec/conf/sigmod/SidlerIOA17</url></info>
+<url>URL#3474283</url>
+</hit>
+<hit score="1" id="3474282">
+<info><authors><author pid="117/4979">Jieying She</author><author pid="83/2548">Yongxin Tong</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="180/4982">Tianshu Song</author></authors><title>Feedback-Aware Social Event-Participant Arrangement.</title><venue>SIGMOD Conference</venue><pages>851-865</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SheT0S17</key><doi>10.1145/3035918.3064020</doi><ee>https://doi.org/10.1145/3035918.3064020</ee><url>https://dblp.org/rec/conf/sigmod/SheT0S17</url></info>
+<url>URL#3474282</url>
+</hit>
+<hit score="1" id="3474281">
+<info><authors><author pid="33/4379-8">Abhishek Roy 0008</author><author pid="d/YanleiDiao">Yanlei Diao</author><author pid="199/6333">Uday Evani</author><author pid="199/6303">Avinash Abhyankar</author><author pid="38/11253">Clinton Howarth</author><author pid="199/6325">Rémi Le Priol</author><author pid="98/4768">Toby Bloom</author></authors><title>Massively Parallel Processing of Whole Genome Sequence Data: An In-Depth Performance Study.</title><venue>SIGMOD Conference</venue><pages>187-202</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RoyDEAHPB17</key><doi>10.1145/3035918.3064048</doi><ee>https://doi.org/10.1145/3035918.3064048</ee><url>https://dblp.org/rec/conf/sigmod/RoyDEAHPB17</url></info>
+<url>URL#3474281</url>
+</hit>
+<hit score="1" id="3474278">
+<info><authors><author pid="71/1478">Sean Rhea</author><author pid="02/5887">Eric Wang</author><author pid="56/4411">Edmund Wong</author><author pid="23/10752">Ethan Atkins</author><author pid="199/6317">Nat Storer</author></authors><title>LittleTable: A Time-Series Database and Its Uses.</title><venue>SIGMOD Conference</venue><pages>125-138</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RheaWWAS17</key><doi>10.1145/3035918.3056102</doi><ee>https://doi.org/10.1145/3035918.3056102</ee><url>https://dblp.org/rec/conf/sigmod/RheaWWAS17</url></info>
+<url>URL#3474278</url>
+</hit>
+<hit score="1" id="3474276">
+<info><authors><author pid="36/360-1">Xiang Ren 0001</author><author pid="69/339-1">Meng Jiang 0001</author><author pid="151/3145">Jingbo Shang</author><author pid="h/JiaweiHan">Jiawei Han 0001</author></authors><title>Building Structured Databases of Factual Knowledge from Massive Text Corpora.</title><venue>SIGMOD Conference</venue><pages>1741-1745</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RenJSH17</key><doi>10.1145/3035918.3054781</doi><ee>https://doi.org/10.1145/3035918.3054781</ee><url>https://dblp.org/rec/conf/sigmod/RenJSH17</url></info>
+<url>URL#3474276</url>
+</hit>
+<hit score="1" id="3474275">
+<info><authors><author pid="51/11411">Theodoros Rekatsinas</author><author pid="15/9508">Manas Joglekar</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author><author pid="40/7459">Aditya G. Parameswaran</author><author pid="r/ChristopherRe">Christopher Ré</author></authors><title>SLiMFast: Guaranteed Results for Data Fusion and Source Reliability.</title><venue>SIGMOD Conference</venue><pages>1399-1414</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RekatsinasJGPR17</key><doi>10.1145/3035918.3035951</doi><ee>https://doi.org/10.1145/3035918.3035951</ee><url>https://dblp.org/rec/conf/sigmod/RekatsinasJGPR17</url></info>
+<url>URL#3474275</url>
+</hit>
+<hit score="1" id="3474274">
+<info><authors><author pid="180/5513">Alexander J. Ratner</author><author pid="90/1077">Stephen H. Bach</author><author pid="181/5945">Henry R. Ehrenberg</author><author pid="r/ChristopherRe">Christopher Ré</author></authors><title>Snorkel: Fast Training Set Generation for Information Extraction.</title><venue>SIGMOD Conference</venue><pages>1683-1686</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RatnerBER17</key><doi>10.1145/3035918.3056442</doi><ee>https://doi.org/10.1145/3035918.3056442</ee><url>https://dblp.org/rec/conf/sigmod/RatnerBER17</url></info>
+<url>URL#3474274</url>
+</hit>
+<hit score="1" id="3474270">
+<info><authors><author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan 0001</author><author pid="91/925">Baskar Sridharan</author><author pid="87/1231">John R. Douceur</author><author pid="02/4955">Pavan Kasturi</author><author pid="199/6320">Balaji Krishnamachari-Sampath</author><author pid="199/6290">Karthick Krishnamoorthy</author><author pid="83/6353">Peng Li</author><author pid="25/5686">Mitica Manu</author><author pid="m/SpiroMichaylov">Spiro Michaylov</author><author pid="199/6296">Rogério Ramos</author><author pid="25/2922">Neil Sharman</author><author pid="199/6301">Zee Xu</author><author pid="199/6312">Youssef Barakat</author><author pid="20/11411">Chris Douglas</author><author pid="09/5874">Richard Draves</author><author pid="178/2826">Shrikant S. Naidu</author><author pid="199/6342">Shankar Shastry</author><author pid="199/6357">Atul Sikaria</author><author pid="199/6322">Simon Sun</author><author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author></authors><title>Azure Data Lake Store: A Hyperscale Distributed File Service for Big Data Analytics.</title><venue>SIGMOD Conference</venue><pages>51-63</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RamakrishnanSDK17</key><doi>10.1145/3035918.3056100</doi><ee>https://doi.org/10.1145/3035918.3056100</ee><url>https://dblp.org/rec/conf/sigmod/RamakrishnanSDK17</url></info>
+<url>URL#3474270</url>
+</hit>
+<hit score="1" id="3474268">
+<info><authors><author pid="10/760">Tilmann Rabl</author><author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author></authors><title>Query Centric Partitioning and Allocation for Partially Replicated Database Systems.</title><venue>SIGMOD Conference</venue><pages>315-330</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RablJ17</key><doi>10.1145/3035918.3064052</doi><ee>https://doi.org/10.1145/3035918.3064052</ee><url>https://dblp.org/rec/conf/sigmod/RablJ17</url></info>
+<url>URL#3474268</url>
+</hit>
+<hit score="1" id="3474264">
+<info><authors><author pid="199/6324">Romila Pradhan</author><author pid="62/7525">Siarhei Bykau</author><author pid="p/SunilPrabhakar">Sunil Prabhakar</author></authors><title>Staging User Feedback toward Rapid Conflict Resolution in Data Fusion.</title><venue>SIGMOD Conference</venue><pages>603-618</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PradhanBP17</key><doi>10.1145/3035918.3035941</doi><ee>https://doi.org/10.1145/3035918.3035941</ee><url>https://dblp.org/rec/conf/sigmod/PradhanBP17</url></info>
+<url>URL#3474264</url>
+</hit>
+<hit score="1" id="3474263">
+<info><authors><author pid="71/7422">Olga Poppe</author><author pid="87/10957">Chuan Lei</author><author pid="199/6304">Salah Ahmed</author><author pid="r/EARundensteiner">Elke A. Rundensteiner</author></authors><title>Complete Event Trend Detection in High-Rate Event Streams.</title><venue>SIGMOD Conference</venue><pages>109-124</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PoppeLAR17</key><doi>10.1145/3035918.3035947</doi><ee>https://doi.org/10.1145/3035918.3035947</ee><url>https://dblp.org/rec/conf/sigmod/PoppeLAR17</url></info>
+<url>URL#3474263</url>
+</hit>
+<hit score="1" id="3474262">
+<info><authors><author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author><author pid="44/4775-2">Sudip Roy 0002</author><author pid="w/StevenEuijongWhang">Steven Euijong Whang</author><author pid="47/15">Martin Zinkevich</author></authors><title>Data Management Challenges in Production Machine Learning.</title><venue>SIGMOD Conference</venue><pages>1723-1726</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Polyzotis0WZ17</key><doi>10.1145/3035918.3054782</doi><ee>https://doi.org/10.1145/3035918.3054782</ee><url>https://dblp.org/rec/conf/sigmod/Polyzotis0WZ17</url></info>
+<url>URL#3474262</url>
+</hit>
+<hit score="1" id="3474261">
+<info><authors><author pid="117/7030">Robert S. Pienta</author><author pid="199/2689">Fred Hohman</author><author pid="79/9389">Acar Tamersoy</author><author pid="19/7983">Alex Endert</author><author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author><author pid="58/1757">Hanghang Tong</author><author pid="10/2670">Duen Horng Chau</author></authors><title>Visual Graph Query Construction and Refinement.</title><venue>SIGMOD Conference</venue><pages>1587-1590</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PientaHTENTC17</key><doi>10.1145/3035918.3056418</doi><ee>https://doi.org/10.1145/3035918.3056418</ee><url>https://dblp.org/rec/conf/sigmod/PientaHTENTC17</url></info>
+<url>URL#3474261</url>
+</hit>
+<hit score="1" id="3474259">
+<info><authors><author pid="138/5582">Jose Picado</author><author pid="t/ArashTermehchy">Arash Termehchy</author><author pid="49/6764">Alan Fern</author><author pid="185/4376">Parisa Ataei</author></authors><title>Schema Independent Relational Learning.</title><venue>SIGMOD Conference</venue><pages>929-944</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PicadoTFA17</key><doi>10.1145/3035918.3035923</doi><ee>https://doi.org/10.1145/3035918.3035923</ee><url>https://dblp.org/rec/conf/sigmod/PicadoTFA17</url></info>
+<url>URL#3474259</url>
+</hit>
+<hit score="1" id="3474257">
+<info><authors><author pid="58/4127">Andrew Pavlo</author></authors><title>What Are We Doing With Our Lives?: Nobody Cares About Our Concurrency Control Research.</title><venue>SIGMOD Conference</venue><pages>3</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Pavlo17</key><doi>10.1145/3035918.3056096</doi><ee>https://doi.org/10.1145/3035918.3056096</ee><url>https://dblp.org/rec/conf/sigmod/Pavlo17</url></info>
+<url>URL#3474257</url>
+</hit>
+<hit score="1" id="3474256">
+<info><authors><author pid="79/583">Yongjoo Park</author><author pid="198/0680">Ahmad Shahab Tajik</author><author pid="82/231">Michael J. Cafarella</author><author pid="45/2495">Barzan Mozafari</author></authors><title>Database Learning: Toward a Database that Becomes Smarter Every Time.</title><venue>SIGMOD Conference</venue><pages>587-602</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ParkTCM17</key><doi>10.1145/3035918.3064013</doi><ee>https://doi.org/10.1145/3035918.3064013</ee><url>https://dblp.org/rec/conf/sigmod/ParkTCM17</url></info>
+<url>URL#3474256</url>
+</hit>
+<hit score="1" id="3474254">
+<info><authors><author pid="167/8142">Himchan Park</author><author pid="k/MinSooKim2">Min-Soo Kim 0002</author></authors><title>TrillionG: A Trillion-scale Synthetic Graph Generator using a Recursive Vector Model.</title><venue>SIGMOD Conference</venue><pages>913-928</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Park017</key><doi>10.1145/3035918.3064014</doi><ee>https://doi.org/10.1145/3035918.3064014</ee><url>https://dblp.org/rec/conf/sigmod/Park017</url></info>
+<url>URL#3474254</url>
+</hit>
+<hit score="1" id="3474253">
+<info><authors><author pid="64/6001-1">Prashant Pandey 0001</author><author pid="b/MichaelABender">Michael A. Bender</author><author pid="47/6172-1">Rob Johnson 0001</author><author pid="66/8401">Rob Patro</author></authors><title>A General-Purpose Counting Filter: Making Every Bit Count.</title><venue>SIGMOD Conference</venue><pages>775-787</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PandeyBJP17</key><doi>10.1145/3035918.3035963</doi><ee>https://doi.org/10.1145/3035918.3035963</ee><url>https://dblp.org/rec/conf/sigmod/PandeyBJP17</url></info>
+<url>URL#3474253</url>
+</hit>
+<hit score="1" id="3474251">
+<info><authors><author pid="o/FatmaOzcan">Fatma Özcan</author><author pid="27/3375">Yuanyuan Tian</author><author pid="86/9726">Pinar Tözün</author></authors><title>Hybrid Transactional/Analytical Processing: A Survey.</title><venue>SIGMOD Conference</venue><pages>1771-1775</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/OzcanTT17</key><doi>10.1145/3035918.3054784</doi><ee>https://doi.org/10.1145/3035918.3054784</ee><url>https://dblp.org/rec/conf/sigmod/OzcanTT17</url></info>
+<url>URL#3474251</url>
+</hit>
+<hit score="1" id="3474250">
+<info><authors><author pid="135/3665">Ismail Oukid</author><author pid="l/WLehner">Wolfgang Lehner</author></authors><title>Data Structure Engineering For Byte-Addressable Non-Volatile Memory.</title><venue>SIGMOD Conference</venue><pages>1759-1764</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/OukidL17</key><doi>10.1145/3035918.3054777</doi><ee>https://doi.org/10.1145/3035918.3054777</ee><url>https://dblp.org/rec/conf/sigmod/OukidL17</url></info>
+<url>URL#3474250</url>
+</hit>
+<hit score="1" id="3474249">
+<info><authors><author pid="81/10779">Naoto Ohsaka</author><author pid="07/10038">Tomohiro Sonobe</author><author pid="46/1330">Sumio Fujita</author><author pid="45/6846">Ken-ichi Kawarabayashi</author></authors><title>Coarsening Massive Influence Networks for Scalable Diffusion Analysis.</title><venue>SIGMOD Conference</venue><pages>635-650</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/OhsakaSFK17</key><doi>10.1145/3035918.3064045</doi><ee>https://doi.org/10.1145/3035918.3064045</ee><url>https://dblp.org/rec/conf/sigmod/OhsakaSFK17</url></info>
+<url>URL#3474249</url>
+</hit>
+<hit score="1" id="3474248">
+<info><authors><author pid="51/229">Shoji Nishimura</author><author pid="y/HaruoYokota">Haruo Yokota</author></authors><title>QUILTS: Multidimensional Data Partitioning Framework Based on Query-Aware and Skew-Tolerant Space-Filling Curves.</title><venue>SIGMOD Conference</venue><pages>1525-1537</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NishimuraY17</key><doi>10.1145/3035918.3035934</doi><ee>https://doi.org/10.1145/3035918.3035934</ee><url>https://dblp.org/rec/conf/sigmod/NishimuraY17</url></info>
+<url>URL#3474248</url>
+</hit>
+<hit score="1" id="3474247">
+<info><authors><author pid="57/10355-1">Milos Nikolic 0001</author><author pid="01/2861">Badrish Chandramouli</author><author pid="g/JonathanGoldstein">Jonathan Goldstein</author></authors><title>Enabling Signal Processing over Data Streams.</title><venue>SIGMOD Conference</venue><pages>95-108</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NikolicCG17</key><doi>10.1145/3035918.3035935</doi><ee>https://doi.org/10.1145/3035918.3035935</ee><url>https://dblp.org/rec/conf/sigmod/NikolicCG17</url></info>
+<url>URL#3474247</url>
+</hit>
+<hit score="1" id="3474246">
+<info><authors><author pid="159/9866">Rodica Neamtu</author><author pid="12/10718">Ramoza Ahsan</author><author pid="199/6363">Charles Lovering</author><author pid="00/6661">Cuong Nguyen</author><author pid="r/EARundensteiner">Elke A. Rundensteiner</author><author pid="25/2601">Gábor N. Sárközy</author></authors><title>Interactive Time Series Analytics Powered by ONEX.</title><venue>SIGMOD Conference</venue><pages>1595-1598</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NeamtuALNRS17</key><doi>10.1145/3035918.3058729</doi><ee>https://doi.org/10.1145/3035918.3058729</ee><url>https://dblp.org/rec/conf/sigmod/NeamtuALNRS17</url></info>
+<url>URL#3474246</url>
+</hit>
+<hit score="1" id="3474243">
+<info><authors><author pid="45/2495">Barzan Mozafari</author></authors><title>Approximate Query Engines: Commercial Challenges and Research Opportunities.</title><venue>SIGMOD Conference</venue><pages>521-524</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Mozafari17</key><doi>10.1145/3035918.3056098</doi><ee>https://doi.org/10.1145/3035918.3056098</ee><url>https://dblp.org/rec/conf/sigmod/Mozafari17</url></info>
+<url>URL#3474243</url>
+</hit>
+<hit score="1" id="3474242">
+<info><authors><author pid="135/7623">Davide Mottin</author><author pid="55/6899">Emmanuel Müller</author></authors><title>Graph Exploration: From Users to Large Graphs.</title><venue>SIGMOD Conference</venue><pages>1737-1740</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MottinM17</key><doi>10.1145/3035918.3054778</doi><ee>https://doi.org/10.1145/3035918.3054778</ee><url>https://dblp.org/rec/conf/sigmod/MottinM17</url></info>
+<url>URL#3474242</url>
+</hit>
+<hit score="1" id="3474239">
+<info><authors><author pid="181/3757">Jinghan Meng</author><author pid="t/YiChengTu">Yi-Cheng Tu</author></authors><title>Flexible and Feasible Support Measures for Mining Frequent Patterns in Large Labeled Graphs.</title><venue>SIGMOD Conference</venue><pages>391-402</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MengT17</key><doi>10.1145/3035918.3035936</doi><ee>https://doi.org/10.1145/3035918.3035936</ee><url>https://dblp.org/rec/conf/sigmod/MengT17</url></info>
+<url>URL#3474239</url>
+</hit>
+<hit score="1" id="3474238">
+<info><authors><author pid="136/1324">Niccolò Meneghetti</author><author pid="75/5478">Oliver Kennedy</author><author pid="36/5673">Wolfgang Gatterbauer</author></authors><title>Beta Probabilistic Databases: A Scalable Approach to Belief Updating and Parameter Learning.</title><venue>SIGMOD Conference</venue><pages>573-586</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MeneghettiKG17</key><doi>10.1145/3035918.3064026</doi><ee>https://doi.org/10.1145/3035918.3064026</ee><url>https://dblp.org/rec/conf/sigmod/MeneghettiKG17</url></info>
+<url>URL#3474238</url>
+</hit>
+<hit score="1" id="3474236">
+<info><authors><author pid="m/EssamMansour">Essam Mansour 0001</author><author pid="153/1958">Ibrahim Abdelaziz</author><author pid="o/MouradOuzzani">Mourad Ouzzani</author><author pid="01/3996">Ashraf Aboulnaga</author><author pid="97/3036">Panos Kalnis</author></authors><title>A Demonstration of Lusail: Querying Linked Data at Scale.</title><venue>SIGMOD Conference</venue><pages>1603-1606</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MansourAOAK17</key><doi>10.1145/3035918.3058731</doi><ee>https://doi.org/10.1145/3035918.3058731</ee><url>https://dblp.org/rec/conf/sigmod/MansourAOAK17</url></info>
+<url>URL#3474236</url>
+</hit>
+<hit score="1" id="3474233">
+<info><authors><author pid="131/4149">Darko Makreshanski</author><author pid="32/7263">Jana Giceva</author><author pid="123/3160">Claude Barthels</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>BatchDB: Efficient Isolated Execution of Hybrid OLTP+OLAP Workloads for Interactive Applications.</title><venue>SIGMOD Conference</venue><pages>37-50</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MakreshanskiGBA17</key><doi>10.1145/3035918.3035959</doi><ee>https://doi.org/10.1145/3035918.3035959</ee><url>https://dblp.org/rec/conf/sigmod/MakreshanskiGBA17</url></info>
+<url>URL#3474233</url>
+</hit>
+<hit score="1" id="3474232">
+<info><authors><author pid="73/10806">Ahmed R. Mahmood</author><author pid="a/WGAref">Walid G. Aref</author></authors><title>Query Processing Techniques for Big Spatial-Keyword Data.</title><venue>SIGMOD Conference</venue><pages>1777-1782</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MahmoodA17</key><doi>10.1145/3035918.3054773</doi><ee>https://doi.org/10.1145/3035918.3054773</ee><url>https://dblp.org/rec/conf/sigmod/MahmoodA17</url></info>
+<url>URL#3474232</url>
+</hit>
+<hit score="1" id="3474231">
+<info><authors><author pid="m/AMachanavajjhala">Ashwin Machanavajjhala</author><author pid="28/949-1">Xi He 0001</author><author pid="44/906">Michael Hay</author></authors><title>Differential Privacy in the Wild: A Tutorial on Current Practices &amp; Open Challenges.</title><venue>SIGMOD Conference</venue><pages>1727-1730</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Machanavajjhala17</key><doi>10.1145/3035918.3054779</doi><ee>https://doi.org/10.1145/3035918.3054779</ee><url>https://dblp.org/rec/conf/sigmod/Machanavajjhala17</url></info>
+<url>URL#3474231</url>
+</hit>
+<hit score="1" id="3474229">
+<info><authors><author pid="57/2227">Hyeontaek Lim</author><author pid="09/4259">Michael Kaminsky</author><author pid="a/DavidGAndersen">David G. Andersen</author></authors><title>Cicada: Dependably Fast Multi-Core In-Memory Transactions.</title><venue>SIGMOD Conference</venue><pages>21-35</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LimKA17</key><doi>10.1145/3035918.3064015</doi><ee>https://doi.org/10.1145/3035918.3064015</ee><url>https://dblp.org/rec/conf/sigmod/LimKA17</url></info>
+<url>URL#3474229</url>
+</hit>
+<hit score="1" id="3474228">
+<info><authors><author pid="l/XianLian">Xiang Lian</author><author pid="44/5596">Dongchul Kim</author></authors><title>Efficient Ad-Hoc Graph Inference and Matching in Biological Databases.</title><venue>SIGMOD Conference</venue><pages>359-373</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LianK17</key><doi>10.1145/3035918.3035929</doi><ee>https://doi.org/10.1145/3035918.3035929</ee><url>https://dblp.org/rec/conf/sigmod/LianK17</url></info>
+<url>URL#3474228</url>
+</hit>
+<hit score="1" id="3474227">
+<info><authors><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="160/1053">Yudian Zheng</author><author pid="78/4413">Ju Fan</author><author pid="39/7183-1">Jiannan Wang 0001</author><author pid="89/2619">Reynold Cheng</author></authors><title>Crowdsourced Data Management: Overview and Challenges.</title><venue>SIGMOD Conference</venue><pages>1711-1716</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiZFWC17</key><doi>10.1145/3035918.3054776</doi><ee>https://doi.org/10.1145/3035918.3054776</ee><url>https://dblp.org/rec/conf/sigmod/LiZFWC17</url></info>
+<url>URL#3474227</url>
+</hit>
+<hit score="1" id="3474226">
+<info><authors><author pid="60/2319">Yunyao Li 0001</author><author pid="r/DRafiei">Davood Rafiei</author></authors><title>Natural Language Data Management and Interfaces: Recent Development and Open Challenges.</title><venue>SIGMOD Conference</venue><pages>1765-1770</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiR17</key><doi>10.1145/3035918.3054783</doi><ee>https://doi.org/10.1145/3035918.3054783</ee><url>https://dblp.org/rec/conf/sigmod/LiR17</url></info>
+<url>URL#3474226</url>
+</hit>
+<hit score="1" id="3474225">
+<info><authors><author pid="143/0258-1">Yuchen Li 0001</author><author pid="78/4413">Ju Fan</author><author pid="89/6013">Dongxiang Zhang</author><author pid="t/KianLeeTan">Kian-Lee Tan</author></authors><title>Discovering Your Selling Points: Personalized Social Influential Tags Exploration.</title><venue>SIGMOD Conference</venue><pages>619-634</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiFZT17</key><doi>10.1145/3035918.3035952</doi><ee>https://doi.org/10.1145/3035918.3035952</ee><url>https://dblp.org/rec/conf/sigmod/LiFZT17</url></info>
+<url>URL#3474225</url>
+</hit>
+<hit score="1" id="3474224">
+<info><authors><author pid="66/3387-57">Hui Li 0057</author><author pid="166/7652">Tsz Nam Chan</author><author pid="23/282">Man Lung Yiu</author><author pid="34/6253">Nikos Mamoulis</author></authors><title>FEXIPRO: Fast and Exact Inner Product Retrieval in Recommender Systems.</title><venue>SIGMOD Conference</venue><pages>835-850</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiCYM17</key><doi>10.1145/3035918.3064009</doi><ee>https://doi.org/10.1145/3035918.3064009</ee><url>https://dblp.org/rec/conf/sigmod/LiCYM17</url></info>
+<url>URL#3474224</url>
+</hit>
+<hit score="1" id="3474223">
+<info><authors><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="181/5689">Chengliang Chai</author><author pid="78/4413">Ju Fan</author><author pid="163/4127">Xueping Weng</author><author pid="33/5448-15">Jian Li 0015</author><author pid="160/1053">Yudian Zheng</author><author pid="193/1562">Yuanbing Li</author><author pid="19/2453">Xiang Yu</author><author pid="24/717">Xiaohang Zhang</author><author pid="267/9406-2">Haitao Yuan 0002</author></authors><title>CDB: Optimizing Queries with Crowd-Based Selections and Joins.</title><venue>SIGMOD Conference</venue><pages>1463-1478</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiCFWLZLYZY17</key><doi>10.1145/3035918.3064036</doi><ee>https://doi.org/10.1145/3035918.3064036</ee><url>https://dblp.org/rec/conf/sigmod/LiCFWLZLYZY17</url></info>
+<url>URL#3474223</url>
+</hit>
+<hit score="1" id="3474220">
+<info><authors><author pid="71/11498">Mayuresh Kunjir</author><author pid="161/9795">Brandon Fain</author><author pid="m/KameshMunagala">Kamesh Munagala</author><author pid="b/ShivnathBabu">Shivnath Babu</author></authors><title>ROBUS: Fair Cache Allocation for Data-parallel Workloads.</title><venue>SIGMOD Conference</venue><pages>219-234</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KunjirFMB17</key><doi>10.1145/3035918.3064018</doi><ee>https://doi.org/10.1145/3035918.3064018</ee><url>https://dblp.org/rec/conf/sigmod/KunjirFMB17</url></info>
+<url>URL#3474220</url>
+</hit>
+<hit score="1" id="3474219">
+<info><authors><author pid="30/4308-1">Arun Kumar 0001</author><author pid="75/887">Matthias Boehm 0001</author><author pid="y/JunYang1">Jun Yang 0001</author></authors><title>Data Management in Machine Learning: Challenges, Techniques, and Systems.</title><venue>SIGMOD Conference</venue><pages>1717-1722</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Kumar0017</key><doi>10.1145/3035918.3054775</doi><ee>https://doi.org/10.1145/3035918.3054775</ee><url>https://dblp.org/rec/conf/sigmod/Kumar0017</url></info>
+<url>URL#3474219</url>
+</hit>
+<hit score="1" id="3474216">
+<info><authors><author pid="26/6037">Tim Kraska</author></authors><title>Approximate Query Processing for Interactive Data Science.</title><venue>SIGMOD Conference</venue><pages>525</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Kraska17</key><doi>10.1145/3035918.3056099</doi><ee>https://doi.org/10.1145/3035918.3056099</ee><url>https://dblp.org/rec/conf/sigmod/Kraska17</url></info>
+<url>URL#3474216</url>
+</hit>
+<hit score="1" id="3474215">
+<info><authors><author pid="163/0667">Ngai Meng Kou</author><author pid="87/660">Yan Li</author><author pid="w/HaoWang-13">Hao Wang 0013</author><author pid="38/4996">Leong Hou U</author><author pid="95/6295">Zhiguo Gong</author></authors><title>Crowdsourced Top-k Queries by Confidence-Aware Pairwise Judgments.</title><venue>SIGMOD Conference</venue><pages>1415-1430</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KouLWUG17</key><doi>10.1145/3035918.3035953</doi><ee>https://doi.org/10.1145/3035918.3035953</ee><url>https://dblp.org/rec/conf/sigmod/KouLWUG17</url></info>
+<url>URL#3474215</url>
+</hit>
+<hit score="1" id="3474214">
+<info><authors><author pid="194/3967">Ios Kotsogiannis</author><author pid="m/AMachanavajjhala">Ashwin Machanavajjhala</author><author pid="44/906">Michael Hay</author><author pid="m/GeromeMiklau">Gerome Miklau</author></authors><title>Pythia: Data Dependent Differentially Private Algorithm Selection.</title><venue>SIGMOD Conference</venue><pages>1323-1337</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KotsogiannisMHM17</key><doi>10.1145/3035918.3035945</doi><ee>https://doi.org/10.1145/3035918.3035945</ee><url>https://dblp.org/rec/conf/sigmod/KotsogiannisMHM17</url></info>
+<url>URL#3474214</url>
+</hit>
+<hit score="1" id="3474213">
+<info><authors><author pid="194/3967">Ios Kotsogiannis</author><author pid="44/906">Michael Hay</author><author pid="m/AMachanavajjhala">Ashwin Machanavajjhala</author><author pid="m/GeromeMiklau">Gerome Miklau</author><author pid="199/6362">Margaret Orr</author></authors><title>DIAS: Differentially Private Interactive Algorithm Selection using Pythia.</title><venue>SIGMOD Conference</venue><pages>1679-1682</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KotsogiannisHMM17</key><doi>10.1145/3035918.3056441</doi><ee>https://doi.org/10.1145/3035918.3056441</ee><url>https://dblp.org/rec/conf/sigmod/KotsogiannisHMM17</url></info>
+<url>URL#3474213</url>
+</hit>
+<hit score="1" id="3474212">
+<info><authors><author pid="53/6696-1">Nikolaos Konstantinou 0001</author><author pid="84/7973">Martin Koehler</author><author pid="157/1785">Edward Abel</author><author pid="117/8447">Cristina Civili</author><author pid="76/970">Bernd Neumayr</author><author pid="20/9117">Emanuel Sallinger</author><author pid="f/AAAFernandes">Alvaro A. A. Fernandes</author><author pid="g/GeorgGottlob">Georg Gottlob</author><author pid="53/358">John A. Keane</author><author pid="l/LeonidLibkin">Leonid Libkin</author><author pid="p/NWPaton">Norman W. Paton</author></authors><title>The VADA Architecture for Cost-Effective Data Wrangling.</title><venue>SIGMOD Conference</venue><pages>1599-1602</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KonstantinouKAC17</key><doi>10.1145/3035918.3058730</doi><ee>https://doi.org/10.1145/3035918.3058730</ee><url>https://dblp.org/rec/conf/sigmod/KonstantinouKAC17</url></info>
+<url>URL#3474212</url>
+</hit>
+<hit score="1" id="3474211">
+<info><authors><author pid="162/1936">Anurag Khandelwal</author><author pid="181/5822">Zongheng Yang</author><author pid="199/6354">Evan Ye</author><author pid="41/5447-1">Rachit Agarwal 0001</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>ZipG: A Memory-efficient Graph Store for Interactive Queries.</title><venue>SIGMOD Conference</venue><pages>1149-1164</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KhandelwalYY0S17</key><doi>10.1145/3035918.3064012</doi><ee>https://doi.org/10.1145/3035918.3064012</ee><url>https://dblp.org/rec/conf/sigmod/KhandelwalYY0S17</url></info>
+<url>URL#3474211</url>
+</hit>
+<hit score="1" id="3474210">
+<info><authors><author pid="81/8749">Asif R. Khan</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author></authors><title>CrowdDQS: Dynamic Question Selection in Crowdsourcing Systems.</title><venue>SIGMOD Conference</venue><pages>1447-1462</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KhanG17</key><doi>10.1145/3035918.3064055</doi><ee>https://doi.org/10.1145/3035918.3064055</ee><url>https://dblp.org/rec/conf/sigmod/KhanG17</url></info>
+<url>URL#3474210</url>
+</hit>
+<hit score="1" id="3474209">
+<info><authors><author pid="64/10989">Michael S. Kester</author><author pid="82/7402">Manos Athanassoulis</author><author pid="i/StratosIdreos">Stratos Idreos</author></authors><title>Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?</title><venue>SIGMOD Conference</venue><pages>715-730</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KesterAI17</key><doi>10.1145/3035918.3064049</doi><ee>https://doi.org/10.1145/3035918.3064049</ee><url>https://dblp.org/rec/conf/sigmod/KesterAI17</url></info>
+<url>URL#3474209</url>
+</hit>
+<hit score="1" id="3474204">
+<info><authors><author pid="32/10459">Fisnik Kastrati</author><author pid="m/GuidoMoerkotte">Guido Moerkotte</author></authors><title>Optimization of Disjunctive Predicates for Main Memory Column Stores.</title><venue>SIGMOD Conference</venue><pages>731-744</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KastratiM17</key><doi>10.1145/3035918.3064022</doi><ee>https://doi.org/10.1145/3035918.3064022</ee><url>https://dblp.org/rec/conf/sigmod/KastratiM17</url></info>
+<url>URL#3474204</url>
+</hit>
+<hit score="1" id="3474203">
+<info><authors><author pid="186/8781">Kaan Kara</author><author pid="32/7263">Jana Giceva</author><author pid="a/GustavoAlonso">Gustavo Alonso</author></authors><title>FPGA-based Data Partitioning.</title><venue>SIGMOD Conference</venue><pages>433-445</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KaraGA17</key><doi>10.1145/3035918.3035946</doi><ee>https://doi.org/10.1145/3035918.3035946</ee><url>https://dblp.org/rec/conf/sigmod/KaraGA17</url></info>
+<url>URL#3474203</url>
+</hit>
+<hit score="1" id="3474201">
+<info><authors><author pid="65/1457">Zoi Kaoudi</author><author pid="09/6353">Jorge-Arnulfo Quiané-Ruiz</author><author pid="57/10514">Saravanan Thirumuruganathan</author><author pid="22/5463">Sanjay Chawla</author><author pid="a/DivyakantAgrawal">Divy Agrawal</author></authors><title>A Cost-based Optimizer for Gradient Descent Optimization.</title><venue>SIGMOD Conference</venue><pages>977-992</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KaoudiQTCA17</key><doi>10.1145/3035918.3064042</doi><ee>https://doi.org/10.1145/3035918.3064042</ee><url>https://dblp.org/rec/conf/sigmod/KaoudiQTCA17</url></info>
+<url>URL#3474201</url>
+</hit>
+<hit score="1" id="3474200">
+<info><authors><author pid="199/6283">Chathura Kankanamge</author><author pid="199/6334">Siddhartha Sahu</author><author pid="206/6790">Amine Mhedhbi</author><author pid="45/4870">Jeremy Chen</author><author pid="55/6560">Semih Salihoglu</author></authors><title>Graphflow: An Active Graph Database.</title><venue>SIGMOD Conference</venue><pages>1695-1698</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KankanamgeSMCS17</key><doi>10.1145/3035918.3056445</doi><ee>https://doi.org/10.1145/3035918.3056445</ee><url>https://dblp.org/rec/conf/sigmod/KankanamgeSMCS17</url></info>
+<url>URL#3474200</url>
+</hit>
+<hit score="1" id="3474196">
+<info><authors><author pid="88/9350">Elena Kakoulli</author><author pid="26/5170">Herodotos Herodotou</author></authors><title>OctopusFS: A Distributed File System with Tiered Storage Management.</title><venue>SIGMOD Conference</venue><pages>65-78</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KakoulliH17</key><doi>10.1145/3035918.3064023</doi><ee>https://doi.org/10.1145/3035918.3064023</ee><url>https://dblp.org/rec/conf/sigmod/KakoulliH17</url></info>
+<url>URL#3474196</url>
+</hit>
+<hit score="1" id="3474195">
+<info><authors><author pid="163/0678">Jinhong Jung</author><author pid="116/9404">Namyong Park</author><author pid="32/7593">Lee Sael</author><author pid="13/7122">U Kang</author></authors><title>BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart.</title><venue>SIGMOD Conference</venue><pages>789-804</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JungPSK17</key><doi>10.1145/3035918.3035950</doi><ee>https://doi.org/10.1145/3035918.3035950</ee><url>https://dblp.org/rec/conf/sigmod/JungPSK17</url></info>
+<url>URL#3474195</url>
+</hit>
+<hit score="1" id="3474194">
+<info><authors><author pid="167/2111">Zhongjun Jin</author><author pid="81/6860">Michael R. Anderson</author><author pid="82/231">Michael J. Cafarella</author><author pid="j/HVJagadish">H. V. Jagadish</author></authors><title>Foofah: A Programming-By-Example System for Synthesizing Data Transformation Programs.</title><venue>SIGMOD Conference</venue><pages>1607-1610</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JinACJ17a</key><doi>10.1145/3035918.3058732</doi><ee>https://doi.org/10.1145/3035918.3058732</ee><url>https://dblp.org/rec/conf/sigmod/JinACJ17a</url></info>
+<url>URL#3474194</url>
+</hit>
+<hit score="1" id="3474193">
+<info><authors><author pid="167/2111">Zhongjun Jin</author><author pid="81/6860">Michael R. Anderson</author><author pid="82/231">Michael J. Cafarella</author><author pid="j/HVJagadish">H. V. Jagadish</author></authors><title>Foofah: Transforming Data By Example.</title><venue>SIGMOD Conference</venue><pages>683-698</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JinACJ17</key><doi>10.1145/3035918.3064034</doi><ee>https://doi.org/10.1145/3035918.3064034</ee><url>https://dblp.org/rec/conf/sigmod/JinACJ17</url></info>
+<url>URL#3474193</url>
+</hit>
+<hit score="1" id="3474192">
+<info><authors><author pid="185/1521-1">Jiawei Jiang 0001</author><author pid="55/5031">Bin Cui 0001</author><author pid="97/919-1">Ce Zhang 0001</author><author pid="135/5193">Lele Yu</author></authors><title>Heterogeneity-aware Distributed Parameter Servers.</title><venue>SIGMOD Conference</venue><pages>463-478</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JiangCZY17</key><doi>10.1145/3035918.3035933</doi><ee>https://doi.org/10.1145/3035918.3035933</ee><url>https://dblp.org/rec/conf/sigmod/JiangCZY17</url></info>
+<url>URL#3474192</url>
+</hit>
+<hit score="1" id="3474190">
+<info><authors><author pid="88/3602">Pramod A. Jamkhedkar</author><author pid="j/TheodoreJohnson">Theodore Johnson</author><author pid="k/YaronKanza">Yaron Kanza</author><author pid="s/AmanShaikh">Aman Shaikh</author><author pid="20/2654">N. K. Shankaranarayanan</author><author pid="10/6892">Vladislav Shkapenyuk</author><author pid="97/2545">Gordon Woodhull</author></authors><title>Virtualized Network Service Topology Exploration Using Nepal.</title><venue>SIGMOD Conference</venue><pages>1611-1614</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JamkhedkarJKSSS17</key><doi>10.1145/3035918.3058733</doi><ee>https://doi.org/10.1145/3035918.3058733</ee><url>https://dblp.org/rec/conf/sigmod/JamkhedkarJKSSS17</url></info>
+<url>URL#3474190</url>
+</hit>
+<hit score="1" id="3474189">
+<info><authors><author pid="84/8571">Muhammad Idris</author><author pid="131/4268">Martín Ugarte</author><author pid="28/3797">Stijn Vansummeren</author></authors><title>The Dynamic Yannakakis Algorithm: Compact and Efficient Query Processing Under Updates.</title><venue>SIGMOD Conference</venue><pages>1259-1274</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/IdrisUV17</key><doi>10.1145/3035918.3064027</doi><ee>https://doi.org/10.1145/3035918.3064027</ee><url>https://dblp.org/rec/conf/sigmod/IdrisUV17</url></info>
+<url>URL#3474189</url>
+</hit>
+<hit score="1" id="3474187">
+<info><authors><author pid="199/6341">Eslam Hussein</author><author pid="178/3717">Abdurrahman Ghanem</author><author pid="156/4548">Vinícius Vitor dos Santos Dias</author><author pid="119/6795">Carlos H. C. Teixeira</author><author pid="199/6349">Ghadeer AbuOda</author><author pid="02/6087">Marco Serafini</author><author pid="41/5119">Georgos Siganos</author><author pid="53/7323">Gianmarco De Francisci Morales</author><author pid="01/3996">Ashraf Aboulnaga</author><author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author></authors><title>Graph Data Mining with Arabesque.</title><venue>SIGMOD Conference</venue><pages>1647-1650</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HusseinGDTASSMA17</key><doi>10.1145/3035918.3058742</doi><ee>https://doi.org/10.1145/3035918.3058742</ee><url>https://dblp.org/rec/conf/sigmod/HusseinGDTASSMA17</url></info>
+<url>URL#3474187</url>
+</hit>
+<hit score="1" id="3474186">
+<info><authors><author pid="131/4148">Jiamin Huang</author><author pid="45/2495">Barzan Mozafari</author><author pid="21/1633">Grant Schoenebeck</author><author pid="01/1282">Thomas F. Wenisch</author></authors><title>A Top-Down Approach to Achieving Performance Predictability in Database Systems.</title><venue>SIGMOD Conference</venue><pages>745-758</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HuangMSW17</key><doi>10.1145/3035918.3064016</doi><ee>https://doi.org/10.1145/3035918.3064016</ee><url>https://dblp.org/rec/conf/sigmod/HuangMSW17</url></info>
+<url>URL#3474186</url>
+</hit>
+<hit score="1" id="3474185">
+<info><authors><author pid="184/2507">Caleb Horst</author><author pid="79/8627">Ryo Kikuchi</author><author pid="17/5868">Keita Xagawa</author></authors><title>Cryptanalysis of Comparable Encryption in SIGMOD&apos;16.</title><venue>SIGMOD Conference</venue><pages>1069-1084</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HorstKX17</key><doi>10.1145/3035918.3035948</doi><ee>https://doi.org/10.1145/3035918.3035948</ee><url>https://dblp.org/rec/conf/sigmod/HorstKX17</url></info>
+<url>URL#3474185</url>
+</hit>
+<hit score="1" id="3474182">
+<info><authors><author pid="75/65">Kai Herrmann 0002</author><author pid="19/1082">Hannes Voigt</author><author pid="39/3706">Andreas Behrend</author><author pid="185/0920">Jonas Rausch</author><author pid="l/WLehner">Wolfgang Lehner</author></authors><title>Living in Parallel Realities: Co-Existing Schema Versions with a Bidirectional Database Evolution Language.</title><venue>SIGMOD Conference</venue><pages>1101-1116</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HerrmannVBRL17</key><doi>10.1145/3035918.3064046</doi><ee>https://doi.org/10.1145/3035918.3064046</ee><url>https://dblp.org/rec/conf/sigmod/HerrmannVBRL17</url></info>
+<url>URL#3474182</url>
+</hit>
+<hit score="1" id="3474180">
+<info><authors><author pid="180/5761">Brandon Haynes</author><author pid="199/2693">Artem Minyaylov</author><author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author><author pid="95/5263">Luis Ceze</author><author pid="16/4915">Alvin Cheung</author></authors><title>VisualCloud Demonstration: A DBMS for Virtual Reality.</title><venue>SIGMOD Conference</venue><pages>1615-1618</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HaynesMBCC17</key><doi>10.1145/3035918.3058734</doi><ee>https://doi.org/10.1145/3035918.3058734</ee><url>https://dblp.org/rec/conf/sigmod/HaynesMBCC17</url></info>
+<url>URL#3474180</url>
+</hit>
+<hit score="1" id="3474178">
+<info><authors><author pid="135/4703">Sergey Hardock</author><author pid="p/IliaPetrov">Ilia Petrov 0001</author><author pid="32/10022">Robert Gottstein</author><author pid="b/APBuchmann">Alejandro P. Buchmann</author></authors><title>From In-Place Updates to In-Place Appends: Revisiting Out-of-Place Updates on Flash.</title><venue>SIGMOD Conference</venue><pages>1571-1586</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HardockPGB17</key><doi>10.1145/3035918.3035958</doi><ee>https://doi.org/10.1145/3035918.3035958</ee><url>https://dblp.org/rec/conf/sigmod/HardockPGB17</url></info>
+<url>URL#3474178</url>
+</hit>
+<hit score="1" id="3474177">
+<info><authors><author pid="144/7700">Samuel Haney</author><author pid="m/AMachanavajjhala">Ashwin Machanavajjhala</author><author pid="74/3910">John M. Abowd</author><author pid="71/10358">Matthew Graham</author><author pid="199/6319">Mark Kutzbach</author><author pid="22/576">Lars Vilhuber</author></authors><title>Utility Cost of Formal Privacy for Releasing National Employer-Employee Statistics.</title><venue>SIGMOD Conference</venue><pages>1339-1354</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HaneyMAGKV17</key><doi>10.1145/3035918.3035940</doi><ee>https://doi.org/10.1145/3035918.3035940</ee><url>https://dblp.org/rec/conf/sigmod/HaneyMAGKV17</url></info>
+<url>URL#3474177</url>
+</hit>
+<hit score="1" id="3474176">
+<info><authors><author pid="199/2956">Maeda F. Hanafi</author><author pid="57/7259">Azza Abouzied</author><author pid="c/LauraChiticariu">Laura Chiticariu</author><author pid="60/2319">Yunyao Li 0001</author></authors><title>Synthesizing Extraction Rules from User Examples with SEER.</title><venue>SIGMOD Conference</venue><pages>1687-1690</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HanafiACL17</key><doi>10.1145/3035918.3056443</doi><ee>https://doi.org/10.1145/3035918.3056443</ee><url>https://dblp.org/rec/conf/sigmod/HanafiACL17</url></info>
+<url>URL#3474176</url>
+</hit>
+<hit score="1" id="3474173">
+<info><authors><author pid="43/56-2">Tao Guo 0002</author><author pid="77/2970-1">Xin Cao 0001</author><author pid="33/3180">Gao Cong</author><author pid="l/JiahengLu">Jiaheng Lu</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>Distributed Algorithms on Exact Personalized PageRank.</title><venue>SIGMOD Conference</venue><pages>479-494</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GuoCCLL17</key><doi>10.1145/3035918.3035920</doi><ee>https://doi.org/10.1145/3035918.3035920</ee><url>https://dblp.org/rec/conf/sigmod/GuoCCLL17</url></info>
+<url>URL#3474173</url>
+</hit>
+<hit score="1" id="3474171">
+<info><authors><author pid="172/6776">Muhammad Ali Gulzar</author><author pid="49/10034">Matteo Interlandi</author><author pid="88/2774">Tyson Condie</author><author pid="56/5320">Miryung Kim</author></authors><title>Debugging Big Data Analytics in Spark with BigDebug.</title><venue>SIGMOD Conference</venue><pages>1627-1630</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GulzarICK17</key><doi>10.1145/3035918.3058737</doi><ee>https://doi.org/10.1145/3035918.3058737</ee><url>https://dblp.org/rec/conf/sigmod/GulzarICK17</url></info>
+<url>URL#3474171</url>
+</hit>
+<hit score="1" id="3474169">
+<info><authors><author pid="140/7166">Helga Gudmundsdottir</author><author pid="11/6446">Babak Salimi</author><author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author><author pid="03/6105">Dan R. K. Ports</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>A Demonstration of Interactive Analysis of Performance Measurements with Viska.</title><venue>SIGMOD Conference</venue><pages>1707-1710</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GudmundsdottirS17</key><doi>10.1145/3035918.3056448</doi><ee>https://doi.org/10.1145/3035918.3056448</ee><url>https://dblp.org/rec/conf/sigmod/GudmundsdottirS17</url></info>
+<url>URL#3474169</url>
+</hit>
+<hit score="1" id="3474168">
+<info><authors><author pid="53/3059">Kareem El Gebaly</author><author pid="00/7739">Jimmy Lin</author></authors><title>In-Browser Interactive SQL Analytics with Afterburner.</title><venue>SIGMOD Conference</venue><pages>1623-1626</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GebalyL17</key><doi>10.1145/3035918.3058736</doi><ee>https://doi.org/10.1145/3035918.3058736</ee><url>https://dblp.org/rec/conf/sigmod/GebalyL17</url></info>
+<url>URL#3474168</url>
+</hit>
+<hit score="1" id="3474167">
+<info><authors><author pid="147/1259">Zekai J. Gao</author><author pid="147/1166">Shangyu Luo</author><author pid="52/584">Luis Leopoldo Perez</author><author pid="j/ChrisJermaine">Chris Jermaine</author></authors><title>The BUDS Language for Distributed Bayesian Machine Learning.</title><venue>SIGMOD Conference</venue><pages>961-976</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GaoLPJ17</key><doi>10.1145/3035918.3035937</doi><ee>https://doi.org/10.1145/3035918.3035937</ee><url>https://dblp.org/rec/conf/sigmod/GaoLPJ17</url></info>
+<url>URL#3474167</url>
+</hit>
+<hit score="1" id="3474166">
+<info><authors><author pid="06/11411">Junhao Gan</author><author pid="t/YufeiTao">Yufei Tao 0001</author></authors><title>Dynamic Density Based Clustering.</title><venue>SIGMOD Conference</venue><pages>1493-1507</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GanT17</key><doi>10.1145/3035918.3064050</doi><ee>https://doi.org/10.1145/3035918.3064050</ee><url>https://dblp.org/rec/conf/sigmod/GanT17</url></info>
+<url>URL#3474166</url>
+</hit>
+<hit score="1" id="3474165">
+<info><authors><author pid="95/11514">Edward Gan</author><author pid="47/8816">Peter Bailis</author></authors><title>Scalable Kernel Density Classification via Threshold-Based Pruning.</title><venue>SIGMOD Conference</venue><pages>945-959</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GanB17</key><doi>10.1145/3035918.3064035</doi><ee>https://doi.org/10.1145/3035918.3064035</ee><url>https://dblp.org/rec/conf/sigmod/GanB17</url></info>
+<url>URL#3474165</url>
+</hit>
+<hit score="1" id="3474164">
+<info><authors><author pid="02/2520">Yasuhiro Fujiwara</author><author pid="172/7797">Naoki Marumo</author><author pid="05/8614">Mathieu Blondel</author><author pid="124/7243">Koh Takeuchi</author><author pid="41/10856">Hideaki Kim</author><author pid="29/5953">Tomoharu Iwata</author><author pid="87/2491">Naonori Ueda</author></authors><title>Scaling Locally Linear Embedding.</title><venue>SIGMOD Conference</venue><pages>1479-1492</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FujiwaraMBTKIU17</key><doi>10.1145/3035918.3064021</doi><ee>https://doi.org/10.1145/3035918.3064021</ee><url>https://dblp.org/rec/conf/sigmod/FujiwaraMBTKIU17</url></info>
+<url>URL#3474164</url>
+</hit>
+<hit score="1" id="3474162">
+<info><authors><author pid="131/4202">Raul Castro Fernandez</author><author pid="71/8700-1">Dong Deng 0001</author><author pid="m/EssamMansour">Essam Mansour 0001</author><author pid="121/4198">Abdulhakim Ali Qahtan</author><author pid="147/1253">Wenbo Tao</author><author pid="38/8707">Ziawasch Abedjan</author><author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author><author pid="i/IhabFIlyas">Ihab F. Ilyas</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="o/MouradOuzzani">Mourad Ouzzani</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author><author pid="27/104-1">Nan Tang 0001</author></authors><title>A Demo of the Data Civilizer System.</title><venue>SIGMOD Conference</venue><pages>1639-1642</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FernandezDMQTAE17</key><doi>10.1145/3035918.3058740</doi><ee>https://doi.org/10.1145/3035918.3058740</ee><url>https://dblp.org/rec/conf/sigmod/FernandezDMQTAE17</url></info>
+<url>URL#3474162</url>
+</hit>
+<hit score="1" id="3474161">
+<info><authors><author pid="94/2372">Wenfei Fan</author><author pid="125/7140-1">Jingbo Xu 0001</author><author pid="32/6122">Yinghui Wu</author><author pid="53/5676">Wenyuan Yu</author><author pid="90/8494">Jiaxin Jiang</author><author pid="48/7883">Zeyu Zheng</author><author pid="132/7973">Bohan Zhang</author><author pid="25/7045-12">Yang Cao 0012</author><author pid="91/1253-1">Chao Tian 0001</author></authors><title>Parallelizing Sequential Graph Computations.</title><venue>SIGMOD Conference</venue><pages>495-510</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FanXWYJZZCT17</key><doi>10.1145/3035918.3035942</doi><ee>https://doi.org/10.1145/3035918.3035942</ee><url>https://dblp.org/rec/conf/sigmod/FanXWYJZZCT17</url></info>
+<url>URL#3474161</url>
+</hit>
+<hit score="1" id="3474160">
+<info><authors><author pid="94/2372">Wenfei Fan</author><author pid="03/405">Chunming Hu</author><author pid="91/1253-1">Chao Tian 0001</author></authors><title>Incremental Graph Computations: Doable and Undoable.</title><venue>SIGMOD Conference</venue><pages>155-169</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FanHT17</key><doi>10.1145/3035918.3035944</doi><ee>https://doi.org/10.1145/3035918.3035944</ee><url>https://dblp.org/rec/conf/sigmod/FanHT17</url></info>
+<url>URL#3474160</url>
+</hit>
+<hit score="1" id="3474159">
+<info><authors><author pid="181/5872">K. Venkatesh Emani</author><author pid="199/6367">Tejas Deshpande</author><author pid="51/792-2">Karthik Ramachandra 0002</author><author pid="s/SSudarshan1">S. Sudarshan 0001</author></authors><title>DBridge: Translating Imperative Code to SQL.</title><venue>SIGMOD Conference</venue><pages>1663-1666</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/EmaniD0017</key><doi>10.1145/3035918.3058747</doi><ee>https://doi.org/10.1145/3035918.3058747</ee><url>https://dblp.org/rec/conf/sigmod/EmaniD0017</url></info>
+<url>URL#3474159</url>
+</hit>
+<hit score="1" id="3474158">
+<info><authors><author pid="147/1241">Anshuman Dutt</author><author pid="n/VivekRNarasayya">Vivek R. Narasayya</author><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author></authors><title>Leveraging Re-costing for Online Optimization of Parameterized Queries with Guarantees.</title><venue>SIGMOD Conference</venue><pages>1539-1554</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DuttNC17</key><doi>10.1145/3035918.3064040</doi><ee>https://doi.org/10.1145/3035918.3064040</ee><url>https://dblp.org/rec/conf/sigmod/DuttNC17</url></info>
+<url>URL#3474158</url>
+</hit>
+<hit score="1" id="3474157">
+<info><authors><author pid="92/9993">Kayhan Dursun</author><author pid="45/1559">Carsten Binnig</author><author pid="c/UgurCetintemel">Ugur Çetintemel</author><author pid="26/6037">Tim Kraska</author></authors><title>Revisiting Reuse in Main Memory Database Systems.</title><venue>SIGMOD Conference</venue><pages>1275-1289</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DursunBCK17</key><doi>10.1145/3035918.3035957</doi><ee>https://doi.org/10.1145/3035918.3035957</ee><url>https://dblp.org/rec/conf/sigmod/DursunBCK17</url></info>
+<url>URL#3474157</url>
+</hit>
+<hit score="1" id="3474155">
+<info><authors><author pid="24/1541">Tien Tuan Anh Dinh</author><author pid="64/856-6">Ji Wang 0006</author><author pid="67/6383-1">Gang Chen 0001</author><author pid="42/469-2">Rui Liu 0002</author><author pid="o/BengChinOoi">Beng Chin Ooi</author><author pid="t/KianLeeTan">Kian-Lee Tan</author></authors><title>BLOCKBENCH: A Framework for Analyzing Private Blockchains.</title><venue>SIGMOD Conference</venue><pages>1085-1100</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DinhW0LOT17</key><doi>10.1145/3035918.3064033</doi><ee>https://doi.org/10.1145/3035918.3064033</ee><url>https://dblp.org/rec/conf/sigmod/DinhW0LOT17</url></info>
+<url>URL#3474155</url>
+</hit>
+<hit score="1" id="3474153">
+<info><authors><author pid="181/5758">Ioannis Demertzis</author><author pid="p/CharalamposPapamanthou">Charalampos Papamanthou</author></authors><title>Fast Searchable Encryption With Tunable Locality.</title><venue>SIGMOD Conference</venue><pages>1053-1067</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DemertzisP17</key><doi>10.1145/3035918.3064057</doi><ee>https://doi.org/10.1145/3035918.3064057</ee><url>https://dblp.org/rec/conf/sigmod/DemertzisP17</url></info>
+<url>URL#3474153</url>
+</hit>
+<hit score="1" id="3474152">
+<info><authors><author pid="139/9356">Shaleen Deep</author><author pid="49/8316">Paraschos Koutris</author></authors><title>QIRANA: A Framework for Scalable Query Pricing.</title><venue>SIGMOD Conference</venue><pages>699-713</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DeepK17</key><doi>10.1145/3035918.3064017</doi><ee>https://doi.org/10.1145/3035918.3064017</ee><url>https://dblp.org/rec/conf/sigmod/DeepK17</url></info>
+<url>URL#3474152</url>
+</hit>
+<hit score="1" id="3474150">
+<info><authors><author pid="129/6927">Niv Dayan</author><author pid="82/7402">Manos Athanassoulis</author><author pid="i/StratosIdreos">Stratos Idreos</author></authors><title>Monkey: Optimal Navigable Key-Value Store.</title><venue>SIGMOD Conference</venue><pages>79-94</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DayanAI17</key><doi>10.1145/3035918.3064054</doi><ee>https://doi.org/10.1145/3035918.3064054</ee><url>https://dblp.org/rec/conf/sigmod/DayanAI17</url></info>
+<url>URL#3474150</url>
+</hit>
+<hit score="1" id="3474149">
+<info><authors><author pid="01/4316-1">Mohammad Dashti 0001</author><author pid="177/9027">Sachin Basil John</author><author pid="143/6186">Amir Shaikhha</author><author pid="k/ChristophKoch">Christoph Koch 0001</author></authors><title>Transaction Repair for Multi-Version Concurrency Control.</title><venue>SIGMOD Conference</venue><pages>235-250</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DashtiJS017</key><doi>10.1145/3035918.3035919</doi><ee>https://doi.org/10.1145/3035918.3035919</ee><url>https://dblp.org/rec/conf/sigmod/DashtiJS017</url></info>
+<url>URL#3474149</url>
+</hit>
+<hit score="1" id="3474148">
+<info><authors><author pid="92/6085">Sanjib Das</author><author pid="137/2708">Paul Suganthan G. C.</author><author pid="d/AnHaiDoan">AnHai Doan</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author><author pid="56/2207">Ganesh Krishnan</author><author pid="163/0632">Rohit Deep</author><author pid="72/387">Esteban Arcaute</author><author pid="06/199">Vijay Raghavendra</author><author pid="39/6523">Youngchoon Park</author></authors><title>Falcon: Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services.</title><venue>SIGMOD Conference</venue><pages>1431-1446</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DasCDNKDARP17</key><doi>10.1145/3035918.3035960</doi><ee>https://doi.org/10.1145/3035918.3035960</ee><url>https://dblp.org/rec/conf/sigmod/DasCDNKDARP17</url></info>
+<url>URL#3474148</url>
+</hit>
+<hit score="1" id="3474147">
+<info><authors><author pid="29/9582">Shumo Chu</author><author pid="16/383">Daniel Li</author><author pid="94/9817">Chenglong Wang</author><author pid="16/4915">Alvin Cheung</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Demonstration of the Cosette Automated SQL Prover.</title><venue>SIGMOD Conference</venue><pages>1591-1594</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChuLWCS17</key><doi>10.1145/3035918.3058728</doi><ee>https://doi.org/10.1145/3035918.3058728</ee><url>https://dblp.org/rec/conf/sigmod/ChuLWCS17</url></info>
+<url>URL#3474147</url>
+</hit>
+<hit score="1" id="3474145">
+<info><authors><author pid="76/185-3">Peng Cheng 0003</author><author pid="41/82">Hao Xin</author><author pid="c/LeiChen0002">Lei Chen 0002</author></authors><title>Utility-Aware Ridesharing on Road Networks.</title><venue>SIGMOD Conference</venue><pages>1197-1210</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChengX017</key><doi>10.1145/3035918.3064008</doi><ee>https://doi.org/10.1145/3035918.3064008</ee><url>https://dblp.org/rec/conf/sigmod/ChengX017</url></info>
+<url>URL#3474145</url>
+</hit>
+<hit score="1" id="3474144">
+<info><authors><author pid="87/1254">Yu Chen</author><author pid="43/1219-1">Ke Yi 0001</author></authors><title>Two-Level Sampling for Join Size Estimation.</title><venue>SIGMOD Conference</venue><pages>759-774</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChenY17</key><doi>10.1145/3035918.3035921</doi><ee>https://doi.org/10.1145/3035918.3035921</ee><url>https://dblp.org/rec/conf/sigmod/ChenY17</url></info>
+<url>URL#3474144</url>
+</hit>
+<hit score="1" id="3474143">
+<info><authors><author pid="65/4423-19">Chen Chen 0019</author><author pid="199/6327">Harshal Tushar Lehri</author><author pid="164/6240">Lay Kuan Loh</author><author pid="199/6291">Anupam Alur</author><author pid="89/161-1">Limin Jia 0001</author><author pid="75/3108">Boon Thau Loo</author><author pid="72/1077">Wenchao Zhou</author></authors><title>Distributed Provenance Compression.</title><venue>SIGMOD Conference</venue><pages>203-218</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChenLLAJLZ17</key><doi>10.1145/3035918.3035926</doi><ee>https://doi.org/10.1145/3035918.3035926</ee><url>https://dblp.org/rec/conf/sigmod/ChenLLAJLZ17</url></info>
+<url>URL#3474143</url>
+</hit>
+<hit score="1" id="3474141">
+<info><authors><author pid="181/9143">Harshada Chavan</author><author pid="94/5893">Mohamed F. Mokbel</author></authors><title>Scout: A GPU-Aware System for Interactive Spatio-temporal Data Visualization.</title><venue>SIGMOD Conference</venue><pages>1691-1694</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChavanM17</key><doi>10.1145/3035918.3056444</doi><ee>https://doi.org/10.1145/3035918.3056444</ee><url>https://dblp.org/rec/conf/sigmod/ChavanM17</url></info>
+<url>URL#3474141</url>
+</hit>
+<hit score="1" id="3474140">
+<info><authors><author pid="151/6401">Amit Chavan</author><author pid="d/AmolDeshpande">Amol Deshpande</author></authors><title>DEX: Query Execution in a Delta-based Storage System.</title><venue>SIGMOD Conference</venue><pages>171-186</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChavanD17</key><doi>10.1145/3035918.3064056</doi><ee>https://doi.org/10.1145/3035918.3064056</ee><url>https://dblp.org/rec/conf/sigmod/ChavanD17</url></info>
+<url>URL#3474140</url>
+</hit>
+<hit score="1" id="3474139">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="46/3522">Bolin Ding</author><author pid="k/SrikanthKandula">Srikanth Kandula</author></authors><title>Approximate Query Processing: No Silver Bullet.</title><venue>SIGMOD Conference</venue><pages>511-519</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChaudhuriDK17</key><doi>10.1145/3035918.3056097</doi><ee>https://doi.org/10.1145/3035918.3056097</ee><url>https://dblp.org/rec/conf/sigmod/ChaudhuriDK17</url></info>
+<url>URL#3474139</url>
+</hit>
+<hit score="1" id="3474137">
+<info><authors><author pid="47/179">Lijun Chang</author><author pid="64/6025-109">Wei Li 0109</author><author pid="98/5684-1">Wenjie Zhang 0001</author></authors><title>Computing A Near-Maximum Independent Set in Linear Time by Reducing-Peeling.</title><venue>SIGMOD Conference</venue><pages>1181-1196</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChangLZ17</key><doi>10.1145/3035918.3035939</doi><ee>https://doi.org/10.1145/3035918.3035939</ee><url>https://dblp.org/rec/conf/sigmod/ChangLZ17</url></info>
+<url>URL#3474137</url>
+</hit>
+<hit score="1" id="3474135">
+<info><authors><author pid="231/6360">Yeuk-Yin Chan</author><author pid="04/5404">Fernando Chirigati</author><author pid="05/264">Harish Doraiswamy</author><author pid="s/ClaudioTSilva">Cláudio T. Silva</author><author pid="f/JulianaFreire">Juliana Freire</author></authors><title>Querying and Exploring Polygamous Relationships in Urban Spatio-Temporal Data Sets.</title><venue>SIGMOD Conference</venue><pages>1643-1646</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChanCDSF17</key><doi>10.1145/3035918.3058741</doi><ee>https://doi.org/10.1145/3035918.3058741</ee><url>https://dblp.org/rec/conf/sigmod/ChanCDSF17</url></info>
+<url>URL#3474135</url>
+</hit>
+<hit score="1" id="3474132">
+<info><authors><author pid="25/7045-12">Yang Cao 0012</author><author pid="94/2372">Wenfei Fan</author><author pid="146/8246">Yanghao Wang</author><author pid="199/6287">Tengfei Yuan</author><author pid="155/5708">Yanchao Li</author><author pid="199/6314">Laura Yu Chen</author></authors><title>BEAS: Bounded Evaluation of SQL Queries.</title><venue>SIGMOD Conference</venue><pages>1667-1670</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/CaoFWYLC17</key><doi>10.1145/3035918.3058748</doi><ee>https://doi.org/10.1145/3035918.3058748</ee><url>https://dblp.org/rec/conf/sigmod/CaoFWYLC17</url></info>
+<url>URL#3474132</url>
+</hit>
+<hit score="1" id="3474130">
+<info><authors><author pid="b/ABonifati">Angela Bonifati</author><author pid="199/6350">Ugo Comignani</author><author pid="97/6075">Emmanuel Coquery</author><author pid="89/6675">Romuald Thion</author></authors><title>Interactive Mapping Specification with Exemplar Tuples.</title><venue>SIGMOD Conference</venue><pages>667-682</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BonifatiCCT17</key><doi>10.1145/3035918.3064028</doi><ee>https://doi.org/10.1145/3035918.3064028</ee><url>https://dblp.org/rec/conf/sigmod/BonifatiCCT17</url></info>
+<url>URL#3474130</url>
+</hit>
+<hit score="1" id="3474129">
+<info><authors><author pid="131/4384">Kenneth S. Bøgh</author><author pid="25/7564">Sean Chester</author><author pid="44/7094">Darius Sidlauskas</author><author pid="a/IraAssent">Ira Assent</author></authors><title>Template Skycube Algorithms for Heterogeneous Parallelism on Multicore and GPU Architectures.</title><venue>SIGMOD Conference</venue><pages>447-462</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BoghCSA17</key><doi>10.1145/3035918.3035962</doi><ee>https://doi.org/10.1145/3035918.3035962</ee><url>https://dblp.org/rec/conf/sigmod/BoghCSA17</url></info>
+<url>URL#3474129</url>
+</hit>
+<hit score="1" id="3474126">
+<info><authors><author pid="136/7990">Haoqiong Bian</author><author pid="77/4933-6">Ying Yan 0006</author><author pid="147/1253">Wenbo Tao</author><author pid="17/7993">Liang Jeff Chen</author><author pid="40/3980">Yueguo Chen</author><author pid="47/3542-1">Xiaoyong Du 0001</author><author pid="m/ThomasMoscibroda">Thomas Moscibroda</author></authors><title>Wide Table Layout Optimization based on Column Ordering and Duplication.</title><venue>SIGMOD Conference</venue><pages>299-314</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BianYTCCDM17</key><doi>10.1145/3035918.3035930</doi><ee>https://doi.org/10.1145/3035918.3035930</ee><url>https://dblp.org/rec/conf/sigmod/BianYTCCDM17</url></info>
+<url>URL#3474126</url>
+</hit>
+<hit score="1" id="3474125">
+<info><authors><author pid="b/SSBhowmick">Sourav S. Bhowmick</author><author pid="07/1560">Byron Choi</author><author pid="14/3692">Chengkai Li 0001</author></authors><title>Graph Querying Meets HCI: State of the Art and Future Directions.</title><venue>SIGMOD Conference</venue><pages>1731-1736</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BhowmickCL17</key><doi>10.1145/3035918.3054774</doi><ee>https://doi.org/10.1145/3035918.3054774</ee><url>https://dblp.org/rec/conf/sigmod/BhowmickCL17</url></info>
+<url>URL#3474125</url>
+</hit>
+<hit score="1" id="3474124">
+<info><authors><author pid="47/8816">Peter Bailis</author><author pid="95/11514">Edward Gan</author><author pid="192/4560">Kexin Rong 0001</author><author pid="167/9443">Sahaana Suri</author></authors><title>Demonstration: MacroBase, A Fast Data Analysis Engine.</title><venue>SIGMOD Conference</venue><pages>1699-1702</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BailisGRS17</key><doi>10.1145/3035918.3056446</doi><ee>https://doi.org/10.1145/3035918.3056446</ee><url>https://dblp.org/rec/conf/sigmod/BailisGRS17</url></info>
+<url>URL#3474124</url>
+</hit>
+<hit score="1" id="3474123">
+<info><authors><author pid="47/8816">Peter Bailis</author><author pid="95/11514">Edward Gan</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="177/8846">Deepak Narayanan</author><author pid="192/4560">Kexin Rong 0001</author><author pid="167/9443">Sahaana Suri</author></authors><title>MacroBase: Prioritizing Attention in Fast Data.</title><venue>SIGMOD Conference</venue><pages>541-556</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BailisGMNRS17</key><doi>10.1145/3035918.3035928</doi><ee>https://doi.org/10.1145/3035918.3035928</ee><url>https://dblp.org/rec/conf/sigmod/BailisGMNRS17</url></info>
+<url>URL#3474123</url>
+</hit>
+<hit score="1" id="3474122">
+<info><authors><author pid="b/DavidFBacon">David F. Bacon</author><author pid="07/2185">Nathan Bales</author><author pid="b/NicolasBruno">Nicolas Bruno</author><author pid="12/875">Brian F. Cooper</author><author pid="199/6284">Adam Dickinson</author><author pid="71/5497">Andrew Fikes</author><author pid="44/5620">Campbell Fraser</author><author pid="23/8510">Andrey Gubarev</author><author pid="16/6802">Milind Joshi</author><author pid="95/369">Eugene Kogan</author><author pid="98/9492">Alexander Lloyd</author><author pid="m/SergeyMelnik">Sergey Melnik 0001</author><author pid="97/690">Rajesh Rao</author><author pid="125/8099">David Shue</author><author pid="26/1490">Christopher Taylor</author><author pid="199/6285">Marcel van der Holst</author><author pid="135/0730">Dale Woodford</author></authors><title>Spanner: Becoming a SQL System.</title><venue>SIGMOD Conference</venue><pages>331-343</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BaconBBCDFFGJKL17</key><doi>10.1145/3035918.3056103</doi><ee>https://doi.org/10.1145/3035918.3056103</ee><url>https://dblp.org/rec/conf/sigmod/BaconBBCDFFGJKL17</url></info>
+<url>URL#3474122</url>
+</hit>
+<hit score="1" id="3474120">
+<info><authors><author pid="42/5946">Joshua S. Auerbach</author><author pid="34/6431">Martin Hirzel</author><author pid="99/1246">Louis Mandel</author><author pid="12/5096">Avraham Shinnar</author><author pid="15/4061">Jérôme Siméon</author></authors><title>Q*cert: A Platform for Implementing and Verifying Query Compilers.</title><venue>SIGMOD Conference</venue><pages>1703-1706</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AuerbachHMSS17a</key><doi>10.1145/3035918.3056447</doi><ee>https://doi.org/10.1145/3035918.3056447</ee><url>https://dblp.org/rec/conf/sigmod/AuerbachHMSS17a</url></info>
+<url>URL#3474120</url>
+</hit>
+<hit score="1" id="3474119">
+<info><authors><author pid="42/5946">Joshua S. Auerbach</author><author pid="34/6431">Martin Hirzel</author><author pid="99/1246">Louis Mandel</author><author pid="12/5096">Avraham Shinnar</author><author pid="15/4061">Jérôme Siméon</author></authors><title>Handling Environments in a Nested Relational Algebra with Combinators and an Implementation in a Verified Query Compiler.</title><venue>SIGMOD Conference</venue><pages>1555-1569</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AuerbachHMSS17</key><doi>10.1145/3035918.3035961</doi><ee>https://doi.org/10.1145/3035918.3035961</ee><url>https://dblp.org/rec/conf/sigmod/AuerbachHMSS17</url></info>
+<url>URL#3474119</url>
+</hit>
+<hit score="1" id="3474118">
+<info><authors><author pid="04/7892">Abolfazl Asudeh</author><author pid="99/7868">Azade Nazi</author><author pid="z/NanZhang4">Nan Zhang 0004</author><author pid="07/1181">Gautam Das 0001</author></authors><title>Efficient Computation of Regret-ratio Minimizing Set: A Compact Maxima Representative.</title><venue>SIGMOD Conference</venue><pages>821-834</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AsudehN0D17</key><doi>10.1145/3035918.3035932</doi><ee>https://doi.org/10.1145/3035918.3035932</ee><url>https://dblp.org/rec/conf/sigmod/AsudehN0D17</url></info>
+<url>URL#3474118</url>
+</hit>
+<hit score="1" id="3474117">
+<info><authors><author pid="127/3025">Joy Arulraj</author><author pid="58/4127">Andrew Pavlo</author></authors><title>How to Build a Non-Volatile Memory Database Management System.</title><venue>SIGMOD Conference</venue><pages>1753-1758</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ArulrajP17</key><doi>10.1145/3035918.3054780</doi><ee>https://doi.org/10.1145/3035918.3054780</ee><url>https://dblp.org/rec/conf/sigmod/ArulrajP17</url></info>
+<url>URL#3474117</url>
+</hit>
+<hit score="1" id="3474116">
+<info><authors><author pid="118/3715">Akhil Arora 0001</author><author pid="136/7969">Sainyam Galhotra</author><author pid="38/768">Sayan Ranu</author></authors><title>Debunking the Myths of Influence Maximization: An In-Depth Benchmarking Study.</title><venue>SIGMOD Conference</venue><pages>651-666</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AroraGR17</key><doi>10.1145/3035918.3035924</doi><ee>https://doi.org/10.1145/3035918.3035924</ee><url>https://dblp.org/rec/conf/sigmod/AroraGR17</url></info>
+<url>URL#3474116</url>
+</hit>
+<hit score="1" id="3474115">
+<info><authors><author pid="a/ArvindArasu">Arvind Arasu</author><author pid="66/786">Ken Eguro</author><author pid="09/2901">Raghav Kaushik</author><author pid="k/DonaldKossmann">Donald Kossmann</author><author pid="124/7251">Pingfan Meng</author><author pid="83/7560">Vineet Pandey</author><author pid="02/4973">Ravi Ramamurthy</author></authors><title>Concerto: A High Concurrency Key-Value Store with Integrity.</title><venue>SIGMOD Conference</venue><pages>251-266</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ArasuEKKMPR17</key><doi>10.1145/3035918.3064030</doi><ee>https://doi.org/10.1145/3035918.3064030</ee><url>https://dblp.org/rec/conf/sigmod/ArasuEKKMPR17</url></info>
+<url>URL#3474115</url>
+</hit>
+<hit score="1" id="3474114">
+<info><authors><author pid="199/6337">Antonios Anagnostou</author><author pid="147/1263">Matthaios Olma</author><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>Alpine: Efficient In-Situ Data Exploration in the Presence of Updates.</title><venue>SIGMOD Conference</venue><pages>1651-1654</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AnagnostouOA17</key><doi>10.1145/3035918.3058743</doi><ee>https://doi.org/10.1145/3035918.3058743</ee><url>https://dblp.org/rec/conf/sigmod/AnagnostouOA17</url></info>
+<url>URL#3474114</url>
+</hit>
+<hit score="1" id="3474112">
+<info><authors><author pid="154/0932">Dana Van Aken</author><author pid="58/4127">Andrew Pavlo</author><author pid="41/487">Geoffrey J. Gordon</author><author pid="132/7973">Bohan Zhang</author></authors><title>Automatic Database Management System Tuning Through Large-scale Machine Learning.</title><venue>SIGMOD Conference</venue><pages>1009-1024</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AkenPGZ17</key><doi>10.1145/3035918.3064029</doi><ee>https://doi.org/10.1145/3035918.3064029</ee><url>https://dblp.org/rec/conf/sigmod/AkenPGZ17</url></info>
+<url>URL#3474112</url>
+</hit>
+<hit score="1" id="3474111">
+<info><authors><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>The Next 700 Transaction Processing Engines.</title><venue>SIGMOD Conference</venue><pages>1-2</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Ailamaki17</key><doi>10.1145/3035918.3056095</doi><ee>https://doi.org/10.1145/3035918.3056095</ee><url>https://dblp.org/rec/conf/sigmod/Ailamaki17</url></info>
+<url>URL#3474111</url>
+</hit>
+<hit score="1" id="3474110">
+<info><authors><author pid="125/3676">Pritom Ahmed</author><author pid="18/2180">Mahbub Hasan</author><author pid="87/1560">Abhijith Kashyap</author><author pid="42/5855">Vagelis Hristidis</author><author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author></authors><title>Efficient Computation of Top-k Frequent Terms over Spatio-temporal Ranges.</title><venue>SIGMOD Conference</venue><pages>1227-1241</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AhmedHKHT17</key><doi>10.1145/3035918.3064032</doi><ee>https://doi.org/10.1145/3035918.3064032</ee><url>https://dblp.org/rec/conf/sigmod/AhmedHKHT17</url></info>
+<url>URL#3474110</url>
+</hit>
+<hit score="1" id="3474109">
+<info><authors><author pid="190/7596">Maaz Bin Safeer Ahmad</author><author pid="16/4915">Alvin Cheung</author></authors><title>Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks.</title><venue>SIGMOD Conference</venue><pages>1675-1678</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AhmadC17</key><doi>10.1145/3035918.3056440</doi><ee>https://doi.org/10.1145/3035918.3056440</ee><url>https://dblp.org/rec/conf/sigmod/AhmadC17</url></info>
+<url>URL#3474109</url>
+</hit>
+<hit score="1" id="3474108">
+<info><authors><author pid="38/8707">Ziawasch Abedjan</author><author pid="42/3296">Lukasz Golab</author><author pid="n/FelixNaumann">Felix Naumann</author></authors><title>Data Profiling: A Tutorial.</title><venue>SIGMOD Conference</venue><pages>1747-1751</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AbedjanGN17</key><doi>10.1145/3035918.3054772</doi><ee>https://doi.org/10.1145/3035918.3054772</ee><url>https://dblp.org/rec/conf/sigmod/AbedjanGN17</url></info>
+<url>URL#3474108</url>
+</hit>
+<hit score="1" id="3474107">
+<info><authors><author pid="21/3400-2">Rohit Singh 0002</author><author pid="117/2614">Venkata Vamsikrishna Meduri</author><author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="p/PaoloPapotti">Paolo Papotti</author><author pid="09/6353">Jorge-Arnulfo Quiané-Ruiz</author><author pid="95/6919">Armando Solar-Lezama</author><author pid="27/104-1">Nan Tang 0001</author></authors><title>Generating Concise Entity Matching Rules.</title><venue>SIGMOD Conference</venue><pages>1635-1638</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/0002MEMPQS017</key><doi>10.1145/3035918.3058739</doi><ee>https://doi.org/10.1145/3035918.3058739</ee><url>https://dblp.org/rec/conf/sigmod/0002MEMPQS017</url></info>
+<url>URL#3474107</url>
+</hit>
+<hit score="1" id="3474106">
+<info><authors><author pid="37/4465-1">Xi Wu 0001</author><author pid="195/5617">Fengan Li</author><author pid="30/4308-1">Arun Kumar 0001</author><author pid="56/6435">Kamalika Chaudhuri</author><author pid="j/SomeshJha">Somesh Jha</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author></authors><title>Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics.</title><venue>SIGMOD Conference</venue><pages>1307-1322</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/0001LKCJN17</key><doi>10.1145/3035918.3064047</doi><ee>https://doi.org/10.1145/3035918.3064047</ee><url>https://dblp.org/rec/conf/sigmod/0001LKCJN17</url></info>
+<url>URL#3474106</url>
+</hit>
+</hits>
+</result>
