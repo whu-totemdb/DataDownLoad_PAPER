@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57627">:facetid:toc:\"db/conf/sigmod/sigmod79.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">68.94</time>
+<completions total="1" computed="1" sent="1">
+<c sc="25" dc="25" oc="25" id="46507248">:facetid:toc:db/conf/sigmod/sigmod79.bht</c>
+</completions>
+<hits total="25" computed="25" sent="25" first="0">
+<hit score="1" id="7577403">
+<info><authors><author pid="b/PhilipABernstein">Philip A. Bernstein</author></authors><title>Proceedings of the 1979 ACM SIGMOD International Conference on Management of Data, Boston, Massachusetts, USA, May 30 - June 1.</title><publisher>ACM</publisher><year>1979</year><type>Editorship</type><key>conf/sigmod/79</key><doi>10.1145/582095</doi><ee>https://doi.org/10.1145/582095</ee><url>https://dblp.org/rec/conf/sigmod/79</url></info>
+<url>URL#7577403</url>
+</hit>
+<hit score="1" id="7577061">
+<info><authors><author pid="z/CZaniolo">Carlo Zaniolo</author></authors><title>Design of Relational Views over Network Schemas.</title><venue>SIGMOD Conference</venue><pages>179-190</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Zaniolo79</key><doi>10.1145/582095.582126</doi><ee>https://doi.org/10.1145/582095.582126</ee><url>https://dblp.org/rec/conf/sigmod/Zaniolo79</url></info>
+<url>URL#7577061</url>
+</hit>
+<hit score="1" id="7577060">
+<info><authors><author pid="y/ClementTYu">Clement T. Yu</author><author pid="51/2495">K. Lam</author><author pid="65/1531">M. K. Siu</author><author pid="o/ZMeralOzsoyoglu">Z. Meral Özsoyoglu</author></authors><title>Performance Analysis of three Related Assignment Problems.</title><venue>SIGMOD Conference</venue><pages>82-92</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YuLSO79</key><doi>10.1145/582095.582109</doi><ee>https://doi.org/10.1145/582095.582109</ee><url>https://dblp.org/rec/conf/sigmod/YuLSO79</url></info>
+<url>URL#7577060</url>
+</hit>
+<hit score="1" id="7577059">
+<info><authors><author pid="91/2540">Anthony I. Wasserman</author></authors><title>The Data Management Facilities of PLAIN.</title><venue>SIGMOD Conference</venue><pages>60-70</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Wasserman79</key><doi>10.1145/582095.582106</doi><ee>https://doi.org/10.1145/582095.582106</ee><url>https://dblp.org/rec/conf/sigmod/Wasserman79</url></info>
+<url>URL#7577059</url>
+</hit>
+<hit score="1" id="7577058">
+<info><authors><author pid="v/YannisVassiliou">Yannis Vassiliou</author></authors><title>Null Values in Data Base Management: A Denotational Semantics Approach.</title><venue>SIGMOD Conference</venue><pages>162-169</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Vassiliou79</key><doi>10.1145/582095.582123</doi><ee>https://doi.org/10.1145/582095.582123</ee><url>https://dblp.org/rec/conf/sigmod/Vassiliou79</url></info>
+<url>URL#7577058</url>
+</hit>
+<hit score="1" id="7577057">
+<info><authors><author pid="75/665">David W. Shipman</author></authors><title>The Functional Data Model and the Data Language DAPLEX (Abstract).</title><venue>SIGMOD Conference</venue><pages>59</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Shipman79</key><doi>10.1145/582095.582105</doi><ee>https://doi.org/10.1145/582095.582105</ee><url>https://dblp.org/rec/conf/sigmod/Shipman79</url></info>
+<url>URL#7577057</url>
+</hit>
+<hit score="1" id="7577056">
+<info><authors><author pid="48/1954">Patricia G. Selinger</author><author pid="33/2015">Morton M. Astrahan</author><author pid="c/DDChamberlin">Donald D. Chamberlin</author><author pid="67/3397">Raymond A. Lorie</author><author pid="35/5645">Thomas G. Price</author></authors><title>Access Path Selection in a Relational Database Management System.</title><venue>SIGMOD Conference</venue><pages>23-34</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SelingerACLP79</key><doi>10.1145/582095.582099</doi><ee>https://doi.org/10.1145/582095.582099</ee><url>https://dblp.org/rec/conf/sigmod/SelingerACLP79</url></info>
+<url>URL#7577056</url>
+</hit>
+<hit score="1" id="7577055">
+<info><authors><author pid="44/2304">Edward Sciore</author></authors><title>Improving Semantic Specification in a Relational Database.</title><venue>SIGMOD Conference</venue><pages>170-178</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sciore79</key><doi>10.1145/582095.582124</doi><ee>https://doi.org/10.1145/582095.582124</ee><url>https://dblp.org/rec/conf/sigmod/Sciore79</url></info>
+<url>URL#7577055</url>
+</hit>
+<hit score="1" id="7577054">
+<info><authors><author pid="r/LawrenceARowe">Lawrence A. Rowe</author><author pid="79/1603">Kurt A. Shoens</author></authors><title>Data Abstractions, Views and Updates in RIGEL.</title><venue>SIGMOD Conference</venue><pages>71-81</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RoweS79</key><doi>10.1145/582095.582107</doi><ee>https://doi.org/10.1145/582095.582107</ee><url>https://dblp.org/rec/conf/sigmod/RoweS79</url></info>
+<url>URL#7577054</url>
+</hit>
+<hit score="1" id="7577053">
+<info><authors><author pid="r/ArnoldLRosenberg">Arnold L. Rosenberg</author><author pid="369/8358-1">Lawrence Snyder 0001</author></authors><title>Compact B-Trees.</title><venue>SIGMOD Conference</venue><pages>43-51</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RosenbergS79</key><doi>10.1145/582095.582102</doi><ee>https://doi.org/10.1145/582095.582102</ee><url>https://dblp.org/rec/conf/sigmod/RosenbergS79</url></info>
+<url>URL#7577053</url>
+</hit>
+<hit score="1" id="7577052">
+<info><authors><author pid="35/1356">Giuseppe Pelagatti</author><author pid="s/FASchreiber">Fabio Alberto Schreiber</author></authors><title>Evaluation of Transmission Requirements in Distributed Database Access.</title><venue>SIGMOD Conference</venue><pages>102-108</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PelagattiS79</key><doi>10.1145/582095.582111</doi><ee>https://doi.org/10.1145/582095.582111</ee><url>https://dblp.org/rec/conf/sigmod/PelagattiS79</url></info>
+<url>URL#7577052</url>
+</hit>
+<hit score="1" id="7577051">
+<info><authors><author pid="m/DavidMaier">David Maier 0001</author><author pid="m/AOMendelzon">Alberto O. Mendelzon</author><author pid="26/5086">Yehoshua Sagiv</author></authors><title>Testing Implications of Data Dependencies (Abstract).</title><venue>SIGMOD Conference</venue><pages>152</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MaierMS79</key><doi>10.1145/582095.582119</doi><ee>https://doi.org/10.1145/582095.582119</ee><url>https://dblp.org/rec/conf/sigmod/MaierMS79</url></info>
+<url>URL#7577051</url>
+</hit>
+<hit score="1" id="7577050">
+<info><authors><author pid="l/DavidBLomet">David B. Lomet</author></authors><title>Multi-Table Search for B-Tree Files.</title><venue>SIGMOD Conference</venue><pages>35-42</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Lomet79</key><doi>10.1145/582095.582101</doi><ee>https://doi.org/10.1145/582095.582101</ee><url>https://dblp.org/rec/conf/sigmod/Lomet79</url></info>
+<url>URL#7577050</url>
+</hit>
+<hit score="1" id="7577049">
+<info><authors><author pid="k/HTKung">H. T. Kung 0001</author><author pid="p/CHPapadimitriou">Christos H. Papadimitriou</author></authors><title>An Optimality Theory of Concurrency Control for Databases.</title><venue>SIGMOD Conference</venue><pages>116-126</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KungP79</key><doi>10.1145/582095.582114</doi><ee>https://doi.org/10.1145/582095.582114</ee><url>https://dblp.org/rec/conf/sigmod/KungP79</url></info>
+<url>URL#7577049</url>
+</hit>
+<hit score="1" id="7577048">
+<info><authors><author pid="i/KekiBIrani">Keki B. Irani</author><author pid="84/1424">Hing-Lung Lin</author></authors><title>Queuing Network Models for Concurrent Transaction Processing in a Database System.</title><venue>SIGMOD Conference</venue><pages>134-142</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/IraniL79</key><doi>10.1145/582095.582116</doi><ee>https://doi.org/10.1145/582095.582116</ee><url>https://dblp.org/rec/conf/sigmod/IraniL79</url></info>
+<url>URL#7577048</url>
+</hit>
+<hit score="1" id="7577047">
+<info><authors><author pid="h/HarryBHuntIII">Harry B. Hunt III</author><author pid="80/6105">Daniel J. Rosenkrantz</author></authors><title>The Complexity of Testing Predicate Locks.</title><venue>SIGMOD Conference</venue><pages>127-133</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HuntR79</key><doi>10.1145/582095.582115</doi><ee>https://doi.org/10.1145/582095.582115</ee><url>https://dblp.org/rec/conf/sigmod/HuntR79</url></info>
+<url>URL#7577047</url>
+</hit>
+<hit score="1" id="7577046">
+<info><authors><author pid="87/6282">Paula B. Hawthorn</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Performance Analysis of a Relational Data Base Management System.</title><venue>SIGMOD Conference</venue><pages>1-12</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HawthornS79</key><doi>10.1145/582095.582097</doi><ee>https://doi.org/10.1145/582095.582097</ee><url>https://dblp.org/rec/conf/sigmod/HawthornS79</url></info>
+<url>URL#7577046</url>
+</hit>
+<hit score="1" id="7577045">
+<info><authors><author pid="46/4470">Michael Hammer</author><author pid="89/2634">Bahram Niamir</author></authors><title>A Heuristic Approach to Attribute Partitioning.</title><venue>SIGMOD Conference</venue><pages>93-101</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HammerN79</key><doi>10.1145/582095.582110</doi><ee>https://doi.org/10.1145/582095.582110</ee><url>https://dblp.org/rec/conf/sigmod/HammerN79</url></info>
+<url>URL#7577045</url>
+</hit>
+<hit score="1" id="7577044">
+<info><authors><author pid="f/RonaldFagin">Ronald Fagin</author></authors><title>Normal Forms and Relational Database Operators.</title><venue>SIGMOD Conference</venue><pages>153-160</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Fagin79</key><doi>10.1145/582095.582120</doi><ee>https://doi.org/10.1145/582095.582120</ee><url>https://dblp.org/rec/conf/sigmod/Fagin79</url></info>
+<url>URL#7577044</url>
+</hit>
+<hit score="1" id="7577043">
+<info><authors><author pid="e/RamezElmasri">Ramez Elmasri</author><author pid="w/GioWiederhold">Gio Wiederhold</author></authors><title>Data Model Integration Using the Structural Model.</title><venue>SIGMOD Conference</venue><pages>191-202</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/El-MasriW79</key><doi>10.1145/582095.582127</doi><ee>https://doi.org/10.1145/582095.582127</ee><url>https://dblp.org/rec/conf/sigmod/El-MasriW79</url></info>
+<url>URL#7577043</url>
+</hit>
+<hit score="1" id="7577042">
+<info><authors><author pid="d/DJDeWitt">David J. DeWitt</author></authors><title>Query Execution in DIRECT.</title><venue>SIGMOD Conference</venue><pages>13-22</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DeWitt79</key><doi>10.1145/582095.582098</doi><ee>https://doi.org/10.1145/582095.582098</ee><url>https://dblp.org/rec/conf/sigmod/DeWitt79</url></info>
+<url>URL#7577042</url>
+</hit>
+<hit score="1" id="7577041">
+<info><authors><author pid="c/EFCodd">E. F. Codd</author></authors><title>Extending the Data Base Relational Model to Capture More Meaning (Abstract).</title><venue>SIGMOD Conference</venue><pages>161</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Codd79</key><doi>10.1145/582095.582122</doi><ee>https://doi.org/10.1145/582095.582122</ee><url>https://dblp.org/rec/conf/sigmod/Codd79</url></info>
+<url>URL#7577041</url>
+</hit>
+<hit score="1" id="7577040">
+<info><authors><author pid="b/PeterBuneman">Peter Buneman</author><author pid="67/1874">Robert E. Frankel</author></authors><title>FQL - A Functional Query Language.</title><venue>SIGMOD Conference</venue><pages>52-58</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BunemanF79</key><doi>10.1145/582095.582104</doi><ee>https://doi.org/10.1145/582095.582104</ee><url>https://dblp.org/rec/conf/sigmod/BunemanF79</url></info>
+<url>URL#7577040</url>
+</hit>
+<hit score="1" id="7577039">
+<info><authors><author pid="b/JBiskup">Joachim Biskup</author><author pid="76/2198">Umeshwar Dayal</author><author pid="b/PhilipABernstein">Philip A. Bernstein</author></authors><title>Synthesizing Independent Database Schemas.</title><venue>SIGMOD Conference</venue><pages>143-151</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BiskupDB79</key><doi>10.1145/582095.582118</doi><ee>https://doi.org/10.1145/582095.582118</ee><url>https://dblp.org/rec/conf/sigmod/BiskupDB79</url></info>
+<url>URL#7577039</url>
+</hit>
+<hit score="1" id="7577038">
+<info><authors><author pid="85/4395">Dushan Z. Badal</author><author pid="62/6214">Gerald J. Popek</author></authors><title>Cost and Performance Analysis of Semantic Integrity Validation Methods.</title><venue>SIGMOD Conference</venue><pages>109-115</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BadalP79</key><doi>10.1145/582095.582112</doi><ee>https://doi.org/10.1145/582095.582112</ee><url>https://dblp.org/rec/conf/sigmod/BadalP79</url></info>
+<url>URL#7577038</url>
+</hit>
+</hits>
+</result>

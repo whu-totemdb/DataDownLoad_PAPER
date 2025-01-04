@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59328">:facetid:toc:\"db/conf/vldb/vldb80.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">83.48</time>
+<completions total="1" computed="1" sent="1">
+<c sc="50" dc="50" oc="50" id="46512202">:facetid:toc:db/conf/vldb/vldb80.bht</c>
+</completions>
+<hits total="50" computed="50" sent="50" first="0">
+<hit score="1" id="7570216">
+<info><authors><author pid="a/MEAdiba">Michel E. Adiba</author><author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author></authors><title>Database Snapshots.</title><venue>VLDB</venue><pages>86-91</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/AdibaL80</key><url>https://dblp.org/rec/conf/vldb/AdibaL80</url></info>
+<url>URL#7570216</url>
+</hit>
+<hit score="1" id="7570217">
+<info><authors><author pid="85/4395">Dushan Z. Badal</author></authors><title>The Analysis of the Effects of Concurrency Control on Distributed Database System Performance.</title><venue>VLDB</venue><pages>376-383</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Badal80</key><url>https://dblp.org/rec/conf/vldb/Badal80</url></info>
+<url>URL#7570217</url>
+</hit>
+<hit score="1" id="7570218">
+<info><authors><author pid="b/RudolfBayer">Rudolf Bayer</author><author pid="40/322">Klaus Elhardt</author><author pid="73/5107">Hans Heller</author><author pid="r/AngelikaReiser">Angelika Reiser</author></authors><title>Distributed Concurrency Control in Database Systems.</title><venue>VLDB</venue><pages>275-284</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/BayerEHR80</key><url>https://dblp.org/rec/conf/vldb/BayerEHR80</url></info>
+<url>URL#7570218</url>
+</hit>
+<hit score="1" id="7570219">
+<info><authors><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="16/662">Barbara T. Blaustein</author><author pid="c/EdmundMClarke">Edmund M. Clarke</author></authors><title>Fast Maintenance of Semantic Integrity Assertions Using Redundant Aggregate Data.</title><venue>VLDB</venue><pages>126-136</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/BernsteinBC80</key><url>https://dblp.org/rec/conf/vldb/BernsteinBC80</url></info>
+<url>URL#7570219</url>
+</hit>
+<hit score="1" id="7570220">
+<info><authors><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="28/4334">Nathan Goodman</author></authors><title>What does Boyce-Codd Normal Form Do?</title><venue>VLDB</venue><pages>245-259</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/BernsteinG80</key><url>https://dblp.org/rec/conf/vldb/BernsteinG80</url></info>
+<url>URL#7570220</url>
+</hit>
+<hit score="1" id="7570221">
+<info><authors><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="28/4334">Nathan Goodman</author></authors><title>Timestamp-Based Algorithms for Concurrency Control in Distributed Database Systems.</title><venue>VLDB</venue><pages>285-300</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/BernsteinG80a</key><url>https://dblp.org/rec/conf/vldb/BernsteinG80a</url></info>
+<url>URL#7570221</url>
+</hit>
+<hit score="1" id="7570222">
+<info><authors><author pid="69/6880">Jean Le Bihan</author><author pid="56/2978">Christian Esculier</author><author pid="52/3372">Gérard Le Lann</author><author pid="12/2734">Witold Litwin</author><author pid="g/GeorgesGardarin">Georges Gardarin</author><author pid="16/4142">S. Sedillort</author><author pid="53/3782">L. Treille</author></authors><title>SIRIUS: A French Nationwide Project on Distributed Data Bases.</title><venue>VLDB</venue><pages>75-85</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/BihanELLGST80</key><url>https://dblp.org/rec/conf/vldb/BihanELLGST80</url></info>
+<url>URL#7570222</url>
+</hit>
+<hit score="1" id="7570223">
+<info><authors><author pid="95/3763">Michael L. Brodie</author></authors><title>Data Abstraction, Databases and Conceptual Modelling.</title><venue>VLDB</venue><pages>105-108</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Brodie80</key><url>https://dblp.org/rec/conf/vldb/Brodie80</url></info>
+<url>URL#7570223</url>
+</hit>
+<hit score="1" id="7570224">
+<info><authors><author pid="95/3763">Michael L. Brodie</author></authors><title>Standardization and the Relational Approach to Databases: An ANSI Task Group Status Report.</title><venue>VLDB</venue><pages>326-327</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Brodie80a</key><url>https://dblp.org/rec/conf/vldb/Brodie80a</url></info>
+<url>URL#7570224</url>
+</hit>
+<hit score="1" id="7570225">
+<info><authors><author pid="13/43">Wing Kai Cheng</author><author pid="52/6441">Geneva G. Belford</author></authors><title>Update Synchronization in Distributed Databases.</title><venue>VLDB</venue><pages>301-308</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Cheng80</key><url>https://dblp.org/rec/conf/vldb/Cheng80</url></info>
+<url>URL#7570225</url>
+</hit>
+<hit score="1" id="7570226">
+<info><authors><author pid="92/5019">C. J. Date 0001</author></authors><title>An Introduction to the Unified Database Language (UDL).</title><venue>VLDB</venue><pages>15-32</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Date80</key><url>https://dblp.org/rec/conf/vldb/Date80</url></info>
+<url>URL#7570226</url>
+</hit>
+<hit score="1" id="7570227">
+<info><authors><author pid="31/4123">Robert Demolombe</author></authors><title>Estimation of the Number of Tuples Satisfying a Query Expressed in Predicate Calculus Language.</title><venue>VLDB</venue><pages>55-63</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Demolombe80</key><url>https://dblp.org/rec/conf/vldb/Demolombe80</url></info>
+<url>URL#7570227</url>
+</hit>
+<hit score="1" id="7570228">
+<info><authors><author pid="83/1507">Donald R. Deutsch</author><author pid="58/6077">Eric K. Clemons</author></authors><title>DBMS Standards: Current Status and Future Directions.</title><venue>VLDB</venue><pages>431-433</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/DeutschC80</key><url>https://dblp.org/rec/conf/vldb/DeutschC80</url></info>
+<url>URL#7570228</url>
+</hit>
+<hit score="1" id="7570229">
+<info><authors><author pid="e/SJEggers">Susan J. Eggers</author><author pid="s/ArieShoshani">Arie Shoshani</author></authors><title>Efficient Access of Compressed Data.</title><venue>VLDB</venue><pages>205-211</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/EggersS80</key><url>https://dblp.org/rec/conf/vldb/EggersS80</url></info>
+<url>URL#7570229</url>
+</hit>
+<hit score="1" id="7570230">
+<info><authors><author pid="38/2827">Robert S. Epstein</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Analysis of Distributed Data Base Processing Strategies.</title><venue>VLDB</venue><pages>92-101</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/EpsteinS80</key><url>https://dblp.org/rec/conf/vldb/EpsteinS80</url></info>
+<url>URL#7570230</url>
+</hit>
+<hit score="1" id="7570231">
+<info><authors><author pid="77/4188">Lenny Freilich</author><author pid="46/6589">Paul J. Sadowski</author></authors><title>Managing Systems That Manage Data.</title><venue>VLDB</venue><pages>155</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/FreilichS80</key><url>https://dblp.org/rec/conf/vldb/FreilichS80</url></info>
+<url>URL#7570231</url>
+</hit>
+<hit score="1" id="7570232">
+<info><authors><author pid="g/GeorgesGardarin">Georges Gardarin</author><author pid="28/4334">Nathan Goodman</author><author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author><author pid="30/4111">Rudolf Munz</author><author pid="91/3701">James B. Rothnie Jr.</author></authors><title>Distributed Database Systems.</title><venue>VLDB</venue><pages>201-202</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/GardarinGLMR80</key><url>https://dblp.org/rec/conf/vldb/GardarinGLMR80</url></info>
+<url>URL#7570232</url>
+</hit>
+<hit score="1" id="7570233">
+<info><authors><author pid="g/CCGotlieb">C. C. Gotlieb</author></authors><title>Some Large Questions about Very Large Data Bases.</title><venue>VLDB</venue><pages>3-7</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Gotlieb80</key><url>https://dblp.org/rec/conf/vldb/Gotlieb80</url></info>
+<url>URL#7570233</url>
+</hit>
+<hit score="1" id="7570234">
+<info><authors><author pid="46/4470">Michael Hammer</author><author pid="z/SBZdonik">Stanley B. Zdonik</author></authors><title>Knowledge-Based Query Processing.</title><venue>VLDB</venue><pages>137-147</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/HammerZ80</key><url>https://dblp.org/rec/conf/vldb/HammerZ80</url></info>
+<url>URL#7570234</url>
+</hit>
+<hit score="1" id="7570235">
+<info><authors><author pid="87/6282">Paula B. Hawthorn</author></authors><title>Database Machines.</title><venue>VLDB</venue><pages>393-395</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Hawthorn80</key><url>https://dblp.org/rec/conf/vldb/Hawthorn80</url></info>
+<url>URL#7570235</url>
+</hit>
+<hit score="1" id="7570236">
+<info><authors><author pid="h/PeterHoneyman">Peter Honeyman</author></authors><title>Extension Joins.</title><venue>VLDB</venue><pages>239-244</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Honeyman80</key><url>https://dblp.org/rec/conf/vldb/Honeyman80</url></info>
+<url>URL#7570236</url>
+</hit>
+<hit score="1" id="7570237">
+<info><authors><author pid="55/171">David K. Jefferson</author></authors><title>The Development and Application of Data Base Design Tools and Methodology.</title><venue>VLDB</venue><pages>153-154</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Jefferson80</key><url>https://dblp.org/rec/conf/vldb/Jefferson80</url></info>
+<url>URL#7570237</url>
+</hit>
+<hit score="1" id="7570238">
+<info><authors><author pid="k/ZviMKedem">Zvi M. Kedem</author><author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author></authors><title>Non-Two-Phase Locking Protocols with Shared and Exclusive Locks.</title><venue>VLDB</venue><pages>309-317</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/KedemS80</key><url>https://dblp.org/rec/conf/vldb/KedemS80</url></info>
+<url>URL#7570238</url>
+</hit>
+<hit score="1" id="7570239">
+<info><authors><author pid="k/WilliamKent">William Kent</author></authors><title>Splitting the Conceptual Schema.</title><venue>VLDB</venue><pages>10-14</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Kent80</key><url>https://dblp.org/rec/conf/vldb/Kent80</url></info>
+<url>URL#7570239</url>
+</hit>
+<hit score="1" id="7570240">
+<info><authors><author pid="l/PALarson">Per-Åke Larson</author></authors><title>Linear Hashing with Partial Expansions.</title><venue>VLDB</venue><pages>224-232</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Larson80</key><url>https://dblp.org/rec/conf/vldb/Larson80</url></info>
+<url>URL#7570240</url>
+</hit>
+<hit score="1" id="7570241">
+<info><authors><author pid="12/2734">Witold Litwin</author></authors><title>Linear Hashing: A New Tool for File and Table Addressing.</title><venue>VLDB</venue><pages>212-223</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Litwin80</key><url>https://dblp.org/rec/conf/vldb/Litwin80</url></info>
+<url>URL#7570241</url>
+</hit>
+<hit score="1" id="7570242">
+<info><authors><author pid="m/DAMenasce">Daniel A. Menascé</author><author pid="00/3581">Oscar E. Landes</author></authors><title>On the Design of a Reliable Storage Component for Distributed Database Management Systems.</title><venue>VLDB</venue><pages>365-375</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/MenasceL80</key><url>https://dblp.org/rec/conf/vldb/MenasceL80</url></info>
+<url>URL#7570242</url>
+</hit>
+<hit score="1" id="7570243">
+<info><authors><author pid="m/JohnMylopoulos">John Mylopoulos</author><author pid="49/144">Harry K. T. Wong</author></authors><title>Some Features of the TAXIS Data Model.</title><venue>VLDB</venue><pages>399-410</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/MylopoulosW80</key><url>https://dblp.org/rec/conf/vldb/MylopoulosW80</url></info>
+<url>URL#7570243</url>
+</hit>
+<hit score="1" id="7570244">
+<info><authors><author pid="17/5903">K. K. Nambiar</author></authors><title>Some Analytic Tools for the Design of Relational Database Systems.</title><venue>VLDB</venue><pages>417-428</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Nambiar80</key><url>https://dblp.org/rec/conf/vldb/Nambiar80</url></info>
+<url>URL#7570244</url>
+</hit>
+<hit score="1" id="7570245">
+<info><authors><author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author></authors><title>An Intuitive Approach to Normalize Network Structured Data.</title><venue>VLDB</venue><pages>350-358</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Navathe80</key><url>https://dblp.org/rec/conf/vldb/Navathe80</url></info>
+<url>URL#7570245</url>
+</hit>
+<hit score="1" id="7570246">
+<info><authors><author pid="74/5201">Emile Peeters</author></authors><title>EEV Evaluation and Implementation of Database Systems.</title><venue>VLDB</venue><pages>328-329</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Peeters80</key><url>https://dblp.org/rec/conf/vldb/Peeters80</url></info>
+<url>URL#7570246</url>
+</hit>
+<hit score="1" id="7570247">
+<info><authors><author pid="18/6676">Dorothy A. Phillips</author></authors><title>Telidon and the Human Factors of Videotex Data Bases.</title><venue>VLDB</venue><pages>330-331</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Phillips80</key><url>https://dblp.org/rec/conf/vldb/Phillips80</url></info>
+<url>URL#7570247</url>
+</hit>
+<hit score="1" id="7570248">
+<info><authors><author pid="99/308">Jonathan V. Post</author></authors><title>Quintillabit: Parameters of a Hyperlarge Database.</title><venue>VLDB</venue><pages>156-158</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Post80</key><url>https://dblp.org/rec/conf/vldb/Post80</url></info>
+<url>URL#7570248</url>
+</hit>
+<hit score="1" id="7570249">
+<info><authors><author pid="r/TRisch">Tore Risch</author></authors><title>Production Program Generation in a Flexible Data Dictionary System.</title><venue>VLDB</venue><pages>343-349</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Risch80</key><url>https://dblp.org/rec/conf/vldb/Risch80</url></info>
+<url>URL#7570249</url>
+</hit>
+<hit score="1" id="7570250">
+<info><authors><author pid="80/6105">Daniel J. Rosenkrantz</author><author pid="h/HarryBHuntIII">Harry B. Hunt III</author></authors><title>Processing Conjunctive Predicates and Queries.</title><venue>VLDB</venue><pages>64-72</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/RosenkrantzH80</key><url>https://dblp.org/rec/conf/vldb/RosenkrantzH80</url></info>
+<url>URL#7570250</url>
+</hit>
+<hit score="1" id="7570251">
+<info><authors><author pid="s/BShneiderman">Ben Shneiderman</author><author pid="92/262">Glenn Thomas</author></authors><title>Path Expressions for Complex Queries and Automatic Database Program Conversion.</title><venue>VLDB</venue><pages>33-44</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/ShneidermanT80</key><url>https://dblp.org/rec/conf/vldb/ShneidermanT80</url></info>
+<url>URL#7570251</url>
+</hit>
+<hit score="1" id="7570252">
+<info><authors><author pid="59/5379">Steven H. Spewak</author></authors><title>A Pragmatic Approach to Database Design.</title><venue>VLDB</venue><pages>151-152</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Spewak80</key><url>https://dblp.org/rec/conf/vldb/Spewak80</url></info>
+<url>URL#7570252</url>
+</hit>
+<hit score="1" id="7570253">
+<info><authors><author pid="s/NicolasSpyratos">Nicolas Spyratos</author></authors><title>Translation Structures of Relational Views.</title><venue>VLDB</venue><pages>411-416</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Spyratos80</key><url>https://dblp.org/rec/conf/vldb/Spyratos80</url></info>
+<url>URL#7570253</url>
+</hit>
+<hit score="1" id="7570254">
+<info><authors><author pid="83/2995">Thomas B. Steel Jr.</author></authors><title>Status Report on ISO/TC97/SC5/WG3 - Data Base Management Systems.</title><venue>VLDB</venue><pages>321-325</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Steel80</key><url>https://dblp.org/rec/conf/vldb/Steel80</url></info>
+<url>URL#7570254</url>
+</hit>
+<hit score="1" id="7570255">
+<info><authors><author pid="s/RudiStuder">Rudi Studer</author></authors><title>A Dialogue Interface for Data Base Applications.</title><venue>VLDB</venue><pages>167-182</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Studer80</key><url>https://dblp.org/rec/conf/vldb/Studer80</url></info>
+<url>URL#7570255</url>
+</hit>
+<hit score="1" id="7570256">
+<info><authors><author pid="06/6011">Donald E. Swartwout</author></authors><title>Database Theory and its Relationship to Practice.</title><venue>VLDB</venue><pages>361</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Swartwout80</key><url>https://dblp.org/rec/conf/vldb/Swartwout80</url></info>
+<url>URL#7570256</url>
+</hit>
+<hit score="1" id="7570257">
+<info><authors><author pid="31/2629">M. Tamir</author><author pid="98/236">T. Missinai</author><author pid="33/6736">Joel Arditi</author><author pid="90/1100">E. Raban</author><author pid="08/5421">S. Sole</author><author pid="91/4877">S. Timor</author><author pid="27/5306">E. Zukovsky</author></authors><title>DB1 - A DBMS-Based Application Generator.</title><venue>VLDB</venue><pages>335-342</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/TamirMARSTZ80</key><url>https://dblp.org/rec/conf/vldb/TamirMARSTZ80</url></info>
+<url>URL#7570257</url>
+</hit>
+<hit score="1" id="7570258">
+<info><authors><author pid="t/DennisTsichritzis">Dennis Tsichritzis</author></authors><title>OFS: An Integrated Form Management System.</title><venue>VLDB</venue><pages>161-166</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Tsichritzis80</key><url>https://dblp.org/rec/conf/vldb/Tsichritzis80</url></info>
+<url>URL#7570258</url>
+</hit>
+<hit score="1" id="7570259">
+<info><authors><author pid="v/YannisVassiliou">Yannis Vassiliou</author></authors><title>Functional Dependencies and Incomplete Information.</title><venue>VLDB</venue><pages>260-269</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Vassiliou80</key><url>https://dblp.org/rec/conf/vldb/Vassiliou80</url></info>
+<url>URL#7570259</url>
+</hit>
+<hit score="1" id="7570260">
+<info><authors><author pid="96/2229">Adrian Walker</author></authors><title>On Retrieval from a Small Version of a Large Data Base.</title><venue>VLDB</venue><pages>47-54</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Walker80</key><url>https://dblp.org/rec/conf/vldb/Walker80</url></info>
+<url>URL#7570260</url>
+</hit>
+<hit score="1" id="7570261">
+<info><authors><author pid="24/3444">W. A. Walker</author></authors><title>Data Planning.</title><venue>VLDB</venue><pages>235</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Walker80a</key><url>https://dblp.org/rec/conf/vldb/Walker80a</url></info>
+<url>URL#7570261</url>
+</hit>
+<hit score="1" id="7570262">
+<info><authors><author pid="w/BerndWalter">Bernd Walter</author></authors><title>Strategies for Handling Transactions in Distributed Data Base Systems During Recovery.</title><venue>VLDB</venue><pages>384-389</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Walter80</key><url>https://dblp.org/rec/conf/vldb/Walter80</url></info>
+<url>URL#7570262</url>
+</hit>
+<hit score="1" id="7570263">
+<info><authors><author pid="84/3340">Gerald A. Wilson</author></authors><title>A Conceptual Model for Semantic Integrity Checking.</title><venue>VLDB</venue><pages>111-125</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Wilson80</key><url>https://dblp.org/rec/conf/vldb/Wilson80</url></info>
+<url>URL#7570263</url>
+</hit>
+<hit score="1" id="7570264">
+<info><authors><author pid="84/3340">Gerald A. Wilson</author><author pid="58/221">Christopher F. Herot</author></authors><title>Semantics vs. Graphics - To Show or not to Show.</title><venue>VLDB</venue><pages>183-197</pages><year>1980</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/WilsonH80</key><url>https://dblp.org/rec/conf/vldb/WilsonH80</url></info>
+<url>URL#7570264</url>
+</hit>
+<hit score="1" id="7570463">
+<info><title>Sixth International Conference on Very Large Data Bases, October 1-3, 1980, Montreal, Quebec, Canada, Proceedings.</title><publisher>IEEE Computer Society</publisher><year>1980</year><type>Editorship</type><access>unavailable</access><key>conf/vldb/80</key><url>https://dblp.org/rec/conf/vldb/80</url></info>
+<url>URL#7570463</url>
+</hit>
+</hits>
+</result>

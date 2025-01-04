@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57701">:facetid:toc:\"db/conf/sigmod/sigmod81.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">67.74</time>
+<completions total="1" computed="1" sent="1">
+<c sc="26" dc="26" oc="26" id="46507250">:facetid:toc:db/conf/sigmod/sigmod81.bht</c>
+</completions>
+<hits total="26" computed="26" sent="26" first="0">
+<hit score="1" id="7562637">
+<info><authors><author pid="00/4611">Y. Edmund Lien</author></authors><title>Proceedings of the 1981 ACM SIGMOD International Conference on Management of Data, Ann Arbor, Michigan, USA, April 29 - May 1, 1981</title><publisher>ACM Press</publisher><year>1981</year><type>Editorship</type><key>conf/sigmod/81</key><doi>10.1145/582318</doi><ee>https://doi.org/10.1145/582318</ee><url>https://dblp.org/rec/conf/sigmod/81</url></info>
+<url>URL#7562637</url>
+</hit>
+<hit score="1" id="7562087">
+<info><authors><author pid="06/6011">Donald E. Swartwout</author><author pid="l/JeffreyCLagarias">J. C. Lagarias 0001</author></authors><title>On the Requirements of Navigational Relationship Representations.</title><venue>SIGMOD Conference</venue><pages>1-9</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SwartwoutL81</key><doi>10.1145/582318.582320</doi><ee>https://doi.org/10.1145/582318.582320</ee><url>https://dblp.org/rec/conf/sigmod/SwartwoutL81</url></info>
+<url>URL#7562087</url>
+</hit>
+<hit score="1" id="7562086">
+<info><authors><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Hypothetical Data Bases as Views.</title><venue>SIGMOD Conference</venue><pages>224-229</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Stonebraker81</key><doi>10.1145/582318.582352</doi><ee>https://doi.org/10.1145/582318.582352</ee><url>https://dblp.org/rec/conf/sigmod/Stonebraker81</url></info>
+<url>URL#7562086</url>
+</hit>
+<hit score="1" id="7562085">
+<info><authors><author pid="s/RichardEdwinStearns">Richard Edwin Stearns</author><author pid="80/6105">Daniel J. Rosenkrantz</author></authors><title>Distributed Database Concurrency Controls Using Before-Values.</title><venue>SIGMOD Conference</venue><pages>74-83</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/StearnsR81</key><doi>10.1145/582318.582330</doi><ee>https://doi.org/10.1145/582318.582330</ee><url>https://dblp.org/rec/conf/sigmod/StearnsR81</url></info>
+<url>URL#7562085</url>
+</hit>
+<hit score="1" id="7562084">
+<info><authors><author pid="60/5458">Dale Skeen</author></authors><title>Nonblocking Commit Protocols.</title><venue>SIGMOD Conference</venue><pages>133-142</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Skeen81</key><doi>10.1145/582318.582339</doi><ee>https://doi.org/10.1145/582318.582339</ee><url>https://dblp.org/rec/conf/sigmod/Skeen81</url></info>
+<url>URL#7562084</url>
+</hit>
+<hit score="1" id="7562083">
+<info><authors><author pid="44/2304">Edward Sciore</author></authors><title>Real-World MVD&apos;s.</title><venue>SIGMOD Conference</venue><pages>121-132</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sciore81</key><doi>10.1145/582318.582337</doi><ee>https://doi.org/10.1145/582318.582337</ee><url>https://dblp.org/rec/conf/sigmod/Sciore81</url></info>
+<url>URL#7562083</url>
+</hit>
+<hit score="1" id="7562082">
+<info><authors><author pid="96/3944">Hideto Sato</author></authors><title>Handling Summary Information in a Database: Derivability.</title><venue>SIGMOD Conference</venue><pages>98-107</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sato81</key><doi>10.1145/582318.582334</doi><ee>https://doi.org/10.1145/582318.582334</ee><url>https://dblp.org/rec/conf/sigmod/Sato81</url></info>
+<url>URL#7562082</url>
+</hit>
+<hit score="1" id="7562081">
+<info><authors><author pid="26/5086">Yehoshua Sagiv</author></authors><title>Can We Use the Universal Instance Assumption Without Using Nulls?</title><venue>SIGMOD Conference</venue><pages>108-120</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sagiv81</key><doi>10.1145/582318.582336</doi><ee>https://doi.org/10.1145/582318.582336</ee><url>https://dblp.org/rec/conf/sigmod/Sagiv81</url></info>
+<url>URL#7562081</url>
+</hit>
+<hit score="1" id="7562080">
+<info><authors><author pid="r/JohnTRobinson">John T. Robinson</author></authors><title>The K-D-B-Tree: A Search Structure For Large Multidimensional Dynamic Indexes.</title><venue>SIGMOD Conference</venue><pages>10-18</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Robinson81</key><doi>10.1145/582318.582321</doi><ee>https://doi.org/10.1145/582318.582321</ee><url>https://dblp.org/rec/conf/sigmod/Robinson81</url></info>
+<url>URL#7562080</url>
+</hit>
+<hit score="1" id="7562079">
+<info><authors><author pid="29/2689">Philippe Richard</author></authors><title>Evaluation of the Size of a Query Expressed in Relational Algebra.</title><venue>SIGMOD Conference</venue><pages>155-163</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Richard81</key><doi>10.1145/582318.582343</doi><ee>https://doi.org/10.1145/582318.582343</ee><url>https://dblp.org/rec/conf/sigmod/Richard81</url></info>
+<url>URL#7562079</url>
+</hit>
+<hit score="1" id="7562078">
+<info><authors><author pid="p/CHPapadimitriou">Christos H. Papadimitriou</author></authors><title>On the Power of Locking.</title><venue>SIGMOD Conference</venue><pages>148-154</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Papadimitriou81</key><doi>10.1145/582318.582341</doi><ee>https://doi.org/10.1145/582318.582341</ee><url>https://dblp.org/rec/conf/sigmod/Papadimitriou81</url></info>
+<url>URL#7562078</url>
+</hit>
+<hit score="1" id="7562077">
+<info><authors><author pid="m/AmihaiMotro">Amihai Motro</author><author pid="b/PeterBuneman">Peter Buneman</author></authors><title>Constructing Superviews.</title><venue>SIGMOD Conference</venue><pages>56-64</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MotroB81</key><doi>10.1145/582318.582327</doi><ee>https://doi.org/10.1145/582318.582327</ee><url>https://dblp.org/rec/conf/sigmod/MotroB81</url></info>
+<url>URL#7562077</url>
+</hit>
+<hit score="1" id="7562076">
+<info><authors><author pid="311/3115">Rob McCord</author></authors><title>Sizing and Data Distribution for a Distributed Database Machine.</title><venue>SIGMOD Conference</venue><pages>198-204</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/McCord81</key><doi>10.1145/582318.582348</doi><ee>https://doi.org/10.1145/582318.582348</ee><url>https://dblp.org/rec/conf/sigmod/McCord81</url></info>
+<url>URL#7562076</url>
+</hit>
+<hit score="1" id="7562075">
+<info><authors><author pid="m/DavidMaier">David Maier 0001</author><author pid="w/DavidScottWarren">David Scott Warren</author></authors><title>Incorporating Computed Relations in Relational Databases.</title><venue>SIGMOD Conference</venue><pages>176-187</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MaierW81</key><doi>10.1145/582318.582345</doi><ee>https://doi.org/10.1145/582318.582345</ee><url>https://dblp.org/rec/conf/sigmod/MaierW81</url></info>
+<url>URL#7562075</url>
+</hit>
+<hit score="1" id="7562074">
+<info><authors><author pid="78/644">Dawei Luo</author><author pid="91/2156">S. Bing Yao</author></authors><title>Form Operation By Example: A Language For Office Information Processing.</title><venue>SIGMOD Conference</venue><pages>212-223</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LuoY81</key><doi>10.1145/582318.582351</doi><ee>https://doi.org/10.1145/582318.582351</ee><url>https://dblp.org/rec/conf/sigmod/LuoY81</url></info>
+<url>URL#7562074</url>
+</hit>
+<hit score="1" id="7562073">
+<info><authors><author pid="12/2734">Witold Litwin</author></authors><title>Trie Hashing.</title><venue>SIGMOD Conference</venue><pages>19-29</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Litwin81</key><doi>10.1145/582318.582322</doi><ee>https://doi.org/10.1145/582318.582322</ee><url>https://dblp.org/rec/conf/sigmod/Litwin81</url></info>
+<url>URL#7562073</url>
+</hit>
+<hit score="1" id="7562072">
+<info><authors><author pid="84/1513">Wen-Te K. Lin</author></authors><title>Performance Evaluation of Two Concurrency Control Mechanisms in a Distributed Database System.</title><venue>SIGMOD Conference</venue><pages>84-92</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Lin81</key><doi>10.1145/582318.582331</doi><ee>https://doi.org/10.1145/582318.582331</ee><url>https://dblp.org/rec/conf/sigmod/Lin81</url></info>
+<url>URL#7562072</url>
+</hit>
+<hit score="1" id="7562071">
+<info><authors><author pid="70/2986">M. Levin</author></authors><title>Introduction to the DIAM Theory of Algebraic Access Graph.</title><venue>SIGMOD Conference</venue><pages>40-48</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Levin81</key><doi>10.1145/582318.582325</doi><ee>https://doi.org/10.1145/582318.582325</ee><url>https://dblp.org/rec/conf/sigmod/Levin81</url></info>
+<url>URL#7562071</url>
+</hit>
+<hit score="1" id="7562070">
+<info><authors><author pid="f/DonaldSFussell">Donald S. Fussell</author><author pid="k/ZviMKedem">Zvi M. Kedem</author><author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author></authors><title>Deadlock Removal Using Partial Rollback in Database Systems.</title><venue>SIGMOD Conference</venue><pages>65-73</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KedemS81</key><doi>10.1145/582318.582329</doi><ee>https://doi.org/10.1145/582318.582329</ee><url>https://dblp.org/rec/conf/sigmod/KedemS81</url></info>
+<url>URL#7562070</url>
+</hit>
+<hit score="1" id="7562069">
+<info><authors><author pid="278/1870">J. R. Jordan</author><author pid="50/3065">J. Banerjee</author><author pid="19/2477">R. B. Batman</author></authors><title>Precision Locks.</title><venue>SIGMOD Conference</venue><pages>143-147</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JordanBB81</key><doi>10.1145/582318.582340</doi><ee>https://doi.org/10.1145/582318.582340</ee><url>https://dblp.org/rec/conf/sigmod/JordanBB81</url></info>
+<url>URL#7562069</url>
+</hit>
+<hit score="1" id="7562068">
+<info><authors><author pid="37/3512">Rowland R. Johnson</author></authors><title>Modelling Summary Data.</title><venue>SIGMOD Conference</venue><pages>93-97</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Johnson81</key><doi>10.1145/582318.582333</doi><ee>https://doi.org/10.1145/582318.582333</ee><url>https://dblp.org/rec/conf/sigmod/Johnson81</url></info>
+<url>URL#7562068</url>
+</hit>
+<hit score="1" id="7562067">
+<info><authors><author pid="87/6282">Paula B. Hawthorn</author></authors><title>The Effect of Target Applications on the Design of Database Machines.</title><venue>SIGMOD Conference</venue><pages>188-197</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Hawthorn81</key><doi>10.1145/582318.582347</doi><ee>https://doi.org/10.1145/582318.582347</ee><url>https://dblp.org/rec/conf/sigmod/Hawthorn81</url></info>
+<url>URL#7562067</url>
+</hit>
+<hit score="1" id="7562066">
+<info><authors><author pid="g/MohamedGGouda">Mohamed G. Gouda</author><author pid="76/2198">Umeshwar Dayal</author></authors><title>Optimal Semijoin Schedules For Query Processing in Local Distributed Database Systems.</title><venue>SIGMOD Conference</venue><pages>164-175</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GoudaD81</key><doi>10.1145/582318.582344</doi><ee>https://doi.org/10.1145/582318.582344</ee><url>https://dblp.org/rec/conf/sigmod/GoudaD81</url></info>
+<url>URL#7562066</url>
+</hit>
+<hit score="1" id="7562065">
+<info><authors><author pid="46/3586">Robert M. Curtice</author><author pid="36/2767">P. E. Jones Jr.</author></authors><title>Fundamentals of Data Element Definition.</title><venue>SIGMOD Conference</venue><pages>49-55</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/CurticeJ81</key><doi>10.1145/582318.582326</doi><ee>https://doi.org/10.1145/582318.582326</ee><url>https://dblp.org/rec/conf/sigmod/CurticeJ81</url></info>
+<url>URL#7562065</url>
+</hit>
+<hit score="1" id="7562064">
+<info><authors><author pid="57/5501">M. R. Brown</author><author pid="67/2932">R. G. G. Cattell</author><author pid="67/3933">N. Suzuki</author></authors><title>The Cedar DBMS: A Preliminary Report.</title><venue>SIGMOD Conference</venue><pages>205-211</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BrownCS81</key><doi>10.1145/582318.582350</doi><ee>https://doi.org/10.1145/582318.582350</ee><url>https://dblp.org/rec/conf/sigmod/BrownCS81</url></info>
+<url>URL#7562064</url>
+</hit>
+<hit score="1" id="7562063">
+<info><authors><author pid="b/DSBatory">Don S. Batory</author></authors><title>B+ Trees and Indexed Sequential Files: A Performance Comparison.</title><venue>SIGMOD Conference</venue><pages>30-39</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Batory81</key><doi>10.1145/582318.582323</doi><ee>https://doi.org/10.1145/582318.582323</ee><url>https://dblp.org/rec/conf/sigmod/Batory81</url></info>
+<url>URL#7562063</url>
+</hit>
+</hits>
+</result>

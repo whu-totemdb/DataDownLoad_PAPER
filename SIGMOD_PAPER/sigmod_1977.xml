@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57233">:facetid:toc:\"db/conf/sigmod/sigmod77.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">80.43</time>
+<completions total="1" computed="1" sent="1">
+<c sc="22" dc="22" oc="22" id="46507246">:facetid:toc:db/conf/sigmod/sigmod77.bht</c>
+</completions>
+<hits total="22" computed="22" sent="22" first="0">
+<hit score="1" id="7590176">
+<info><authors><author pid="20/2010">Diane C. P. Smith</author></authors><title>Proceedings of the 1977 ACM SIGMOD International Conference on Management of Data, Toronto, Canada, August 3-5, 1977.</title><publisher>ACM</publisher><year>1977</year><type>Editorship</type><key>conf/sigmod/77</key><doi>10.1145/509404</doi><ee>https://doi.org/10.1145/509404</ee><url>https://dblp.org/rec/conf/sigmod/77</url></info>
+<url>URL#7590176</url>
+</hit>
+<hit score="1" id="7589802">
+<info><authors><author pid="y/ClementTYu">Clement T. Yu</author><author pid="c/FrancisYLChin">Francis Y. L. Chin</author></authors><title>A Study on the Protection of Statistical Data Bases.</title><venue>SIGMOD Conference</venue><pages>169-181</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YuC77</key><doi>10.1145/509404.509432</doi><ee>https://doi.org/10.1145/509404.509432</ee><url>https://dblp.org/rec/conf/sigmod/YuC77</url></info>
+<url>URL#7589802</url>
+</hit>
+<hit score="1" id="7589801">
+<info><authors><author pid="98/2027">Kai C. Wong</author><author pid="64/2668">Murray Edelberg</author></authors><title>Interval Hierarchies and Their Application to Predicate Files (Abstract).</title><venue>SIGMOD Conference</venue><pages>168</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WongE77</key><doi>10.1145/509404.509431</doi><ee>https://doi.org/10.1145/509404.509431</ee><url>https://dblp.org/rec/conf/sigmod/WongE77</url></info>
+<url>URL#7589801</url>
+</hit>
+<hit score="1" id="7589799">
+<info><authors><author pid="08/3659">Joost Verhofstad</author></authors><title>Recovery and Carsh Resistance in a Filing System.</title><venue>SIGMOD Conference</venue><pages>158-167</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Verhofstadt77</key><doi>10.1145/509404.509430</doi><ee>https://doi.org/10.1145/509404.509430</ee><url>https://dblp.org/rec/conf/sigmod/Verhofstadt77</url></info>
+<url>URL#7589799</url>
+</hit>
+<hit score="1" id="7589798">
+<info><authors><author pid="06/6011">Donald E. Swartwout</author></authors><title>An Access Path Specification Language for Restructuring Network Databases.</title><venue>SIGMOD Conference</venue><pages>88-101</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Swartwout77</key><doi>10.1145/509404.509418</doi><ee>https://doi.org/10.1145/509404.509418</ee><url>https://dblp.org/rec/conf/sigmod/Swartwout77</url></info>
+<url>URL#7589798</url>
+</hit>
+<hit score="1" id="7589797">
+<info><authors><author pid="s/StanleyYWSu">Stanley Y. W. Su</author><author pid="09/4880">B. J. Liu</author></authors><title>A Methodology of Application Program Analysis and Conversion Based on Database Semantics.</title><venue>SIGMOD Conference</venue><pages>75-87</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SuL77</key><doi>10.1145/509404.509417</doi><ee>https://doi.org/10.1145/509404.509417</ee><url>https://dblp.org/rec/conf/sigmod/SuL77</url></info>
+<url>URL#7589797</url>
+</hit>
+<hit score="1" id="7589796">
+<info><authors><author pid="76/3827">Paul G. Sorenson</author><author pid="19/3427">Joseph A. Wald</author></authors><title>PICASSO - An Aid to an End-User Facility.</title><venue>SIGMOD Conference</venue><pages>30-39</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SorensonW77</key><doi>10.1145/509404.509411</doi><ee>https://doi.org/10.1145/509404.509411</ee><url>https://dblp.org/rec/conf/sigmod/SorensonW77</url></info>
+<url>URL#7589796</url>
+</hit>
+<hit score="1" id="7589795">
+<info><authors><author pid="66/5372">G. C. H. Sharman</author></authors><title>Update-by-Dialogue: An Interactive Approach to Database Modification.</title><venue>SIGMOD Conference</venue><pages>21-29</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sharman77</key><doi>10.1145/509404.509410</doi><ee>https://doi.org/10.1145/509404.509410</ee><url>https://dblp.org/rec/conf/sigmod/Sharman77</url></info>
+<url>URL#7589795</url>
+</hit>
+<hit score="1" id="7589794">
+<info><authors><author pid="s/JoachimWSchmidt">Joachim W. Schmidt</author></authors><title>Some High-level Language Constructs for Data of Type Relation (Abstract).</title><venue>SIGMOD Conference</venue><pages>9</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Schmidt77</key><doi>10.1145/509404.509407</doi><ee>https://doi.org/10.1145/509404.509407</ee><url>https://dblp.org/rec/conf/sigmod/Schmidt77</url></info>
+<url>URL#7589794</url>
+</hit>
+<hit score="1" id="7589793">
+<info><authors><author pid="s/PeterScheuermann">Peter Scheuermann</author></authors><title>Concepts of a Data Base Simulation Language.</title><venue>SIGMOD Conference</venue><pages>144-156</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Scheuermann77</key><doi>10.1145/509404.509427</doi><ee>https://doi.org/10.1145/509404.509427</ee><url>https://dblp.org/rec/conf/sigmod/Scheuermann77</url></info>
+<url>URL#7589793</url>
+</hit>
+<hit score="1" id="7589792">
+<info><authors><author pid="05/5128">Kathryn L. Schenk</author><author pid="18/1366">James R. Pinkert</author></authors><title>An Algorithm for Servicing Multi-Relational Queries.</title><venue>SIGMOD Conference</venue><pages>10-20</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SchenkP77</key><doi>10.1145/509404.509408</doi><ee>https://doi.org/10.1145/509404.509408</ee><url>https://dblp.org/rec/conf/sigmod/SchenkP77</url></info>
+<url>URL#7589792</url>
+</hit>
+<hit score="1" id="7589790">
+<info><authors><author pid="09/2596">Daniel R. Ries</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>A Study of the Effects of Locking Granularity in a Data Base Management System (Abstract).</title><venue>SIGMOD Conference</venue><pages>121</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RiesS77</key><doi>10.1145/509404.509422</doi><ee>https://doi.org/10.1145/509404.509422</ee><url>https://dblp.org/rec/conf/sigmod/RiesS77</url></info>
+<url>URL#7589790</url>
+</hit>
+<hit score="1" id="7589789">
+<info><authors><author pid="p/PaoloPaolini">Paolo Paolini</author><author pid="35/1356">Giuseppe Pelagatti</author></authors><title>Formal Definition of Mappings in a Data Base.</title><venue>SIGMOD Conference</venue><pages>40-46</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PaoliniP77</key><doi>10.1145/509404.509413</doi><ee>https://doi.org/10.1145/509404.509413</ee><url>https://dblp.org/rec/conf/sigmod/PaoliniP77</url></info>
+<url>URL#7589789</url>
+</hit>
+<hit score="1" id="7589788">
+<info><authors><author pid="30/4111">Rudolf Munz</author><author pid="202/8627">Gunter Krenz</author></authors><title>Concurrency in Database Systems - A Simulation Study.</title><venue>SIGMOD Conference</venue><pages>111-120</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MunzK77</key><doi>10.1145/509404.509421</doi><ee>https://doi.org/10.1145/509404.509421</ee><url>https://dblp.org/rec/conf/sigmod/MunzK77</url></info>
+<url>URL#7589788</url>
+</hit>
+<hit score="1" id="7589787">
+<info><authors><author pid="m/THMerrett">T. H. Merrett</author></authors><title>Database Cost Analysis: a Top-Down Approach.</title><venue>SIGMOD Conference</venue><pages>135-143</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Merrett77</key><doi>10.1145/509404.509426</doi><ee>https://doi.org/10.1145/509404.509426</ee><url>https://dblp.org/rec/conf/sigmod/Merrett77</url></info>
+<url>URL#7589787</url>
+</hit>
+<hit score="1" id="7589785">
+<info><authors><author pid="l/DavidBLomet">David B. Lomet</author></authors><title>A Practical Deadlock Avoidance Algorithm for Data Base Systems.</title><venue>SIGMOD Conference</venue><pages>122-127</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Lomet77</key><doi>10.1145/509404.509423</doi><ee>https://doi.org/10.1145/509404.509423</ee><url>https://dblp.org/rec/conf/sigmod/Lomet77</url></info>
+<url>URL#7589785</url>
+</hit>
+<hit score="1" id="7589784">
+<info><authors><author pid="21/2457">Guy M. Lohman</author><author pid="93/1967">John A. Muckstadt</author></authors><title>Optimal Policy for Batch Operations: Backup, Checkpointing, Reorganization, and Updating (Abstract).</title><venue>SIGMOD Conference</venue><pages>157</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LohmanM77</key><doi>10.1145/509404.509429</doi><ee>https://doi.org/10.1145/509404.509429</ee><url>https://dblp.org/rec/conf/sigmod/LohmanM77</url></info>
+<url>URL#7589784</url>
+</hit>
+<hit score="1" id="7589783">
+<info><authors><author pid="l/FHLochovsky">Frederick H. Lochovsky</author><author pid="t/DennisTsichritzis">Dennis Tsichritzis</author></authors><title>User Performance Considerations in DBMS Selection.</title><venue>SIGMOD Conference</venue><pages>128-134</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LochovskyT77</key><doi>10.1145/509404.509425</doi><ee>https://doi.org/10.1145/509404.509425</ee><url>https://dblp.org/rec/conf/sigmod/LochovskyT77</url></info>
+<url>URL#7589783</url>
+</hit>
+<hit score="1" id="7589779">
+<info><authors><author pid="f/AntonioLFurtado">António L. Furtado 0001</author><author pid="k/LarryKerschberg">Larry Kerschberg</author></authors><title>An Algebra of Quotient Relations.</title><venue>SIGMOD Conference</venue><pages>1-8</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FurtadoK77</key><doi>10.1145/509404.509406</doi><ee>https://doi.org/10.1145/509404.509406</ee><url>https://dblp.org/rec/conf/sigmod/FurtadoK77</url></info>
+<url>URL#7589779</url>
+</hit>
+<hit score="1" id="7589777">
+<info><authors><author pid="32/4556">Alfred G. Dale</author><author pid="13/1761">Nell B. Dale</author></authors><title>Main Schema-External Schema Interaction in Hierarchically Organized Data Bases.</title><venue>SIGMOD Conference</venue><pages>102-110</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DaleD77</key><doi>10.1145/509404.509419</doi><ee>https://doi.org/10.1145/509404.509419</ee><url>https://dblp.org/rec/conf/sigmod/DaleD77</url></info>
+<url>URL#7589777</url>
+</hit>
+<hit score="1" id="7589775">
+<info><authors><author pid="b/JABubenko">Janis A. Bubenko Jr.</author></authors><title>IAM: An Inferential Abstract Modeling Approach to Design of Conceptual Schema.</title><venue>SIGMOD Conference</venue><pages>62-74</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Bubenko77</key><doi>10.1145/509404.509415</doi><ee>https://doi.org/10.1145/509404.509415</ee><url>https://dblp.org/rec/conf/sigmod/Bubenko77</url></info>
+<url>URL#7589775</url>
+</hit>
+<hit score="1" id="7589772">
+<info><authors><author pid="b/CBeeri">Catriel Beeri</author><author pid="f/RonaldFagin">Ronald Fagin</author><author pid="84/488">John H. Howard</author></authors><title>A Complete Axiomatization for Functional and Multivalued Dependencies in Database Relations.</title><venue>SIGMOD Conference</venue><pages>47-61</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BeeriFH77</key><doi>10.1145/509404.509414</doi><ee>https://doi.org/10.1145/509404.509414</ee><url>https://dblp.org/rec/conf/sigmod/BeeriFH77</url></info>
+<url>URL#7589772</url>
+</hit>
+</hits>
+</result>

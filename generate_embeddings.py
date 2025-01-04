@@ -96,5 +96,5 @@ def main():
     print("完成！")
 
 if __name__ == "__main__":
-    print
+    print("【所有下载程序都简单验证过】该嵌入文件没有运行过，如果有bug请自行修改！")
     main() 

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="60110">:facetid:toc:\"db/conf/vldb/vldb96.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">80.25</time>
+<completions total="1" computed="1" sent="1">
+<c sc="73" dc="73" oc="73" id="46512218">:facetid:toc:db/conf/vldb/vldb96.bht</c>
+</completions>
+<hits total="73" computed="73" sent="73" first="0">
+<hit score="1" id="7193838">
+<info><authors><author pid="32/3483">Swarup Acharya</author><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="z/SBZdonik">Stanley B. Zdonik</author></authors><title>Disseminating Updates on Broadcast Disks.</title><venue>VLDB</venue><pages>354-365</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/AcharyaFZ96</key><ee>http://www.vldb.org/conf/1996/P354.PDF</ee><url>https://dblp.org/rec/conf/vldb/AcharyaFZ96</url></info>
+<url>URL#7193838</url>
+</hit>
+<hit score="1" id="7193839">
+<info><authors><author pid="50/40">Sameet Agarwal</author><author pid="a/RAgrawal">Rakesh Agrawal 0001</author><author pid="d/PrasadDeshpande">Prasad Deshpande</author><author pid="27/4744-1">Ashish Gupta 0001</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author><author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan 0001</author><author pid="s/SunitaSarawagi">Sunita Sarawagi</author></authors><title>On the Computation of Multidimensional Aggregates.</title><venue>VLDB</venue><pages>506-521</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/AgarwalADGNRS96</key><ee>http://www.vldb.org/conf/1996/P506.PDF</ee><url>https://dblp.org/rec/conf/vldb/AgarwalADGNRS96</url></info>
+<url>URL#7193839</url>
+</hit>
+<hit score="1" id="7193840">
+<info><authors><author pid="78/4774">Sanket Atal</author></authors><title>The XPS Approach to Loading and Unloading Terabyte Databases.</title><venue>VLDB</venue><pages>589</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Atal96</key><ee>http://www.vldb.org/conf/1996/P589.PDF</ee><url>https://dblp.org/rec/conf/vldb/Atal96</url></info>
+<url>URL#7193840</url>
+</hit>
+<hit score="1" id="7193841">
+<info><authors><author pid="b/ChaitanyaKBaru">Chaitanya K. Baru</author></authors><title>Performance of Future Database Systems: Bottlenecks and Bonananzas</title><venue>VLDB</venue><pages>599</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Baru96</key><ee>http://www.vldb.org/conf/1996/P599.PDF</ee><url>https://dblp.org/rec/conf/vldb/Baru96</url></info>
+<url>URL#7193841</url>
+</hit>
+<hit score="1" id="7193842">
+<info><authors><author pid="b/SBerchtold">Stefan Berchtold</author><author pid="k/DanielAKeim">Daniel A. Keim</author><author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author></authors><title>The X-tree : An Index Structure for High-Dimensional Data</title><venue>VLDB</venue><pages>28-39</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/BerchtoldKK96</key><ee>http://www.vldb.org/conf/1996/P028.PDF</ee><url>https://dblp.org/rec/conf/vldb/BerchtoldKK96</url></info>
+<url>URL#7193842</url>
+</hit>
+<hit score="1" id="7193843">
+<info><authors><author pid="23/4820">Jochen Van den Bercken</author><author pid="s/BernhardSeeger">Bernhard Seeger</author></authors><title>Query Processing Techniques for Multiversion Access Methods.</title><venue>VLDB</venue><pages>168-179</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/BerckenS96</key><ee>http://www.vldb.org/conf/1996/P168.PDF</ee><url>https://dblp.org/rec/conf/vldb/BerckenS96</url></info>
+<url>URL#7193843</url>
+</hit>
+<hit score="1" id="7193844">
+<info><authors><author pid="b/ElisaBertino">Elisa Bertino</author><author pid="b/CBettini">Claudio Bettini</author><author pid="389/7043-1">Elena Ferrari 0001</author><author pid="s/PSamarati">Pierangela Samarati</author></authors><title>Supporting Periodic Authorizations and Temporal Reasoning in Database Access Control.</title><venue>VLDB</venue><pages>472-483</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/BertinoBFS96</key><ee>http://www.vldb.org/conf/1996/P472.PDF</ee><url>https://dblp.org/rec/conf/vldb/BertinoBFS96</url></info>
+<url>URL#7193844</url>
+</hit>
+<hit score="1" id="7193845">
+<info><authors><author pid="06/3766">Ramesh Bhashyam</author></authors><title>TPC-D: The Challenges, Issues and Results.</title><venue>VLDB</venue><pages>593</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Bhashyam96</key><ee>http://www.vldb.org/conf/1996/P593.PDF</ee><url>https://dblp.org/rec/conf/vldb/Bhashyam96</url></info>
+<url>URL#7193845</url>
+</hit>
+<hit score="1" id="7193846">
+<info><authors><author pid="b/MichaelHBohlen">Michael H. Böhlen</author><author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author><author pid="08/6667">Michael D. Soo</author></authors><title>Coalescing in Temporal Databases.</title><venue>VLDB</venue><pages>180-191</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/BohlenSS96</key><ee>http://www.vldb.org/conf/1996/P180.PDF</ee><url>https://dblp.org/rec/conf/vldb/BohlenSS96</url></info>
+<url>URL#7193846</url>
+</hit>
+<hit score="1" id="7193847">
+<info><authors><author pid="b/LucBouganim">Luc Bouganim</author><author pid="70/3007">Daniela Florescu</author><author pid="v/PatrickValduriez">Patrick Valduriez</author></authors><title>Dynamic Load Balancing in Hierarchical Parallel Database Systems.</title><venue>VLDB</venue><pages>436-447</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/BouganimFV96</key><ee>http://www.vldb.org/conf/1996/P436.PDF</ee><url>https://dblp.org/rec/conf/vldb/BouganimFV96</url></info>
+<url>URL#7193847</url>
+</hit>
+<hit score="1" id="7193848">
+<info><authors><author pid="31/3455">Michael J. Carey 0001</author><author pid="d/DJDeWitt">David J. DeWitt</author></authors><title>Of Objects and Databases: A Decade of Turmoil</title><venue>VLDB</venue><pages>3-14</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/CareyD96</key><ee>http://www.vldb.org/conf/1996/P003.PDF</ee><url>https://dblp.org/rec/conf/vldb/CareyD96</url></info>
+<url>URL#7193848</url>
+</hit>
+<hit score="1" id="7193849">
+<info><authors><author pid="31/3455">Michael J. Carey 0001</author><author pid="h/LauraMHaas">Laura M. Haas</author><author pid="99/2893">Vivekananda Maganty</author><author pid="59/1855">John H. Williams</author></authors><title>PESTO : An Integrated Query/Browser for Object Databases.</title><venue>VLDB</venue><pages>203-214</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/CareyHMW96</key><ee>http://www.vldb.org/conf/1996/P203.PDF</ee><url>https://dblp.org/rec/conf/vldb/CareyHMW96</url></info>
+<url>URL#7193849</url>
+</hit>
+<hit score="1" id="7193850">
+<info><authors><author pid="55/4210">Pedro Celis</author></authors><title>The Query Optimizer in Tandem&apos;s new ServerWare SQL Product.</title><venue>VLDB</venue><pages>592</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Celis96</key><ee>http://www.vldb.org/conf/1996/P592.PDF</ee><url>https://dblp.org/rec/conf/vldb/Celis96</url></info>
+<url>URL#7193850</url>
+</hit>
+<hit score="1" id="7193851">
+<info><authors><author pid="c/DChatziantoniou">Damianos Chatziantoniou</author><author pid="r/KARoss">Kenneth A. Ross</author></authors><title>Querying Multiple Features of Groups in Relational Databases.</title><venue>VLDB</venue><pages>295-306</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/ChatziantoniouR96</key><ee>http://www.vldb.org/conf/1996/P295.PDF</ee><url>https://dblp.org/rec/conf/vldb/ChatziantoniouR96</url></info>
+<url>URL#7193851</url>
+</hit>
+<hit score="1" id="7193852">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="s/KyuseokShim">Kyuseok Shim</author></authors><title>Optimization of Queries with User-defined Predicates</title><venue>VLDB</venue><pages>87-98</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/ChaudhuriS96</key><ee>http://www.vldb.org/conf/1996/P087.PDF</ee><url>https://dblp.org/rec/conf/vldb/ChaudhuriS96</url></info>
+<url>URL#7193852</url>
+</hit>
+<hit score="1" id="7193853">
+<info><authors><author pid="93/595">Roberta Cochrane</author><author pid="p/HamidPirahesh">Hamid Pirahesh</author><author pid="29/1358">Nelson Mendonça Mattos</author></authors><title>Integrating Triggers and Declarative Constraints in SQL Database Systems.</title><venue>VLDB</venue><pages>567-578</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/CochranePM96</key><ee>http://www.vldb.org/conf/1996/P567.PDF</ee><url>https://dblp.org/rec/conf/vldb/CochranePM96</url></info>
+<url>URL#7193853</url>
+</hit>
+<hit score="1" id="7193854">
+<info><authors><author pid="c/FredericCuppens">Frédéric Cuppens</author></authors><title>Querying a Multilevel Database: A Logical Analysis.</title><venue>VLDB</venue><pages>484-494</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Cuppens96</key><ee>http://www.vldb.org/conf/1996/P484.PDF</ee><url>https://dblp.org/rec/conf/vldb/Cuppens96</url></info>
+<url>URL#7193854</url>
+</hit>
+<hit score="1" id="7193855">
+<info><authors><author pid="90/3621">Shaul Dar</author><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="j/BjornTorJonsson1">Björn Þór Jónsson 0001</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author><author pid="73/4489">Michael Tan</author></authors><title>Semantic Data Caching and Replacement.</title><venue>VLDB</venue><pages>330-341</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/DarFJST96</key><ee>http://www.vldb.org/conf/1996/P330.PDF</ee><url>https://dblp.org/rec/conf/vldb/DarFJST96</url></info>
+<url>URL#7193855</url>
+</hit>
+<hit score="1" id="7193856">
+<info><authors><author pid="97/5399">A. R. Dasgupta</author></authors><title>Large Databases for Remote Sensing and GIS.</title><venue>VLDB</venue><pages>587</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Dasgupta96</key><ee>http://www.vldb.org/conf/1996/P587.PDF</ee><url>https://dblp.org/rec/conf/vldb/Dasgupta96</url></info>
+<url>URL#7193856</url>
+</hit>
+<hit score="1" id="7193857">
+<info><authors><author pid="22/6375">Ajit A. Diwan</author><author pid="20/1296">Sanjeeva Rane</author><author pid="71/2538">S. Seshadri</author><author pid="s/SSudarshan1">S. Sudarshan 0001</author></authors><title>Clustering Techniques for Minimizing External Path Length.</title><venue>VLDB</venue><pages>342-353</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/DiwanRSS96</key><ee>http://www.vldb.org/conf/1996/P342.PDF</ee><url>https://dblp.org/rec/conf/vldb/DiwanRSS96</url></info>
+<url>URL#7193857</url>
+</hit>
+<hit score="1" id="7193858">
+<info><authors><author pid="d/CEDyreson">Curtis E. Dyreson</author></authors><title>Information Retrieval from an Incomplete Data Cube.</title><venue>VLDB</venue><pages>532-543</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Dyreson96</key><ee>http://www.vldb.org/conf/1996/P532.PDF</ee><url>https://dblp.org/rec/conf/vldb/Dyreson96</url></info>
+<url>URL#7193858</url>
+</hit>
+<hit score="1" id="7193859">
+<info><authors><author pid="f/CFaloutsos">Christos Faloutsos</author><author pid="63/472">Volker Gaede</author></authors><title>Analysis of n-Dimensional Quadtrees using the Hausdorff Fractal Dimension</title><venue>VLDB</venue><pages>40-50</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/FaloutsosG96</key><ee>http://www.vldb.org/conf/1996/P040.PDF</ee><url>https://dblp.org/rec/conf/vldb/FaloutsosG96</url></info>
+<url>URL#7193859</url>
+</hit>
+<hit score="1" id="7193860">
+<info><authors><author pid="f/CFaloutsos">Christos Faloutsos</author><author pid="m/YossiMatias">Yossi Matias</author><author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author></authors><title>Modeling Skewed Distribution Using Multifractals and the &apos;80-20&apos; Law.</title><venue>VLDB</venue><pages>307-317</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/FaloutsosMS96</key><ee>http://www.vldb.org/conf/1996/P307.PDF</ee><url>https://dblp.org/rec/conf/vldb/FaloutsosMS96</url></info>
+<url>URL#7193860</url>
+</hit>
+<hit score="1" id="7193861">
+<info><authors><author pid="72/6093">Takeshi Fukuda</author><author pid="m/YasuhikoMorimoto">Yasuhiko Morimoto</author><author pid="m/ShinichiMorishita">Shinichi Morishita</author><author pid="89/1729">Takeshi Tokuyama</author></authors><title>Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules.</title><venue>VLDB</venue><pages>146-155</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/FukudaMMT96</key><ee>http://www.vldb.org/conf/1996/P146.PDF</ee><url>https://dblp.org/rec/conf/vldb/FukudaMMT96</url></info>
+<url>URL#7193861</url>
+</hit>
+<hit score="1" id="7193862">
+<info><authors><author pid="g/GeorgesGardarin">Georges Gardarin</author><author pid="g/JeanRobertGruser">Jean-Robert Gruser</author><author pid="t/ZhaoHuiTang">Zhao-Hui Tang</author></authors><title>Cost-based Selection of Path Expression Processing Algorithms in Object-Oriented Databases.</title><venue>VLDB</venue><pages>390-401</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/GardarinGT96</key><ee>http://www.vldb.org/conf/1996/P390.PDF</ee><url>https://dblp.org/rec/conf/vldb/GardarinGT96</url></info>
+<url>URL#7193862</url>
+</hit>
+<hit score="1" id="7193863">
+<info><authors><author pid="g/GeorgesGardarin">Georges Gardarin</author><author pid="13/3601">Fei Sha</author><author pid="t/ZhaoHuiTang">Zhao-Hui Tang</author></authors><title>Calibrating the Query Optimizer Cost Model of IRO-DB, an Object-Oriented Federated Database System.</title><venue>VLDB</venue><pages>378-389</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/GardarinST96</key><ee>http://www.vldb.org/conf/1996/P378.PDF</ee><url>https://dblp.org/rec/conf/vldb/GardarinST96</url></info>
+<url>URL#7193863</url>
+</hit>
+<hit score="1" id="7193864">
+<info><authors><author pid="03/2725">Dieter Gawlick</author></authors><title>Scalablity and Availability in Oracle7 7.3.</title><venue>VLDB</venue><pages>584</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Gawlick96</key><ee>http://www.vldb.org/conf/1996/P584.PDF</ee><url>https://dblp.org/rec/conf/vldb/Gawlick96</url></info>
+<url>URL#7193864</url>
+</hit>
+<hit score="1" id="7193865">
+<info><authors><author pid="g/UmangGupta">Umang Gupta</author></authors><title>The Changing Landscape of the Software Industry and its Implications for India</title><venue>VLDB</venue><pages>2</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Gupta96</key><ee>http://www.vldb.org/conf/1996/P002.PDF</ee><url>https://dblp.org/rec/conf/vldb/Gupta96</url></info>
+<url>URL#7193865</url>
+</hit>
+<hit score="1" id="7193866">
+<info><authors><author pid="27/4744-1">Ashish Gupta 0001</author><author pid="m/ISMumick">Inderpal Singh Mumick</author></authors><title>What is the Data Warehousing Problem? (Are Materialized Views the Answer?)</title><venue>VLDB</venue><pages>602</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/GuptaM96</key><ee>http://www.vldb.org/conf/1996/P602.PDF</ee><url>https://dblp.org/rec/conf/vldb/GuptaM96</url></info>
+<url>URL#7193866</url>
+</hit>
+<hit score="1" id="7193867">
+<info><authors><author pid="30/3192">Brad Hammond</author></authors><title>Using Referential Integrity To Easily Define Consistent Subset Replicas.</title><venue>VLDB</venue><pages>591</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Hammond96</key><ee>http://www.vldb.org/conf/1996/P591.PDF</ee><url>https://dblp.org/rec/conf/vldb/Hammond96</url></info>
+<url>URL#7193867</url>
+</hit>
+<hit score="1" id="7193868">
+<info><authors><author pid="60/874">Karl-Heinz Hess</author></authors><title>Very Large Databases in a Commercial Application Environment</title><venue>VLDB</venue><pages>2</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Hess96</key><ee>http://www.vldb.org/conf/1996/P002.PDF</ee><url>https://dblp.org/rec/conf/vldb/Hess96</url></info>
+<url>URL#7193868</url>
+</hit>
+<hit score="1" id="7193869">
+<info><authors><author pid="i/YEIoannidis">Yannis E. Ioannidis</author><author pid="l/MironLivny">Miron Livny</author><author pid="00/364">Shivani Gupta</author><author pid="99/644">Nagavamsi Ponnekanti</author></authors><title>ZOO : A Desktop Experiment Management Environment.</title><venue>VLDB</venue><pages>274-285</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/IoannidisLGP96</key><ee>http://www.vldb.org/conf/1996/P274.PDF</ee><url>https://dblp.org/rec/conf/vldb/IoannidisLGP96</url></info>
+<url>URL#7193869</url>
+</hit>
+<hit score="1" id="7193870">
+<info><authors><author pid="91/3154">Jim Kleewein</author></authors><title>Practical Issues with Commercial Use of Federated Databases.</title><venue>VLDB</venue><pages>580</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Kleewein96</key><ee>http://www.vldb.org/conf/1996/P580.PDF</ee><url>https://dblp.org/rec/conf/vldb/Kleewein96</url></info>
+<url>URL#7193870</url>
+</hit>
+<hit score="1" id="7193871">
+<info><authors><author pid="16/5940">Boris Klots</author></authors><title>Cache Coherency in Oracle Parallel Server.</title><venue>VLDB</venue><pages>583</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Klots96</key><ee>http://www.vldb.org/conf/1996/P583.PDF</ee><url>https://dblp.org/rec/conf/vldb/Klots96</url></info>
+<url>URL#7193871</url>
+</hit>
+<hit score="1" id="7193872">
+<info><authors><author pid="k/FlipKorn">Flip Korn</author><author pid="s/NDSidiropoulos">Nikolaos D. Sidiropoulos</author><author pid="f/CFaloutsos">Christos Faloutsos</author><author pid="22/5169">Eliot L. Siegel</author><author pid="54/3210">Zenon Protopapas</author></authors><title>Fast Nearest Neighbor Search in Medical Image Databases.</title><venue>VLDB</venue><pages>215-226</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/KornSFSP96</key><ee>http://www.vldb.org/conf/1996/P215.PDF</ee><url>https://dblp.org/rec/conf/vldb/KornSFSP96</url></info>
+<url>URL#7193872</url>
+</hit>
+<hit score="1" id="7193873">
+<info><authors><author pid="l/WilburtLabio">Wilburt Labio</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author></authors><title>Efficient Snapshot Differential Algorithms for Data Warehousing.</title><venue>VLDB</venue><pages>63-74</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/LabioG96</key><ee>http://www.vldb.org/conf/1996/P063.PDF</ee><url>https://dblp.org/rec/conf/vldb/LabioG96</url></info>
+<url>URL#7193873</url>
+</hit>
+<hit score="1" id="7193874">
+<info><authors><author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author><author pid="s/FereidoonSadri">Fereidoon Sadri</author><author pid="s/IyerNSubramanian">Iyer N. Subramanian</author></authors><title>SchemaSQL - A Language for Interoperability in Relational Multi-Database Systems.</title><venue>VLDB</venue><pages>239-250</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/LakshmananSS96</key><ee>http://www.vldb.org/conf/1996/P239.PDF</ee><url>https://dblp.org/rec/conf/vldb/LakshmananSS96</url></info>
+<url>URL#7193874</url>
+</hit>
+<hit score="1" id="7193875">
+<info><authors><author pid="04/1907">Sin Yeung Lee</author><author pid="l/TokWangLing">Tok Wang Ling</author></authors><title>Further Improvements on Integrity Constraint Checking for Stratifiable Deductive Databases.</title><venue>VLDB</venue><pages>495-505</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/LeeL96</key><ee>http://www.vldb.org/conf/1996/P495.PDF</ee><url>https://dblp.org/rec/conf/vldb/LeeL96</url></info>
+<url>URL#7193875</url>
+</hit>
+<hit score="1" id="7193876">
+<info><authors><author pid="h/AlonYHalevy">Alon Y. Levy</author></authors><title>Obtaining Complete Answers from Incomplete Databases.</title><venue>VLDB</venue><pages>402-412</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Levy96</key><ee>http://www.vldb.org/conf/1996/P402.PDF</ee><url>https://dblp.org/rec/conf/vldb/Levy96</url></info>
+<url>URL#7193876</url>
+</hit>
+<hit score="1" id="7193877">
+<info><authors><author pid="h/AlonYHalevy">Alon Y. Levy</author><author pid="r/ARajaraman">Anand Rajaraman</author><author pid="o/JoannJOrdille">Joann J. Ordille</author></authors><title>Querying Heterogeneous Information Sources Using Source Descriptions</title><venue>VLDB</venue><pages>251-262</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/LevyRO96</key><ee>http://www.vldb.org/conf/1996/P251.PDF</ee><url>https://dblp.org/rec/conf/vldb/LevyRO96</url></info>
+<url>URL#7193877</url>
+</hit>
+<hit score="1" id="7193878">
+<info><authors><author pid="24/3465">Susan Malaika</author></authors><title>Database Management Systems and the Internet</title><venue>VLDB</venue><pages>600-601</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Malaika96</key><ee>http://www.vldb.org/conf/1996/P600.PDF</ee><url>https://dblp.org/rec/conf/vldb/Malaika96</url></info>
+<url>URL#7193878</url>
+</hit>
+<hit score="1" id="7193879">
+<info><authors><author pid="29/1358">Nelson Mendonça Mattos</author></authors><title>Supporting Procedural Constructs in SQL Compilers.</title><venue>VLDB</venue><pages>581</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Mattos96</key><ee>http://www.vldb.org/conf/1996/P581.PDF</ee><url>https://dblp.org/rec/conf/vldb/Mattos96</url></info>
+<url>URL#7193879</url>
+</hit>
+<hit score="1" id="7193880">
+<info><authors><author pid="11/2209">William J. McKenna</author><author pid="56/3677">Louis Burger</author><author pid="01/1812">Chi Hoang</author><author pid="77/488">Melissa Truong</author></authors><title>EROC: A Toolkit for Building NEATO Query Optimizers.</title><venue>VLDB</venue><pages>111-121</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/McKennaBHT96</key><ee>http://www.vldb.org/conf/1996/P111.PDF</ee><url>https://dblp.org/rec/conf/vldb/McKennaBHT96</url></info>
+<url>URL#7193880</url>
+</hit>
+<hit score="1" id="7193881">
+<info><authors><author pid="m/RosaMeo">Rosa Meo</author><author pid="85/5528">Giuseppe Psaila</author><author pid="c/StefanoCeri">Stefano Ceri</author></authors><title>A New SQL-like Operator for Mining Association Rules.</title><venue>VLDB</venue><pages>122-133</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/MeoPC96</key><ee>http://www.vldb.org/conf/1996/P122.PDF</ee><url>https://dblp.org/rec/conf/vldb/MeoPC96</url></info>
+<url>URL#7193881</url>
+</hit>
+<hit score="1" id="7193882">
+<info><title>MineSet(tm): A System for High-End Data Mining and Visualization.</title><venue>VLDB</venue><pages>595</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/MiningGroup96</key><ee>http://www.vldb.org/conf/1996/P595.PDF</ee><url>https://dblp.org/rec/conf/vldb/MiningGroup96</url></info>
+<url>URL#7193882</url>
+</hit>
+<hit score="1" id="7193883">
+<info><authors><author pid="49/5739">Narendra Mohan</author></authors><title>DWMS: Data Warehouse Management System.</title><venue>VLDB</venue><pages>588</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Mohan96</key><ee>http://www.vldb.org/conf/1996/P588.PDF</ee><url>https://dblp.org/rec/conf/vldb/Mohan96</url></info>
+<url>URL#7193883</url>
+</hit>
+<hit score="1" id="7193884">
+<info><authors><author pid="67/6473">M. Moni</author></authors><title>DISNIC-PLAN: A NICNET Based Distributed Database for Micro-level Planning in India.</title><venue>VLDB</venue><pages>586</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Moni96</key><ee>http://www.vldb.org/conf/1996/P586.PDF</ee><url>https://dblp.org/rec/conf/vldb/Moni96</url></info>
+<url>URL#7193884</url>
+</hit>
+<hit score="1" id="7193885">
+<info><authors><author pid="84/4198">Yasushi Ogawa</author></authors><title>Effective &amp; Efficient Document Ranking without using a Large Lexicon.</title><venue>VLDB</venue><pages>192-202</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Ogawa96</key><ee>http://www.vldb.org/conf/1996/P192.PDF</ee><url>https://dblp.org/rec/conf/vldb/Ogawa96</url></info>
+<url>URL#7193885</url>
+</hit>
+<hit score="1" id="7193886">
+<info><authors><author pid="p/SPadmanabhan">Sriram Padmanabhan</author></authors><title>Extracting Large Data Sets using DB2 Parallel Edition.</title><venue>VLDB</venue><pages>582</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Padmanabhan96</key><ee>http://www.vldb.org/conf/1996/P582.PDF</ee><url>https://dblp.org/rec/conf/vldb/Padmanabhan96</url></info>
+<url>URL#7193886</url>
+</hit>
+<hit score="1" id="7193887">
+<info><authors><author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author><author pid="a/SergeAbiteboul">Serge Abiteboul</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author></authors><title>Object Fusion in Mediator Systems.</title><venue>VLDB</venue><pages>413-424</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/PapakonstantinouAG96</key><ee>http://www.vldb.org/conf/1996/P413.PDF</ee><url>https://dblp.org/rec/conf/vldb/PapakonstantinouAG96</url></info>
+<url>URL#7193887</url>
+</hit>
+<hit score="1" id="7193888">
+<info><authors><author pid="p/VPoosala">Viswanath Poosala</author><author pid="i/YEIoannidis">Yannis E. Ioannidis</author></authors><title>Estimation of Query-Result Distribution and its Application in Parallel-Join Load Balancing.</title><venue>VLDB</venue><pages>448-459</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/PoosalaI96</key><ee>http://www.vldb.org/conf/1996/P448.PDF</ee><url>https://dblp.org/rec/conf/vldb/PoosalaI96</url></info>
+<url>URL#7193888</url>
+</hit>
+<hit score="1" id="7193889">
+<info><authors><author pid="r/VRaghavan6">Vijay Raghavan 0006</author></authors><title>Loading the Data Warehouse Across Various Parallel Architectures</title><venue>VLDB</venue><pages>597</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Raghavan96</key><ee>http://www.vldb.org/conf/1996/P597.PDF</ee><url>https://dblp.org/rec/conf/vldb/Raghavan96</url></info>
+<url>URL#7193889</url>
+</hit>
+<hit score="1" id="7193890">
+<info><authors><author pid="158/7346-2">Ramakrishnan Raman 0002</author><author pid="r/DJanakiRam">D. Janaki Ram</author></authors><title>Modeling Design Versions.</title><venue>VLDB</venue><pages>556-566</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/RamakrishnanR96</key><ee>http://www.vldb.org/conf/1996/P556.PDF</ee><url>https://dblp.org/rec/conf/vldb/RamakrishnanR96</url></info>
+<url>URL#7193890</url>
+</hit>
+<hit score="1" id="7193891">
+<info><authors><author pid="75/1179">T. K. Rengarajan</author></authors><title>How System 11 SQL Server Became Fast.</title><venue>VLDB</venue><pages>590</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Rengarajan96</key><ee>http://www.vldb.org/conf/1996/P590.PDF</ee><url>https://dblp.org/rec/conf/vldb/Rengarajan96</url></info>
+<url>URL#7193891</url>
+</hit>
+<hit score="1" id="7193892">
+<info><authors><author pid="59/3443">Michael Rys</author><author pid="n/MoiraCNorrie">Moira C. Norrie</author><author pid="s/HansJorgSchek">Hans-Jörg Schek</author></authors><title>Intra-Transaction Parallelism in the Mapping of an Object Model to a Relational Multi-Processor System.</title><venue>VLDB</venue><pages>460-471</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/RysNS96</key><ee>http://www.vldb.org/conf/1996/P460.PDF</ee><url>https://dblp.org/rec/conf/vldb/RysNS96</url></info>
+<url>URL#7193892</url>
+</hit>
+<hit score="1" id="7193893">
+<info><authors><author pid="s/RonSacksDavis">Ron Sacks-Davis</author></authors><title>The Structured Information Manager: A Database System for SGML Documents.</title><venue>VLDB</venue><pages>596</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Sacks-Davis96</key><ee>http://www.vldb.org/conf/1996/P596.PDF</ee><url>https://dblp.org/rec/conf/vldb/Sacks-Davis96</url></info>
+<url>URL#7193893</url>
+</hit>
+<hit score="1" id="7193894">
+<info><authors><author pid="s/SunitaSarawagi">Sunita Sarawagi</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Reordering Query Execution in Tertiary Memory Databases.</title><venue>VLDB</venue><pages>156-167</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/SarawagiS96</key><ee>http://www.vldb.org/conf/1996/P156.PDF</ee><url>https://dblp.org/rec/conf/vldb/SarawagiS96</url></info>
+<url>URL#7193894</url>
+</hit>
+<hit score="1" id="7193895">
+<info><authors><author pid="s/PeterScheuermann">Peter Scheuermann</author><author pid="s/JHShim">Junho Shim</author><author pid="40/6597">Radek Vingralek</author></authors><title>WATCHMAN : A Data Warehouse Intelligent Cache Manager.</title><venue>VLDB</venue><pages>51-62</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/ScheuermannSV96</key><ee>http://www.vldb.org/conf/1996/P051.PDF</ee><url>https://dblp.org/rec/conf/vldb/ScheuermannSV96</url></info>
+<url>URL#7193895</url>
+</hit>
+<hit score="1" id="7193896">
+<info><authors><author pid="s/PraveenSeshadri">Praveen Seshadri</author><author pid="l/MironLivny">Miron Livny</author><author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan 0001</author></authors><title>The Design and Implementation of a Sequence Database System.</title><venue>VLDB</venue><pages>99-110</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/SeshadriLR96</key><ee>http://www.vldb.org/conf/1996/P099.PDF</ee><url>https://dblp.org/rec/conf/vldb/SeshadriLR96</url></info>
+<url>URL#7193896</url>
+</hit>
+<hit score="1" id="7193897">
+<info><authors><author pid="s/KennethCSevcik">Kenneth C. Sevcik</author><author pid="k/NickKoudas">Nick Koudas</author></authors><title>Filter Trees for Managing Spatial Data over a Range of Size Granularities</title><venue>VLDB</venue><pages>16-27</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/SevcikK96</key><ee>http://www.vldb.org/conf/1996/P016.PDF</ee><url>https://dblp.org/rec/conf/vldb/SevcikK96</url></info>
+<url>URL#7193897</url>
+</hit>
+<hit score="1" id="7193898">
+<info><authors><author pid="99/3392">John C. Shafer</author><author pid="a/RAgrawal">Rakesh Agrawal 0001</author><author pid="90/243">Manish Mehta 0002</author></authors><title>SPRINT: A Scalable Parallel Classifier for Data Mining</title><venue>VLDB</venue><pages>544-555</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/ShaferAM96</key><ee>http://www.vldb.org/conf/1996/P544.PDF</ee><url>https://dblp.org/rec/conf/vldb/ShaferAM96</url></info>
+<url>URL#7193898</url>
+</hit>
+<hit score="1" id="7193899">
+<info><authors><author pid="s/AmitPSheth">Amit P. Sheth</author></authors><title>Bellcore&apos;s ADAPT/X Harness System for Managing Information on Internet and Intranets.</title><venue>VLDB</venue><pages>585</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Sheth96</key><ee>http://www.vldb.org/conf/1996/P585.PDF</ee><url>https://dblp.org/rec/conf/vldb/Sheth96</url></info>
+<url>URL#7193899</url>
+</hit>
+<hit score="1" id="7193900">
+<info><authors><author pid="s/AmitPSheth">Amit P. Sheth</author><author pid="k/KrysKochut">Krys J. Kochut</author><author pid="m/JohnAMiller">John A. Miller 0001</author><author pid="25/2792">Devashish Worah</author><author pid="19/2460">Souvik Das</author><author pid="37/6024">Chenye Lin</author><author pid="06/1062">Devanand Palaniswami</author><author pid="22/2094">John Lynch</author><author pid="90/1727">Ivan Shevchenko</author></authors><title>Supporting State-Wide Immunisation Tracking Using Multi-Paradigm Workflow Technology.</title><venue>VLDB</venue><pages>263-273</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/ShethKMWDLPLS96</key><ee>http://www.vldb.org/conf/1996/P263.PDF</ee><url>https://dblp.org/rec/conf/vldb/ShethKMWDLPLS96</url></info>
+<url>URL#7193900</url>
+</hit>
+<hit score="1" id="7193901">
+<info><authors><author pid="s/AmitShukla">Amit Shukla 0001</author><author pid="d/PrasadDeshpande">Prasad Deshpande</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author><author pid="r/KRamasamy">Karthikeyan Ramasamy</author></authors><title>Storage Estimation for Multidimensional Aggregates in the Presence of Hierarchies.</title><venue>VLDB</venue><pages>522-531</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/ShuklaDNR96</key><ee>http://www.vldb.org/conf/1996/P522.PDF</ee><url>https://dblp.org/rec/conf/vldb/ShuklaDNR96</url></info>
+<url>URL#7193901</url>
+</hit>
+<hit score="1" id="7193902">
+<info><authors><author pid="s/DiveshSrivastava">Divesh Srivastava</author><author pid="90/3621">Shaul Dar</author><author pid="j/HVJagadish">H. V. Jagadish</author><author pid="h/AlonYHalevy">Alon Y. Levy</author></authors><title>Answering Queries with Aggregation Using Views.</title><venue>VLDB</venue><pages>318-329</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/SrivastavaDJL96</key><ee>http://www.vldb.org/conf/1996/P318.PDF</ee><url>https://dblp.org/rec/conf/vldb/SrivastavaDJL96</url></info>
+<url>URL#7193902</url>
+</hit>
+<hit score="1" id="7193903">
+<info><authors><author pid="65/3551">Martin Staudt 0001</author><author pid="j/MatthiasJarke">Matthias Jarke</author></authors><title>Incremental Maintenance of Externally Materialized Views.</title><venue>VLDB</venue><pages>75-86</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/StaudtJ96</key><ee>http://www.vldb.org/conf/1996/P075.PDF</ee><url>https://dblp.org/rec/conf/vldb/StaudtJ96</url></info>
+<url>URL#7193903</url>
+</hit>
+<hit score="1" id="7193904">
+<info><authors><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Query Decomposition and View Maintenance for Query Languages for Unstructured Data.</title><venue>VLDB</venue><pages>227-238</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Suciu96</key><ee>http://www.vldb.org/conf/1996/P227.PDF</ee><url>https://dblp.org/rec/conf/vldb/Suciu96</url></info>
+<url>URL#7193904</url>
+</hit>
+<hit score="1" id="7193905">
+<info><authors><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Implementation and Analysis of a Parallel Collection Query Language.</title><venue>VLDB</venue><pages>366-377</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Suciu96a</key><ee>http://www.vldb.org/conf/1996/P366.PDF</ee><url>https://dblp.org/rec/conf/vldb/Suciu96a</url></info>
+<url>URL#7193905</url>
+</hit>
+<hit score="1" id="7193906">
+<info><authors><author pid="34/5478">Mark Sullivan</author></authors><title>Tribeca: A Stream Database Manager for Network Traffic Analysis.</title><venue>VLDB</venue><pages>594</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Sullivan96</key><ee>http://www.vldb.org/conf/1996/P594.PDF</ee><url>https://dblp.org/rec/conf/vldb/Sullivan96</url></info>
+<url>URL#7193906</url>
+</hit>
+<hit score="1" id="7193907">
+<info><authors><author pid="t/HannuToivonen">Hannu Toivonen</author></authors><title>Sampling Large Databases for Association Rules.</title><venue>VLDB</venue><pages>134-145</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Toivonen96</key><ee>http://www.vldb.org/conf/1996/P134.PDF</ee><url>https://dblp.org/rec/conf/vldb/Toivonen96</url></info>
+<url>URL#7193907</url>
+</hit>
+<hit score="1" id="7193908">
+<info><authors><author pid="88/1027">Mark W. W. Vermeer</author><author pid="a/PeterMGApers">Peter M. G. Apers</author></authors><title>The Role of Integrity Constraints in Database Interoperation.</title><venue>VLDB</venue><pages>425-435</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/VermeerA96</key><ee>http://www.vldb.org/conf/1996/P425.PDF</ee><url>https://dblp.org/rec/conf/vldb/VermeerA96</url></info>
+<url>URL#7193908</url>
+</hit>
+<hit score="1" id="7193909">
+<info><authors><author pid="39/1376">Marisa S. Viveros</author><author pid="90/904">John P. Nearhos</author><author pid="31/1577">Michael J. Rothman</author></authors><title>Applying Data Mining Techniques to a Health Insurance Information System.</title><venue>VLDB</venue><pages>286-294</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/ViverosNR96</key><ee>http://www.vldb.org/conf/1996/P286.PDF</ee><url>https://dblp.org/rec/conf/vldb/ViverosNR96</url></info>
+<url>URL#7193909</url>
+</hit>
+<hit score="1" id="7195882">
+<info><authors><author pid="51/5329">T. M. Vijayaraman</author><author pid="b/APBuchmann">Alejandro P. Buchmann</author><author pid="m/CMohan">C. Mohan 0001</author><author pid="s/NandlalLSarda">Nandlal L. Sarda</author></authors><title>VLDB&apos;96, Proceedings of 22th International Conference on Very Large Data Bases, September 3-6, 1996, Mumbai (Bombay), India</title><publisher>Morgan Kaufmann</publisher><year>1996</year><type>Editorship</type><access>unavailable</access><key>conf/vldb/96</key><url>https://dblp.org/rec/conf/vldb/96</url></info>
+<url>URL#7195882</url>
+</hit>
+</hits>
+</result>

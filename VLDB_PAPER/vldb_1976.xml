@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59408">:facetid:toc:\"db/conf/vldb/vldb76.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">69.10</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="46512197">:facetid:toc:db/conf/vldb/vldb76.bht</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="1" id="7595817">
+<info><authors><author pid="90/825">J. H. ter Bekke</author></authors><title>A Data Manipulation Language for Relational Data Structures.</title><venue>VLDB</venue><pages>159-168</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Bekke76</key><url>https://dblp.org/rec/conf/vldb/Bekke76</url></info>
+<url>URL#7595817</url>
+</hit>
+<hit score="1" id="7595818">
+<info><authors><author pid="63/3462">R. Erbe</author><author pid="80/1573">Georg Walch</author></authors><title>An Enduser Guidance Component for an Intelligent Data Base System.</title><venue>VLDB</venue><pages>197-210</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/ErbeW76</key><url>https://dblp.org/rec/conf/vldb/ErbeW76</url></info>
+<url>URL#7595818</url>
+</hit>
+<hit score="1" id="7595819">
+<info><authors><author pid="21/798">H. Rex Hartson</author><author pid="88/3763">David K. Hsiao</author></authors><title>A Semantic Model for Data Base Protection Languages.</title><venue>VLDB</venue><pages>27-42</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/HartsonH76</key><url>https://dblp.org/rec/conf/vldb/HartsonH76</url></info>
+<url>URL#7595819</url>
+</hit>
+<hit score="1" id="7595820">
+<info><authors><author pid="69/26">Peter Hitchcock</author></authors><title>User Extensions to the Peterlee Relational Test Vehicle.</title><venue>VLDB</venue><pages>169-180</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Hitchcock76</key><url>https://dblp.org/rec/conf/vldb/Hitchcock76</url></info>
+<url>URL#7595820</url>
+</hit>
+<hit score="1" id="7595821">
+<info><authors><author pid="52/1366">Charles Kellogg</author><author pid="32/3041">Philip Klahr</author><author pid="60/5541">Larry Travis</author></authors><title>A Deductive Capability for Data Management.</title><venue>VLDB</venue><pages>181-196</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/KelloggKT76</key><url>https://dblp.org/rec/conf/vldb/KelloggKT76</url></info>
+<url>URL#7595821</url>
+</hit>
+<hit score="1" id="7595822">
+<info><authors><author pid="k/WilliamKent">William Kent</author></authors><title>New Criteria for the Conceptual Model.</title><venue>VLDB</venue><pages>1-12</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Kent76</key><url>https://dblp.org/rec/conf/vldb/Kent76</url></info>
+<url>URL#7595822</url>
+</hit>
+<hit score="1" id="7595823">
+<info><authors><author pid="k/LarryKerschberg">Larry Kerschberg</author><author pid="11/4223">Anthony C. Klug</author><author pid="t/DennisTsichritzis">Dennis Tsichritzis</author></authors><title>A Taxonomy of Data Models.</title><venue>VLDB</venue><pages>43-64</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/KerschbergKT76</key><url>https://dblp.org/rec/conf/vldb/KerschbergKT76</url></info>
+<url>URL#7595823</url>
+</hit>
+<hit score="1" id="7595824">
+<info><authors><author pid="l/EliezerLLozinskii">Eliezer L. Lozinskii</author></authors><title>Relational Transformation and a Redundancy in Relational Data Base.</title><venue>VLDB</venue><pages>95-102</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Lozinskii76</key><url>https://dblp.org/rec/conf/vldb/Lozinskii76</url></info>
+<url>URL#7595824</url>
+</hit>
+<hit score="1" id="7595825">
+<info><authors><author pid="74/4664">Douglas R. McGregor</author><author pid="11/3603">R. G. Thomson</author><author pid="98/5457">W. N. Dawson</author></authors><title>High Performance Hardware for Database Systems.</title><venue>VLDB</venue><pages>103-116</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/McGregorTD76</key><url>https://dblp.org/rec/conf/vldb/McGregorTD76</url></info>
+<url>URL#7595825</url>
+</hit>
+<hit score="1" id="7595826">
+<info><authors><author pid="05/1282">Herbert S. Meltzer</author></authors><title>Structure and Redundancy in the Conceptual Schema in the Administration of Very Large Data Bases.</title><venue>VLDB</venue><pages>13-25</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Meltzer76</key><url>https://dblp.org/rec/conf/vldb/Meltzer76</url></info>
+<url>URL#7595826</url>
+</hit>
+<hit score="1" id="7595827">
+<info><authors><author pid="07/2825">E. Nahouraii</author><author pid="05/1236">L. O. Brooks</author><author pid="c/AFCardenas">Alfonso F. Cardenas</author></authors><title>An Approach to Data Communication between Different Generalized Data Base Management Systems.</title><venue>VLDB</venue><pages>117-142</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/NahouraiiBC76</key><url>https://dblp.org/rec/conf/vldb/NahouraiiBC76</url></info>
+<url>URL#7595827</url>
+</hit>
+<hit score="1" id="7595828">
+<info><authors><author pid="38/4151">Peter L. Noerr</author><author pid="05/4960">M. C. White</author></authors><title>MERLIN - Design of a National Bibliographic Database.</title><venue>VLDB</venue><pages>211-222</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/NoerrW76</key><url>https://dblp.org/rec/conf/vldb/NoerrW76</url></info>
+<url>URL#7595828</url>
+</hit>
+<hit score="1" id="7595829">
+<info><authors><author pid="63/6278">Michael E. Senko</author><author pid="56/1741">Edward B. Altman</author></authors><title>DIAM II and Levels of Abstraction - The Physical Device Level: A General Model for Access Methods.</title><venue>VLDB</venue><pages>79-94</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/SenkoA76</key><url>https://dblp.org/rec/conf/vldb/SenkoA76</url></info>
+<url>URL#7595829</url>
+</hit>
+<hit score="1" id="7595830">
+<info><authors><author pid="s/StanleyYWSu">Stanley Y. W. Su</author></authors><title>Application Program Conversion due to Data Base Changes.</title><venue>VLDB</venue><pages>143-157</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Su76</key><url>https://dblp.org/rec/conf/vldb/Su76</url></info>
+<url>URL#7595830</url>
+</hit>
+<hit score="1" id="7595831">
+<info><authors><author pid="t/FrankWmTompa">Frank Wm. Tompa</author></authors><title>Choosing an Efficient Internal Schema.</title><venue>VLDB</venue><pages>65-77</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/vldb/Tompa76</key><url>https://dblp.org/rec/conf/vldb/Tompa76</url></info>
+<url>URL#7595831</url>
+</hit>
+<hit score="1" id="7595911">
+<info><authors><author pid="l/PCLockemann">Peter C. Lockemann</author><author pid="n/ErichJNeuhold">Erich J. Neuhold</author></authors><title>Systems for Large Data Bases, September 8-10, 1976, Brussels, Belgium.</title><publisher>North Holland &amp; IFIP</publisher><year>1976</year><type>Editorship</type><access>unavailable</access><key>conf/vldb/76</key><url>https://dblp.org/rec/conf/vldb/76</url></info>
+<url>URL#7595911</url>
+</hit>
+</hits>
+</result>

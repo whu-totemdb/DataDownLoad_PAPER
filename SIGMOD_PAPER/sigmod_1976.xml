@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57211">:facetid:toc:\"db/conf/sigmod/sigmod76.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">94.77</time>
+<completions total="1" computed="1" sent="1">
+<c sc="22" dc="22" oc="22" id="46507245">:facetid:toc:db/conf/sigmod/sigmod76.bht</c>
+</completions>
+<hits total="22" computed="22" sent="22" first="0">
+<hit score="1" id="7595906">
+<info><authors><author pid="91/3701">James B. Rothnie Jr.</author></authors><title>Proceedings of the 1976 ACM SIGMOD International Conference on Management of Data, Washington, DC, USA, June 2-4, 1976.</title><publisher>ACM</publisher><year>1976</year><type>Editorship</type><key>conf/sigmod/76</key><doi>10.1145/509383</doi><ee>https://doi.org/10.1145/509383</ee><url>https://dblp.org/rec/conf/sigmod/76</url></info>
+<url>URL#7595906</url>
+</hit>
+<hit score="1" id="7595671">
+<info><authors><author pid="95/2864">Eugene Wong 0001</author><author pid="39/1200">Karel Youssefi</author></authors><title>Decomposition - A Strategy for Query Processing (Abstract).</title><venue>SIGMOD Conference</venue><pages>155</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/sigmod/WongY76</key><url>https://dblp.org/rec/conf/sigmod/WongY76</url></info>
+<url>URL#7595671</url>
+</hit>
+<hit score="1" id="7595670">
+<info><authors><author pid="59/2558">Edward W. Winters</author><author pid="90/6209">Alan F. Dickey</author></authors><title>A Business Application of Data Translation.</title><venue>SIGMOD Conference</venue><pages>189-196</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/sigmod/WintersD76</key><url>https://dblp.org/rec/conf/sigmod/WintersD76</url></info>
+<url>URL#7595670</url>
+</hit>
+<hit score="1" id="7595669">
+<info><authors><author pid="21/6094">James W. Welch</author><author pid="77/2843">J. Wesley Graham</author></authors><title>Retrieval Using Ordered Lists in Inverted and Multilist Files.</title><venue>SIGMOD Conference</venue><pages>21-29</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WelchG76</key><doi>10.1145/509383.509387</doi><ee>https://doi.org/10.1145/509383.509387</ee><url>https://dblp.org/rec/conf/sigmod/WelchG76</url></info>
+<url>URL#7595669</url>
+</hit>
+<hit score="1" id="7595668">
+<info><authors><author pid="t/DennisTsichritzis">Dennis Tsichritzis</author></authors><title>LSL: A Link and Selector Language.</title><venue>SIGMOD Conference</venue><pages>123-133</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Tsichritzis76</key><doi>10.1145/509383.509401</doi><ee>https://doi.org/10.1145/509383.509401</ee><url>https://dblp.org/rec/conf/sigmod/Tsichritzis76</url></info>
+<url>URL#7595668</url>
+</hit>
+<hit score="1" id="7595667">
+<info><authors><author pid="t/TobyJTeorey">Toby J. Teorey</author><author pid="23/3067">K. Sundar Das</author></authors><title>Application of an Analytical Model to Evaluate Storage Structures.</title><venue>SIGMOD Conference</venue><pages>9-19</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/TeoreyD76</key><doi>10.1145/509383.509386</doi><ee>https://doi.org/10.1145/509383.509386</ee><url>https://dblp.org/rec/conf/sigmod/TeoreyD76</url></info>
+<url>URL#7595667</url>
+</hit>
+<hit score="1" id="7595666">
+<info><authors><author pid="77/5109">Stephen W. Sherman</author><author pid="35/6661">Richard S. Brice</author></authors><title>Performance of a Data Base Manager in a Virtual Memory System (Abstract).</title><venue>SIGMOD Conference</venue><pages>31</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ShermanB76</key><doi>10.1145/509383.509388</doi><ee>https://doi.org/10.1145/509383.509388</ee><url>https://dblp.org/rec/conf/sigmod/ShermanB76</url></info>
+<url>URL#7595666</url>
+</hit>
+<hit score="1" id="7595665">
+<info><authors><author pid="66/5372">G. C. H. Sharman</author></authors><title>A Constructive Definition of Third Normal Form.</title><venue>SIGMOD Conference</venue><pages>91-99</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sharman76</key><doi>10.1145/509383.509398</doi><ee>https://doi.org/10.1145/509383.509398</ee><url>https://dblp.org/rec/conf/sigmod/Sharman76</url></info>
+<url>URL#7595665</url>
+</hit>
+<hit score="1" id="7595664">
+<info><authors><author pid="s/DennisGSeverance">Dennis G. Severance</author><author pid="21/2457">Guy M. Lohman</author></authors><title>Differential Files: Their Application to the Maintenance of Large Data Bases (Abstract).</title><venue>SIGMOD Conference</venue><pages>43</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SeveranceL76</key><doi>10.1145/509383.509391</doi><ee>https://doi.org/10.1145/509383.509391</ee><url>https://dblp.org/rec/conf/sigmod/SeveranceL76</url></info>
+<url>URL#7595664</url>
+</hit>
+<hit score="1" id="7595663">
+<info><authors><author pid="60/6731">L. S. Schneider</author></authors><title>A Relational View of the Data Independent Accessing Model.</title><venue>SIGMOD Conference</venue><pages>75-90</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Schneider76</key><doi>10.1145/509383.509397</doi><ee>https://doi.org/10.1145/509383.509397</ee><url>https://dblp.org/rec/conf/sigmod/Schneider76</url></info>
+<url>URL#7595663</url>
+</hit>
+<hit score="1" id="7595662">
+<info><authors><author pid="44/6781">Robert M. Pecherer</author></authors><title>Efficient Exploration of Product Spaces.</title><venue>SIGMOD Conference</venue><pages>169-177</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/sigmod/Pecherer76</key><url>https://dblp.org/rec/conf/sigmod/Pecherer76</url></info>
+<url>URL#7595662</url>
+</hit>
+<hit score="1" id="7595661">
+<info><authors><author pid="m/NaftalyHMinsky">Naftaly H. Minsky</author></authors><title>Files with Semantics.</title><venue>SIGMOD Conference</venue><pages>65-73</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Minsky76</key><doi>10.1145/509383.509396</doi><ee>https://doi.org/10.1145/509383.509396</ee><url>https://dblp.org/rec/conf/sigmod/Minsky76</url></info>
+<url>URL#7595661</url>
+</hit>
+<hit score="1" id="7595660">
+<info><authors><author pid="09/3242">Philip P. Macri</author></authors><title>Deadlock Detection and Resolution in a CODASYL Based Data Management System.</title><venue>SIGMOD Conference</venue><pages>45-49</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Macri76</key><doi>10.1145/509383.509392</doi><ee>https://doi.org/10.1145/509383.509392</ee><url>https://dblp.org/rec/conf/sigmod/Macri76</url></info>
+<url>URL#7595660</url>
+</hit>
+<hit score="1" id="7595659">
+<info><authors><author pid="02/588">Beverly K. Kahn</author></authors><title>A Method for Describing Information Required by the Database Design Process.</title><venue>SIGMOD Conference</venue><pages>53-64</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Kahn76</key><doi>10.1145/509383.509395</doi><ee>https://doi.org/10.1145/509383.509395</ee><url>https://dblp.org/rec/conf/sigmod/Kahn76</url></info>
+<url>URL#7595659</url>
+</hit>
+<hit score="1" id="7595658">
+<info><authors><author pid="46/4470">Michael Hammer</author><author pid="16/4154">Arvola Chan</author></authors><title>Index Selection in a Self-Adaptive Data Base Management System.</title><venue>SIGMOD Conference</venue><pages>1-8</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HammerC76</key><doi>10.1145/509383.509385</doi><ee>https://doi.org/10.1145/509383.509385</ee><url>https://dblp.org/rec/conf/sigmod/HammerC76</url></info>
+<url>URL#7595658</url>
+</hit>
+<hit score="1" id="7595657">
+<info><authors><author pid="43/2549">Patricia P. Griffiths</author><author pid="59/3575">Bradford W. Wade</author></authors><title>An Authorization Mechanism for a Relational Data Base System (Abstract).</title><venue>SIGMOD Conference</venue><pages>51</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GriffithsW76</key><doi>10.1145/509383.509393</doi><ee>https://doi.org/10.1145/509383.509393</ee><url>https://dblp.org/rec/conf/sigmod/GriffithsW76</url></info>
+<url>URL#7595657</url>
+</hit>
+<hit score="1" id="7595656">
+<info><authors><author pid="86/6819">Nicholas J. Giordano</author><author pid="66/3961">Marvin S. Schwarz</author></authors><title>Data Base Recovery at CMIC.</title><venue>SIGMOD Conference</venue><pages>33-42</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GiordanoS76</key><doi>10.1145/509383.509390</doi><ee>https://doi.org/10.1145/509383.509390</ee><url>https://dblp.org/rec/conf/sigmod/GiordanoS76</url></info>
+<url>URL#7595656</url>
+</hit>
+<hit score="1" id="7595655">
+<info><authors><author pid="35/5262">Claude Deheneffe</author><author pid="69/4256">Henri Hennebert</author></authors><title>NUL: A Navigational User&apos;s Language for a Network Structured Data Base.</title><venue>SIGMOD Conference</venue><pages>135-142</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DeheneffeH76</key><doi>10.1145/509383.509402</doi><ee>https://doi.org/10.1145/509383.509402</ee><url>https://dblp.org/rec/conf/sigmod/DeheneffeH76</url></info>
+<url>URL#7595655</url>
+</hit>
+<hit score="1" id="7595654">
+<info><authors><author pid="92/5019">C. J. Date 0001</author></authors><title>An Architecture for High-Level Language Database Extensions.</title><venue>SIGMOD Conference</venue><pages>101-122</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Date76</key><doi>10.1145/509383.509400</doi><ee>https://doi.org/10.1145/509383.509400</ee><url>https://dblp.org/rec/conf/sigmod/Date76</url></info>
+<url>URL#7595654</url>
+</hit>
+<hit score="1" id="7595653">
+<info><authors><author pid="32/4556">Alfred G. Dale</author><author pid="13/1761">Nell B. Dale</author></authors><title>Schema and Occurence Structure Transformations in Hierarchical Systems.</title><venue>SIGMOD Conference</venue><pages>157-168</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/sigmod/DaleD76</key><url>https://dblp.org/rec/conf/sigmod/DaleD76</url></info>
+<url>URL#7595653</url>
+</hit>
+<hit score="1" id="7595652">
+<info><authors><author pid="62/2441">C. Robert Carlson</author><author pid="70/5731">Robert S. Kaplan</author></authors><title>A Generalized Access Path Model and its Application to a Relational Data Base System.</title><venue>SIGMOD Conference</venue><pages>143-154</pages><year>1976</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/CarlsonK76</key><doi>10.1145/509383.509403</doi><ee>https://doi.org/10.1145/509383.509403</ee><url>https://dblp.org/rec/conf/sigmod/CarlsonK76</url></info>
+<url>URL#7595652</url>
+</hit>
+<hit score="1" id="7595651">
+<info><authors><author pid="11/162">Leland L. Beck</author></authors><title>An Approach to the Creation of Structured Data Processing Systems.</title><venue>SIGMOD Conference</venue><pages>179-188</pages><year>1976</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/sigmod/Beck76</key><url>https://dblp.org/rec/conf/sigmod/Beck76</url></info>
+<url>URL#7595651</url>
+</hit>
+</hits>
+</result>

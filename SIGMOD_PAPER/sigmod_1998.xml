@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="63675">:facetid:toc:\"db/conf/sigmod/sigmod98.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">78.93</time>
+<completions total="1" computed="1" sent="1">
+<c sc="87" dc="87" oc="87" id="46507267">:facetid:toc:db/conf/sigmod/sigmod98.bht</c>
+</completions>
+<hits total="87" computed="87" sent="87" first="0">
+<hit score="1" id="7085352">
+<info><authors><author pid="h/LauraMHaas">Laura M. Haas</author><author pid="88/5352">Ashutosh Tiwary</author></authors><title>SIGMOD 1998, Proceedings ACM SIGMOD International Conference on Management of Data, June 2-4, 1998, Seattle, Washington, USA.</title><publisher>ACM Press</publisher><year>1998</year><type>Editorship</type><key>conf/sigmod/98</key><doi>10.1145/276304</doi><ee>https://doi.org/10.1145/276304</ee><url>https://dblp.org/rec/conf/sigmod/98</url></info>
+<url>URL#7085352</url>
+</hit>
+<hit score="1" id="7079880">
+<info><authors><author pid="z/YihongZhao">Yihong Zhao 0001</author><author pid="d/PrasadDeshpande">Prasad Deshpande</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author><author pid="s/AmitShukla">Amit Shukla 0001</author></authors><title>Simultaneous Optimization and Evaluation of Multiple Dimensional Queries.</title><venue>SIGMOD Conference</venue><pages>271-282</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZhaoDNS98</key><doi>10.1145/276304.276329</doi><ee>https://doi.org/10.1145/276304.276329</ee><url>https://dblp.org/rec/conf/sigmod/ZhaoDNS98</url></info>
+<url>URL#7079880</url>
+</hit>
+<hit score="1" id="7079879">
+<info><authors><author pid="z/OsmarRZaiane">Osmar R. Zaïane</author><author pid="h/JiaweiHan">Jiawei Han 0001</author><author pid="l/ZeNianLi">Ze-Nian Li</author><author pid="15/2784">Sonny Han Seng Chee</author><author pid="93/5545">Jenny Chiang</author></authors><title>MultiMediaMiner: A System Prototype for Multimedia Data Mining.</title><venue>SIGMOD Conference</venue><pages>581-583</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ZaianeHLCC98</key><doi>10.1145/276304.276388</doi><ee>https://doi.org/10.1145/276304.276388</ee><url>https://dblp.org/rec/conf/sigmod/ZaianeHLCC98</url></info>
+<url>URL#7079879</url>
+</hit>
+<hit score="1" id="7079878">
+<info><authors><author pid="99/6416">Seth J. White</author><author pid="67/2932">R. G. G. Cattell</author><author pid="87/6811">Sheldon J. Finkelstein</author></authors><title>Enterprise Java Platform Data Access.</title><venue>SIGMOD Conference</venue><pages>504-505</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WhiteCF98</key><doi>10.1145/276304.276355</doi><ee>https://doi.org/10.1145/276304.276355</ee><url>https://dblp.org/rec/conf/sigmod/WhiteCF98</url></info>
+<url>URL#7079878</url>
+</hit>
+<hit score="1" id="7079877">
+<info><authors><author pid="25/5219">Daniel S. Whelan</author></authors><title>FileNet Integrated Document Management Database Usage and Issues.</title><venue>SIGMOD Conference</venue><pages>533</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Whelan98</key><doi>10.1145/276304.276368</doi><ee>https://doi.org/10.1145/276304.276368</ee><url>https://dblp.org/rec/conf/sigmod/Whelan98</url></info>
+<url>URL#7079877</url>
+</hit>
+<hit score="1" id="7079876">
+<info><authors><author pid="19/3165">Tolga Urhan</author><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="a/LAmsaleg">Laurent Amsaleg</author></authors><title>Cost Based Query Scrambling for Initial Delays.</title><venue>SIGMOD Conference</venue><pages>130-141</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/UrhanFA98</key><doi>10.1145/276304.276317</doi><ee>https://doi.org/10.1145/276304.276317</ee><url>https://dblp.org/rec/conf/sigmod/UrhanFA98</url></info>
+<url>URL#7079876</url>
+</hit>
+<hit score="1" id="7079875">
+<info><authors><author pid="t/ShalomTsur">Shalom Tsur</author><author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author><author pid="a/SergeAbiteboul">Serge Abiteboul</author><author pid="c/CClifton">Chris Clifton</author><author pid="m/RajeevMotwani">Rajeev Motwani 0001</author><author pid="n/SvetlozarNestorov">Svetlozar Nestorov</author><author pid="r/ArnonRosenthal">Arnon Rosenthal</author></authors><title>Query Flocks: A Generalization of Association-Rule Mining.</title><venue>SIGMOD Conference</venue><pages>1-12</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/TsurUACMNR98</key><doi>10.1145/276304.276306</doi><ee>https://doi.org/10.1145/276304.276306</ee><url>https://dblp.org/rec/conf/sigmod/TsurUACMNR98</url></info>
+<url>URL#7079875</url>
+</hit>
+<hit score="1" id="7079874">
+<info><authors><author pid="42/6933">Motomichi Toyama</author></authors><title>SuperSQL: An Extended SQL for Database Publishing and Presentation.</title><venue>SIGMOD Conference</venue><pages>584-586</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Toyama98</key><doi>10.1145/276304.276389</doi><ee>https://doi.org/10.1145/276304.276389</ee><url>https://dblp.org/rec/conf/sigmod/Toyama98</url></info>
+<url>URL#7079874</url>
+</hit>
+<hit score="1" id="7079873">
+<info><authors><author pid="s/IyerNSubramanian">Subbu N. Subramanian</author><author pid="85/3595">Shivakumar Venkataraman</author></authors><title>Cost-Based Optimization of Decision Support Queries Using Transient Views.</title><venue>SIGMOD Conference</venue><pages>319-330</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SubramanianV98</key><doi>10.1145/276304.276333</doi><ee>https://doi.org/10.1145/276304.276333</ee><url>https://dblp.org/rec/conf/sigmod/SubramanianV98</url></info>
+<url>URL#7079873</url>
+</hit>
+<hit score="1" id="7079872">
+<info><authors><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Are We Working On the Right Problems? (Panel).</title><venue>SIGMOD Conference</venue><pages>496</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Stonebraker98</key><doi>10.1145/276304.276348</doi><ee>https://doi.org/10.1145/276304.276348</ee><url>https://dblp.org/rec/conf/sigmod/Stonebraker98</url></info>
+<url>URL#7079872</url>
+</hit>
+<hit score="1" id="7079871">
+<info><authors><author pid="41/662">Peter M. Spiro</author></authors><title>Ubiquitous, Self-tuning, Scalable Servers.</title><venue>SIGMOD Conference</venue><pages>512-515</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Spiro98</key><doi>10.1145/276304.276359</doi><ee>https://doi.org/10.1145/276304.276359</ee><url>https://dblp.org/rec/conf/sigmod/Spiro98</url></info>
+<url>URL#7079871</url>
+</hit>
+<hit score="1" id="7079870">
+<info><authors><author pid="08/409">Takahiko Shintani</author><author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author></authors><title>Parallel Mining Algorithms for Generalized Association Rules with Classification Hierarchy.</title><venue>SIGMOD Conference</venue><pages>25-36</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ShintaniK98</key><doi>10.1145/276304.276308</doi><ee>https://doi.org/10.1145/276304.276308</ee><url>https://dblp.org/rec/conf/sigmod/ShintaniK98</url></info>
+<url>URL#7079870</url>
+</hit>
+<hit score="1" id="7079869">
+<info><authors><author pid="s/ThomasSeidl1">Thomas Seidl 0001</author><author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author></authors><title>Optimal Multi-Step k-Nearest Neighbor Search.</title><venue>SIGMOD Conference</venue><pages>154-165</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SeidlK98</key><doi>10.1145/276304.276319</doi><ee>https://doi.org/10.1145/276304.276319</ee><url>https://dblp.org/rec/conf/sigmod/SeidlK98</url></info>
+<url>URL#7079869</url>
+</hit>
+<hit score="1" id="7079868">
+<info><authors><author pid="s/SunitaSarawagi">Sunita Sarawagi</author><author pid="46/6615">Shiby Thomas</author><author pid="a/RAgrawal">Rakesh Agrawal 0001</author></authors><title>Integrating Mining with Relational Database Systems: Alternatives and Implications.</title><venue>SIGMOD Conference</venue><pages>343-354</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SarawagiTA98</key><doi>10.1145/276304.276335</doi><ee>https://doi.org/10.1145/276304.276335</ee><url>https://dblp.org/rec/conf/sigmod/SarawagiTA98</url></info>
+<url>URL#7079868</url>
+</hit>
+<hit score="1" id="7079867">
+<info><authors><author pid="76/3381">Berthold Reinwald</author><author pid="p/HamidPirahesh">Hamid Pirahesh</author></authors><title>SQL Open Heterogeneous Data Access.</title><venue>SIGMOD Conference</venue><pages>506-507</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ReinwaldP98</key><doi>10.1145/276304.276356</doi><ee>https://doi.org/10.1145/276304.276356</ee><url>https://dblp.org/rec/conf/sigmod/ReinwaldP98</url></info>
+<url>URL#7079867</url>
+</hit>
+<hit score="1" id="7079866">
+<info><authors><author pid="r/JunRao">Jun Rao</author><author pid="r/KARoss">Kenneth A. Ross</author></authors><title>Reusing Invariants: A New Strategy for Correlated Queries.</title><venue>SIGMOD Conference</venue><pages>37-48</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RaoR98</key><doi>10.1145/276304.276309</doi><ee>https://doi.org/10.1145/276304.276309</ee><url>https://dblp.org/rec/conf/sigmod/RaoR98</url></info>
+<url>URL#7079866</url>
+</hit>
+<hit score="1" id="7079865">
+<info><authors><author pid="28/1006">Satish Ramakrishnan</author><author pid="59/3004">Vibha Dayal</author></authors><title>The PointCast Network.</title><venue>SIGMOD Conference</venue><pages>520</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RamakrishnanD98</key><doi>10.1145/276304.276361</doi><ee>https://doi.org/10.1145/276304.276361</ee><url>https://dblp.org/rec/conf/sigmod/RamakrishnanD98</url></info>
+<url>URL#7079865</url>
+</hit>
+<hit score="1" id="7079864">
+<info><authors><author pid="m/GSManku">Gurmeet Singh Manku</author><author pid="76/717">Sridhar Rajagopalan</author><author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author></authors><title>Approximate Medians and other Quantiles in One Pass and with Limited Memory.</title><venue>SIGMOD Conference</venue><pages>426-435</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RajagopalanML98</key><doi>10.1145/276304.276342</doi><ee>https://doi.org/10.1145/276304.276342</ee><url>https://dblp.org/rec/conf/sigmod/RajagopalanML98</url></info>
+<url>URL#7079864</url>
+</hit>
+<hit score="1" id="7079863">
+<info><authors><author pid="60/3155">Jang Ho Park</author><author pid="13/3100">Yong Sik Kwon</author><author pid="01/3748">Ki Hong Kim</author><author pid="17/5702">Sangho Lee</author><author pid="53/2968">Byoung Dae Park</author><author pid="c/SangKyunCha">Sang Kyun Cha</author></authors><title>Xmas: An Extensible Main-Memory Storage System for High-Performance Applications.</title><venue>SIGMOD Conference</venue><pages>578-580</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ParkKKLPC98</key><doi>10.1145/276304.276387</doi><ee>https://doi.org/10.1145/276304.276387</ee><url>https://dblp.org/rec/conf/sigmod/ParkKKLPC98</url></info>
+<url>URL#7079863</url>
+</hit>
+<hit score="1" id="7079862">
+<info><authors><author pid="p/ANPapadopoulos">Apostolos Papadopoulos</author><author pid="m/YManolopoulos">Yannis Manolopoulos</author></authors><title>Similarity Query Processing Using Disk Arrays.</title><venue>SIGMOD Conference</venue><pages>225-236</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/PapadopoulosM98</key><doi>10.1145/276304.276325</doi><ee>https://doi.org/10.1145/276304.276325</ee><url>https://dblp.org/rec/conf/sigmod/PapadopoulosM98</url></info>
+<url>URL#7079862</url>
+</hit>
+<hit score="1" id="7079861">
+<info><authors><author pid="o/ChristopherOlston">Chris Olston</author><author pid="63/6133">Allison Woodruff</author><author pid="a/AAiken">Alexander Aiken</author><author pid="76/4622">Michael Chu</author><author pid="58/4208">Vuk Ercegovac</author><author pid="19/3815">Mark Lin</author><author pid="92/2810">Mybrid Spalding</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>DataSplash.</title><venue>SIGMOD Conference</venue><pages>550-552</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/OlstonWACELSS98</key><doi>10.1145/276304.276377</doi><ee>https://doi.org/10.1145/276304.276377</ee><url>https://dblp.org/rec/conf/sigmod/OlstonWACELSS98</url></info>
+<url>URL#7079861</url>
+</hit>
+<hit score="1" id="7079860">
+<info><authors><author pid="31/3221">KianSing Ng</author><author pid="92/309">Huan Liu</author><author pid="17/5971">HweeBong Kwah</author></authors><title>A Data Mining Application: Customes Retention at the Port of Singapore Authority (PSA).</title><venue>SIGMOD Conference</venue><pages>522-525</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NgLK98</key><doi>10.1145/276304.276364</doi><ee>https://doi.org/10.1145/276304.276364</ee><url>https://dblp.org/rec/conf/sigmod/NgLK98</url></info>
+<url>URL#7079860</url>
+</hit>
+<hit score="1" id="7079859">
+<info><authors><author pid="n/RTNg">Raymond T. Ng</author><author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author><author pid="h/JiaweiHan">Jiawei Han 0001</author><author pid="p/AlexTPang">Alex Pang</author></authors><title>Exploratory Mining and Pruning Optimizations of Constrained Association Rules.</title><venue>SIGMOD Conference</venue><pages>13-24</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NgLHP98</key><doi>10.1145/276304.276307</doi><ee>https://doi.org/10.1145/276304.276307</ee><url>https://dblp.org/rec/conf/sigmod/NgLHP98</url></info>
+<url>URL#7079859</url>
+</hit>
+<hit score="1" id="7079858">
+<info><authors><author pid="n/SvetlozarNestorov">Svetlozar Nestorov</author><author pid="a/SergeAbiteboul">Serge Abiteboul</author><author pid="m/RajeevMotwani">Rajeev Motwani 0001</author></authors><title>Extracting Schema from Semistructured Data.</title><venue>SIGMOD Conference</venue><pages>295-306</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NestorovAM98</key><doi>10.1145/276304.276331</doi><ee>https://doi.org/10.1145/276304.276331</ee><url>https://dblp.org/rec/conf/sigmod/NestorovAM98</url></info>
+<url>URL#7079858</url>
+</hit>
+<hit score="1" id="7079857">
+<info><authors><author pid="26/6225">John Nauman</author><author pid="71/1721">Ray Suorsa</author></authors><title>Developing a High Traffic, Read-Only Web Site.</title><venue>SIGMOD Conference</venue><pages>534-535</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NaumanS98</key><doi>10.1145/276304.276369</doi><ee>https://doi.org/10.1145/276304.276369</ee><url>https://dblp.org/rec/conf/sigmod/NaumanS98</url></info>
+<url>URL#7079857</url>
+</hit>
+<hit score="1" id="7079856">
+<info><authors><author pid="m/JohnMylopoulos">John Mylopoulos</author></authors><title>Panel on Next Generation Database Systems Won&apos;t Work Without Semantics!</title><venue>SIGMOD Conference</venue><pages>497</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Mylopoulos98</key><doi>10.1145/276304.276349</doi><ee>https://doi.org/10.1145/276304.276349</ee><url>https://dblp.org/rec/conf/sigmod/Mylopoulos98</url></info>
+<url>URL#7079856</url>
+</hit>
+<hit score="1" id="7079855">
+<info><authors><author pid="m/RJMiller">Renée J. Miller</author></authors><title>Using Schematically Heterogeneous Structures.</title><venue>SIGMOD Conference</venue><pages>189-200</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Miller98</key><doi>10.1145/276304.276322</doi><ee>https://doi.org/10.1145/276304.276322</ee><url>https://dblp.org/rec/conf/sigmod/Miller98</url></info>
+<url>URL#7079855</url>
+</hit>
+<hit score="1" id="7079854">
+<info><authors><author pid="m/GMecca">Giansalvatore Mecca</author><author pid="a/PAtzeni">Paolo Atzeni</author><author pid="m/AMasci">Alessandro Masci 0001</author><author pid="m/PaoloMerialdo">Paolo Merialdo</author><author pid="52/3314">Giuseppe Sindoni</author></authors><title>The Araneus Web-Base Management System.</title><venue>SIGMOD Conference</venue><pages>544-546</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MeccaAMMS98</key><doi>10.1145/276304.276375</doi><ee>https://doi.org/10.1145/276304.276375</ee><url>https://dblp.org/rec/conf/sigmod/MeccaAMMS98</url></info>
+<url>URL#7079854</url>
+</hit>
+<hit score="1" id="7079853">
+<info><authors><author pid="m/YossiMatias">Yossi Matias</author><author pid="v/JeffreyScottVitter">Jeffrey Scott Vitter</author><author pid="w/MinWang">Min Wang 0001</author></authors><title>Wavelet-Based Histograms for Selectivity Estimation.</title><venue>SIGMOD Conference</venue><pages>448-459</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MatiasVW98</key><doi>10.1145/276304.276344</doi><ee>https://doi.org/10.1145/276304.276344</ee><url>https://dblp.org/rec/conf/sigmod/MatiasVW98</url></info>
+<url>URL#7079853</url>
+</hit>
+<hit score="1" id="7079852">
+<info><authors><author pid="l/DavidBLomet">David B. Lomet</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>Efficient and Transparent Application Recovery in Client-Server Information Systems.</title><venue>SIGMOD Conference</venue><pages>460-471</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LometW98</key><doi>10.1145/276304.276345</doi><ee>https://doi.org/10.1145/276304.276345</ee><url>https://dblp.org/rec/conf/sigmod/LometW98</url></info>
+<url>URL#7079852</url>
+</hit>
+<hit score="1" id="7079851">
+<info><authors><author pid="l/LingLiu">Ling Liu 0001</author><author pid="p/CaltonPu">Calton Pu</author><author pid="58/1874-5">Wei Tang 0005</author><author pid="39/4392">David Buttler</author><author pid="49/6115">John Biggs</author><author pid="30/97">Tong Zhou</author><author pid="49/5035">Paul Benninghoff</author><author pid="82/1911">Wei Han</author><author pid="18/4142">Fenghua Yu</author></authors><title>CQ: A Personalized Update Monitoring Toolkit.</title><venue>SIGMOD Conference</venue><pages>547-549</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiuPTBBZBHY98</key><doi>10.1145/276304.276376</doi><ee>https://doi.org/10.1145/276304.276376</ee><url>https://dblp.org/rec/conf/sigmod/LiuPTBBZBHY98</url></info>
+<url>URL#7079851</url>
+</hit>
+<hit score="1" id="7079850">
+<info><authors><author pid="l/ChenLi1">Chen Li 0001</author><author pid="y/RamanaYerneni">Ramana Yerneni</author><author pid="v/VVassalos">Vasilis Vassalos</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author><author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author><author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author><author pid="93/4554">Murty Valiveti</author></authors><title>Capability Based Mediation in TSIMMIS.</title><venue>SIGMOD Conference</venue><pages>564-566</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiYVGPUV98</key><doi>10.1145/276304.276382</doi><ee>https://doi.org/10.1145/276304.276382</ee><url>https://dblp.org/rec/conf/sigmod/LiYVGPUV98</url></info>
+<url>URL#7079850</url>
+</hit>
+<hit score="1" id="7079849">
+<info><authors><author pid="89/6764">Bin Li</author><author pid="s/DennisShasha">Dennis E. Shasha</author></authors><title>Free Parallel Data Mining.</title><venue>SIGMOD Conference</venue><pages>541-543</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LiS98</key><doi>10.1145/276304.276374</doi><ee>https://doi.org/10.1145/276304.276374</ee><url>https://dblp.org/rec/conf/sigmod/LiS98</url></info>
+<url>URL#7079849</url>
+</hit>
+<hit score="1" id="7079848">
+<info><authors><author pid="71/636">Edwin R. Lassettre</author></authors><title>Olympic Records for Data at the 1998 Nagano Games.</title><venue>SIGMOD Conference</venue><pages>537</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Lassettre98</key><doi>10.1145/276304.276371</doi><ee>https://doi.org/10.1145/276304.276371</ee><url>https://dblp.org/rec/conf/sigmod/Lassettre98</url></info>
+<url>URL#7079848</url>
+</hit>
+<hit score="1" id="7079847">
+<info><authors><author pid="l/PALarson">Per-Åke Larson</author><author pid="g/GoetzGraefe">Goetz Graefe</author></authors><title>Memory Management During Run Generation in External Sorting.</title><venue>SIGMOD Conference</venue><pages>472-483</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LarsonG98</key><doi>10.1145/276304.276346</doi><ee>https://doi.org/10.1145/276304.276346</ee><url>https://dblp.org/rec/conf/sigmod/LarsonG98</url></info>
+<url>URL#7079847</url>
+</hit>
+<hit score="1" id="7079846">
+<info><authors><author pid="46/49">Tirthankar Lahiri</author><author pid="36/1758">Ashok Joshi</author><author pid="37/5701">Amit Jasuja</author><author pid="91/1046">Sumanta Chatterjee</author></authors><title>50,000 Users on an Oracle8 Universal Server Database.</title><venue>SIGMOD Conference</venue><pages>528-530</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LahiriJJC98</key><doi>10.1145/276304.276366</doi><ee>https://doi.org/10.1145/276304.276366</ee><url>https://dblp.org/rec/conf/sigmod/LahiriJJC98</url></info>
+<url>URL#7079846</url>
+</hit>
+<hit score="1" id="7079845">
+<info><authors><author pid="l/ZLacroix">Zoé Lacroix</author><author pid="s/ArnaudSahuguet">Arnaud Sahuguet</author><author pid="90/6851">Raman Chandrasekar</author></authors><title>User-oriented smart-cache for the Web: What You Seek is What You Get!</title><venue>SIGMOD Conference</venue><pages>572-574</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LacroixSC98</key><doi>10.1145/276304.276385</doi><ee>https://doi.org/10.1145/276304.276385</ee><url>https://dblp.org/rec/conf/sigmod/LacroixSC98</url></info>
+<url>URL#7079845</url>
+</hit>
+<hit score="1" id="7079844">
+<info><authors><author pid="k/YannisKotidis">Yannis Kotidis</author><author pid="r/NickRoussopoulos">Nick Roussopoulos</author></authors><title>An Alternative Storage Organization for ROLAP Aggregate Views Based on Cubetrees.</title><venue>SIGMOD Conference</venue><pages>249-258</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KotidisR98</key><doi>10.1145/276304.276327</doi><ee>https://doi.org/10.1145/276304.276327</ee><url>https://dblp.org/rec/conf/sigmod/KotidisR98</url></info>
+<url>URL#7079844</url>
+</hit>
+<hit score="1" id="7079843">
+<info><authors><author pid="11/6425">Marcel Kornacker</author><author pid="s/MehulAShah">Mehul A. Shah</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author></authors><title>amdb: An Access Method Debugging Tool.</title><venue>SIGMOD Conference</venue><pages>570-571</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KornackerSH98</key><doi>10.1145/276304.276384</doi><ee>https://doi.org/10.1145/276304.276384</ee><url>https://dblp.org/rec/conf/sigmod/KornackerSH98</url></info>
+<url>URL#7079843</url>
+</hit>
+<hit score="1" id="7079842">
+<info><authors><author pid="67/3920">Bartek Kiepuszewski</author><author pid="94/3483">Ralf Mühlberger</author><author pid="o/MariaEOrlowska">Maria E. Orlowska</author></authors><title>FlowBack: Providing Backward Recovery for Workflow Systems.</title><venue>SIGMOD Conference</venue><pages>555-557</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KiepuszewskiMO98</key><doi>10.1145/276304.276379</doi><ee>https://doi.org/10.1145/276304.276379</ee><url>https://dblp.org/rec/conf/sigmod/KiepuszewskiMO98</url></info>
+<url>URL#7079842</url>
+</hit>
+<hit score="1" id="7079841">
+<info><authors><author pid="75/6164">Sherri Kennamer</author></authors><title>Microsoft.com: A High-Scale Data Management and Transaction Processing Solution.</title><venue>SIGMOD Conference</venue><pages>539-540</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Kennamer98</key><doi>10.1145/276304.276373</doi><ee>https://doi.org/10.1145/276304.276373</ee><url>https://dblp.org/rec/conf/sigmod/Kennamer98</url></info>
+<url>URL#7079841</url>
+</hit>
+<hit score="1" id="7079840">
+<info><authors><author pid="k/AlfonsKemper">Alfons Kemper</author><author pid="k/DonaldKossmann">Donald Kossmann</author><author pid="m/FlorianMatthes">Florian Matthes</author></authors><title>SAP R/3: A Database Application System (Tutorial).</title><venue>SIGMOD Conference</venue><pages>499</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KemperKM98</key><doi>10.1145/276304.276351</doi><ee>https://doi.org/10.1145/276304.276351</ee><url>https://dblp.org/rec/conf/sigmod/KemperKM98</url></info>
+<url>URL#7079840</url>
+</hit>
+<hit score="1" id="7079839">
+<info><authors><author pid="37/673">Kothuri Venkata Ravi Kanth</author><author pid="a/DivyakantAgrawal">Divyakant Agrawal</author><author pid="s/AmbujKSingh">Ambuj K. Singh</author></authors><title>Dimensionality Reduction for Similarity Searching in Dynamic Databases.</title><venue>SIGMOD Conference</venue><pages>166-176</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KanthAS98</key><doi>10.1145/276304.276320</doi><ee>https://doi.org/10.1145/276304.276320</ee><url>https://dblp.org/rec/conf/sigmod/KanthAS98</url></info>
+<url>URL#7079839</url>
+</hit>
+<hit score="1" id="7079838">
+<info><authors><author pid="k/NavinKabra">Navin Kabra</author><author pid="d/DJDeWitt">David J. DeWitt</author></authors><title>Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans.</title><venue>SIGMOD Conference</venue><pages>106-117</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KabraD98</key><doi>10.1145/276304.276315</doi><ee>https://doi.org/10.1145/276304.276315</ee><url>https://dblp.org/rec/conf/sigmod/KabraD98</url></info>
+<url>URL#7079838</url>
+</hit>
+<hit score="1" id="7079837">
+<info><authors><author pid="j/BjornTorJonsson1">Björn Þór Jónsson 0001</author><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Interaction of Query Evaluation and Buffer Management for Information Retrieval.</title><venue>SIGMOD Conference</venue><pages>118-129</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JonssonFS98</key><doi>10.1145/276304.276316</doi><ee>https://doi.org/10.1145/276304.276316</ee><url>https://dblp.org/rec/conf/sigmod/JonssonFS98</url></info>
+<url>URL#7079837</url>
+</hit>
+<hit score="1" id="7079836">
+<info><authors><author pid="04/1350">Michael Jaedicke</author><author pid="m/BMitschang">Bernhard Mitschang</author></authors><title>On Parallel Processing of Aggregate and Scalar Functions in Object-Relational DBMS.</title><venue>SIGMOD Conference</venue><pages>379-389</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JaedickeM98</key><doi>10.1145/276304.276338</doi><ee>https://doi.org/10.1145/276304.276338</ee><url>https://dblp.org/rec/conf/sigmod/JaedickeM98</url></info>
+<url>URL#7079836</url>
+</hit>
+<hit score="1" id="7079835">
+<info><authors><author pid="h/GisliRHjaltason">Gísli R. Hjaltason</author><author pid="s/HananSamet">Hanan Samet</author></authors><title>Incremental Distance Join Algorithms for Spatial Databases.</title><venue>SIGMOD Conference</venue><pages>237-248</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HjaltasonS98</key><doi>10.1145/276304.276326</doi><ee>https://doi.org/10.1145/276304.276326</ee><url>https://dblp.org/rec/conf/sigmod/HjaltasonS98</url></info>
+<url>URL#7079835</url>
+</hit>
+<hit score="1" id="7079834">
+<info><authors><author pid="g/SudiptoGuha">Sudipto Guha</author><author pid="r/RajeevRastogi">Rajeev Rastogi</author><author pid="s/KyuseokShim">Kyuseok Shim</author></authors><title>CURE: An Efficient Clustering Algorithm for Large Databases.</title><venue>SIGMOD Conference</venue><pages>73-84</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GuhaRS98</key><doi>10.1145/276304.276312</doi><ee>https://doi.org/10.1145/276304.276312</ee><url>https://dblp.org/rec/conf/sigmod/GuhaRS98</url></info>
+<url>URL#7079834</url>
+</hit>
+<hit score="1" id="7079833">
+<info><authors><author pid="g/SGrumbach">Stéphane Grumbach</author><author pid="r/PRigaux">Philippe Rigaux</author><author pid="s/LucSegoufin">Luc Segoufin</author></authors><title>The DEDALE System for Complex Spatial Queries.</title><venue>SIGMOD Conference</venue><pages>213-224</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GrumbachRS98</key><doi>10.1145/276304.276324</doi><ee>https://doi.org/10.1145/276304.276324</ee><url>https://dblp.org/rec/conf/sigmod/GrumbachRS98</url></info>
+<url>URL#7079833</url>
+</hit>
+<hit score="1" id="7079832">
+<info><authors><author pid="g/MichaelWGodfrey">Michael W. Godfrey</author><author pid="96/6027-1">Tobias Mayr 0001</author><author pid="s/PraveenSeshadri">Praveen Seshadri</author><author pid="76/5208">Thorsten von Eicken</author></authors><title>Secure and Portable Database Extensibility.</title><venue>SIGMOD Conference</venue><pages>390-401</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GodfreySE98</key><doi>10.1145/276304.276339</doi><ee>https://doi.org/10.1145/276304.276339</ee><url>https://dblp.org/rec/conf/sigmod/GodfreySE98</url></info>
+<url>URL#7079832</url>
+</hit>
+<hit score="1" id="7079831">
+<info><authors><author pid="g/PhillipBGibbons">Phillip B. Gibbons</author><author pid="m/YossiMatias">Yossi Matias</author></authors><title>New Sampling-Based Summary Statistics for Improving Approximate Query Answers.</title><venue>SIGMOD Conference</venue><pages>331-342</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GibbonsM98</key><doi>10.1145/276304.276334</doi><ee>https://doi.org/10.1145/276304.276334</ee><url>https://dblp.org/rec/conf/sigmod/GibbonsM98</url></info>
+<url>URL#7079831</url>
+</hit>
+<hit score="1" id="7079830">
+<info><authors><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="z/SBZdonik">Stanley B. Zdonik</author></authors><title>&quot;Data In Your Face&quot;: Push Technology in Perspective.</title><venue>SIGMOD Conference</venue><pages>516-519</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FranklinZ98</key><doi>10.1145/276304.276360</doi><ee>https://doi.org/10.1145/276304.276360</ee><url>https://dblp.org/rec/conf/sigmod/FranklinZ98</url></info>
+<url>URL#7079830</url>
+</hit>
+<hit score="1" id="7079829">
+<info><authors><author pid="f/MaryFFernandez">Mary F. Fernández</author><author pid="70/3007">Daniela Florescu</author><author pid="k/JaewooKang">Jaewoo Kang</author><author pid="h/AlonYHalevy">Alon Y. Levy</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Catching the Boat with Strudel: Experiences with a Web-Site Management System.</title><venue>SIGMOD Conference</venue><pages>414-425</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FernandezFKLS98</key><doi>10.1145/276304.276341</doi><ee>https://doi.org/10.1145/276304.276341</ee><url>https://dblp.org/rec/conf/sigmod/FernandezFKLS98</url></info>
+<url>URL#7079829</url>
+</hit>
+<hit score="1" id="7079828">
+<info><authors><author pid="f/LeonidasFegaras">Leonidas Fegaras</author></authors><title>Query Unnesting in Object-Oriented Databases.</title><venue>SIGMOD Conference</venue><pages>49-60</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Fegaras98</key><doi>10.1145/276304.276310</doi><ee>https://doi.org/10.1145/276304.276310</ee><url>https://dblp.org/rec/conf/sigmod/Fegaras98</url></info>
+<url>URL#7079828</url>
+</hit>
+<hit score="1" id="7079827">
+<info><authors><author pid="82/6962">Chris Eaton</author></authors><title>Managing Large Systems with DB2 UDB.</title><venue>SIGMOD Conference</venue><pages>508-509</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Eaton98</key><doi>10.1145/276304.276357</doi><ee>https://doi.org/10.1145/276304.276357</ee><url>https://dblp.org/rec/conf/sigmod/Eaton98</url></info>
+<url>URL#7079827</url>
+</hit>
+<hit score="1" id="7079826">
+<info><authors><author pid="81/3628">C. Gregory Doherty</author></authors><title>Database Systems Management and Oracle8.</title><venue>SIGMOD Conference</venue><pages>510-511</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Doherty98</key><doi>10.1145/276304.276358</doi><ee>https://doi.org/10.1145/276304.276358</ee><url>https://dblp.org/rec/conf/sigmod/Doherty98</url></info>
+<url>URL#7079826</url>
+</hit>
+<hit score="1" id="7079825">
+<info><authors><author pid="d/PrasadDeshpande">Prasad Deshpande</author><author pid="r/KRamasamy">Karthikeyan Ramasamy</author><author pid="s/AmitShukla">Amit Shukla 0001</author><author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author></authors><title>Caching Multidimensional Queries Using Chunks.</title><venue>SIGMOD Conference</venue><pages>259-270</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DeshpandeRSN98</key><doi>10.1145/276304.276328</doi><ee>https://doi.org/10.1145/276304.276328</ee><url>https://dblp.org/rec/conf/sigmod/DeshpandeRSN98</url></info>
+<url>URL#7079825</url>
+</hit>
+<hit score="1" id="7079824">
+<info><authors><author pid="90/3621">Shaul Dar</author><author pid="74/822">Gadi Entin</author><author pid="67/1280">Shai Geva</author><author pid="12/2654">Eran Palmon</author></authors><title>DTL&apos;s DataSpot: Database Exploration as Easy as Browsing the Web ...</title><venue>SIGMOD Conference</venue><pages>590-592</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DarEGP98</key><doi>10.1145/276304.276391</doi><ee>https://doi.org/10.1145/276304.276391</ee><url>https://dblp.org/rec/conf/sigmod/DarEGP98</url></info>
+<url>URL#7079824</url>
+</hit>
+<hit score="1" id="7079823">
+<info><authors><author pid="c/WWCohen">William W. Cohen</author></authors><title>Providing Database-like Access to the Web Using Queries Based on Textual Similarity.</title><venue>SIGMOD Conference</venue><pages>558-560</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Cohen98a</key><doi>10.1145/276304.276380</doi><ee>https://doi.org/10.1145/276304.276380</ee><url>https://dblp.org/rec/conf/sigmod/Cohen98a</url></info>
+<url>URL#7079823</url>
+</hit>
+<hit score="1" id="7079822">
+<info><authors><author pid="c/WWCohen">William W. Cohen</author></authors><title>Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity.</title><venue>SIGMOD Conference</venue><pages>201-212</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Cohen98</key><doi>10.1145/276304.276323</doi><ee>https://doi.org/10.1145/276304.276323</ee><url>https://dblp.org/rec/conf/sigmod/Cohen98</url></info>
+<url>URL#7079822</url>
+</hit>
+<hit score="1" id="7079821">
+<info><authors><author pid="c/SophieCluet">Sophie Cluet</author><author pid="05/611">Claude Delobel</author><author pid="15/4061">Jérôme Siméon</author><author pid="35/5510">Katarzyna Smaga</author></authors><title>Your Mediators Need Data Conversion!</title><venue>SIGMOD Conference</venue><pages>177-188</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/CluetDSS98</key><doi>10.1145/276304.276321</doi><ee>https://doi.org/10.1145/276304.276321</ee><url>https://dblp.org/rec/conf/sigmod/CluetDSS98</url></info>
+<url>URL#7079821</url>
+</hit>
+<hit score="1" id="7079820">
+<info><authors><author pid="12/1781">Gray Clossman</author><author pid="44/4739">Phil Shaw</author><author pid="88/1675">Mark Hapner</author><author pid="65/708">Johannes Klein</author><author pid="06/1335">Richard Pledereder</author><author pid="05/3150">Brian Becker</author></authors><title>Java and Relational Databases: SQLJ (Tutorial).</title><venue>SIGMOD Conference</venue><pages>500</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ClossmanSHKPB98</key><doi>10.1145/276304.276352</doi><ee>https://doi.org/10.1145/276304.276352</ee><url>https://dblp.org/rec/conf/sigmod/ClossmanSHKPB98</url></info>
+<url>URL#7079820</url>
+</hit>
+<hit score="1" id="7079819">
+<info><authors><author pid="81/6119">James Chong</author></authors><title>Real Business Processing Meets the Web.</title><venue>SIGMOD Conference</venue><pages>536</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Chong98</key><doi>10.1145/276304.276370</doi><ee>https://doi.org/10.1145/276304.276370</ee><url>https://dblp.org/rec/conf/sigmod/Chong98</url></info>
+<url>URL#7079819</url>
+</hit>
+<hit score="1" id="7079818">
+<info><authors><author pid="c/MitchCherniack">Mitch Cherniack</author><author pid="z/SBZdonik">Stanley B. Zdonik</author></authors><title>Changing the Rules: Transformations for Rule-Based Optimizers.</title><venue>SIGMOD Conference</venue><pages>61-72</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/CherniackZ98</key><doi>10.1145/276304.276311</doi><ee>https://doi.org/10.1145/276304.276311</ee><url>https://dblp.org/rec/conf/sigmod/CherniackZ98</url></info>
+<url>URL#7079818</url>
+</hit>
+<hit score="1" id="7079817">
+<info><authors><author pid="27/4364">Jing Chen</author><author pid="w/LimsoonWong">Limsoon Wong</author><author pid="68/5601">Louxin Zhang</author></authors><title>A Protein Patent Query System Powered By Kleisli.</title><venue>SIGMOD Conference</venue><pages>593-595</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChenWZ98</key><doi>10.1145/276304.276392</doi><ee>https://doi.org/10.1145/276304.276392</ee><url>https://dblp.org/rec/conf/sigmod/ChenWZ98</url></info>
+<url>URL#7079817</url>
+</hit>
+<hit score="1" id="7079816">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="n/VivekRNarasayya">Vivek R. Narasayya</author></authors><title>Microsoft Index Tuning Wizard for SQL Server 7.0.</title><venue>SIGMOD Conference</venue><pages>553-554</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChaudhuriN98a</key><doi>10.1145/276304.276378</doi><ee>https://doi.org/10.1145/276304.276378</ee><url>https://dblp.org/rec/conf/sigmod/ChaudhuriN98a</url></info>
+<url>URL#7079816</url>
+</hit>
+<hit score="1" id="7079815">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="n/VivekRNarasayya">Vivek R. Narasayya</author></authors><title>AutoAdmin &apos;What-if&apos; Index Analysis Utility.</title><venue>SIGMOD Conference</venue><pages>367-378</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChaudhuriN98</key><doi>10.1145/276304.276337</doi><ee>https://doi.org/10.1145/276304.276337</ee><url>https://dblp.org/rec/conf/sigmod/ChaudhuriN98</url></info>
+<url>URL#7079815</url>
+</hit>
+<hit score="1" id="7079814">
+<info><authors><author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author><author pid="m/RajeevMotwani">Rajeev Motwani 0001</author><author pid="n/VivekRNarasayya">Vivek R. Narasayya</author></authors><title>Random Sampling for Histogram Construction: How much is enough?</title><venue>SIGMOD Conference</venue><pages>436-447</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChaudhuriMN98</key><doi>10.1145/276304.276343</doi><ee>https://doi.org/10.1145/276304.276343</ee><url>https://dblp.org/rec/conf/sigmod/ChaudhuriMN98</url></info>
+<url>URL#7079814</url>
+</hit>
+<hit score="1" id="7079813">
+<info><authors><author pid="c/CheeYongChan">Chee Yong Chan</author><author pid="i/YEIoannidis">Yannis E. Ioannidis</author></authors><title>Bitmap Index Design and Evaluation.</title><venue>SIGMOD Conference</venue><pages>355-366</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChanI98</key><doi>10.1145/276304.276336</doi><ee>https://doi.org/10.1145/276304.276336</ee><url>https://dblp.org/rec/conf/sigmod/ChanI98</url></info>
+<url>URL#7079813</url>
+</hit>
+<hit score="1" id="7079812">
+<info><authors><author pid="16/4154">Arvola Chan</author></authors><title>Transactional Publish / Subscribe: The Proactive Multicast of Database Changes.</title><venue>SIGMOD Conference</venue><pages>521</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Chan98</key><doi>10.1145/276304.276362</doi><ee>https://doi.org/10.1145/276304.276362</ee><url>https://dblp.org/rec/conf/sigmod/Chan98</url></info>
+<url>URL#7079812</url>
+</hit>
+<hit score="1" id="7079811">
+<info><authors><author pid="c/SChakrabarti">Soumen Chakrabarti</author><author pid="35/1373">Byron Dom</author><author pid="i/PiotrIndyk">Piotr Indyk</author></authors><title>Enhanced Hypertext Categorization Using Hyperlinks.</title><venue>SIGMOD Conference</venue><pages>307-318</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChakrabartiDI98</key><doi>10.1145/276304.276332</doi><ee>https://doi.org/10.1145/276304.276332</ee><url>https://dblp.org/rec/conf/sigmod/ChakrabartiDI98</url></info>
+<url>URL#7079811</url>
+</hit>
+<hit score="1" id="7079810">
+<info><authors><author pid="c/StefanoCeri">Stefano Ceri</author><author pid="f/PieroFraternali">Piero Fraternali</author><author pid="05/600">Stefano Paraboschi</author></authors><title>The IDEA Web Lab.</title><venue>SIGMOD Conference</venue><pages>587-589</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/CeriFP98</key><doi>10.1145/276304.276390</doi><ee>https://doi.org/10.1145/276304.276390</ee><url>https://dblp.org/rec/conf/sigmod/CeriFP98</url></info>
+<url>URL#7079810</url>
+</hit>
+<hit score="1" id="7079809">
+<info><authors><author pid="b/EricABrewer">Eric A. Brewer</author></authors><title>Delivering High Availability for Inktomi Search Engines.</title><venue>SIGMOD Conference</venue><pages>538</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Brewer98</key><doi>10.1145/276304.276372</doi><ee>https://doi.org/10.1145/276304.276372</ee><url>https://dblp.org/rec/conf/sigmod/Brewer98</url></info>
+<url>URL#7079809</url>
+</hit>
+<hit score="1" id="7079808">
+<info><authors><author pid="79/2594">José A. Blakeley</author><author pid="77/2252">Michael Pizzo</author></authors><title>Microsoft Universal Data Access Platform.</title><venue>SIGMOD Conference</venue><pages>502-503</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BlakeleyP98</key><doi>10.1145/276304.276354</doi><ee>https://doi.org/10.1145/276304.276354</ee><url>https://dblp.org/rec/conf/sigmod/BlakeleyP98</url></info>
+<url>URL#7079808</url>
+</hit>
+<hit score="1" id="7079807">
+<info><authors><author pid="b/SBerchtold">Stefan Berchtold</author><author pid="k/DanielAKeim">Daniel A. Keim</author></authors><title>High-Dimensional Index Structures, Database Support for Next Decade&apos;s Applications (Tutorial).</title><venue>SIGMOD Conference</venue><pages>501</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BerchtoldK98</key><doi>10.1145/276304.276353</doi><ee>https://doi.org/10.1145/276304.276353</ee><url>https://dblp.org/rec/conf/sigmod/BerchtoldK98</url></info>
+<url>URL#7079807</url>
+</hit>
+<hit score="1" id="7079806">
+<info><authors><author pid="b/SBerchtold">Stefan Berchtold</author><author pid="323/2652-1">Christian Böhm 0001</author><author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author></authors><title>The Pyramid-Technique: Towards Breaking the Curse of Dimensionality.</title><venue>SIGMOD Conference</venue><pages>142-153</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BerchtoldBK98</key><doi>10.1145/276304.276318</doi><ee>https://doi.org/10.1145/276304.276318</ee><url>https://dblp.org/rec/conf/sigmod/BerchtoldBK98</url></info>
+<url>URL#7079806</url>
+</hit>
+<hit score="1" id="7079805">
+<info><authors><author pid="b/RobertoJBayardo">Roberto J. Bayardo Jr.</author></authors><title>Efficiently Mining Long Patterns from Databases.</title><venue>SIGMOD Conference</venue><pages>85-93</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Bayardo98</key><doi>10.1145/276304.276313</doi><ee>https://doi.org/10.1145/276304.276313</ee><url>https://dblp.org/rec/conf/sigmod/Bayardo98</url></info>
+<url>URL#7079805</url>
+</hit>
+<hit score="1" id="7079804">
+<info><authors><author pid="b/PBaumann">Peter Baumann 0001</author><author pid="08/1626">Andreas Dehmel</author><author pid="f/PaulaFurtado">Paula Furtado</author><author pid="r/RolandRitsch">Roland Ritsch</author><author pid="w/NorbertWidmann">Norbert Widmann</author></authors><title>The Multidimensional Database System RasDaMan.</title><venue>SIGMOD Conference</venue><pages>575-577</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BaumannDFRW98</key><doi>10.1145/276304.276386</doi><ee>https://doi.org/10.1145/276304.276386</ee><url>https://dblp.org/rec/conf/sigmod/BaumannDFRW98</url></info>
+<url>URL#7079804</url>
+</hit>
+<hit score="1" id="7079803">
+<info><authors><author pid="17/6696">Ron Avnur</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="80/3551">Bruce Lo</author><author pid="o/ChristopherOlston">Chris Olston</author><author pid="61/601">Bhaskaran Raman</author><author pid="r/VijayshankarRaman">Vijayshankar Raman</author><author pid="32/5664">Tali Roth</author><author pid="34/6809">Kirk Wylie</author></authors><title>CONTROL: Continuous Output and Navigation Technology with Refinement On-Line.</title><venue>SIGMOD Conference</venue><pages>567-569</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AvnurHLORRRW98</key><doi>10.1145/276304.276383</doi><ee>https://doi.org/10.1145/276304.276383</ee><url>https://dblp.org/rec/conf/sigmod/AvnurHLORRRW98</url></info>
+<url>URL#7079803</url>
+</hit>
+<hit score="1" id="7079802">
+<info><authors><author pid="93/2126">Kamar Aulakh</author></authors><title>About Quark Digital Media System.</title><venue>SIGMOD Conference</venue><pages>531-532</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Aulakh98</key><doi>10.1145/276304.276367</doi><ee>https://doi.org/10.1145/276304.276367</ee><url>https://dblp.org/rec/conf/sigmod/Aulakh98</url></info>
+<url>URL#7079802</url>
+</hit>
+<hit score="1" id="7079801">
+<info><authors><author pid="90/4916-1">Todd A. Anderson 0001</author><author pid="b/YuriBreitbart">Yuri Breitbart</author><author pid="k/HenryFKorth">Henry F. Korth</author><author pid="w/AvishaiWool">Avishai Wool</author></authors><title>Replication, Consistency, and Practicality: Are These Mutually Exclusive?</title><venue>SIGMOD Conference</venue><pages>484-495</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AndersonBKW98</key><doi>10.1145/276304.276347</doi><ee>https://doi.org/10.1145/276304.276347</ee><url>https://dblp.org/rec/conf/sigmod/AndersonBKW98</url></info>
+<url>URL#7079801</url>
+</hit>
+<hit score="1" id="7079800">
+<info><authors><author pid="87/4055">Richard Anderson</author><author pid="29/2523">Gopalan Arun</author><author pid="71/6909">Richard Frank</author></authors><title>Oracle Rdb&apos;s Record Caching Model.</title><venue>SIGMOD Conference</venue><pages>526-527</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AndersonAF98</key><doi>10.1145/276304.276365</doi><ee>https://doi.org/10.1145/276304.276365</ee><url>https://dblp.org/rec/conf/sigmod/AndersonAF98</url></info>
+<url>URL#7079800</url>
+</hit>
+<hit score="1" id="7079799">
+<info><authors><author pid="75/6070">José Luis Ambite</author><author pid="a/NAshish">Naveen Ashish</author><author pid="48/6271">Greg Barish</author><author pid="k/CAKnoblock">Craig A. Knoblock</author><author pid="m/SMinton">Steven Minton</author><author pid="30/2228">Pragnesh Jay Modi</author><author pid="69/3665">Ion Muslea</author><author pid="20/4002">Andrew Philpot</author><author pid="90/5210">Sheila Tejada</author></authors><title>ARIADNE: A System for Constructing Mediators for Internet Sources.</title><venue>SIGMOD Conference</venue><pages>561-563</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AmbiteABKMMMPT98</key><doi>10.1145/276304.276381</doi><ee>https://doi.org/10.1145/276304.276381</ee><url>https://dblp.org/rec/conf/sigmod/AmbiteABKMMMPT98</url></info>
+<url>URL#7079799</url>
+</hit>
+<hit score="1" id="7079798">
+<info><authors><author pid="a/RAgrawal">Rakesh Agrawal 0001</author><author pid="g/JohannesGehrke">Johannes Gehrke</author><author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author><author pid="r/PRaghavan">Prabhakar Raghavan</author></authors><title>Automatic Subspace Clustering of High Dimensional Data for Data Mining Applications.</title><venue>SIGMOD Conference</venue><pages>94-105</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AgrawalGGR98</key><doi>10.1145/276304.276314</doi><ee>https://doi.org/10.1145/276304.276314</ee><url>https://dblp.org/rec/conf/sigmod/AgrawalGGR98</url></info>
+<url>URL#7079798</url>
+</hit>
+<hit score="1" id="7079797">
+<info><authors><author pid="40/3607">Brad Adelberg</author></authors><title>NoDoSE - A Tool for Semi-Automatically Extracting Semi-Structured Data from Text Documents.</title><venue>SIGMOD Conference</venue><pages>283-294</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Adelberg98</key><doi>10.1145/276304.276330</doi><ee>https://doi.org/10.1145/276304.276330</ee><url>https://dblp.org/rec/conf/sigmod/Adelberg98</url></info>
+<url>URL#7079797</url>
+</hit>
+<hit score="1" id="7079796">
+<info><authors><author pid="a/NRAdam">Nabil R. Adam</author><author pid="y/YelenaYesha">Yelena Yesha</author></authors><title>Electronic Commerce: Tutorial.</title><venue>SIGMOD Conference</venue><pages>498</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AdamY98</key><doi>10.1145/276304.276350</doi><ee>https://doi.org/10.1145/276304.276350</ee><url>https://dblp.org/rec/conf/sigmod/AdamY98</url></info>
+<url>URL#7079796</url>
+</hit>
+<hit score="1" id="7079795">
+<info><authors><author pid="a/SAdali">Sibel Adali</author><author pid="b/PABonatti">Piero A. Bonatti</author><author pid="s/MariaLuisaSapino">Maria Luisa Sapino</author><author pid="s/VSSubrahmanian">V. S. Subrahmanian</author></authors><title>A Multi-Similarity Algebra.</title><venue>SIGMOD Conference</venue><pages>402-413</pages><year>1998</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AdaliBSS98</key><doi>10.1145/276304.276340</doi><ee>https://doi.org/10.1145/276304.276340</ee><url>https://dblp.org/rec/conf/sigmod/AdaliBSS98</url></info>
+<url>URL#7079795</url>
+</hit>
+</hits>
+</result>

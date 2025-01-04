@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57729">:facetid:toc:\"db/conf/sigmod/sigmod82.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">71.35</time>
+<completions total="1" computed="1" sent="1">
+<c sc="38" dc="38" oc="38" id="46507251">:facetid:toc:db/conf/sigmod/sigmod82.bht</c>
+</completions>
+<hits total="38" computed="38" sent="38" first="0">
+<hit score="1" id="7553959">
+<info><authors><author pid="96/5511">Mario Schkolnick</author></authors><title>Proceedings of the 1982 ACM SIGMOD International Conference on Management of Data, Orlando, Florida, USA, June 2-4, 1982.</title><publisher>ACM Press</publisher><year>1982</year><type>Editorship</type><key>conf/sigmod/82</key><doi>10.1145/582353</doi><ee>https://doi.org/10.1145/582353</ee><url>https://dblp.org/rec/conf/sigmod/82</url></info>
+<url>URL#7553959</url>
+</hit>
+<hit score="1" id="7553440">
+<info><authors><author pid="71/165">K. A. Hazboun</author><author pid="70/1620">Mostafa A. Bassiouni</author></authors><title>A Multi-Group Technique for Data Compression.</title><venue>SIGMOD Conference</venue><pages>284-292</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/X82</key><doi>10.1145/582353.582406</doi><ee>https://doi.org/10.1145/582353.582406</ee><url>https://dblp.org/rec/conf/sigmod/X82</url></info>
+<url>URL#7553440</url>
+</hit>
+<hit score="1" id="7553439">
+<info><authors><author pid="49/144">Harry K. T. Wong</author></authors><title>Statistical Database Management (Panel).</title><venue>SIGMOD Conference</venue><pages>118</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Wong82</key><doi>10.1145/582353.582373</doi><ee>https://doi.org/10.1145/582353.582373</ee><url>https://dblp.org/rec/conf/sigmod/Wong82</url></info>
+<url>URL#7553439</url>
+</hit>
+<hit score="1" id="7553438">
+<info><authors><author pid="v/PatrickValduriez">Patrick Valduriez</author></authors><title>Semi-Join Algorithms for Multiprocessor Systems.</title><venue>SIGMOD Conference</venue><pages>225-233</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Valduriez82</key><doi>10.1145/582353.582396</doi><ee>https://doi.org/10.1145/582353.582396</ee><url>https://dblp.org/rec/conf/sigmod/Valduriez82</url></info>
+<url>URL#7553438</url>
+</hit>
+<hit score="1" id="7553437">
+<info><authors><author pid="48/2200">Markku Tamminen</author></authors><title>Efficient Spatial Access to a Data Base.</title><venue>SIGMOD Conference</venue><pages>200-206</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Tamminen82</key><doi>10.1145/582353.582389</doi><ee>https://doi.org/10.1145/582353.582389</ee><url>https://dblp.org/rec/conf/sigmod/Tamminen82</url></info>
+<url>URL#7553437</url>
+</hit>
+<hit score="1" id="7553436">
+<info><authors><author pid="19/4663">Gunter Schlageter</author><author pid="66/4368">M. Rieskamp</author><author pid="77/1768">U. Prädel</author><author pid="u/RainerUnland">Rainer Unland</author></authors><title>The Network Query Language NOAH.</title><venue>SIGMOD Conference</venue><pages>104-110</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SchlageterRPU82</key><doi>10.1145/582353.582370</doi><ee>https://doi.org/10.1145/582353.582370</ee><url>https://dblp.org/rec/conf/sigmod/SchlageterRPU82</url></info>
+<url>URL#7553436</url>
+</hit>
+<hit score="1" id="7553435">
+<info><authors><author pid="r/LawrenceARowe">Lawrence A. Rowe</author><author pid="79/1603">Kurt A. Shoens</author></authors><title>FADS - A Form Application Development System.</title><venue>SIGMOD Conference</venue><pages>28-38</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RoweS82</key><doi>10.1145/582353.582359</doi><ee>https://doi.org/10.1145/582353.582359</ee><url>https://dblp.org/rec/conf/sigmod/RoweS82</url></info>
+<url>URL#7553435</url>
+</hit>
+<hit score="1" id="7553434">
+<info><authors><author pid="r/ArnonRosenthal">Arnon Rosenthal</author><author pid="13/1907">David S. Reiner</author></authors><title>An Architecture for Query Optimization.</title><venue>SIGMOD Conference</venue><pages>246-255</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RosenthalR82</key><doi>10.1145/582353.582401</doi><ee>https://doi.org/10.1145/582353.582401</ee><url>https://dblp.org/rec/conf/sigmod/RosenthalR82</url></info>
+<url>URL#7553434</url>
+</hit>
+<hit score="1" id="7553433">
+<info><authors><author pid="r/CRolland">Colette Rolland</author><author pid="30/4838">Christian Richard</author></authors><title>Transaction Modeling.</title><venue>SIGMOD Conference</venue><pages>265-275</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/RollandR82</key><doi>10.1145/582353.582404</doi><ee>https://doi.org/10.1145/582353.582404</ee><url>https://dblp.org/rec/conf/sigmod/RollandR82</url></info>
+<url>URL#7553433</url>
+</hit>
+<hit score="1" id="7553432">
+<info><authors><author pid="m/MMissikoff">Michele Missikoff</author></authors><title>A Domain Based Internal Schema for Relational Database Machines.</title><venue>SIGMOD Conference</venue><pages>215-224</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Missikoff82</key><doi>10.1145/582353.582395</doi><ee>https://doi.org/10.1145/582353.582395</ee><url>https://dblp.org/rec/conf/sigmod/Missikoff82</url></info>
+<url>URL#7553432</url>
+</hit>
+<hit score="1" id="7553431">
+<info><authors><author pid="m/DennisMcLeod">Dennis McLeod</author></authors><title>Tools for Personal Information Management (Panel).</title><venue>SIGMOD Conference</venue><pages>234</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/McLeod82</key><doi>10.1145/582353.582398</doi><ee>https://doi.org/10.1145/582353.582398</ee><url>https://dblp.org/rec/conf/sigmod/McLeod82</url></info>
+<url>URL#7553431</url>
+</hit>
+<hit score="1" id="7553430">
+<info><authors><author pid="04/2682">Frank Manola</author><author pid="48/4071">Alain Pirotte 0001</author></authors><title>CQLF - A Query Language for CODASYL-Type Databases.</title><venue>SIGMOD Conference</venue><pages>94-103</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ManolaP82</key><doi>10.1145/582353.582369</doi><ee>https://doi.org/10.1145/582353.582369</ee><url>https://dblp.org/rec/conf/sigmod/ManolaP82</url></info>
+<url>URL#7553430</url>
+</hit>
+<hit score="1" id="7553429">
+<info><authors><author pid="m/DavidMaier">David Maier 0001</author><author pid="w/DavidScottWarren">David Scott Warren</author></authors><title>Specifying Connections for a Universal Relation Scheme Database.</title><venue>SIGMOD Conference</venue><pages>1-7</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MaierW82</key><doi>10.1145/582353.582355</doi><ee>https://doi.org/10.1145/582353.582355</ee><url>https://dblp.org/rec/conf/sigmod/MaierW82</url></info>
+<url>URL#7553429</url>
+</hit>
+<hit score="1" id="7553428">
+<info><authors><author pid="m/DavidMaier">David Maier 0001</author><author pid="72/5303">David Rozenshtein</author><author pid="40/3078">Sharon C. Salveter</author><author pid="72/5426">Jacob Stein</author><author pid="w/DavidScottWarren">David Scott Warren</author></authors><title>Toward Logical Data Independence: A Relational Query Language Without Relations.</title><venue>SIGMOD Conference</venue><pages>51-60</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MaierRSSW82</key><doi>10.1145/582353.582362</doi><ee>https://doi.org/10.1145/582353.582362</ee><url>https://dblp.org/rec/conf/sigmod/MaierRSSW82</url></info>
+<url>URL#7553428</url>
+</hit>
+<hit score="1" id="7553427">
+<info><authors><author pid="01/4353">J. Longstaff</author></authors><title>ERQ: Controlled Inference and Instruction Techniques for DBMS Query Languages.</title><venue>SIGMOD Conference</venue><pages>111-117</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Longstaff82</key><doi>10.1145/582353.582371</doi><ee>https://doi.org/10.1145/582353.582371</ee><url>https://dblp.org/rec/conf/sigmod/Longstaff82</url></info>
+<url>URL#7553427</url>
+</hit>
+<hit score="1" id="7553426">
+<info><authors><author pid="38/6101">Herbert Kuss</author></authors><title>On Totally Ordering Checkpoints in Distributed Data Bases.</title><venue>SIGMOD Conference</venue><pages>174, 293-302</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Kuss82</key><doi>10.1145/582353.582408</doi><ee>https://doi.org/10.1145/582353.582408</ee><url>https://dblp.org/rec/conf/sigmod/Kuss82</url></info>
+<url>URL#7553426</url>
+</hit>
+<hit score="1" id="7553425">
+<info><authors><author pid="59/2756">Irène Kowarski</author><author pid="22/5850">M. Lopez</author></authors><title>The Document Concept in a Data Base.</title><venue>SIGMOD Conference</venue><pages>276-283</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KowarskiL82</key><doi>10.1145/582353.582405</doi><ee>https://doi.org/10.1145/582353.582405</ee><url>https://dblp.org/rec/conf/sigmod/KowarskiL82</url></info>
+<url>URL#7553425</url>
+</hit>
+<hit score="1" id="7553424">
+<info><authors><author pid="11/4223">Anthony C. Klug</author></authors><title>Access Paths in the &apos;ABE&apos; Statistical Query Facility.</title><venue>SIGMOD Conference</venue><pages>161-173</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Klug82</key><doi>10.1145/582353.582382</doi><ee>https://doi.org/10.1145/582353.582382</ee><url>https://dblp.org/rec/conf/sigmod/Klug82</url></info>
+<url>URL#7553424</url>
+</hit>
+<hit score="1" id="7553423">
+<info><authors><author pid="k/YahikoKambayashi">Yahiko Kambayashi</author><author pid="y/MasatoshiYoshikawa">Masatoshi Yoshikawa</author><author pid="28/711">Shuzo Yajima</author></authors><title>Query Processing for Distributed Databases Using Generalized Semi-Joins.</title><venue>SIGMOD Conference</venue><pages>151-160</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KambayashiYY82</key><doi>10.1145/582353.582381</doi><ee>https://doi.org/10.1145/582353.582381</ee><url>https://dblp.org/rec/conf/sigmod/KambayashiYY82</url></info>
+<url>URL#7553423</url>
+</hit>
+<hit score="1" id="7553422">
+<info><authors><author pid="j/MatthiasJarke">Matthias Jarke</author><author pid="s/JoachimWSchmidt">Joachim W. Schmidt</author></authors><title>Query Processing Strategies in the PASCAL/R Relational Database Management System.</title><venue>SIGMOD Conference</venue><pages>256-264</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/JarkeS82</key><doi>10.1145/582353.582402</doi><ee>https://doi.org/10.1145/582353.582402</ee><url>https://dblp.org/rec/conf/sigmod/JarkeS82</url></info>
+<url>URL#7553422</url>
+</hit>
+<hit score="1" id="7553421">
+<info><authors><author pid="i/TomaszImielinski">Tomasz Imielinski</author><author pid="80/3449">Witold Lipski Jr.</author></authors><title>A Technique for Translating States Between Database Schemata.</title><venue>SIGMOD Conference</venue><pages>61-68</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ImielinskiL82a</key><doi>10.1145/582353.582363</doi><ee>https://doi.org/10.1145/582353.582363</ee><url>https://dblp.org/rec/conf/sigmod/ImielinskiL82a</url></info>
+<url>URL#7553421</url>
+</hit>
+<hit score="1" id="7553420">
+<info><authors><author pid="i/TomaszImielinski">Tomasz Imielinski</author><author pid="80/3449">Witold Lipski Jr.</author></authors><title>A Systematic Approach to Relational Database Theory.</title><venue>SIGMOD Conference</venue><pages>8-14</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ImielinskiL82</key><doi>10.1145/582353.582356</doi><ee>https://doi.org/10.1145/582353.582356</ee><url>https://dblp.org/rec/conf/sigmod/ImielinskiL82</url></info>
+<url>URL#7553420</url>
+</hit>
+<hit score="1" id="7553419">
+<info><authors><author pid="43/3416">Roger L. Haskin</author><author pid="67/3397">Raymond A. Lorie</author></authors><title>On Extending the Functions of a Relational Database System.</title><venue>SIGMOD Conference</venue><pages>207-212</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HaskinL82</key><doi>10.1145/582353.582390</doi><ee>https://doi.org/10.1145/582353.582390</ee><url>https://dblp.org/rec/conf/sigmod/HaskinL82</url></info>
+<url>URL#7553419</url>
+</hit>
+<hit score="1" id="7553418">
+<info><authors><author pid="87/6811">Sheldon J. Finkelstein</author></authors><title>Common Subexpression Analysis in Database Applications.</title><venue>SIGMOD Conference</venue><pages>235-245</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Finkelstein82</key><doi>10.1145/582353.582400</doi><ee>https://doi.org/10.1145/582353.582400</ee><url>https://dblp.org/rec/conf/sigmod/Finkelstein82</url></info>
+<url>URL#7553418</url>
+</hit>
+<hit score="1" id="7553417">
+<info><authors><author pid="78/6726">W. G. Driggers</author></authors><title>A Crop Condition Assessment Database.</title><venue>SIGMOD Conference</venue><pages>15-27</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Driggers82</key><doi>10.1145/582353.582358</doi><ee>https://doi.org/10.1145/582353.582358</ee><url>https://dblp.org/rec/conf/sigmod/Driggers82</url></info>
+<url>URL#7553417</url>
+</hit>
+<hit score="1" id="7553416">
+<info><authors><author pid="62/194">Jirun Dong</author><author pid="h/RichardHull">Richard Hull 0001</author></authors><title>Applying Approximate Order Dependency to Reduce Indexing Space.</title><venue>SIGMOD Conference</venue><pages>119-127</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DongH82</key><doi>10.1145/582353.582375</doi><ee>https://doi.org/10.1145/582353.582375</ee><url>https://dblp.org/rec/conf/sigmod/DongH82</url></info>
+<url>URL#7553416</url>
+</hit>
+<hit score="1" id="7553415">
+<info><authors><author pid="19/1340">Sue M. Dintelman</author><author pid="57/2927">A. Timothy Maness</author></authors><title>An Implementation of a Query Language Supporting Path Expressions.</title><venue>SIGMOD Conference</venue><pages>87-93</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DintelmanM82</key><doi>10.1145/582353.582368</doi><ee>https://doi.org/10.1145/582353.582368</ee><url>https://dblp.org/rec/conf/sigmod/DintelmanM82</url></info>
+<url>URL#7553415</url>
+</hit>
+<hit score="1" id="7553414">
+<info><authors><author pid="76/2198">Umeshwar Dayal</author><author pid="28/4334">Nathan Goodman</author></authors><title>Query Optimization for CODASYL Database Systems.</title><venue>SIGMOD Conference</venue><pages>138-150</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DayalG82</key><doi>10.1145/582353.582380</doi><ee>https://doi.org/10.1145/582353.582380</ee><url>https://dblp.org/rec/conf/sigmod/DayalG82</url></info>
+<url>URL#7553414</url>
+</hit>
+<hit score="1" id="7553413">
+<info><authors><author pid="56/6053">O. A. Daini</author></authors><title>Numerical Database Management System: A Model.</title><venue>SIGMOD Conference</venue><pages>192-199</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Daini82</key><doi>10.1145/582353.582388</doi><ee>https://doi.org/10.1145/582353.582388</ee><url>https://dblp.org/rec/conf/sigmod/Daini82</url></info>
+<url>URL#7553413</url>
+</hit>
+<hit score="1" id="7553412">
+<info><authors><author pid="39/935">Eric C. Cooper</author></authors><title>Analysis of Distributed Commit Protocols.</title><venue>SIGMOD Conference</venue><pages>175-183</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Cooper82</key><doi>10.1145/582353.582385</doi><ee>https://doi.org/10.1145/582353.582385</ee><url>https://dblp.org/rec/conf/sigmod/Cooper82</url></info>
+<url>URL#7553412</url>
+</hit>
+<hit score="1" id="7553411">
+<info><authors><author pid="16/4154">Arvola Chan</author><author pid="17/466">Stephen Fox</author><author pid="84/1513">Wen-Te K. Lin</author><author pid="85/3087">Anil Nori</author><author pid="09/2596">Daniel R. Ries</author></authors><title>The Implementation of an Integrated Concurrency Control and Recovery Scheme.</title><venue>SIGMOD Conference</venue><pages>184-191</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChanFLNR82</key><doi>10.1145/582353.582386</doi><ee>https://doi.org/10.1145/582353.582386</ee><url>https://dblp.org/rec/conf/sigmod/ChanFLNR82</url></info>
+<url>URL#7553411</url>
+</hit>
+<hit score="1" id="7553410">
+<info><authors><author pid="c/StefanoCeri">Stefano Ceri</author><author pid="n/MauroNegri">Mauro Negri</author><author pid="35/1356">Giuseppe Pelagatti</author></authors><title>Horizontal Data Partitioning in Database Design.</title><venue>SIGMOD Conference</venue><pages>128-136</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/CeriNP82</key><doi>10.1145/582353.582376</doi><ee>https://doi.org/10.1145/582353.582376</ee><url>https://dblp.org/rec/conf/sigmod/CeriNP82</url></info>
+<url>URL#7553410</url>
+</hit>
+<hit score="1" id="7553409">
+<info><authors><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="16/662">Barbara T. Blaustein</author></authors><title>Fast Methods for Testing Quantified Relational Calculus Assertions.</title><venue>SIGMOD Conference</venue><pages>39-50</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BernsteinB82</key><doi>10.1145/582353.582361</doi><ee>https://doi.org/10.1145/582353.582361</ee><url>https://dblp.org/rec/conf/sigmod/BernsteinB82</url></info>
+<url>URL#7553409</url>
+</hit>
+<hit score="1" id="7553408">
+<info><authors><author pid="14/4166">John L. Berg</author></authors><title>Database Management Systems in the 1990.</title><venue>SIGMOD Conference</venue><pages>214</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Berg82</key><doi>10.1145/582353.582393</doi><ee>https://doi.org/10.1145/582353.582393</ee><url>https://dblp.org/rec/conf/sigmod/Berg82</url></info>
+<url>URL#7553408</url>
+</hit>
+<hit score="1" id="7553407">
+<info><authors><author pid="07/280">Jean Luc Bell</author></authors><title>Data Modelling of Scientific Simulation Programs.</title><venue>SIGMOD Conference</venue><pages>79-86</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Bell82</key><doi>10.1145/582353.582366</doi><ee>https://doi.org/10.1145/582353.582366</ee><url>https://dblp.org/rec/conf/sigmod/Bell82</url></info>
+<url>URL#7553407</url>
+</hit>
+<hit score="1" id="7553406">
+<info><authors><author pid="90/6522">Douglas M. Bates</author><author pid="75/2562">Haran Boral</author><author pid="d/DJDeWitt">David J. DeWitt</author></authors><title>A Framework for Research in Database Management for Statistical Analysis.</title><venue>SIGMOD Conference</venue><pages>69-78</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BatesBD82</key><doi>10.1145/582353.582365</doi><ee>https://doi.org/10.1145/582353.582365</ee><url>https://dblp.org/rec/conf/sigmod/BatesBD82</url></info>
+<url>URL#7553406</url>
+</hit>
+<hit score="1" id="7553405">
+<info><authors><author pid="46/5808">Glenn C. Bacon</author></authors><title>Issues Integrating Databases of Images, Graphical, Array and Character Data.</title><venue>SIGMOD Conference</venue><pages>137</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Bacon82</key><doi>10.1145/582353.582378</doi><ee>https://doi.org/10.1145/582353.582378</ee><url>https://dblp.org/rec/conf/sigmod/Bacon82</url></info>
+<url>URL#7553405</url>
+</hit>
+<hit score="1" id="7553404">
+<info><authors><author pid="33/3618">Francesco Antonacci</author><author pid="72/1389">Piero Dell&apos;Orco</author><author pid="99/1947">Antonio Turtur</author></authors><title>A Territorial Database Management System (Abstract).</title><venue>SIGMOD Conference</venue><pages>213</pages><year>1982</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AntonacciDT82</key><doi>10.1145/582353.582391</doi><ee>https://doi.org/10.1145/582353.582391</ee><url>https://dblp.org/rec/conf/sigmod/AntonacciDT82</url></info>
+<url>URL#7553404</url>
+</hit>
+</hits>
+</result>

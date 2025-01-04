@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57156">:facetid:toc:\"db/conf/sigmod/sigmod75.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">81.80</time>
+<completions total="1" computed="1" sent="1">
+<c sc="27" dc="27" oc="27" id="46507244">:facetid:toc:db/conf/sigmod/sigmod75.bht</c>
+</completions>
+<hits total="27" computed="27" sent="27" first="0">
+<hit score="1" id="7601156">
+<info><authors><author pid="64/6064">W. Frank King</author></authors><title>Proceedings of the 1975 ACM SIGMOD International Conference on Management of Data, San Jose, California, USA, May 14-16, 1975.</title><publisher>ACM</publisher><year>1975</year><type>Editorship</type><key>conf/sigmod/75</key><doi>10.1145/500080</doi><ee>https://doi.org/10.1145/500080</ee><url>https://dblp.org/rec/conf/sigmod/75</url></info>
+<url>URL#7601156</url>
+</hit>
+<hit score="1" id="7600884">
+<info><authors><author pid="21/6094">James W. Welch</author><author pid="77/2843">J. Wesley Graham</author></authors><title>Information Retrieval in Files Described Using Sets.</title><venue>SIGMOD Conference</venue><pages>92-98</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/WelchG75</key><doi>10.1145/500080.500093</doi><ee>https://doi.org/10.1145/500080.500093</ee><url>https://dblp.org/rec/conf/sigmod/WelchG75</url></info>
+<url>URL#7600884</url>
+</hit>
+<hit score="1" id="7600881">
+<info><authors><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Implementation of Integrity Constraints and Views by Query Modification.</title><venue>SIGMOD Conference</venue><pages>65-78</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Stonebraker75</key><doi>10.1145/500080.500091</doi><ee>https://doi.org/10.1145/500080.500091</ee><url>https://dblp.org/rec/conf/sigmod/Stonebraker75</url></info>
+<url>URL#7600881</url>
+</hit>
+<hit score="1" id="7600880">
+<info><authors><author pid="83/2995">Thomas B. Steel Jr.</author></authors><title>Data Base Standardization - A Status Report.</title><venue>SIGMOD Conference</venue><pages>149-156</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Steel75</key><doi>10.1145/500080.500101</doi><ee>https://doi.org/10.1145/500080.500101</ee><url>https://dblp.org/rec/conf/sigmod/Steel75</url></info>
+<url>URL#7600880</url>
+</hit>
+<hit score="1" id="7600879">
+<info><authors><author pid="35/3801">John Miles Smith</author><author pid="25/3902">Philip Yen-Tang Chang</author></authors><title>Optimizing the Performance of a Relational Algebra Data Base Interface (Abstract).</title><venue>SIGMOD Conference</venue><pages>64</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SmithC75</key><doi>10.1145/500080.500090</doi><ee>https://doi.org/10.1145/500080.500090</ee><url>https://dblp.org/rec/conf/sigmod/SmithC75</url></info>
+<url>URL#7600879</url>
+</hit>
+<hit score="1" id="7600877">
+<info><authors><author pid="26/2804">Nan C. Shu</author><author pid="60/2167">Barron C. Housel</author><author pid="52/4777">Vincent Y. Lum</author></authors><title>CONVERT: A High Level Translation Definition Language for Data Conversion (Abstract).</title><venue>SIGMOD Conference</venue><pages>111</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ShuHL75</key><doi>10.1145/500080.500096</doi><ee>https://doi.org/10.1145/500080.500096</ee><url>https://dblp.org/rec/conf/sigmod/ShuHL75</url></info>
+<url>URL#7600877</url>
+</hit>
+<hit score="1" id="7600876">
+<info><authors><author pid="s/ArieShoshani">Arie Shoshani</author></authors><title>A Logical-Level Approach to Data Base Conversion.</title><venue>SIGMOD Conference</venue><pages>112-122</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Shoshani75</key><doi>10.1145/500080.500097</doi><ee>https://doi.org/10.1145/500080.500097</ee><url>https://dblp.org/rec/conf/sigmod/Shoshani75</url></info>
+<url>URL#7600876</url>
+</hit>
+<hit score="1" id="7600875">
+<info><authors><author pid="60/6731">L. S. Schneider</author><author pid="17/763">C. R. Spath</author></authors><title>Quantitative Data Description.</title><venue>SIGMOD Conference</venue><pages>167-185</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SchneiderS75</key><doi>10.1145/500080.500105</doi><ee>https://doi.org/10.1145/500080.500105</ee><url>https://dblp.org/rec/conf/sigmod/SchneiderS75</url></info>
+<url>URL#7600875</url>
+</hit>
+<hit score="1" id="7600874">
+<info><authors><author pid="49/2888">G. Michael Schneider</author></authors><title>DSCL - A Data Specification and Conversion Language for Networks.</title><venue>SIGMOD Conference</venue><pages>139-148</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Schneider75</key><doi>10.1145/500080.500099</doi><ee>https://doi.org/10.1145/500080.500099</ee><url>https://dblp.org/rec/conf/sigmod/Schneider75</url></info>
+<url>URL#7600874</url>
+</hit>
+<hit score="1" id="7600873">
+<info><authors><author pid="97/33">Hans Albrecht Schmid</author><author pid="65/4959">J. Richard Swenson</author></authors><title>On the Semantics of the Relational Data Model.</title><venue>SIGMOD Conference</venue><pages>211-223</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SchmidS75</key><doi>10.1145/500080.500110</doi><ee>https://doi.org/10.1145/500080.500110</ee><url>https://dblp.org/rec/conf/sigmod/SchmidS75</url></info>
+<url>URL#7600873</url>
+</hit>
+<hit score="1" id="7600872">
+<info><authors><author pid="96/5511">Mario Schkolnick</author></authors><title>Secondary Index Optimization.</title><venue>SIGMOD Conference</venue><pages>186-192</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Schkolnick75</key><doi>10.1145/500080.500106</doi><ee>https://doi.org/10.1145/500080.500106</ee><url>https://dblp.org/rec/conf/sigmod/Schkolnick75</url></info>
+<url>URL#7600872</url>
+</hit>
+<hit score="1" id="7600870">
+<info><authors><author pid="81/2454">Robert L. Rappaport</author></authors><title>File Structure Design to Facilitate On-Line Instantaneous Updating.</title><venue>SIGMOD Conference</venue><pages>1-14</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Rappaport75</key><doi>10.1145/500080.500082</doi><ee>https://doi.org/10.1145/500080.500082</ee><url>https://dblp.org/rec/conf/sigmod/Rappaport75</url></info>
+<url>URL#7600870</url>
+</hit>
+<hit score="1" id="7600869">
+<info><authors><author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author><author pid="36/5323">Alan G. Merten</author></authors><title>Investigations into the Application of the Relational Model to Data Translation.</title><venue>SIGMOD Conference</venue><pages>123-138</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NavatheM75</key><doi>10.1145/500080.500098</doi><ee>https://doi.org/10.1145/500080.500098</ee><url>https://dblp.org/rec/conf/sigmod/NavatheM75</url></info>
+<url>URL#7600869</url>
+</hit>
+<hit score="1" id="7600868">
+<info><authors><author pid="41/4386">J. H. Mommens</author><author pid="02/4045">Stephen E. Smith</author></authors><title>Automatic Generation of Physical Data Base Structures.</title><venue>SIGMOD Conference</venue><pages>157-165</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MommensS75</key><doi>10.1145/500080.500103</doi><ee>https://doi.org/10.1145/500080.500103</ee><url>https://dblp.org/rec/conf/sigmod/MommensS75</url></info>
+<url>URL#7600868</url>
+</hit>
+<hit score="1" id="7600867">
+<info><authors><author pid="m/JackMinker">Jack Minker</author></authors><title>Performing Inferences over Relation Data Bases.</title><venue>SIGMOD Conference</venue><pages>79-91</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Minker75</key><doi>10.1145/500080.500092</doi><ee>https://doi.org/10.1145/500080.500092</ee><url>https://dblp.org/rec/conf/sigmod/Minker75</url></info>
+<url>URL#7600867</url>
+</hit>
+<hit score="1" id="7600864">
+<info><authors><author pid="64/4">William C. McGee</author></authors><title>File-Level Operations on Network Data Structures.</title><venue>SIGMOD Conference</venue><pages>32-47</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/McGee75</key><doi>10.1145/500080.500085</doi><ee>https://doi.org/10.1145/500080.500085</ee><url>https://dblp.org/rec/conf/sigmod/McGee75</url></info>
+<url>URL#7600864</url>
+</hit>
+<hit score="1" id="7600859">
+<info><authors><author pid="88/669">Leo R. Gotlieb</author></authors><title>Computing Joins of Relations.</title><venue>SIGMOD Conference</venue><pages>55-63</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Gotlieb75</key><doi>10.1145/500080.500089</doi><ee>https://doi.org/10.1145/500080.500089</ee><url>https://dblp.org/rec/conf/sigmod/Gotlieb75</url></info>
+<url>URL#7600859</url>
+</hit>
+<hit score="1" id="7600857">
+<info><authors><author pid="71/2056">Rob Gerritsen</author></authors><title>A Preliminary System for the Design of DBTG Data Structures (Abstract).</title><venue>SIGMOD Conference</venue><pages>166</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Gerritsen75</key><doi>10.1145/500080.500104</doi><ee>https://doi.org/10.1145/500080.500104</ee><url>https://dblp.org/rec/conf/sigmod/Gerritsen75</url></info>
+<url>URL#7600857</url>
+</hit>
+<hit score="1" id="7600855">
+<info><authors><author pid="f/EBFernandez">Eduardo B. Fernández</author><author pid="21/4030">Rita C. Summers</author><author pid="59/2563">Charles D. Coleman</author></authors><title>An Authorization Model for a Shared Data Base.</title><venue>SIGMOD Conference</venue><pages>23-31</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FernandezSC75</key><doi>10.1145/500080.500084</doi><ee>https://doi.org/10.1145/500080.500084</ee><url>https://dblp.org/rec/conf/sigmod/FernandezSC75</url></info>
+<url>URL#7600855</url>
+</hit>
+<hit score="1" id="7600853">
+<info><authors><author pid="84/910">Raymond Fadous</author><author pid="80/2391">John Forsyth</author></authors><title>Finding Candidate Keys for Relational Data Bases.</title><venue>SIGMOD Conference</venue><pages>203-210</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FadousF75</key><doi>10.1145/500080.500109</doi><ee>https://doi.org/10.1145/500080.500109</ee><url>https://dblp.org/rec/conf/sigmod/FadousF75</url></info>
+<url>URL#7600853</url>
+</hit>
+<hit score="1" id="7600852">
+<info><authors><author pid="46/5875">R. F. Deutscher</author><author pid="76/3827">Paul G. Sorenson</author><author pid="69/1123">J. Paul Tremblay</author></authors><title>Distribution-Dependent Hashing Functions and Their Characteristics.</title><venue>SIGMOD Conference</venue><pages>224-236</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DeutscherST75</key><doi>10.1145/500080.500111</doi><ee>https://doi.org/10.1145/500080.500111</ee><url>https://dblp.org/rec/conf/sigmod/DeutscherST75</url></info>
+<url>URL#7600852</url>
+</hit>
+<hit score="1" id="7600851">
+<info><authors><author pid="34/7031">Thomas J. Cook</author></authors><title>A Data Base Management System Design Philosophy.</title><venue>SIGMOD Conference</venue><pages>15-22</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Cook75</key><doi>10.1145/500080.500083</doi><ee>https://doi.org/10.1145/500080.500083</ee><url>https://dblp.org/rec/conf/sigmod/Cook75</url></info>
+<url>URL#7600851</url>
+</hit>
+<hit score="1" id="7600850">
+<info><authors><author pid="c/ShiKuoChang">Shi-Kuo Chang</author></authors><title>Data Base Decomposition in a Hierarchical Computer System.</title><venue>SIGMOD Conference</venue><pages>48-53</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Chang75</key><doi>10.1145/500080.500086</doi><ee>https://doi.org/10.1145/500080.500086</ee><url>https://dblp.org/rec/conf/sigmod/Chang75</url></info>
+<url>URL#7600850</url>
+</hit>
+<hit score="1" id="7600848">
+<info><authors><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="65/4959">J. Richard Swenson</author><author pid="t/DennisTsichritzis">Dennis Tsichritzis</author></authors><title>A Unified Approach to Functional Dependencies and Relations.</title><venue>SIGMOD Conference</venue><pages>237-245</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BernsteinST75</key><doi>10.1145/500080.500112</doi><ee>https://doi.org/10.1145/500080.500112</ee><url>https://dblp.org/rec/conf/sigmod/BernsteinST75</url></info>
+<url>URL#7600848</url>
+</hit>
+<hit score="1" id="7600845">
+<info><authors><author pid="88/5781">Ann Ellis Bandurski</author><author pid="55/171">David K. Jefferson</author></authors><title>Data Description for Computer-Aided Design.</title><venue>SIGMOD Conference</venue><pages>193-202</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BandurskiJ75</key><doi>10.1145/500080.500107</doi><ee>https://doi.org/10.1145/500080.500107</ee><url>https://dblp.org/rec/conf/sigmod/BandurskiJ75</url></info>
+<url>URL#7600845</url>
+</hit>
+<hit score="1" id="7600844">
+<info><authors><author pid="67/5555">David E. Bakkom</author><author pid="74/2644">James A. Behymer</author></authors><title>Implementation of a Prototype Generalized File Translator.</title><venue>SIGMOD Conference</venue><pages>99-110</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BakkomB75</key><doi>10.1145/500080.500095</doi><ee>https://doi.org/10.1145/500080.500095</ee><url>https://dblp.org/rec/conf/sigmod/BakkomB75</url></info>
+<url>URL#7600844</url>
+</hit>
+<hit score="1" id="7600842">
+<info><authors><author pid="33/2015">Morton M. Astrahan</author><author pid="c/DDChamberlin">Donald D. Chamberlin</author></authors><title>Implementation of a Structured English Query Language (Abstract).</title><venue>SIGMOD Conference</venue><pages>54</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AstrahanC75</key><doi>10.1145/500080.500088</doi><ee>https://doi.org/10.1145/500080.500088</ee><url>https://dblp.org/rec/conf/sigmod/AstrahanC75</url></info>
+<url>URL#7600842</url>
+</hit>
+</hits>
+</result>

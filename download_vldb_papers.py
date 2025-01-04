@@ -19,15 +19,26 @@ def download_vldb_papers(year):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
-    # 获取对应的卷号
-    volume = get_volume_number(year)
-    if volume is None:
-        print("从 2008 年起，VLDB 社区决定：采用'期刊式'论文集出版模式。PVLDB只支持下载2008年后的论文")
-        return False
-    
     # 构建URL
     base_url = "https://dblp.org/search/publ/api"
-    query = f"toc:db/journals/pvldb/pvldb{volume}.bht:"
+    
+    if year >= 2008:
+        # 2008年及以后使用期刊格式
+        volume = get_volume_number(year)
+        if volume is None:
+            print("从 2008 年起，VLDB 社区决定：采用'期刊式'论文集出版模式。PVLDB只支持下载2008年后的论文")
+            return False
+        query = f"toc:db/journals/pvldb/pvldb{volume}.bht:"
+    else:
+        # 2008年之前使用会议格式
+        print(f"注意：{year}年的论文使用传统会议论文集格式")
+        if year < 2000:
+            # 2000年前使用两位数年份
+            year_suffix = str(year)[-2:]
+            query = f"toc:db/conf/vldb/vldb{year_suffix}.bht:"
+        else:
+            query = f"toc:db/conf/vldb/vldb{year}.bht:"
+    
     params = {
         'q': query,
         'h': '1000',
@@ -40,10 +51,14 @@ def download_vldb_papers(year):
         response.raise_for_status()  # 检查请求是否成功
         
         # 保存文件
-        output_file = os.path.join(output_dir, f"vldb_{year}_vol{volume}.xml")
+        if year >= 2008:
+            output_file = os.path.join(output_dir, f"vldb_{year}_vol{get_volume_number(year)}.xml")
+        else:
+            output_file = os.path.join(output_dir, f"vldb_{year}.xml")
+            
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(response.text)
-        print(f"成功下载 VLDB {year} 年（第{volume}卷）的论文引用文件到 {output_file}")
+        print(f"成功下载 VLDB {year} 年的论文引用文件到 {output_file}")
         return True
         
     except requests.RequestException as e:
@@ -54,12 +69,6 @@ def download_vldb_papers_range(start_year, end_year):
     print(f"开始下载 {start_year} 到 {end_year} 年的VLDB论文引用文件...")
     success_count = 0
     fail_count = 0
-    
-    # 检查起始年份是否在有效范围内
-    start_volume = get_volume_number(start_year)
-    if start_volume is None:
-        print("从 2008 年起，VLDB 社区决定：采用'期刊式'论文集出版模式。PVLDB只支持下载2008年后的论文")
-        return success_count, fail_count
     
     for year in range(start_year, end_year + 1):
         print(f"\n正在处理 {year} 年的数据...")
@@ -89,15 +98,8 @@ if __name__ == "__main__":
         elif end_year > 2024:
             print("警告：结束年份超过当前年份，可能没有数据。")
         else:
-            # 计算并显示卷号信息
-            start_vol = get_volume_number(start_year)
-            if start_vol is None:
-                print("从 2008 年起，VLDB 社区决定：采用'期刊式'论文集出版模式。PVLDB只支持下载2008年后的论文")
-            else:
-                end_vol = get_volume_number(end_year)
-                print(f"将下载从第{start_vol}卷（{start_year}年）到第{end_vol}卷（{end_year}年）的论文")
-                # 执行下载
-                download_vldb_papers_range(start_year, end_year)
+            # 执行下载
+            download_vldb_papers_range(start_year, end_year)
         
     except ValueError:
         print("错误：请输入有效的年份数字！") 

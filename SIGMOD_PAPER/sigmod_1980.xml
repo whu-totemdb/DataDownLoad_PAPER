@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57657">:facetid:toc:\"db/conf/sigmod/sigmod80.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">70.41</time>
+<completions total="1" computed="1" sent="1">
+<c sc="24" dc="24" oc="24" id="46507249">:facetid:toc:db/conf/sigmod/sigmod80.bht</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="1" id="7570456">
+<info><authors><author pid="c/PPChen">Peter P. Chen</author><author pid="65/6045">R. Clay Sprowls</author></authors><title>Proceedings of the 1980 ACM SIGMOD International Conference on Management of Data, Santa Monica, California, USA, May 14-16, 1980.</title><publisher>ACM Press</publisher><year>1980</year><type>Editorship</type><key>conf/sigmod/80</key><doi>10.1145/582250</doi><ee>https://doi.org/10.1145/582250</ee><url>https://dblp.org/rec/conf/sigmod/80</url></info>
+<url>URL#7570456</url>
+</hit>
+<hit score="1" id="7569994">
+<info><authors><author pid="s/MichaelStonebraker">Michael Stonebraker</author><author pid="22/1581">Kenneth Keller</author></authors><title>Embedding Expert Knowledge and Hypothetical Data Bases Into a Data Base System.</title><venue>SIGMOD Conference</venue><pages>58-66</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/StonebrakerK80</key><doi>10.1145/582250.582261</doi><ee>https://doi.org/10.1145/582250.582261</ee><url>https://dblp.org/rec/conf/sigmod/StonebrakerK80</url></info>
+<url>URL#7569994</url>
+</hit>
+<hit score="1" id="7569985">
+<info><authors><author pid="11/1941">Hirotaka Sakai</author></authors><title>Entity-Relationship Approach to the Conceptual Schema Design.</title><venue>SIGMOD Conference</venue><pages>1-8</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Sakai80</key><doi>10.1145/582250.582252</doi><ee>https://doi.org/10.1145/582250.582252</ee><url>https://dblp.org/rec/conf/sigmod/Sakai80</url></info>
+<url>URL#7569985</url>
+</hit>
+<hit score="1" id="7569984">
+<info><authors><author pid="s/FereidoonSadri">Fereidoon Sadri</author><author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author></authors><title>The Interaction between Functional Dependencies and Template Dependencies.</title><venue>SIGMOD Conference</venue><pages>45-51</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/SadriU80</key><doi>10.1145/582250.582258</doi><ee>https://doi.org/10.1145/582250.582258</ee><url>https://dblp.org/rec/conf/sigmod/SadriU80</url></info>
+<url>URL#7569984</url>
+</hit>
+<hit score="1" id="7569975">
+<info><authors><author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author><author pid="49/3842">Kamran Parsaye-Ghomi</author></authors><title>Inferences Involving Embedded Multivalued Dependencies and Transitive Dependencies.</title><venue>SIGMOD Conference</venue><pages>52-57</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ParkerP80</key><doi>10.1145/582250.582259</doi><ee>https://doi.org/10.1145/582250.582259</ee><url>https://dblp.org/rec/conf/sigmod/ParkerP80</url></info>
+<url>URL#7569975</url>
+</hit>
+<hit score="1" id="7569959">
+<info><authors><author pid="12/1996">Yutaka Matsushita</author><author pid="47/5343">Haruaki Yamazaki</author><author pid="73/5151">Sadayuki Hikita</author><author pid="66/5264">Isamu Yoshida</author></authors><title>Cost Evaluation of Directory Management Schemes for Distributed Database Systems.</title><venue>SIGMOD Conference</venue><pages>117-124</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MatsushitaYHY80</key><doi>10.1145/582250.582269</doi><ee>https://doi.org/10.1145/582250.582269</ee><url>https://dblp.org/rec/conf/sigmod/MatsushitaYHY80</url></info>
+<url>URL#7569959</url>
+</hit>
+<hit score="1" id="7569957">
+<info><authors><author pid="l/EwingLLusk">Ewing L. Lusk</author><author pid="o/RossAOverbeek">Ross A. Overbeek</author><author pid="78/160">Bruce D. Parrello</author></authors><title>A Practical Design Methodology for the Implementation of IMS Databases, Using the Entity-Relationship Model.</title><venue>SIGMOD Conference</venue><pages>9-21</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LuskOP80</key><doi>10.1145/582250.582253</doi><ee>https://doi.org/10.1145/582250.582253</ee><url>https://dblp.org/rec/conf/sigmod/LuskOP80</url></info>
+<url>URL#7569957</url>
+</hit>
+<hit score="1" id="7569955">
+<info><authors><author pid="82/5403">Mary E. S. Loomis</author></authors><title>The 78 CODASYL Database Model: A Comparison with Preceding Specifications.</title><venue>SIGMOD Conference</venue><pages>30-44</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Loomis80</key><doi>10.1145/582250.582256</doi><ee>https://doi.org/10.1145/582250.582256</ee><url>https://dblp.org/rec/conf/sigmod/Loomis80</url></info>
+<url>URL#7569955</url>
+</hit>
+<hit score="1" id="7569951">
+<info><authors><author pid="51/2495">K. Lam</author><author pid="y/ClementTYu">Clement T. Yu</author></authors><title>An Approximation Algorithm for a File-Allocation Problem in a Hierarchical Distributed System.</title><venue>SIGMOD Conference</venue><pages>125-132</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LamY80</key><doi>10.1145/582250.582270</doi><ee>https://doi.org/10.1145/582250.582270</ee><url>https://dblp.org/rec/conf/sigmod/LamY80</url></info>
+<url>URL#7569951</url>
+</hit>
+<hit score="1" id="7569949">
+<info><authors><author pid="30/47">Yat-Sang Kwong</author><author pid="w/DerickWood">Derick Wood</author></authors><title>On B-Trees: Routing Schemes and Concurrency.</title><venue>SIGMOD Conference</venue><pages>207-211</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KwongW80</key><doi>10.1145/582250.582282</doi><ee>https://doi.org/10.1145/582250.582282</ee><url>https://dblp.org/rec/conf/sigmod/KwongW80</url></info>
+<url>URL#7569949</url>
+</hit>
+<hit score="1" id="7569948">
+<info><authors><author pid="k/HTKung">H. T. Kung 0001</author><author pid="78/2438">Philip L. Lehman</author></authors><title>Systolic (VLSI) Arrays for Relational Database Operations.</title><venue>SIGMOD Conference</venue><pages>105-116</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KungL80</key><doi>10.1145/582250.582267</doi><ee>https://doi.org/10.1145/582250.582267</ee><url>https://dblp.org/rec/conf/sigmod/KungL80</url></info>
+<url>URL#7569948</url>
+</hit>
+<hit score="1" id="7569945">
+<info><authors><author pid="86/2627-1">Won Kim 0001</author></authors><title>A New Way to Compute the Product and Join of Relations.</title><venue>SIGMOD Conference</venue><pages>179-187</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Kim80</key><doi>10.1145/582250.582278</doi><ee>https://doi.org/10.1145/582250.582278</ee><url>https://dblp.org/rec/conf/sigmod/Kim80</url></info>
+<url>URL#7569945</url>
+</hit>
+<hit score="1" id="7569943">
+<info><authors><author pid="k/RandyHKatz">Randy H. Katz</author><author pid="95/2864">Eugene Wong 0001</author></authors><title>An Access Path Model for Physical Database Design.</title><venue>SIGMOD Conference</venue><pages>22-29</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/KatzW80</key><doi>10.1145/582250.582254</doi><ee>https://doi.org/10.1145/582250.582254</ee><url>https://dblp.org/rec/conf/sigmod/KatzW80</url></info>
+<url>URL#7569943</url>
+</hit>
+<hit score="1" id="7569936">
+<info><authors><author pid="46/4470">Michael Hammer</author><author pid="98/5739">Brian Berkowitz</author></authors><title>DIAL: A Programming Language for Data Intensive Applications.</title><venue>SIGMOD Conference</venue><pages>75-92</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HammerB80</key><doi>10.1145/582250.582263</doi><ee>https://doi.org/10.1145/582250.582263</ee><url>https://dblp.org/rec/conf/sigmod/HammerB80</url></info>
+<url>URL#7569936</url>
+</hit>
+<hit score="1" id="7569935">
+<info><authors><author pid="g/EhudGudes">Ehud Gudes</author><author pid="t/ShalomTsur">Shalom Tsur</author></authors><title>Experiments with B-Tree Reorganization.</title><venue>SIGMOD Conference</venue><pages>200-206</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/GudesT80</key><doi>10.1145/582250.582281</doi><ee>https://doi.org/10.1145/582250.582281</ee><url>https://dblp.org/rec/conf/sigmod/GudesT80</url></info>
+<url>URL#7569935</url>
+</hit>
+<hit score="1" id="7569929">
+<info><authors><author pid="d/ADogac">Asuman Dogac</author><author pid="75/1313">Esen A. Ozkarahan</author></authors><title>A Generalized DBMS Implementation on a Database Machine.</title><venue>SIGMOD Conference</venue><pages>133-143</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DogacO80</key><doi>10.1145/582250.582272</doi><ee>https://doi.org/10.1145/582250.582272</ee><url>https://dblp.org/rec/conf/sigmod/DogacO80</url></info>
+<url>URL#7569929</url>
+</hit>
+<hit score="1" id="7569922">
+<info><authors><author pid="87/4870">D. M. Chiu</author><author pid="82/3624">Yu-Chi Ho</author></authors><title>A Methodology for Interpreting Tree Queries Into Optimal Semi-Join Expressions.</title><venue>SIGMOD Conference</venue><pages>169-178</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChiuH80</key><doi>10.1145/582250.582277</doi><ee>https://doi.org/10.1145/582250.582277</ee><url>https://dblp.org/rec/conf/sigmod/ChiuH80</url></info>
+<url>URL#7569922</url>
+</hit>
+<hit score="1" id="7569921">
+<info><authors><author pid="c/ChinChenChang">Chin-Chen Chang 0001</author><author pid="l/RichardCTLee">Richard C. T. Lee</author><author pid="d/DHCDu">David Hung-Chang Du</author></authors><title>Some Properties of Cartesian Product Files.</title><venue>SIGMOD Conference</venue><pages>157-168</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChangLD80</key><doi>10.1145/582250.582276</doi><ee>https://doi.org/10.1145/582250.582276</ee><url>https://dblp.org/rec/conf/sigmod/ChangLD80</url></info>
+<url>URL#7569921</url>
+</hit>
+<hit score="1" id="7569920">
+<info><authors><author pid="99/4354">Jo-Mei Chang</author><author pid="53/198">King-sun Fu</author></authors><title>A Dynamic Clustering Technique for Physical Database Design.</title><venue>SIGMOD Conference</venue><pages>188-199</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ChangF80</key><doi>10.1145/582250.582280</doi><ee>https://doi.org/10.1145/582250.582280</ee><url>https://dblp.org/rec/conf/sigmod/ChangF80</url></info>
+<url>URL#7569920</url>
+</hit>
+<hit score="1" id="7569918">
+<info><authors><author pid="67/2932">R. G. G. Cattell</author></authors><title>An Entity-based Database User Interface.</title><venue>SIGMOD Conference</venue><pages>144-150</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Cattell80</key><doi>10.1145/582250.582273</doi><ee>https://doi.org/10.1145/582250.582273</ee><url>https://dblp.org/rec/conf/sigmod/Cattell80</url></info>
+<url>URL#7569918</url>
+</hit>
+<hit score="1" id="7569915">
+<info><authors><author pid="51/3766">John F. Burger</author></authors><title>Semantic Database Mapping in EUFID.</title><venue>SIGMOD Conference</venue><pages>67-74</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Burger80</key><doi>10.1145/582250.582262</doi><ee>https://doi.org/10.1145/582250.582262</ee><url>https://dblp.org/rec/conf/sigmod/Burger80</url></info>
+<url>URL#7569915</url>
+</hit>
+<hit score="1" id="7569910">
+<info><authors><author pid="75/2562">Haran Boral</author><author pid="d/DJDeWitt">David J. DeWitt</author></authors><title>Design Considerations for Data-flow Database Machines.</title><venue>SIGMOD Conference</venue><pages>94-104</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BoralD80</key><doi>10.1145/582250.582266</doi><ee>https://doi.org/10.1145/582250.582266</ee><url>https://dblp.org/rec/conf/sigmod/BoralD80</url></info>
+<url>URL#7569910</url>
+</hit>
+<hit score="1" id="7569907">
+<info><authors><author pid="28/718">François Bancilhon</author><author pid="s/MichelScholl">Michel Scholl</author></authors><title>On Designing an I/O Processor for a Relational Data Base Machine.</title><venue>SIGMOD Conference</venue><pages>93-93g</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/BancilhonS80</key><doi>10.1145/582250.582265</doi><ee>https://doi.org/10.1145/582250.582265</ee><url>https://dblp.org/rec/conf/sigmod/BancilhonS80</url></info>
+<url>URL#7569907</url>
+</hit>
+<hit score="1" id="7569903">
+<info><authors><author pid="58/17">James E. Allchin</author><author pid="29/3467">Arthur M. Keller</author><author pid="w/GioWiederhold">Gio Wiederhold</author></authors><title>FLASH: A Language-Independent, Portable File Access System.</title><venue>SIGMOD Conference</venue><pages>151-156</pages><year>1980</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AllchinKW80</key><doi>10.1145/582250.582274</doi><ee>https://doi.org/10.1145/582250.582274</ee><url>https://dblp.org/rec/conf/sigmod/AllchinKW80</url></info>
+<url>URL#7569903</url>
+</hit>
+</hits>
+</result>

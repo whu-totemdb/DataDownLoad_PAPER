@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="56121">:facetid:toc:\"db/conf/icde/icde93.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">71.41</time>
+<completions total="1" computed="1" sent="1">
+<c sc="78" dc="78" oc="78" id="46481708">:facetid:toc:db/conf/icde/icde93.bht</c>
+</completions>
+<hits total="78" computed="78" sent="78" first="0">
+<hit score="1" id="7317293">
+<info><authors><author pid="a/NRAdam">Nabil R. Adam</author><author pid="g/AryyaGangopadhyay">Aryya Gangopadhyay</author></authors><title>Integrating Functional and Data Modeling in a Computer Integrated Manufacturing System.</title><venue>ICDE</venue><pages>302-309</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AdamG93</key><doi>10.1109/ICDE.1993.344052</doi><ee>https://doi.org/10.1109/ICDE.1993.344052</ee><url>https://dblp.org/rec/conf/icde/AdamG93</url></info>
+<url>URL#7317293</url>
+</hit>
+<hit score="1" id="7317294">
+<info><authors><author pid="a/RAgrawal">Rakesh Agrawal 0001</author><author pid="90/3621">Shaul Dar</author><author pid="88/911">Narain H. Gehani</author></authors><title>The O++ Database Programming Language: Implementation and Experience.</title><venue>ICDE</venue><pages>61-70</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AgrawalDG93</key><doi>10.1109/ICDE.1993.344077</doi><ee>https://doi.org/10.1109/ICDE.1993.344077</ee><url>https://dblp.org/rec/conf/icde/AgrawalDG93</url></info>
+<url>URL#7317294</url>
+</hit>
+<hit score="1" id="7317295">
+<info><authors><author pid="a/RAgrawal">Rakesh Agrawal 0001</author><author pid="k/JerryKiernan">Jerry Kiernan</author></authors><title>An Access Structure for Generalized Transitive Closure Queries.</title><venue>ICDE</venue><pages>429-438</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AgrawalK93</key><doi>10.1109/ICDE.1993.344038</doi><ee>https://doi.org/10.1109/ICDE.1993.344038</ee><url>https://dblp.org/rec/conf/icde/AgrawalK93</url></info>
+<url>URL#7317295</url>
+</hit>
+<hit score="1" id="7317296">
+<info><authors><author pid="70/4250">Sedat Akyürek</author><author pid="s/KennethSalem">Kenneth Salem</author></authors><title>Adaptive Block Rearrangement.</title><venue>ICDE</venue><pages>182-189</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AkyurekS93</key><doi>10.1109/ICDE.1993.344064</doi><ee>https://doi.org/10.1109/ICDE.1993.344064</ee><url>https://dblp.org/rec/conf/icde/AkyurekS93</url></info>
+<url>URL#7317296</url>
+</hit>
+<hit score="1" id="7317297">
+<info><authors><author pid="78/11148">Reda Alhajj</author><author pid="58/754">M. Erol Arkun</author></authors><title>A Query Model for Object-Oriented Databases.</title><venue>ICDE</venue><pages>163-172</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AlhajjA93</key><doi>10.1109/ICDE.1993.344066</doi><ee>https://doi.org/10.1109/ICDE.1993.344066</ee><url>https://dblp.org/rec/conf/icde/AlhajjA93</url></info>
+<url>URL#7317297</url>
+</hit>
+<hit score="1" id="7317298">
+<info><authors><author pid="49/3422">Gennady Antoshenkov</author></authors><title>Dynamic Query Optimization in Rdb/VMS.</title><venue>ICDE</venue><pages>538-547</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Antoshenkov93</key><doi>10.1109/ICDE.1993.344026</doi><ee>https://doi.org/10.1109/ICDE.1993.344026</ee><url>https://dblp.org/rec/conf/icde/Antoshenkov93</url></info>
+<url>URL#7317298</url>
+</hit>
+<hit score="1" id="7317299">
+<info><authors><author pid="a/PAtzeni">Paolo Atzeni</author><author pid="c/LucaCabibbo">Luca Cabibbo</author><author pid="m/GMecca">Giansalvatore Mecca</author></authors><title>IsaLog: A declarative language for complex objects with hierarchies.</title><venue>ICDE</venue><pages>219-228</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AtzeniCM93</key><doi>10.1109/ICDE.1993.344060</doi><ee>https://doi.org/10.1109/ICDE.1993.344060</ee><url>https://dblp.org/rec/conf/icde/AtzeniCM93</url></info>
+<url>URL#7317299</url>
+</hit>
+<hit score="1" id="7317300">
+<info><authors><author pid="b/DBarbara">Daniel Barbará</author><author pid="c/CClifton">Chris Clifton</author><author pid="d/FredDouglis">Fred Douglis</author><author pid="g/HGarciaMolina">Hector Garcia-Molina</author><author pid="75/5862">Stephen Johnson</author><author pid="k/BenKao">Ben Kao</author><author pid="m/SharadMehrotra">Sharad Mehrotra</author><author pid="62/5581">Jens Tellefsen</author><author pid="95/935">Rosemary Walsh</author></authors><title>The Gold Mailer.</title><venue>ICDE</venue><pages>92-99</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BarbaraCDGJKMTW93</key><doi>10.1109/ICDE.1993.344074</doi><ee>https://doi.org/10.1109/ICDE.1993.344074</ee><url>https://dblp.org/rec/conf/icde/BarbaraCDGJKMTW93</url></info>
+<url>URL#7317300</url>
+</hit>
+<hit score="1" id="7317301">
+<info><authors><author pid="b/LudgerBecker">Ludger Becker</author><author pid="87/5615">Klaus H. Hinrichs</author><author pid="43/5930">Ulrich Finke</author></authors><title>A New Algorithm for Computing Joins with Grid Files.</title><venue>ICDE</venue><pages>190-197</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BeckerHF93</key><doi>10.1109/ICDE.1993.344063</doi><ee>https://doi.org/10.1109/ICDE.1993.344063</ee><url>https://dblp.org/rec/conf/icde/BeckerHF93</url></info>
+<url>URL#7317301</url>
+</hit>
+<hit score="1" id="7317302">
+<info><authors><author pid="58/5034">Anupam Bhide</author><author pid="58/1210">Asit Dan</author><author pid="43/6432">Daniel M. Dias</author></authors><title>A Simple Analysis of the LRU Buffer Policy and Its Relationship to Buffer Warm-Up Transient.</title><venue>ICDE</venue><pages>125-133</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BhideDD93</key><doi>10.1109/ICDE.1993.344070</doi><ee>https://doi.org/10.1109/ICDE.1993.344070</ee><url>https://dblp.org/rec/conf/icde/BhideDD93</url></info>
+<url>URL#7317302</url>
+</hit>
+<hit score="1" id="7317303">
+<info><authors><author pid="b/TBrinkhoff">Thomas Brinkhoff</author><author pid="k/HansPeterKriegel">Hans-Peter Kriegel</author><author pid="48/3913">Ralf Schneider</author></authors><title>Comparison of Approximations of Complex Objects Used for Approximation-based Query Processing in Spatial Database Systems.</title><venue>ICDE</venue><pages>40-49</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BrinkhoffKS93</key><doi>10.1109/ICDE.1993.344079</doi><ee>https://doi.org/10.1109/ICDE.1993.344079</ee><url>https://dblp.org/rec/conf/icde/BrinkhoffKS93</url></info>
+<url>URL#7317303</url>
+</hit>
+<hit score="1" id="7317304">
+<info><authors><author pid="b/OABukhres">Omran A. Bukhres</author><author pid="k/evaKuhn">Eva Kühn</author><author pid="40/5791">Franz Puntigam</author></authors><title>A Language Multidatabase System Communication Protocol.</title><venue>ICDE</venue><pages>633-640</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BukhresKP93</key><doi>10.1109/ICDE.1993.344016</doi><ee>https://doi.org/10.1109/ICDE.1993.344016</ee><url>https://dblp.org/rec/conf/icde/BukhresKP93</url></info>
+<url>URL#7317304</url>
+</hit>
+<hit score="1" id="7317305">
+<info><authors><author pid="c/YangjunChen">Yangjun Chen</author></authors><title>A Bottom-up Query Evaluation Method for Stratified Databases.</title><venue>ICDE</venue><pages>568-575</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Chen93</key><doi>10.1109/ICDE.1993.344023</doi><ee>https://doi.org/10.1109/ICDE.1993.344023</ee><url>https://dblp.org/rec/conf/icde/Chen93</url></info>
+<url>URL#7317305</url>
+</hit>
+<hit score="1" id="7317306">
+<info><authors><author pid="98/3180">Aloysius Cornelio</author><author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author></authors><title>Using Active Database Techniques For Real Time Engineering Applications.</title><venue>ICDE</venue><pages>100-107</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CornelioN93</key><doi>10.1109/ICDE.1993.344073</doi><ee>https://doi.org/10.1109/ICDE.1993.344073</ee><url>https://dblp.org/rec/conf/icde/CornelioN93</url></info>
+<url>URL#7317306</url>
+</hit>
+<hit score="1" id="7317307">
+<info><authors><author pid="d/PDadam">Peter Dadam</author><author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author></authors><title>Database Technology and Standards: Are we Getting Anywhere? (Panel Abstract).</title><venue>ICDE</venue><pages>230</pages><year>1993</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/icde/DadamN93</key><url>https://dblp.org/rec/conf/icde/DadamN93</url></info>
+<url>URL#7317307</url>
+</hit>
+<hit score="1" id="7317308">
+<info><authors><author pid="58/1210">Asit Dan</author><author pid="y/PhilipSYu">Philip S. Yu</author><author pid="13/648">Jen-Yao Chung</author></authors><title>Database Access Characterization for Buffer Hit Prediction.</title><venue>ICDE</venue><pages>134-143</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DanYC93</key><doi>10.1109/ICDE.1993.344069</doi><ee>https://doi.org/10.1109/ICDE.1993.344069</ee><url>https://dblp.org/rec/conf/icde/DanYC93</url></info>
+<url>URL#7317308</url>
+</hit>
+<hit score="1" id="7317309">
+<info><authors><author pid="64/3474">Linda G. DeMichiel</author><author pid="c/DDChamberlin">Donald D. Chamberlin</author><author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author><author pid="a/RAgrawal">Rakesh Agrawal 0001</author><author pid="27/5348">Manish Arya</author></authors><title>Polyglot: Extensions to Relational Databases for Sharable Types and Functions in a Multi-Language Environment.</title><venue>ICDE</venue><pages>651-660</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DeMichielCLAA93</key><doi>10.1109/ICDE.1993.344014</doi><ee>https://doi.org/10.1109/ICDE.1993.344014</ee><url>https://dblp.org/rec/conf/icde/DeMichielCLAA93</url></info>
+<url>URL#7317309</url>
+</hit>
+<hit score="1" id="7317310">
+<info><authors><author pid="d/CEDyreson">Curtis E. Dyreson</author><author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author></authors><title>Valid-time Indeterminancy.</title><venue>ICDE</venue><pages>335-343</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DyresonS93</key><doi>10.1109/ICDE.1993.344048</doi><ee>https://doi.org/10.1109/ICDE.1993.344048</ee><url>https://dblp.org/rec/conf/icde/DyresonS93</url></info>
+<url>URL#7317310</url>
+</hit>
+<hit score="1" id="7317311">
+<info><authors><author pid="24/6305">Doug Fang</author><author pid="g/SGhandeharizadeh">Shahram Ghandeharizadeh</author><author pid="m/DennisMcLeod">Dennis McLeod</author><author pid="35/5958">Antonio Si</author></authors><title>The Design, Implementation, and Evaluation of an Object-Based Sharing Mechanism for Federated Database Systems.</title><venue>ICDE</venue><pages>467-475</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FangGMS93</key><doi>10.1109/ICDE.1993.344033</doi><ee>https://doi.org/10.1109/ICDE.1993.344033</ee><url>https://dblp.org/rec/conf/icde/FangGMS93</url></info>
+<url>URL#7317311</url>
+</hit>
+<hit score="1" id="7317312">
+<info><authors><author pid="18/2448">Sunit K. Gala</author><author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author><author pid="b/MEBermudez">Manuel E. Bermudez</author></authors><title>Voltaire: A Database Programming Language with a Single Execution Model for Evaluating Queries, Constraints amd Functions.</title><venue>ICDE</venue><pages>283-292</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GalaNB93</key><doi>10.1109/ICDE.1993.344054</doi><ee>https://doi.org/10.1109/ICDE.1993.344054</ee><url>https://dblp.org/rec/conf/icde/GalaNB93</url></info>
+<url>URL#7317312</url>
+</hit>
+<hit score="1" id="7317313">
+<info><authors><author pid="g/MichaelGertz">Michael Gertz 0001</author><author pid="l/UdoWLipeck">Udo W. Lipeck</author></authors><title>Deriving Integrity Maintaining Triggers from Transition Graphs.</title><venue>ICDE</venue><pages>22-29</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GertzL93</key><doi>10.1109/ICDE.1993.344081</doi><ee>https://doi.org/10.1109/ICDE.1993.344081</ee><url>https://dblp.org/rec/conf/icde/GertzL93</url></info>
+<url>URL#7317313</url>
+</hit>
+<hit score="1" id="7317314">
+<info><authors><author pid="54/1352">Simon J. Gibbs</author><author pid="b/ChristianBreiteneder">Christian Breiteneder</author><author pid="t/DennisTsichritzis">Dennis Tsichritzis</author></authors><title>Audio/Video Databases: An Object-Oriented Approach.</title><venue>ICDE</venue><pages>381-390</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GibbsBT93</key><doi>10.1109/ICDE.1993.344043</doi><ee>https://doi.org/10.1109/ICDE.1993.344043</ee><url>https://dblp.org/rec/conf/icde/GibbsBT93</url></info>
+<url>URL#7317314</url>
+</hit>
+<hit score="1" id="7317315">
+<info><authors><author pid="g/CaroleAGoble">Carole A. Goble</author><author pid="58/6816">Andrzej J. Glowinski</author><author pid="39/5011">W. A. Nowlan</author><author pid="91/4955">Alan L. Rector</author></authors><title>A Descriptive Semantic Formalism for Medicine.</title><venue>ICDE</venue><pages>624-631</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GobleGNR93</key><doi>10.1109/ICDE.1993.344017</doi><ee>https://doi.org/10.1109/ICDE.1993.344017</ee><url>https://dblp.org/rec/conf/icde/GobleGNR93</url></info>
+<url>URL#7317315</url>
+</hit>
+<hit score="1" id="7317316">
+<info><authors><author pid="g/JuttaGoers">Jutta Göers</author><author pid="h/AHeuer">Andreas Heuer 0001</author></authors><title>Definition and Application of Metaclasses in an Object-Oriented Database Model.</title><venue>ICDE</venue><pages>373-380</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GoersH93</key><doi>10.1109/ICDE.1993.344044</doi><ee>https://doi.org/10.1109/ICDE.1993.344044</ee><url>https://dblp.org/rec/conf/icde/GoersH93</url></info>
+<url>URL#7317316</url>
+</hit>
+<hit score="1" id="7317317">
+<info><authors><author pid="g/GoetzGraefe">Goetz Graefe</author><author pid="11/2209">William J. McKenna</author></authors><title>The Volcano Optimizer Generator: Extensibility and Efficient Search.</title><venue>ICDE</venue><pages>209-218</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GraefeM93</key><doi>10.1109/ICDE.1993.344061</doi><ee>https://doi.org/10.1109/ICDE.1993.344061</ee><url>https://dblp.org/rec/conf/icde/GraefeM93</url></info>
+<url>URL#7317317</url>
+</hit>
+<hit score="1" id="7317318">
+<info><authors><author pid="g/OliverGunther">Oliver Günther 0001</author></authors><title>Efficient Computation of Spatial Joins.</title><venue>ICDE</venue><pages>50-59</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Gunther93</key><doi>10.1109/ICDE.1993.344078</doi><ee>https://doi.org/10.1109/ICDE.1993.344078</ee><url>https://dblp.org/rec/conf/icde/Gunther93</url></info>
+<url>URL#7317318</url>
+</hit>
+<hit score="1" id="7317319">
+<info><authors><author pid="h/JiaweiHan">Jiawei Han 0001</author><author pid="39/2355">Kangsheng Zeng</author><author pid="33/4058">Tong Lu</author></authors><title>Normalization of Linear Recursions in Deductive Databases.</title><venue>ICDE</venue><pages>559-567</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HanZL93</key><doi>10.1109/ICDE.1993.344024</doi><ee>https://doi.org/10.1109/ICDE.1993.344024</ee><url>https://dblp.org/rec/conf/icde/HanZL93</url></info>
+<url>URL#7317319</url>
+</hit>
+<hit score="1" id="7317320">
+<info><authors><author pid="95/4052">Maurice A. W. Houtsma</author><author pid="a/PeterMGApers">Peter M. G. Apers</author><author pid="12/4025">Gideon L. V. Schipper</author></authors><title>Data fragmentation for parallel transitive closure strategies.</title><venue>ICDE</venue><pages>447-456</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HoutsmaAS93</key><doi>10.1109/ICDE.1993.344036</doi><ee>https://doi.org/10.1109/ICDE.1993.344036</ee><url>https://dblp.org/rec/conf/icde/HoutsmaAS93</url></info>
+<url>URL#7317320</url>
+</hit>
+<hit score="1" id="7317321">
+<info><authors><author pid="233/0688">Kien A. Hua</author><author pid="09/1328">Jeffrey X. W. Su</author><author pid="83/18">Chau M. Hua</author></authors><title>Efficient Evaluation of Traversal Recursive Queries Using Connectivity Index.</title><venue>ICDE</venue><pages>549-558</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuaS93</key><doi>10.1109/ICDE.1993.344025</doi><ee>https://doi.org/10.1109/ICDE.1993.344025</ee><url>https://dblp.org/rec/conf/icde/HuaS93</url></info>
+<url>URL#7317321</url>
+</hit>
+<hit score="1" id="7317322">
+<info><authors><author pid="47/3775">Yixiu Huang</author><author pid="w/OuriWolfson">Ouri Wolfson</author></authors><title>A Competitive Dynamic Data Replication Algorithm.</title><venue>ICDE</venue><pages>310-317</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuangW93</key><doi>10.1109/ICDE.1993.344051</doi><ee>https://doi.org/10.1109/ICDE.1993.344051</ee><url>https://dblp.org/rec/conf/icde/HuangW93</url></info>
+<url>URL#7317322</url>
+</hit>
+<hit score="1" id="7317323">
+<info><authors><author pid="j/ChristianSJensen">Christian S. Jensen</author><author pid="08/6667">Michael D. Soo</author><author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author></authors><title>Unification of Temporal Data Models.</title><venue>ICDE</venue><pages>262-271</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JensenSS93</key><doi>10.1109/ICDE.1993.344056</doi><ee>https://doi.org/10.1109/ICDE.1993.344056</ee><url>https://dblp.org/rec/conf/icde/JensenSS93</url></info>
+<url>URL#7317323</url>
+</hit>
+<hit score="1" id="7317324">
+<info><authors><author pid="76/4667">Mohan Kamath</author><author pid="r/KrithiRamamritham">Krithi Ramamritham</author></authors><title>Performance Characteristics of Epsilon Serializability with Hierarchical Inconsistency Bounds.</title><venue>ICDE</venue><pages>587-594</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KamathR93</key><doi>10.1109/ICDE.1993.344021</doi><ee>https://doi.org/10.1109/ICDE.1993.344021</ee><url>https://dblp.org/rec/conf/icde/KamathR93</url></info>
+<url>URL#7317324</url>
+</hit>
+<hit score="1" id="7317325">
+<info><authors><author pid="12/4057">Anton P. Karadimce</author><author pid="62/1192">Susan Darling Urban</author></authors><title>A Framework for Declarative Updates and Constraint Maintenance in Object-Oriented Databases.</title><venue>ICDE</venue><pages>391-398</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KaradimceU93</key><doi>10.1109/ICDE.1993.344042</doi><ee>https://doi.org/10.1109/ICDE.1993.344042</ee><url>https://dblp.org/rec/conf/icde/KaradimceU93</url></info>
+<url>URL#7317325</url>
+</hit>
+<hit score="1" id="7317326">
+<info><authors><author pid="k/AlfonsKemper">Alfons Kemper</author><author pid="k/DonaldKossmann">Donald Kossmann</author></authors><title>Adaptable Pointer Swizzling Strategies in Object Bases.</title><venue>ICDE</venue><pages>155-162</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KemperK93</key><doi>10.1109/ICDE.1993.344067</doi><ee>https://doi.org/10.1109/ICDE.1993.344067</ee><url>https://dblp.org/rec/conf/icde/KemperK93</url></info>
+<url>URL#7317326</url>
+</hit>
+<hit score="1" id="7317327">
+<info><authors><author pid="40/4517">Manolis Koubarakis</author></authors><title>Representation and Querying in Temporal Databases: the Power of Temporal Constraints.</title><venue>ICDE</venue><pages>327-334</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Koubarakis93</key><doi>10.1109/ICDE.1993.344049</doi><ee>https://doi.org/10.1109/ICDE.1993.344049</ee><url>https://dblp.org/rec/conf/icde/Koubarakis93</url></info>
+<url>URL#7317327</url>
+</hit>
+<hit score="1" id="7317328">
+<info><authors><author pid="52/3896">Christian Laasch</author><author pid="s/MarcHScholl">Marc H. Scholl</author></authors><title>Deterministic Semantics of Set-Oriented Update Sequences.</title><venue>ICDE</venue><pages>4-13</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LaaschS93</key><doi>10.1109/ICDE.1993.344083</doi><ee>https://doi.org/10.1109/ICDE.1993.344083</ee><url>https://dblp.org/rec/conf/icde/LaaschS93</url></info>
+<url>URL#7317328</url>
+</hit>
+<hit score="1" id="7317329">
+<info><authors><author pid="l/GadMLandau">Gad M. Landau</author><author pid="43/6695">Jeanette P. Schmidt</author><author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author></authors><title>Efficient Support of Historical Queries for Multiple Lines of Evolution.</title><venue>ICDE</venue><pages>319-326</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LandauST93</key><doi>10.1109/ICDE.1993.344050</doi><ee>https://doi.org/10.1109/ICDE.1993.344050</ee><url>https://dblp.org/rec/conf/icde/LandauST93</url></info>
+<url>URL#7317329</url>
+</hit>
+<hit score="1" id="7317330">
+<info><authors><author pid="l/DominiqueLaurent">Dominique Laurent 0001</author><author pid="74/4493">Viet Phan Luong</author><author pid="s/NicolasSpyratos">Nicolas Spyratos</author></authors><title>Updating Intensional Predicates in Deductive Databases.</title><venue>ICDE</venue><pages>14-21</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LaurentLS93</key><doi>10.1109/ICDE.1993.344082</doi><ee>https://doi.org/10.1109/ICDE.1993.344082</ee><url>https://dblp.org/rec/conf/icde/LaurentLS93</url></info>
+<url>URL#7317330</url>
+</hit>
+<hit score="1" id="7317331">
+<info><authors><author pid="96/5639">Chiang Lee</author><author pid="18/7039">Zue-An Chang</author></authors><title>Workload Balance and Page Access Scheduling For Parallel Joins In Shared-Nothing Systems.</title><venue>ICDE</venue><pages>411-418</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LeeC93</key><doi>10.1109/ICDE.1993.344040</doi><ee>https://doi.org/10.1109/ICDE.1993.344040</ee><url>https://dblp.org/rec/conf/icde/LeeC93</url></info>
+<url>URL#7317331</url>
+</hit>
+<hit score="1" id="7317332">
+<info><authors><author pid="46/2311">Xi Li</author><author pid="d/MargaretHDunham">Margaret H. Eich</author></authors><title>Post-crash Log Processing for Fuzzy Checkpointing Main Memory Databases.</title><venue>ICDE</venue><pages>117-124</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiE93</key><doi>10.1109/ICDE.1993.344071</doi><ee>https://doi.org/10.1109/ICDE.1993.344071</ee><url>https://dblp.org/rec/conf/icde/LiE93</url></info>
+<url>URL#7317332</url>
+</hit>
+<hit score="1" id="7317333">
+<info><authors><author pid="l/EePengLim">Ee-Peng Lim</author><author pid="s/JaideepSrivastava">Jaideep Srivastava</author><author pid="18/2126">Satya Prabhakar</author><author pid="73/4016">James Richardson</author></authors><title>Entity Identification in Database Integration.</title><venue>ICDE</venue><pages>294-301</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LimSPR93</key><doi>10.1109/ICDE.1993.344053</doi><ee>https://doi.org/10.1109/ICDE.1993.344053</ee><url>https://dblp.org/rec/conf/icde/LimSPR93</url></info>
+<url>URL#7317333</url>
+</hit>
+<hit score="1" id="7317334">
+<info><authors><author pid="06/5802">Carmelo Malta</author><author pid="m/JoseMartinez">José Martinez 0001</author></authors><title>Automating Fine Concurrency Control in Object-Oriented Databases.</title><venue>ICDE</venue><pages>253-260</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MaltaM93</key><doi>10.1109/ICDE.1993.344057</doi><ee>https://doi.org/10.1109/ICDE.1993.344057</ee><url>https://dblp.org/rec/conf/icde/MaltaM93</url></info>
+<url>URL#7317334</url>
+</hit>
+<hit score="1" id="7317335">
+<info><authors><author pid="m/VMMarkowitz">Victor M. Markowitz</author><author pid="s/ArieShoshani">Arie Shoshani</author></authors><title>Object Queries over Relational Databases: Language, Implementation, and Applications.</title><venue>ICDE</venue><pages>71-80</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MarkowitzS93</key><doi>10.1109/ICDE.1993.344076</doi><ee>https://doi.org/10.1109/ICDE.1993.344076</ee><url>https://dblp.org/rec/conf/icde/MarkowitzS93</url></info>
+<url>URL#7317335</url>
+</hit>
+<hit score="1" id="7317336">
+<info><authors><author pid="26/4987">Rajiv Mehrotra</author><author pid="73/4389">James E. Gary</author></authors><title>Feature-Based Retrieval of Similar Shapes.</title><venue>ICDE</venue><pages>108-115</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MehrotraG93</key><doi>10.1109/ICDE.1993.344072</doi><ee>https://doi.org/10.1109/ICDE.1993.344072</ee><url>https://dblp.org/rec/conf/icde/MehrotraG93</url></info>
+<url>URL#7317336</url>
+</hit>
+<hit score="1" id="7317337">
+<info><authors><author pid="90/243">Manish Mehta 0002</author><author pid="44/1059">Valery Soloviev</author><author pid="d/DJDeWitt">David J. DeWitt</author></authors><title>Batch Scheduling in Parallel Database Systems.</title><venue>ICDE</venue><pages>400-410</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MehtaSD93</key><doi>10.1109/ICDE.1993.344041</doi><ee>https://doi.org/10.1109/ICDE.1993.344041</ee><url>https://dblp.org/rec/conf/icde/MehtaSD93</url></info>
+<url>URL#7317337</url>
+</hit>
+<hit score="1" id="7317338">
+<info><authors><author pid="m/WeiyiMeng">Weiyi Meng</author><author pid="y/ClementTYu">Clement T. Yu</author><author pid="86/2627-1">Won Kim 0001</author><author pid="75/1423">Gaoming Wang</author><author pid="92/5834">Tracy Pham</author><author pid="66/6340">Son Dao</author></authors><title>Construction of a Relational Front-end for Object-Oriented Database Systems.</title><venue>ICDE</venue><pages>476-483</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MengYKWPD93</key><doi>10.1109/ICDE.1993.344032</doi><ee>https://doi.org/10.1109/ICDE.1993.344032</ee><url>https://dblp.org/rec/conf/icde/MengYKWPD93</url></info>
+<url>URL#7317338</url>
+</hit>
+<hit score="1" id="7317339">
+<info><authors><author pid="m/BMitschang">Bernhard Mitschang</author><author pid="p/HamidPirahesh">Hamid Pirahesh</author><author pid="18/3138">Peter Pistor</author><author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author><author pid="93/2580">Norbert Südkamp</author></authors><title>SQL/XNF - Processing Composite Objects as Abstractions over Relational Data.</title><venue>ICDE</venue><pages>272-282</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MitschangPPLS93</key><doi>10.1109/ICDE.1993.344055</doi><ee>https://doi.org/10.1109/ICDE.1993.344055</ee><url>https://dblp.org/rec/conf/icde/MitschangPPLS93</url></info>
+<url>URL#7317339</url>
+</hit>
+<hit score="1" id="7317340">
+<info><authors><author pid="m/GuidoMoerkotte">Guido Moerkotte</author><author pid="01/343">Andreas Zachmann</author></authors><title>Towards More Flexible Schema Management in Object Bases.</title><venue>ICDE</venue><pages>174-181</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MoerkotteZ93</key><doi>10.1109/ICDE.1993.344065</doi><ee>https://doi.org/10.1109/ICDE.1993.344065</ee><url>https://dblp.org/rec/conf/icde/MoerkotteZ93</url></info>
+<url>URL#7317340</url>
+</hit>
+<hit score="1" id="7317341">
+<info><authors><author pid="m/CMohan">C. Mohan 0001</author></authors><title>ARIES/LHS: A Concurrency Control and Recovery Method Using Write-Ahead Logging for Linear Hashing with Separators.</title><venue>ICDE</venue><pages>243-252</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Mohan93</key><doi>10.1109/ICDE.1993.344058</doi><ee>https://doi.org/10.1109/ICDE.1993.344058</ee><url>https://dblp.org/rec/conf/icde/Mohan93</url></info>
+<url>URL#7317341</url>
+</hit>
+<hit score="1" id="7317342">
+<info><authors><author pid="m/CMohan">C. Mohan 0001</author><author pid="67/4126">Kent Treiber</author><author pid="53/6002">Ron Obermarck</author></authors><title>Algorithms for the Management of Remote Backup Data Bases for Disaster Recovery.</title><venue>ICDE</venue><pages>511-518</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MohanTO93</key><doi>10.1109/ICDE.1993.344034</doi><ee>https://doi.org/10.1109/ICDE.1993.344034</ee><url>https://dblp.org/rec/conf/icde/MohanTO93</url></info>
+<url>URL#7317342</url>
+</hit>
+<hit score="1" id="7317343">
+<info><authors><author pid="22/1359">Tadeusz Morzy</author></authors><title>The Correctness of Concurrency Control for Multiversion Database Systems with Limited Number of Versions.</title><venue>ICDE</venue><pages>595-604</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Morzy93</key><doi>10.1109/ICDE.1993.344020</doi><ee>https://doi.org/10.1109/ICDE.1993.344020</ee><url>https://dblp.org/rec/conf/icde/Morzy93</url></info>
+<url>URL#7317343</url>
+</hit>
+<hit score="1" id="7317344">
+<info><authors><author pid="97/4339">Peter Muth</author><author pid="32/1506">Thomas C. Rakow</author><author pid="w/GerhardWeikum">Gerhard Weikum</author><author pid="95/1928">Peter Brössler</author><author pid="38/4340">Christof Hasse</author></authors><title>Semantic Concurrency Control in Object-Oriented Database Systems.</title><venue>ICDE</venue><pages>233-242</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MuthRWBH93</key><doi>10.1109/ICDE.1993.344059</doi><ee>https://doi.org/10.1109/ICDE.1993.344059</ee><url>https://dblp.org/rec/conf/icde/MuthRWBH93</url></info>
+<url>URL#7317344</url>
+</hit>
+<hit score="1" id="7317345">
+<info><authors><author pid="o/FrankOlken">Frank Olken</author><author pid="r/DoronRotem">Doron Rotem</author></authors><title>Sampling from Spatial Databases.</title><venue>ICDE</venue><pages>199-208</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/OlkenR93</key><doi>10.1109/ICDE.1993.344062</doi><ee>https://doi.org/10.1109/ICDE.1993.344062</ee><url>https://dblp.org/rec/conf/icde/OlkenR93</url></info>
+<url>URL#7317345</url>
+</hit>
+<hit score="1" id="7317346">
+<info><authors><author pid="p/APaepcke">Andreas Paepcke</author></authors><title>An Object-Oriented View Onto Public, Heterogeneous Text Databases.</title><venue>ICDE</venue><pages>484-493</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Paepcke93</key><doi>10.1109/ICDE.1993.344031</doi><ee>https://doi.org/10.1109/ICDE.1993.344031</ee><url>https://dblp.org/rec/conf/icde/Paepcke93</url></info>
+<url>URL#7317346</url>
+</hit>
+<hit score="1" id="7317347">
+<info><authors><author pid="80/59">Marco Richeldi</author><author pid="35/3059">Jack Tan</author></authors><title>JazzMatch: Fine-Grained Parallel Matching for Large Rule Sets.</title><venue>ICDE</venue><pages>616-623</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/RicheldiT93</key><doi>10.1109/ICDE.1993.344018</doi><ee>https://doi.org/10.1109/ICDE.1993.344018</ee><url>https://dblp.org/rec/conf/icde/RicheldiT93</url></info>
+<url>URL#7317347</url>
+</hit>
+<hit score="1" id="7317348">
+<info><authors><author pid="s/GeorgeSamaras">George Samaras</author><author pid="15/1988">Kathryn Britton</author><author pid="97/5452">Andrew Citron</author><author pid="m/CMohan">C. Mohan 0001</author></authors><title>Two-Phase Commit Optimizations and Tradeoffs in the Commercial Environment.</title><venue>ICDE</venue><pages>520-529</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SamarasBCM93</key><doi>10.1109/ICDE.1993.344028</doi><ee>https://doi.org/10.1109/ICDE.1993.344028</ee><url>https://dblp.org/rec/conf/icde/SamarasBCM93</url></info>
+<url>URL#7317348</url>
+</hit>
+<hit score="1" id="7317349">
+<info><authors><author pid="14/6443">Vijay M. Sarathy</author><author pid="s/LawrenceVSaxton">Lawrence V. Saxton</author><author pid="g/DirkVanGucht">Dirk Van Gucht</author></authors><title>Algebraic Foundation and Optimization for Object Based Query Languages.</title><venue>ICDE</venue><pages>81-90</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SarathySG93</key><doi>10.1109/ICDE.1993.344075</doi><ee>https://doi.org/10.1109/ICDE.1993.344075</ee><url>https://dblp.org/rec/conf/icde/SarathySG93</url></info>
+<url>URL#7317349</url>
+</hit>
+<hit score="1" id="7317350">
+<info><authors><author pid="s/MargoISeltzer">Margo I. Seltzer</author></authors><title>Transaction Support in a Log-Structured File System.</title><venue>ICDE</venue><pages>503-510</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Seltzer93</key><doi>10.1109/ICDE.1993.344029</doi><ee>https://doi.org/10.1109/ICDE.1993.344029</ee><url>https://dblp.org/rec/conf/icde/Seltzer93</url></info>
+<url>URL#7317350</url>
+</hit>
+<hit score="1" id="7317351">
+<info><authors><author pid="35/4896">Andrea H. Skarra</author></authors><title>SLEVE: Semantic Locking for EVEnt synchronisation.</title><venue>ICDE</venue><pages>495-502</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Sharra93</key><doi>10.1109/ICDE.1993.344030</doi><ee>https://doi.org/10.1109/ICDE.1993.344030</ee><url>https://dblp.org/rec/conf/icde/Sharra93</url></info>
+<url>URL#7317351</url>
+</hit>
+<hit score="1" id="7317352">
+<info><authors><author pid="s/ShashiShekhar">Shashi Shekhar</author><author pid="43/493">Ashim Kohli</author><author pid="70/5705">Mark Coyle</author></authors><title>Path Computation Algorithms for Advanced Traveller Information System (ATIS).</title><venue>ICDE</venue><pages>31-39</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ShekharKC93</key><doi>10.1109/ICDE.1993.344080</doi><ee>https://doi.org/10.1109/ICDE.1993.344080</ee><url>https://dblp.org/rec/conf/icde/ShekharKC93</url></info>
+<url>URL#7317352</url>
+</hit>
+<hit score="1" id="7317353">
+<info><authors><author pid="57/1382">Anoop Singhal</author></authors><title>Can OODB Technology Solve CAD Design Data Management Problems? (Panel Abstract).</title><venue>ICDE</venue><pages>458</pages><year>1993</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/icde/Singhal93</key><url>https://dblp.org/rec/conf/icde/Singhal93</url></info>
+<url>URL#7317353</url>
+</hit>
+<hit score="1" id="7317354">
+<info><authors><author pid="29/141">Philippe De Smedt</author><author pid="c/StefanoCeri">Stefano Ceri</author><author pid="47/3267">Marie-Anne Neimat</author><author pid="64/561">Ming-Chien Shan</author><author pid="52/5728">Rafi Ahmed</author></authors><title>Recursive Functions in Iris.</title><venue>ICDE</venue><pages>145-154</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SmedtCNSA93</key><doi>10.1109/ICDE.1993.344068</doi><ee>https://doi.org/10.1109/ICDE.1993.344068</ee><url>https://dblp.org/rec/conf/icde/SmedtCNSA93</url></info>
+<url>URL#7317354</url>
+</hit>
+<hit score="1" id="7317355">
+<info><authors><author pid="44/1059">Valery Soloviev</author></authors><title>A Truncating Hash Algorithm for Processing Band-Join Queries.</title><venue>ICDE</venue><pages>419-427</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Soloviev93</key><doi>10.1109/ICDE.1993.344039</doi><ee>https://doi.org/10.1109/ICDE.1993.344039</ee><url>https://dblp.org/rec/conf/icde/Soloviev93</url></info>
+<url>URL#7317355</url>
+</hit>
+<hit score="1" id="7317356">
+<info><authors><author pid="32/66">Christian Stary</author></authors><title>Model-Based Design Bases for Task-Oriented Systems.</title><venue>ICDE</venue><pages>662-669</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Stary93</key><doi>10.1109/ICDE.1993.344013</doi><ee>https://doi.org/10.1109/ICDE.1993.344013</ee><url>https://dblp.org/rec/conf/icde/Stary93</url></info>
+<url>URL#7317356</url>
+</hit>
+<hit score="1" id="7317357">
+<info><authors><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>Are We Polishing a Round Ball? (Panel Abstract).</title><venue>ICDE</venue><pages>606</pages><year>1993</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/icde/Stonebraker93</key><url>https://dblp.org/rec/conf/icde/Stonebraker93</url></info>
+<url>URL#7317357</url>
+</hit>
+<hit score="1" id="7317358">
+<info><authors><author pid="s/MichaelStonebraker">Michael Stonebraker</author><author pid="65/4721">Michael A. Olson</author></authors><title>Large Object Support in POSTGRES.</title><venue>ICDE</venue><pages>355-362</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/StonebrakerO93</key><doi>10.1109/ICDE.1993.344046</doi><ee>https://doi.org/10.1109/ICDE.1993.344046</ee><url>https://dblp.org/rec/conf/icde/StonebrakerO93</url></info>
+<url>URL#7317358</url>
+</hit>
+<hit score="1" id="7317359">
+<info><authors><author pid="87/1026">L. Suardi</author><author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author><author pid="12/2734">Witold Litwin</author></authors><title>Execution of Extended Multidatabase SQL.</title><venue>ICDE</venue><pages>641-650</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SuardiRL93</key><doi>10.1109/ICDE.1993.344015</doi><ee>https://doi.org/10.1109/ICDE.1993.344015</ee><url>https://dblp.org/rec/conf/icde/SuardiRL93</url></info>
+<url>URL#7317359</url>
+</hit>
+<hit score="1" id="7317360">
+<info><authors><author pid="98/589">Arun N. Swami</author><author pid="90/5439">Balakrishna R. Iyer</author></authors><title>A Polynomial Time Algorithm for Optimizing Join Queries.</title><venue>ICDE</venue><pages>345-354</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SwamiI93</key><doi>10.1109/ICDE.1993.344047</doi><ee>https://doi.org/10.1109/ICDE.1993.344047</ee><url>https://dblp.org/rec/conf/icde/SwamiI93</url></info>
+<url>URL#7317360</url>
+</hit>
+<hit score="1" id="7317361">
+<info><authors><author pid="99/4054">Hiroki Takakura</author><author pid="k/YahikoKambayashi">Yahiko Kambayashi</author></authors><title>Continuous Backup Systems Utilizing Flash Memory.</title><venue>ICDE</venue><pages>439-446</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TakakuraK93</key><doi>10.1109/ICDE.1993.344037</doi><ee>https://doi.org/10.1109/ICDE.1993.344037</ee><url>https://dblp.org/rec/conf/icde/TakakuraK93</url></info>
+<url>URL#7317361</url>
+</hit>
+<hit score="1" id="7317362">
+<info><authors><author pid="33/2694">Wouter B. Teeuw</author><author pid="05/684">Christian Rich</author><author pid="s/MarcHScholl">Marc H. Scholl</author><author pid="32/6205">Henk M. Blanken</author></authors><title>An Evaluation of Physical Disk I/Os for Complex Object Processing.</title><venue>ICDE</venue><pages>363-371</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TeeuwRSB93</key><doi>10.1109/ICDE.1993.344045</doi><ee>https://doi.org/10.1109/ICDE.1993.344045</ee><url>https://dblp.org/rec/conf/icde/TeeuwRSB93</url></info>
+<url>URL#7317362</url>
+</hit>
+<hit score="1" id="7317363">
+<info><authors><author pid="t/IJToroslu">Ismail H. Toroslu</author><author pid="53/6168">Ghassan Z. Qadah</author></authors><title>The Efficient Computation of Strong Partial Transitive-Closures.</title><venue>ICDE</venue><pages>530-537</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TorosluQ93</key><doi>10.1109/ICDE.1993.344027</doi><ee>https://doi.org/10.1109/ICDE.1993.344027</ee><url>https://dblp.org/rec/conf/icde/TorosluQ93</url></info>
+<url>URL#7317363</url>
+</hit>
+<hit score="1" id="7317364">
+<info><authors><author pid="57/2745">Olga De Troyer</author><author pid="25/3856">René Janssen</author></authors><title>On Modularity for Conceptual Data Models and the Consequences for Subtyping, Inheritance &amp; Overriding.</title><venue>ICDE</venue><pages>678-685</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TroyerJ93</key><doi>10.1109/ICDE.1993.344011</doi><ee>https://doi.org/10.1109/ICDE.1993.344011</ee><url>https://dblp.org/rec/conf/icde/TroyerJ93</url></info>
+<url>URL#7317364</url>
+</hit>
+<hit score="1" id="7317365">
+<info><authors><author pid="t/DennisTsichritzis">Dennis Tsichritzis</author></authors><title>Computation, Information, Communication, Imagination (Abstract).</title><venue>ICDE</venue><pages>2</pages><year>1993</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/icde/Tsichritzis93</key><url>https://dblp.org/rec/conf/icde/Tsichritzis93</url></info>
+<url>URL#7317365</url>
+</hit>
+<hit score="1" id="7317366">
+<info><authors><author pid="v/PatrickValduriez">Patrick Valduriez</author></authors><title>Parallel Database Systems: the case for shared-something.</title><venue>ICDE</venue><pages>460-465</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Valduriez93</key><doi>10.1109/ICDE.1993.344035</doi><ee>https://doi.org/10.1109/ICDE.1993.344035</ee><url>https://dblp.org/rec/conf/icde/Valduriez93</url></info>
+<url>URL#7317366</url>
+</hit>
+<hit score="1" id="7317367">
+<info><authors><author pid="w/RichardYWang">Richard Y. Wang</author><author pid="55/6654">Henry B. Kon</author><author pid="m/StuartEMadnick">Stuart E. Madnick</author></authors><title>Data Quality Requirements Analysis and Modeling.</title><venue>ICDE</venue><pages>670-677</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangKM93</key><doi>10.1109/ICDE.1993.344012</doi><ee>https://doi.org/10.1109/ICDE.1993.344012</ee><url>https://dblp.org/rec/conf/icde/WangKM93</url></info>
+<url>URL#7317367</url>
+</hit>
+<hit score="1" id="7317368">
+<info><authors><author pid="85/3566">Kun-Lung Wu</author><author pid="y/PhilipSYu">Philip S. Yu</author><author pid="c/MingSyanChen">Ming-Syan Chen</author></authors><title>Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing.</title><venue>ICDE</venue><pages>577-586</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WuYC93</key><doi>10.1109/ICDE.1993.344022</doi><ee>https://doi.org/10.1109/ICDE.1993.344022</ee><url>https://dblp.org/rec/conf/icde/WuYC93</url></info>
+<url>URL#7317368</url>
+</hit>
+<hit score="1" id="7317369">
+<info><authors><author pid="36/424">Beat Wüthrich</author></authors><title>On Updates and Inconsistency Repairing in Knowledge Bases.</title><venue>ICDE</venue><pages>608-615</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Wuthrich93</key><doi>10.1109/ICDE.1993.344019</doi><ee>https://doi.org/10.1109/ICDE.1993.344019</ee><url>https://dblp.org/rec/conf/icde/Wuthrich93</url></info>
+<url>URL#7317369</url>
+</hit>
+<hit score="1" id="7330433">
+<info><title>Proceedings of the Ninth International Conference on Data Engineering, April 19-23, 1993, Vienna, Austria</title><publisher>IEEE Computer Society</publisher><year>1993</year><type>Editorship</type><key>conf/icde/93</key><ee>https://ieeexplore.ieee.org/xpl/conhome/907/proceeding</ee><url>https://dblp.org/rec/conf/icde/93</url></info>
+<url>URL#7330433</url>
+</hit>
+</hits>
+</result>

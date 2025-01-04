@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="57599">:facetid:toc:\"db/conf/sigmod/sigmod78.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">73.31</time>
+<completions total="1" computed="1" sent="1">
+<c sc="28" dc="28" oc="28" id="46507247">:facetid:toc:db/conf/sigmod/sigmod78.bht</c>
+</completions>
+<hits total="28" computed="28" sent="28" first="0">
+<hit score="1" id="7584209">
+<info><authors><author pid="72/14">Eugene I. Lowenthal</author><author pid="13/1761">Nell B. Dale</author></authors><title>Proceedings of the 1978 ACM SIGMOD International Conference on Management of Data, Austin, Texas, USA, May 31 - June 2, 1978</title><publisher>ACM</publisher><year>1978</year><type>Editorship</type><key>conf/sigmod/78</key><doi>10.1145/509252</doi><ee>https://doi.org/10.1145/509252</ee><url>https://dblp.org/rec/conf/sigmod/78</url></info>
+<url>URL#7584209</url>
+</hit>
+<hit score="1" id="7583788">
+<info><authors><author pid="91/2156">S. Bing Yao</author><author pid="31/3367">D. DeJong</author></authors><title>Evaluation of Database Access Paths.</title><venue>SIGMOD Conference</venue><pages>66-77</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YaoD78</key><doi>10.1145/509252.509273</doi><ee>https://doi.org/10.1145/509252.509273</ee><url>https://dblp.org/rec/conf/sigmod/YaoD78</url></info>
+<url>URL#7583788</url>
+</hit>
+<hit score="1" id="7583787">
+<info><authors><author pid="05/5717">Sumiyasu Yamamoto</author><author pid="30/2512">Shinsei Tazawa</author><author pid="30/4244">Kazuhiko Ushio</author><author pid="93/2315">Hideto Ikeda</author></authors><title>Design of a Generalized Balanced Multiple-Valued File Organization Scheme of Order Two.</title><venue>SIGMOD Conference</venue><pages>47-51</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/YamamotoTUI78</key><doi>10.1145/509252.509271</doi><ee>https://doi.org/10.1145/509252.509271</ee><url>https://dblp.org/rec/conf/sigmod/YamamotoTUI78</url></info>
+<url>URL#7583787</url>
+</hit>
+<hit score="1" id="7583786">
+<info><authors><author pid="59/4650">Jerry Winkler</author></authors><title>Managing the Data Resource.</title><venue>SIGMOD Conference</venue><pages>15-16</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Winkler78</key><doi>10.1145/509252.509260</doi><ee>https://doi.org/10.1145/509252.509260</ee><url>https://dblp.org/rec/conf/sigmod/Winkler78</url></info>
+<url>URL#7583786</url>
+</hit>
+<hit score="1" id="7583784">
+<info><authors><author pid="s/StanleyYWSu">Stanley Y. W. Su</author></authors><title>Database Machines.</title><venue>SIGMOD Conference</venue><pages>157-158</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Su78</key><doi>10.1145/509252.509288</doi><ee>https://doi.org/10.1145/509252.509288</ee><url>https://dblp.org/rec/conf/sigmod/Su78</url></info>
+<url>URL#7583784</url>
+</hit>
+<hit score="1" id="7583781">
+<info><authors><author pid="80/6105">Daniel J. Rosenkrantz</author></authors><title>Dynamic Database Dumping.</title><venue>SIGMOD Conference</venue><pages>3-8</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Rosenkrantz78</key><doi>10.1145/509252.509257</doi><ee>https://doi.org/10.1145/509252.509257</ee><url>https://dblp.org/rec/conf/sigmod/Rosenkrantz78</url></info>
+<url>URL#7583781</url>
+</hit>
+<hit score="1" id="7583778">
+<info><authors><author pid="15/1857">T. William Olle</author></authors><title>The Conceptual Schema Controversy.</title><venue>SIGMOD Conference</venue><pages>88</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Olle78</key><doi>10.1145/509252.509276</doi><ee>https://doi.org/10.1145/509252.509276</ee><url>https://dblp.org/rec/conf/sigmod/Olle78</url></info>
+<url>URL#7583778</url>
+</hit>
+<hit score="1" id="7583777">
+<info><authors><author pid="98/6811">Jean-Marie Nicolas 0001</author></authors><title>First Order Logic Formalization for Functional, Multivalued and Mutual Dependencies.</title><venue>SIGMOD Conference</venue><pages>40-46</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Nicolas78</key><doi>10.1145/509252.509269</doi><ee>https://doi.org/10.1145/509252.509269</ee><url>https://dblp.org/rec/conf/sigmod/Nicolas78</url></info>
+<url>URL#7583777</url>
+</hit>
+<hit score="1" id="7583776">
+<info><authors><author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author><author pid="96/5511">Mario Schkolnick</author></authors><title>View Representation in Logical Database Design.</title><venue>SIGMOD Conference</venue><pages>144-156</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NavatheS78</key><doi>10.1145/509252.509286</doi><ee>https://doi.org/10.1145/509252.509286</ee><url>https://dblp.org/rec/conf/sigmod/NavatheS78</url></info>
+<url>URL#7583776</url>
+</hit>
+<hit score="1" id="7583775">
+<info><authors><author pid="78/540">John Nations</author><author pid="s/StanleyYWSu">Stanley Y. W. Su</author></authors><title>Some DML Instruction Sequences for Application Program Analysis and Conversion.</title><venue>SIGMOD Conference</venue><pages>120-131</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/NationsS78</key><doi>10.1145/509252.509284</doi><ee>https://doi.org/10.1145/509252.509284</ee><url>https://dblp.org/rec/conf/sigmod/NationsS78</url></info>
+<url>URL#7583775</url>
+</hit>
+<hit score="1" id="7583774">
+<info><authors><author pid="m/JohnMylopoulos">John Mylopoulos</author><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="49/144">Harry K. T. Wong</author></authors><title>A Language Facility for Designing Interactive Database-Intensive Applications (Abstract).</title><venue>SIGMOD Conference</venue><pages>17</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MylopoulosBW78</key><doi>10.1145/509252.509262</doi><ee>https://doi.org/10.1145/509252.509262</ee><url>https://dblp.org/rec/conf/sigmod/MylopoulosBW78</url></info>
+<url>URL#7583774</url>
+</hit>
+<hit score="1" id="7583773">
+<info><authors><author pid="m/HLMorgan">Howard L. Morgan</author></authors><title>Natural Language Interfaces.</title><venue>SIGMOD Conference</venue><pages>1</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Morgan78</key><doi>10.1145/509252.509254</doi><ee>https://doi.org/10.1145/509252.509254</ee><url>https://dblp.org/rec/conf/sigmod/Morgan78</url></info>
+<url>URL#7583773</url>
+</hit>
+<hit score="1" id="7583772">
+<info><authors><author pid="m/DAMenasce">Daniel A. Menascé</author><author pid="62/6214">Gerald J. Popek</author><author pid="m/RichardRMuntz">Richard R. Muntz</author></authors><title>A Locking Protocol for Resource Coordination in Distributed Databases (Abstract).</title><venue>SIGMOD Conference</venue><pages>2</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MenascePM78</key><doi>10.1145/509252.509256</doi><ee>https://doi.org/10.1145/509252.509256</ee><url>https://dblp.org/rec/conf/sigmod/MenascePM78</url></info>
+<url>URL#7583772</url>
+</hit>
+<hit score="1" id="7583769">
+<info><authors><author pid="m/STMarch">Salvatore T. March</author><author pid="s/DennisGSeverance">Dennis G. Severance</author></authors><title>A Mathematical Modeling Approach to the Automatic Selection of Database Designs.</title><venue>SIGMOD Conference</venue><pages>52-65</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MarchS78</key><doi>10.1145/509252.509272</doi><ee>https://doi.org/10.1145/509252.509272</ee><url>https://dblp.org/rec/conf/sigmod/MarchS78</url></info>
+<url>URL#7583769</url>
+</hit>
+<hit score="1" id="7583768">
+<info><authors><author pid="39/4304">Judith G. Malkin</author><author pid="11/2281">Bruce F. Anderson</author></authors><title>A Case Management System: Three Views of an Application.</title><venue>SIGMOD Conference</venue><pages>89-100</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/MalkinA78</key><doi>10.1145/509252.509278</doi><ee>https://doi.org/10.1145/509252.509278</ee><url>https://dblp.org/rec/conf/sigmod/MalkinA78</url></info>
+<url>URL#7583768</url>
+</hit>
+<hit score="1" id="7583766">
+<info><authors><author pid="00/4611">Y. Edmund Lien</author><author pid="74/1361">Peter J. Weinberger</author></authors><title>Consistency, Concurrency and Crash Recovery.</title><venue>SIGMOD Conference</venue><pages>9-14</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LienW78</key><doi>10.1145/509252.509258</doi><ee>https://doi.org/10.1145/509252.509258</ee><url>https://dblp.org/rec/conf/sigmod/LienW78</url></info>
+<url>URL#7583766</url>
+</hit>
+<hit score="1" id="7583765">
+<info><authors><author pid="66/1845">R. M. Lee</author><author pid="71/2056">Rob Gerritsen</author></authors><title>Extended Semantics for Generalization Hierarchies.</title><venue>SIGMOD Conference</venue><pages>18-25</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/LeeG78</key><doi>10.1145/509252.509263</doi><ee>https://doi.org/10.1145/509252.509263</ee><url>https://dblp.org/rec/conf/sigmod/LeeG78</url></info>
+<url>URL#7583765</url>
+</hit>
+<hit score="1" id="7583761">
+<info><authors><author pid="46/4470">Michael Hammer</author><author pid="52/6810">Sunil K. Sarin</author></authors><title>Efficient Monitoring of Database Assertions (Abstract).</title><venue>SIGMOD Conference</venue><pages>159</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HammerS78</key><doi>10.1145/509252.509290</doi><ee>https://doi.org/10.1145/509252.509290</ee><url>https://dblp.org/rec/conf/sigmod/HammerS78</url></info>
+<url>URL#7583761</url>
+</hit>
+<hit score="1" id="7583760">
+<info><authors><author pid="46/4470">Michael Hammer</author><author pid="m/DennisMcLeod">Dennis McLeod</author></authors><title>The Semantic Data Model: A Modelling Mechanism for Data Base Applications.</title><venue>SIGMOD Conference</venue><pages>26-36</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/HammerM78</key><doi>10.1145/509252.509264</doi><ee>https://doi.org/10.1145/509252.509264</ee><url>https://dblp.org/rec/conf/sigmod/HammerM78</url></info>
+<url>URL#7583760</url>
+</hit>
+<hit score="1" id="7583759">
+<info><authors><author pid="45/1479">Nancy D. Griffeth</author></authors><title>Nonprocedural Query Processing for Databases with Access Paths.</title><venue>SIGMOD Conference</venue><pages>160-168</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Griffeth78</key><doi>10.1145/509252.509291</doi><ee>https://doi.org/10.1145/509252.509291</ee><url>https://dblp.org/rec/conf/sigmod/Griffeth78</url></info>
+<url>URL#7583759</url>
+</hit>
+<hit score="1" id="7583756">
+<info><authors><author pid="06/6011">Donald E. Swartwout</author><author pid="61/6855">James P. Fry</author></authors><title>Towards the Support of Integrated Views of Multiple Databases: An Aggregate Schema Facility.</title><venue>SIGMOD Conference</venue><pages>132-143</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/FryS78</key><doi>10.1145/509252.509285</doi><ee>https://doi.org/10.1145/509252.509285</ee><url>https://dblp.org/rec/conf/sigmod/FryS78</url></info>
+<url>URL#7583756</url>
+</hit>
+<hit score="1" id="7583754">
+<info><authors><author pid="38/2827">Robert S. Epstein</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author><author pid="95/2864">Eugene Wong 0001</author></authors><title>Distributed Query Processing in a Relational Data Base System.</title><venue>SIGMOD Conference</venue><pages>169-180</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/EpsteinSW78</key><doi>10.1145/509252.509292</doi><ee>https://doi.org/10.1145/509252.509292</ee><url>https://dblp.org/rec/conf/sigmod/EpsteinSW78</url></info>
+<url>URL#7583754</url>
+</hit>
+<hit score="1" id="7583753">
+<info><authors><author pid="98/280">J. P. DeBlasis</author><author pid="42/7044">T. H. Johnson</author></authors><title>Review of Data Base Administrators Functions from a Survey.</title><venue>SIGMOD Conference</venue><pages>101-109</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/DeBlasisJ78</key><doi>10.1145/509252.509279</doi><ee>https://doi.org/10.1145/509252.509279</ee><url>https://dblp.org/rec/conf/sigmod/DeBlasisJ78</url></info>
+<url>URL#7583753</url>
+</hit>
+<hit score="1" id="7583751">
+<info><authors><author pid="34/7031">Thomas J. Cook</author></authors><title>A Dynamic Address Computation Mechanism for Use in Database Management.</title><venue>SIGMOD Conference</venue><pages>78-87</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Cook78</key><doi>10.1145/509252.509274</doi><ee>https://doi.org/10.1145/509252.509274</ee><url>https://dblp.org/rec/conf/sigmod/Cook78</url></info>
+<url>URL#7583751</url>
+</hit>
+<hit score="1" id="7583750">
+<info><authors><author pid="31/2131">Jon D. Clark</author><author pid="71/1833">Jeffrey A. Hoffer</author></authors><title>A Procedure for the Determination of Attribute Access Probabilities.</title><venue>SIGMOD Conference</venue><pages>110-117</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/ClarkH78</key><doi>10.1145/509252.509280</doi><ee>https://doi.org/10.1145/509252.509280</ee><url>https://dblp.org/rec/conf/sigmod/ClarkH78</url></info>
+<url>URL#7583750</url>
+</hit>
+<hit score="1" id="7583747">
+<info><authors><author pid="38/695">Brett Berlin</author></authors><title>DBMS Selection and Evaluation: Perspectives and Practical Issues.</title><venue>SIGMOD Conference</venue><pages>37-38</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Berlin78</key><doi>10.1145/509252.509266</doi><ee>https://doi.org/10.1145/509252.509266</ee><url>https://dblp.org/rec/conf/sigmod/Berlin78</url></info>
+<url>URL#7583747</url>
+</hit>
+<hit score="1" id="7583746">
+<info><authors><author pid="14/4166">John L. Berg</author></authors><title>The Practitioner&apos;s Viewpoint.</title><venue>SIGMOD Conference</venue><pages>118</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/Berg78</key><doi>10.1145/509252.509282</doi><ee>https://doi.org/10.1145/509252.509282</ee><url>https://dblp.org/rec/conf/sigmod/Berg78</url></info>
+<url>URL#7583746</url>
+</hit>
+<hit score="1" id="7583744">
+<info><authors><author pid="a/AVAho">Alfred V. Aho</author><author pid="26/5086">Yehoshua Sagiv</author><author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author></authors><title>Efficient Optimization of a Class of Relational Expressions (Abstract).</title><venue>SIGMOD Conference</venue><pages>39</pages><year>1978</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigmod/AhoSU78</key><doi>10.1145/509252.509268</doi><ee>https://doi.org/10.1145/509252.509268</ee><url>https://dblp.org/rec/conf/sigmod/AhoSU78</url></info>
+<url>URL#7583744</url>
+</hit>
+</hits>
+</result>
